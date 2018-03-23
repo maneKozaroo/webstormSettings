@@ -1,0 +1,354 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/src/mba/mba-stat/src/containers/NavBar.js" timestamp="1517290733906">
+        <mark key="[" line="69" column="27" />
+        <mark key="]" line="69" column="54" />
+        <mark key="." line="69" column="54" />
+        <mark key="^" line="69" column="54" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mba-admin/lib/actions/konnectAPIs/Rooms.js" timestamp="1517196904516">
+        <mark key="[" line="258" column="14" />
+        <mark key="]" line="258" column="17" />
+        <mark key="." line="258" column="17" />
+        <mark key="^" line="258" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mba-admin/lib/stores/apiResults/RoomDetail.js" timestamp="1517199594338">
+        <mark key="[" line="56" column="56" />
+        <mark key="]" line="56" column="63" />
+        <mark key="." line="56" column="63" />
+        <mark key="^" line="56" column="63" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mba-stat/src/styles/sideBar.js" timestamp="1517293456793">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/test/e2e/specs/test.js" timestamp="1517359208060">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" timestamp="1517361986661">
+        <mark key="'" line="81" column="21" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/.eslintrc.js" timestamp="1517356994736">
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="36" column="22" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/App.vue" timestamp="1517358066180">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/react-web-boilerplate/src/containers/App/App.test.js" timestamp="1517298142335">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/router/index.js" timestamp="1517358184843">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/main.js" timestamp="1517360714448">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1517358019989">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1517197585757">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/build/utils.js" timestamp="1517362131167">
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="36" />
+        <mark key="^" line="57" column="36" />
+        <mark key="." line="57" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mba-stat/src/containers/User/UserName.js" timestamp="1517290241321">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mba-stat/src/containers/User/UserEmail.js" timestamp="1517290234524">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/components/Home.vue" timestamp="1517357246008">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/test/unit/specs/Home.spec.js" timestamp="1517359178788">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mba-operator/lib/components/common/papq/PAPQ.js" timestamp="1516765635481">
+        <mark key="[" line="118" column="10" />
+        <mark key="]" line="118" column="13" />
+        <mark key="^" line="118" column="13" />
+        <mark key="." line="118" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mba-stat/src/styles/navBar.js" timestamp="1517294227172">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+        <mark key="^" line="35" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/i18n/index.js" timestamp="1517361805445">
+        <mark key="'" line="23" column="18" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mba-stat/src/containers/User/UserPermission.js" timestamp="1517290293822">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/react-web-boilerplate/.gitignore" timestamp="1517297270355">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mba-stat/src/containers/User/User.js" timestamp="1517290224599">
+        <mark key="[" line="106" column="11" />
+        <mark key="]" line="108" column="25" />
+        <mark key="." line="108" column="25" />
+        <mark key="^" line="108" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/react-web-boilerplate/package.json" timestamp="1517297331672">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/src/react-web-boilerplate/src/containers/App/index.js" timestamp="1517297831580">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="234" column="0" filename="$USER_HOME$/src/mba/mba-admin/lib/components/admin/manage/rooms/Show.js" />
+      <jump line="239" column="0" filename="$USER_HOME$/src/mba/mba-admin/lib/components/admin/manage/rooms/Show.js" />
+      <jump line="112" column="40" filename="$USER_HOME$/src/mba/mba-admin/lib/components/admin/manage/rooms/Show.js" />
+      <jump line="37" column="33" filename="$USER_HOME$/src/mba/mba-admin/dist/assets/lang/admin/ja.js" />
+      <jump line="525" column="60" filename="$USER_HOME$/src/mba/mba-admin/dist/assets/lang/admin/ja.js" />
+      <jump line="629" column="68" filename="$USER_HOME$/src/mba/mba-admin/dist/assets/lang/admin/ja.js" />
+      <jump line="1158" column="33" filename="$USER_HOME$/src/mba/mba-admin/dist/assets/lang/admin/ja.js" />
+      <jump line="1159" column="33" filename="$USER_HOME$/src/mba/mba-admin/dist/assets/lang/admin/ja.js" />
+      <jump line="1166" column="34" filename="$USER_HOME$/src/mba/mba-admin/dist/assets/lang/admin/ja.js" />
+      <jump line="1167" column="36" filename="$USER_HOME$/src/mba/mba-admin/dist/assets/lang/admin/ja.js" />
+      <jump line="1650" column="37" filename="$USER_HOME$/src/mba/mba-admin/dist/assets/lang/admin/ja.js" />
+      <jump line="138" column="26" filename="$USER_HOME$/src/mba/mba-admin/lib/components/admin/manage/rooms/Show.js" />
+      <jump line="669" column="0" filename="$USER_HOME$/src/mba/mba-admin/lib/components/admin/manage/rooms/Show.js" />
+      <jump line="136" column="6" filename="$USER_HOME$/src/mba/mba-admin/lib/components/admin/manage/rooms/Show.js" />
+      <jump line="264" column="13" filename="$USER_HOME$/src/mba/mba-admin/lib/components/admin/manage/rooms/Show.js" />
+      <jump line="17" column="43" filename="$USER_HOME$/src/mba/mba-admin/lib/konnect/Engine.js" />
+      <jump line="187" column="32" filename="$USER_HOME$/src/mba/mba-admin/lib/utils/Utils.js" />
+      <jump line="268" column="16" filename="$USER_HOME$/src/mba/mba-admin/lib/utils/Utils.js" />
+      <jump line="447" column="32" filename="$USER_HOME$/src/mba/mba-admin/lib/utils/Utils.js" />
+      <jump line="4106" column="48" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="4189" column="25" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="4270" column="23" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="4466" column="21" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="4481" column="53" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="4886" column="15" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="4887" column="25" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="4890" column="22" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="6984" column="18" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="4188" column="15" filename="$USER_HOME$/src/mba/mba-admin/node_modules/konnect-sdk/lib/konnect.js" />
+      <jump line="107" column="13" filename="$USER_HOME$/src/mba/mba-stat/src/containers/User/User.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/src/mba/mba-stat/src/styles/navBar.js" />
+      <jump line="21" column="27" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="22" column="35" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="23" column="21" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="24" column="21" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="25" column="39" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="26" column="25" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="27" column="29" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="28" column="23" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="29" column="14" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="30" column="37" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="31" column="28" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="32" column="19" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="33" column="16" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="34" column="15" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="35" column="34" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="36" column="22" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="37" column="27" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="38" column="29" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="39" column="27" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="40" column="31" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="41" column="30" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="42" column="31" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="43" column="29" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="44" column="16" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="45" column="36" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="46" column="20" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="47" column="39" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="48" column="28" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="49" column="30" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="50" column="32" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="52" column="14" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="53" column="23" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="54" column="20" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="55" column="33" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="56" column="29" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="57" column="25" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="58" column="31" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="60" column="22" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="61" column="14" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="62" column="13" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="63" column="14" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="64" column="19" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="65" column="22" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="66" column="30" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="68" column="21" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="69" column="20" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="70" column="19" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="71" column="24" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="72" column="15" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="73" column="16" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="74" column="12" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="75" column="43" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="76" column="12" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="77" column="15" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="78" column="19" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="79" column="19" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="80" column="25" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="82" column="16" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="83" column="31" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="84" column="31" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="85" column="22" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="16" column="12" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="17" column="19" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="20" column="21" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="51" column="22" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="67" column="18" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="86" column="5" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="81" column="21" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
+      <jump line="19" column="18" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/i18n/index.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>json</text>
+      </register>
+      <register name="-" type="4">
+        <text>json</text>
+      </register>
+      <register name="/" type="4">
+        <text>uws</text>
+      </register>
+      <register name="0" type="4">
+        <text>common_label_publicRoom_pqpa_too_long</text>
+      </register>
+      <register name="p" type="4">
+        <text />
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJ2dWUtaTE4bi1sb2FkZXIiOiAiMS4wLjAiLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdyZWV0aW5nOiAnR2xvYmFsIOOBk+OCk+OBq+OBoeOBrycsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdyZWV0aW5nOiAnR2xvYmFsIEhlbGxvJywK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbG9jYWwKICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB7CiAgICBlbjogewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PC9pcThuPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>uws</last-search>
+      <last-offset />
+      <last-pattern>uws</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>errorCode</entry>
+        <entry>109</entry>
+        <entry>length</entry>
+        <entry>error</entry>
+        <entry>common_label_publicRoom_pqpa_answers</entry>
+        <entry>snack</entry>
+        <entry>i18n</entry>
+        <entry>PQPA</entry>
+        <entry>pqpa</entry>
+        <entry>主</entry>
+        <entry>isReadable</entry>
+        <entry>read</entry>
+        <entry>Read</entry>
+        <entry>isRead</entry>
+        <entry>console</entry>
+        <entry>\^</entry>
+        <entry>spawn</entry>
+        <entry>uglif</entry>
+        <entry>bundle</entry>
+        <entry>uws</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
