@@ -94,7 +94,7 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517358019989">
+      <file name="/Dummy.txt" timestamp="1521788203527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1517197585757">
@@ -158,11 +158,11 @@
         <mark key="." line="35" column="25" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/index.js" timestamp="1521784303791">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/index.js" timestamp="1521788241037">
         <mark key="'" line="64" column="44" />
-        <mark key="[" line="91" column="23" />
-        <mark key="]" line="91" column="17" />
-        <mark key="." line="91" column="17" />
+        <mark key="[" line="91" column="20" />
+        <mark key="]" line="91" column="20" />
+        <mark key="." line="91" column="20" />
         <mark key="^" line="91" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/i18n/index.js" timestamp="1517361805445">
@@ -312,11 +312,11 @@
       <jump line="18" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/List/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>...args</text>
       </register>
       <register name="-" type="4">
-        <text>requestConnectionUpdate</text>
+        <text>...args</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
@@ -328,31 +328,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHthcmdzfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlZGl0Q29ubmVjdGlvbiA9ICgpID0gKC4uLmFyZ3MpID0+IHsKICAgIGNvbnNvbGUubG9nKHthcmdzfSkKICAgIHRoaXMudG9nZ2xlRm9ybSgpCiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlZGl0Q29ubmVjdGlvbiA9ICgpID0gKC4uLmFyZ3MpID0+IHsKICAgIGNvbnNvbGUubG9nKHthcmdzfSkKICAgIHRoaXMudG9nZ2xlRm9ybSgpCiAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXF1ZXN0Q29ubmVjdGlvblVwZGF0ZSA9ICgpID0+IHt9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICByZXF1ZXN0Q29ubmVjdGlvbkRlbGV0aW9uLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9JY29uQnV0dG9uPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEljb25CdXR0b24gdmFyaWFudD0icmFpc2VkIj4KICAgICAgICAgICAgICA8SWNvbiBjb2xvcj0iYWN0aW9uIj5kZWxldGU8L0ljb24+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICByZXF1ZXN0Q29ubmVjdGlvblVwZGF0ZSA9ICgpID0+IHt9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXF1ZXN0Q29ubmVjdGlvbkRlbGV0aW9uLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9JY29uQnV0dG9uPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEljb25CdXR0b24gdmFyaWFudD0icmFpc2VkIj4KICAgICAgICAgICAgICA8SWNvbiBjb2xvcj0iYWN0aW9uIj5kZWxldGU8L0ljb24+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
