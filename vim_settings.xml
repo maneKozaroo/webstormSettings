@@ -76,6 +76,12 @@
         <mark key="." line="30" column="74" />
         <mark key="^" line="30" column="74" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/connections.js" timestamp="1521787378136">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+      </file>
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/main.js" timestamp="1517360714448">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="7" />
@@ -307,7 +313,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBlZGl0Q29ubmVjdGlvbiA9ICgpID0gKC4uLmFyZ3MpID0+IHsKICAgIGNvbnNvbGUubG9nKHthcmdzfSkKICAgIHRoaXMudG9nZ2xlRm9ybSgpCiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>requestConnectionUpdate</text>
@@ -322,31 +328,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlZGl0Q29ubmVjdGlvbiA9ICgpID0gKC4uLmFyZ3MpID0+IHsKICAgIGNvbnNvbGUubG9nKHthcmdzfSkKICAgIHRoaXMudG9nZ2xlRm9ybSgpCiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlZGl0Q29ubmVjdGlvbiA9ICgpID0gKC4uLmFyZ3MpID0+IHsKICAgIGNvbnNvbGUubG9nKHthcmdzfSkKICAgIHRoaXMudG9nZ2xlRm9ybSgpCiAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXF1ZXN0Q29ubmVjdGlvblVwZGF0ZSA9ICgpID0+IHt9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZXF1ZXN0Q29ubmVjdGlvbkRlbGV0aW9uLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9JY29uQnV0dG9uPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEljb25CdXR0b24gdmFyaWFudD0icmFpc2VkIj4KICAgICAgICAgICAgICA8SWNvbiBjb2xvcj0iYWN0aW9uIj5kZWxldGU8L0ljb24+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICByZXF1ZXN0Q29ubmVjdGlvblVwZGF0ZSA9ICgpID0+IHt9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICByZXF1ZXN0Q29ubmVjdGlvbkRlbGV0aW9uLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9JY29uQnV0dG9uPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEljb25CdXR0b24gdmFyaWFudD0icmFpc2VkIj4KICAgICAgICAgICAgICA8SWNvbiBjb2xvcj0iYWN0aW9uIj5kZWxldGU8L0ljb24+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXF1ZXN0Q29ubmVjdGlvblVwZGF0ZSA9IGV2ZW50ID0+IHsKICAgIGNvbnNvbGUubG9nKGV2ZW50LmN1cnJlbnRUYXJnZXQpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
     </registers>
     <search>
