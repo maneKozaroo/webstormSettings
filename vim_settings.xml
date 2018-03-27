@@ -76,11 +76,11 @@
         <mark key="^" line="36" column="22" />
         <mark key="." line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180322031103-create-credentials.js" timestamp="1522108257658">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180322031103-create-credentials.js" timestamp="1522110322619">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/App.vue" timestamp="1517358066180">
         <mark key="[" line="2" column="12" />
@@ -88,11 +88,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/Credential.js" timestamp="1522107989446">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="72" />
-        <mark key="." line="12" column="72" />
-        <mark key="^" line="12" column="72" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/Credential.js" timestamp="1522110182585">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/src/react-web-boilerplate/src/containers/App/App.test.js" timestamp="1517298142335">
         <mark key="[" line="9" column="35" />
@@ -147,13 +147,13 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/Connection.js" timestamp="1522107382876">
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/Connection.js" timestamp="1522110074133">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522034705882">
+      <file name="/Dummy.txt" timestamp="1522109950062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1517197585757">
@@ -287,17 +287,14 @@
         <mark key="]" line="63" column="5" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/connections/index.js" timestamp="1522107499270">
-        <mark key="'" line="22" column="19" />
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="40" column="46" />
-        <mark key="^" line="46" column="23" />
-        <mark key="." line="40" column="46" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/connections/index.js" timestamp="1522110844313">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="35" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
-      <jump line="23" column="21" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
       <jump line="24" column="21" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
       <jump line="25" column="39" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
       <jump line="26" column="25" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
@@ -396,16 +393,18 @@
       <jump line="47" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="15" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="39" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="6" column="56" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/connections/index.js" />
+      <jump line="29" column="39" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/connections/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWZlcmVuY2VzOiAnY29ubmVjdGlvbnMnLAogICAgICAgIHJlZmVyZW5jZXNLZXk6ICdpZCcsCg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGU6IERhdGFiYXNlLmNvbm5lY3Rpb24uaGFzT25lKERhdGFiYXNlLmNyZWRlbnRpYWwpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>referenceKey</text>
+        <text>find</text>
       </register>
       <register name="/" type="4">
-        <text>sequ</text>
+        <text>creden</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhc3NvY2lhdGluZycpCg==</text>
@@ -414,43 +413,42 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWZlcmVuY2VzOiAnY29ubmVjdGlvbnMnLAogICAgICAgIHJlZmVyZW5jZXNLZXk6ICdpZCcsCg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGU6IERhdGFiYXNlLmNvbm5lY3Rpb24uaGFzT25lKERhdGFiYXNlLmNyZWRlbnRpYWwpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICBhd2FpdCBjb25uZWN0aW9uLnNhdmUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVmZXJlbmNlczogJ2Nvbm5lY3Rpb24nLAogICAgICByZWZlcmVuY2VzS2V5OiAnaWQnLAo=</text>
+        <text encoding="base64">ICBhd2FpdCBjb25uZWN0aW9uLnNldChib2R5KQogIGF3YWl0IGNvbm5lY3Rpb24uY3JlZGVudGlhbC5zZXQoYm9keS5jcmVkZW50aWFsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHttb2RlbHN9KQo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGU6IERhdGFiYXNlLkNyZWRlbnRpYWwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS1jcmVkZW50aWFscy0tLS0tJywgc2VxdWVsaXplLm1vZGVscykK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGU6IERhdGFiYXNlLmNvbm5lY3Rpb24uaGFzT25lKERhdGFiYXNlLmNyZWRlbnRpYWwpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb25zLmhhc09uZShtb2RlbHMuY3JlZGVudGlhbHMpCg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGU6IERhdGFiYXNlLmNvbm5lY3Rpb24uaGFzT25lKERhdGFiYXNlLmNyZWRlbnRpYWwpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3JlZGVudGlhbElkOiB7CiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGU6IERhdGFiYXNlLmNvbm5lY3Rpb24uaGFzT25lKERhdGFiYXNlLmNyZWRlbnRpYWwpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiBEYXRhVHlwZXMuSU5URUdFUiwKICAgICAgICByZWZlcmVuY2VzOiAnY29ubmVjdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd051bGw6IGZhbHNlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS1jb25uZWN0aW9ucy0tLS0tJywgc2VxdWVsaXplLm1vZGVscykK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>sequ</last-search>
+      <last-search>creden</last-search>
       <last-offset />
-      <last-pattern>sequ</last-pattern>
+      <last-pattern>creden</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PQPA</entry>
         <entry>pqpa</entry>
         <entry>主</entry>
         <entry>isReadable</entry>
@@ -470,6 +468,7 @@
         <entry>selection</entry>
         <entry encoding="base64">XDxDcmVkZW50aWFsc1w+</entry>
         <entry>sequ</entry>
+        <entry>creden</entry>
       </history-search>
       <history-cmd />
       <history-expr />
