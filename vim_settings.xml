@@ -33,18 +33,17 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/index.js" timestamp="1522127068783">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="65" column="54" />
-        <mark key="." line="65" column="54" />
-        <mark key="^" line="65" column="54" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/index.js" timestamp="1522193304113">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/api/service/index.js" timestamp="1522190422981">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/api/service/index.js" timestamp="1522197682782">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/Credentials.js" timestamp="1522106772804">
         <mark key="[" line="21" column="20" />
@@ -65,12 +64,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/package.json" timestamp="1522127548661">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/package.json" timestamp="1522197783133">
         <mark key="'" line="39" column="5" />
-        <mark key="[" line="49" column="53" />
-        <mark key="]" line="49" column="53" />
-        <mark key="." line="49" column="53" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
         <mark key="^" line="49" column="45" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/connections/constants.js" timestamp="1522042974743">
         <mark key="'" line="0" column="0" />
@@ -109,11 +108,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1522190380994">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="28" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1522197760418">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/build/utils.js" timestamp="1517362131167">
         <mark key="[" line="57" column="36" />
@@ -140,11 +139,12 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/constants.js" timestamp="1522189090462">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/constants.js" timestamp="1522195408127">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/src/mba/mba-operator/lib/components/common/papq/PAPQ.js" timestamp="1516765635481">
         <mark key="[" line="118" column="10" />
@@ -170,11 +170,12 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" timestamp="1522189984729">
-        <mark key="[" line="88" column="43" />
-        <mark key="]" line="88" column="50" />
-        <mark key="." line="88" column="50" />
-        <mark key="^" line="88" column="50" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" timestamp="1522196858620">
+        <mark key="'" line="144" column="22" />
+        <mark key="[" line="107" column="44" />
+        <mark key="]" line="107" column="50" />
+        <mark key="." line="107" column="50" />
+        <mark key="^" line="107" column="50" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/services.js" timestamp="1522127132413">
         <mark key="[" line="12" column="9" />
@@ -182,18 +183,17 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1522134355554">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="16" column="46" />
-        <mark key="^" line="16" column="46" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1522196346744">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1522190089665">
-        <mark key="'" line="89" column="2" />
-        <mark key="[" line="82" column="22" />
-        <mark key="]" line="85" column="15" />
-        <mark key="." line="85" column="15" />
-        <mark key="^" line="85" column="15" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1522195491241">
+        <mark key="'" line="95" column="2" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/src/mba/mba-stat/src/containers/NavBar.js" timestamp="1517290733906">
         <mark key="[" line="69" column="27" />
@@ -207,12 +207,12 @@
         <mark key="." line="56" column="63" />
         <mark key="^" line="56" column="63" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/List/index.js" timestamp="1522133657913">
-        <mark key="'" line="29" column="44" />
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="13" column="30" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/List/index.js" timestamp="1522196569872">
+        <mark key="'" line="37" column="44" />
+        <mark key="[" line="62" column="35" />
+        <mark key="]" line="63" column="50" />
+        <mark key="." line="63" column="50" />
+        <mark key="^" line="63" column="50" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/index.js" timestamp="1522017310237">
         <mark key="[" line="27" column="23" />
@@ -263,12 +263,12 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/Form/index.js" timestamp="1522132261681">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/Form/index.js" timestamp="1522192790519">
         <mark key="'" line="1" column="32" />
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="60" />
+        <mark key="^" line="8" column="60" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/seeders/20180315232915-Services.js" timestamp="1522127446612">
         <mark key="[" line="23" column="31" />
@@ -299,12 +299,11 @@
         <mark key="." line="46" column="36" />
         <mark key="^" line="46" column="36" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1522190470418">
-        <mark key="'" line="40" column="53" />
-        <mark key="[" line="17" column="63" />
-        <mark key="]" line="17" column="62" />
-        <mark key="." line="17" column="62" />
-        <mark key="^" line="17" column="62" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1522197615127">
+        <mark key="[" line="46" column="79" />
+        <mark key="]" line="46" column="85" />
+        <mark key="." line="46" column="85" />
+        <mark key="^" line="46" column="85" />
       </file>
       <file name="$USER_HOME$/src/mba/mba-stat/src/containers/User/UserName.js" timestamp="1517290241321">
         <mark key="[" line="4" column="7" />
@@ -384,9 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="16" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
-      <jump line="74" column="12" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
-      <jump line="75" column="43" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
       <jump line="76" column="12" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
       <jump line="77" column="15" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
       <jump line="78" column="19" filename="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" />
@@ -451,7 +447,6 @@
       <jump line="10" column="2" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/List/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/constants.js" />
       <jump line="21" column="2" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" />
-      <jump line="48" column="16" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
       <jump line="57" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
       <jump line="10" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
       <jump line="15" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
@@ -484,16 +479,20 @@
       <jump line="100" column="63" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
       <jump line="86" column="12" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
       <jump line="40" column="53" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
+      <jump line="56" column="2" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="120" column="26" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="140" column="22" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="48" column="26" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'CREATE Service'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'CREATE Service'</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
-        <text>creden</text>
+        <text encoding="base64">XDx0b2dnbGVGb3JtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9InJhaXNlZCIgb25DbGljaz17dGhpcy50b2dnbGVGb3JtfT4KICAgICAgICAgIENhbmNlbAogICAgICAgIDwvQnV0dG9uPgo=</text>
@@ -502,43 +501,42 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNvbnNvbGUubG9nKCdjcmVhdGluZycpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMudG9nZ2xlRm9ybSgpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAibGludC1zdGFnZWQiOiB7CiAgICAiKiovKi57anMsanNvbn0iOiBbCiAgICAgICJwcmV0dGllciAtLXdyaXRlIiwKICAgICAgImdpdCBhZGQiCiAgICBd</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMudG9nZ2xlRm9ybSgpCg==</text>
+        <text encoding="base64">ICAgICJwcmVjb21taXQiOiAibGludC1zdGFnZWQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsZWFyKCkgewogICAgICByZXR1cm4gewogICAgICAgIHR5cGU6IGNvbnN0YW50cy5DTEVBUl9GT1JNLAogICAgICB9CiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICJwcmVjb21taXQiOiAibGludC1zdGFnZWQiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDTEVBUl9GT1JNOiAnYXBwL3NlcnZpY2VzL0NMRUFSX0ZPUk0nLAo=</text>
+        <text encoding="base64">ICBjdHguYm9keSA9ICdERUxFVEUgU2VydmljZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaWRzID0gcGF5bG9hZC5tYXAoc2VydmljZSA9PiBzZXJ2aWNlLmdldCgnaWQnKSkudG9KUygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVxdWVzdHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIDxCdXR0b24gdmFyaWFudD0icmFpc2VkIiBvbkNsaWNrPXt0aGlzLnRvZ2dsZUZvcm19PgogICAgICAgIEFkZCBTZXJ2aWNlCiAgICAgIDwvQnV0dG9uPgogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>creden</last-search>
+      <last-search encoding="base64">XDx0b2dnbGVGb3JtXD4=</last-search>
       <last-offset />
-      <last-pattern>creden</last-pattern>
+      <last-pattern encoding="base64">XDx0b2dnbGVGb3JtXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pqpa</entry>
         <entry>主</entry>
         <entry>isReadable</entry>
         <entry>read</entry>
@@ -558,6 +556,7 @@
         <entry encoding="base64">XDxDcmVkZW50aWFsc1w+</entry>
         <entry>sequ</entry>
         <entry>creden</entry>
+        <entry encoding="base64">XDx0b2dnbGVGb3JtXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
