@@ -115,12 +115,12 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/SideBar/index.js" timestamp="1522303496090">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="32" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/SideBar/index.js" timestamp="1522362386439">
+        <mark key="'" line="25" column="41" />
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/build/utils.js" timestamp="1517362131167">
         <mark key="[" line="57" column="36" />
@@ -512,8 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="49" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/rootSaga.js" />
-      <jump line="19" column="15" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
       <jump line="26" column="44" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
       <jump line="44" column="41" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
       <jump line="6" column="3" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/Form/index.js" />
@@ -612,16 +610,18 @@
       <jump line="35" column="10" filename="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/index.js" />
       <jump line="28" column="29" filename="$USER_HOME$/src/mba/mbcsl-admin/src/router/main.js" />
       <jump line="38" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Standard/index.js" />
+      <jump line="2" column="12" filename="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/SideBar/index.js" />
+      <jump line="25" column="41" filename="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/SideBar/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Export</text>
+        <text>Link</text>
       </register>
       <register name="-" type="4">
-        <text>Export</text>
+        <text>Link</text>
       </register>
       <register name="/" type="4">
-        <text>path</text>
+        <text>Link</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8U2VydmljZUxheW91dAogICAgICAgICAgcGF0aD17YCR7bWF0Y2gucGF0aH0vZXhwb3J0YH0KICAgICAgICAgIGNvbXBvbmVudD17TG9hZGFibGUoewogICAgICAgICAgICBsb2FkZXI6ICgpID0+IGltcG9ydCgnLi4vY29udGFpbmVycy9FeHBvcnQnKSwKICAgICAgICAgICAgbG9hZGluZzogTG9hZGluZywKICAgICAgICAgIH0pfQogICAgICAgIC8+Cg==</text>
@@ -658,15 +658,14 @@
       </register>
     </registers>
     <search>
-      <last-search>path</last-search>
+      <last-search>Link</last-search>
       <last-offset />
-      <last-pattern>path</last-pattern>
+      <last-pattern>Link</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>\^</entry>
         <entry>spawn</entry>
         <entry>uglif</entry>
@@ -686,6 +685,7 @@
         <entry encoding="base64">XDxTdGFuZGFyZExheW91dFw+</entry>
         <entry>classes</entry>
         <entry>path</entry>
+        <entry>Link</entry>
       </history-search>
       <history-cmd />
       <history-expr />
