@@ -120,12 +120,11 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/SideBar/index.js" timestamp="1522364794199">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/SideBar/index.js" timestamp="1522367259609">
         <mark key="'" line="29" column="41" />
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/build/utils.js" timestamp="1517362131167">
         <mark key="[" line="57" column="36" />
@@ -321,10 +320,17 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Standard/index.js" timestamp="1522365370771">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/styles/global.css" timestamp="1522367514318">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Standard/index.js" timestamp="1522367950723">
+        <mark key="'" line="40" column="20" />
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" timestamp="1522305359865">
         <mark key="[" line="9" column="15" />
@@ -374,11 +380,11 @@
         <mark key="]" line="24" column="53" />
         <mark key="." line="24" column="53" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/index.js" timestamp="1522364958517">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="16" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/index.js" timestamp="1522368001943">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/index.js" timestamp="1522124970056">
         <mark key="[" line="32" column="3" />
@@ -526,7 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="44" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
       <jump line="44" column="41" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
       <jump line="6" column="3" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/Form/index.js" />
       <jump line="92" column="37" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
@@ -626,13 +631,14 @@
       <jump line="38" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Standard/index.js" />
       <jump line="2" column="12" filename="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/SideBar/index.js" />
       <jump line="25" column="41" filename="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/SideBar/index.js" />
+      <jump line="39" column="20" filename="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Standard/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogJzEwMCUnLAogICAgYWxpZ25Db250ZW50OiAnZmxleC1zdGFydCcsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>wrapper</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text>Link</text>
@@ -644,31 +650,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogJzEwMCUnLAogICAgYWxpZ25Db250ZW50OiAnZmxleC1zdGFydCcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogJzEwMCUnLAogICAgZmxleERpcmUK</text>
+        <text encoding="base64">CW92ZXJmbG93OiBoaWRkZW47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW92ZXJmbG93OiBzY3JvbGw7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICB3cmFwcGVyOiB7CiAgICBkaXNwbGF5OiAnZ3JpZCcsCiAgICBncmlkVGVtcGxhdGVDb2x1bW5zOiAnMTAwJScsCiAgICBncmlkVGVtcGxhdGVSb3dzOiAnNjRweCBhdXRvJywKICAgIGhlaWdodDogJzEwMCUnLAogIH0s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogJzEwMCUnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogJzEwMCUnLAogICAgYWxpZ25Db250ZW50OiAnZmxleC1zdGFydCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgUFFQCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogJzEwMCUnLAogICAgYWxpZ25Db250ZW50OiAnZmxleC1zdGFydCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc3RhdGUubWVudUl0ZW1zCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGl0ZW0gPSB0aGlzLnN0YXRlLm1lbnVJdGVtcy5zbGljZShtZW51SW5kZXgsIG1lbnVJbmRleCArIDEpCiAgICBpdGVtLm9wZW4gPSAhaXRlbS5vcGVuCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogJzEwMCUnLAogICAgZmxleERpcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGl0ZW0gPSB0aGlzLnN0YXRlLm1lbnVJdGVtc1ttZW51SW5kZXhdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
