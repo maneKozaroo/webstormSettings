@@ -1475,12 +1475,12 @@
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/api/faq/index.js" timestamp="1523412081082">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/api/faq/index.js" timestamp="1523416230768">
         <mark key="'" line="43" column="48" />
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="39" column="19" />
-        <mark key="." line="39" column="19" />
-        <mark key="^" line="39" column="19" />
+        <mark key="[" line="36" column="61" />
+        <mark key="]" line="36" column="70" />
+        <mark key="." line="36" column="70" />
+        <mark key="^" line="36" column="70" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/04-create-connections.js" timestamp="1522883708354">
         <mark key="[" line="16" column="8" />
