@@ -379,12 +379,12 @@
         <mark key="^" line="23" column="13" />
         <mark key="." line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/package.json" timestamp="1523247905946">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/package.json" timestamp="1523501424300">
         <mark key="'" line="33" column="29" />
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="9" column="21" />
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+        <mark key="^" line="29" column="52" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/Credentials.js" timestamp="1522106772804">
         <mark key="[" line="21" column="20" />
@@ -1634,10 +1634,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>remove</text>
+        <text>docs</text>
       </register>
       <register name="-" type="4">
-        <text>remove</text>
+        <text>docs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBhbnNpb24xXD4=</text>
