@@ -101,11 +101,12 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1523584910902">
-        <mark key="'" line="79" column="25" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1523592151591">
+        <mark key="'" line="86" column="25" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="74" column="26" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180403154330-create-domain.js" timestamp="1522813615692">
         <mark key="[" line="3" column="0" />
@@ -1689,46 +1690,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgbGV0IGZpbmFsU2VydmljZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>createWorkspace</text>
+        <text>updatedService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBhbnNpb24xXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgbGV0IGNvbnRhaW5lcgogICAgICBsZXQgY29udGFpbmVySWQKICAgICAgc3dpdGNoICh0aGlzLnByb3ZpZGVyKSB7CiAgICAgICAgY2FzZSAnYXNzaXN0YW50JzoKICAgICAgICAgIGNvbnRhaW5lciA9IGF3YWl0IHRoaXMuY3JlYXRlV29ya3NwYWNlKHsKICAgICAgICAgICAgbmFtZSwKICAgICAgICAgICAgZGVzY3JpcHRpb24sCiAgICAgICAgICB9KQogICAgICAgICAgY29udGFpbmVySWQgPSBjb250YWluZXIud29ya3NwYWNlX2lkCiAgICAgICAgICBicmVhawogICAgICAgIGNhc2UgJ25sYyc6CiAgICAgICAgICBjb250YWluZXIgPSB0aGlzLm5sYy5jcmVhdGVDbGFzc2lmaWVyKCkKICAgICAgICAgIGNvbnRhaW5lcklkID0gY29udGFpbmVyLmNsYXNzaWZpZXJfaWQKICAgICAgICAgIGJyZWFrCiAgICAgICAgZGVmYXVsdDoKICAgICAgICAgIHJldHVybiAnUHJvdmlkZXIgbm90IHNldCcKICAgICAgfQogICAgICByZXR1cm4gY29udGFpbmVySWQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgbGV0IGZpbmFsU2VydmljZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmwK</text>
+        <text encoding="base64">ICAgICAgQ3JlYXRlIHRoZSByZW1vdGUgY29udGFpbmVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcklkID0gY29udGFpbmVyLmNsYXNzaWZpZXJfaWQK</text>
+        <text encoding="base64">ICAgICAgLy8gLy8gVXBkYXRlIHRoZSBidWlsdCBzZXJ2aWNlIHRvIGluY2x1ZGUgdGhlIHJlbW90ZSBjb250YWluZXIgSUQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lcklkID0gY29udGFpbmVyLndvcmtzcGFjZV9pZAo=</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZSwKICAgICAgICAgICAgZGVzY3JpcHRpb24sCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZm91bmRDb25uZWN0aW9uID0gYXdhaXQgRGF0YWJhc2UuY29ubmVjdGlvbi5maW5kT25lKHsKICAgICAgICB3aGVyZTogewogICAgICAgICAgY29ubmVjdGlvbklkOiBzZXJ2aWNlLmNvbm5lY3Rpb25JZCwKICAgICAgICB9LAogICAgICAgIHRyYW5zYWN0aW9uLAogICAgICB9KQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNvbnRhaW5lcklkCg==</text>
+        <text encoding="base64">ICAgICAgLy8gR2V0IHRoZSBjb25uZWN0aW9uIHNvIHdlIGNhbiBjb25uZWN0IHdpdGggdGhlIFNESwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCByZW1vdGVQcm92aWRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNvbnRhaW5lcgo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3coJ0Vycm9yJykK</text>
       </register>
     </registers>
     <search>
