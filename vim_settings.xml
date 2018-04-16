@@ -1062,11 +1062,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" timestamp="1523858585821">
-        <mark key="[" line="95" column="72" />
-        <mark key="]" line="96" column="37" />
-        <mark key="^" line="96" column="37" />
-        <mark key="." line="96" column="37" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" timestamp="1523916286402">
+        <mark key="[" line="101" column="27" />
+        <mark key="]" line="101" column="33" />
+        <mark key="^" line="101" column="33" />
+        <mark key="." line="101" column="33" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/15-create-dictionary-synonyms.js" timestamp="1522898185686">
         <mark key="[" line="3" column="0" />
