@@ -59,11 +59,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Properties/index.js" timestamp="1523927256499">
-        <mark key="[" line="85" column="12" />
-        <mark key="]" line="85" column="25" />
-        <mark key="^" line="85" column="25" />
-        <mark key="." line="85" column="25" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Properties/index.js" timestamp="1523939530140">
+        <mark key="[" line="116" column="14" />
+        <mark key="]" line="116" column="18" />
+        <mark key="^" line="116" column="18" />
+        <mark key="." line="116" column="18" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20-create-services.js" timestamp="1522884785966">
         <mark key="[" line="18" column="6" />
@@ -1819,11 +1819,11 @@
       <jump line="47" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180405131759-create-constraints.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIExvZ2dlci5keW5hbW8ocGFyYW1zKQo=</text>
+      <register name="&quot;" type="4">
+        <text>To Production</text>
       </register>
       <register name="-" type="4">
-        <text>connection</text>
+        <text>To Production</text>
       </register>
       <register name="/" type="4">
         <text>connections</text>
