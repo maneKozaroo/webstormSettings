@@ -855,6 +855,12 @@
         <mark key="." line="244" column="37" />
         <mark key="^" line="244" column="37" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/notifications.js" timestamp="1529446638375">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" timestamp="1523932942843">
         <mark key="'" line="77" column="19" />
         <mark key="[" line="24" column="53" />
@@ -1782,6 +1788,12 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/pqpas.js" timestamp="1529446611421">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/04-create-environments.js" timestamp="1522897736938">
         <mark key="[" line="24" column="23" />
