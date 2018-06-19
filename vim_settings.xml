@@ -624,8 +624,8 @@
         <mark key="." line="33" column="11" />
         <mark key="^" line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/connections/index.js" timestamp="1529448632070">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/connections/index.js" timestamp="1529450007566">
+        <mark key="'" line="98" column="50" />
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="5" />
         <mark key="^" line="19" column="5" />
@@ -1687,11 +1687,11 @@
         <mark key="]" line="22" column="7" />
         <mark key="." line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" timestamp="1529447793393">
-        <mark key="[" line="64" column="61" />
-        <mark key="]" line="64" column="61" />
-        <mark key="." line="64" column="61" />
-        <mark key="^" line="64" column="65" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" timestamp="1529450604173">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="61" column="65" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1524013274897">
         <mark key="[" line="8" column="69" />
@@ -1826,10 +1826,11 @@
         <mark key="." line="35" column="25" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/server.js" timestamp="1524103533124">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/server.js" timestamp="1529450513801">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/serviceprovider.js" timestamp="1522898013185">
         <mark key="[" line="36" column="52" />
@@ -1887,8 +1888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="58" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionaryExample.js" />
-      <jump line="30" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionarySynonym.js" />
       <jump line="36" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionarySynonym.js" />
       <jump line="28" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionarySynonym.js" />
       <jump line="2" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/seeders/20180405131712-dictionary-details.js" />
@@ -1987,13 +1986,15 @@
       <jump line="103" column="3" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="149" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="100" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/dictionary/index.js" />
+      <jump line="116" column="25" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/connections/index.js" />
+      <jump line="98" column="50" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/connections/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Logg</text>
@@ -2008,28 +2009,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V29yZDgsU3lub255bTE1CldvcmQ4LFN5bm9ueW0xNgo=</text>
+        <text encoding="base64">X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fUGFyYW1zCiVvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V29yZDcsU3lub255bTEzCldvcmQ3LFN5bm9ueW0xNAo=</text>
+        <text encoding="base64">YXBwLnVzZShMb2dnZXIuZXJyb3JIYW5kbGVyKCkpCmFwcC51c2UoTG9nZ2VyLnJlcXVlc3RMb2dnZXIoKSkKYXBwLnVzZShDb25maWcuY29ycygpKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V29yZDYsU3lub255bTExCldvcmQ2LFN5bm9ueW0xMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V29yZDUsU3lub255bTA5CldvcmQ1LFN5bm9ueW0xMAo=</text>
+        <text encoding="base64">YXBwLnVzZShMb2dnZXIuZXJyb3JIYW5kbGVyKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGFuc2lvbjM6IGZhcS5leHBhbnNpb24zLAogICAgICAgIH0K</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGFuc2lvbjE6IGZhcS5leHBhbnNpb24xLAogICAgICAgICAgZXhwYW5zaW9uMjogZmFxLmV4cGFuc2lvbjIsCg==</text>
+        <text encoding="base64">ICAub24oJ2Vycm9yJywgKGVycm9yLCBjdHgpID0+CiAgICBMb2dnZXIuYXBwLmVycm9yKGBUaGUgc2VydmVyIGVuY291bnRlcmVkIGFuIGVycm9yOiAke2Vycm9yfSAvICR7Y3R4fWApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhdGVnb3J5MjogZmFxLmNhdGVnb3J5MiwKICAgICAgICAgIGNhdGVnb3J5MzogZmFxLmNhdGVnb3J5MywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZhcUV4YW1wbGVzLAogICAgICAgICAgY2F0ZWdvcnkxOiBmYXEuY2F0ZWdvcnkxLAo=</text>
+        <text encoding="base64">V29yZDgsU3lub255bTE1CldvcmQ4LFN5bm9ueW0xNgo=</text>
       </register>
     </registers>
     <search>
