@@ -483,11 +483,12 @@
         <mark key="]" line="22" column="7" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" timestamp="1529460323494">
-        <mark key="[" line="374" column="31" />
-        <mark key="]" line="374" column="59" />
-        <mark key="." line="374" column="59" />
-        <mark key="^" line="374" column="59" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" timestamp="1529461392799">
+        <mark key="'" line="297" column="59" />
+        <mark key="[" line="376" column="37" />
+        <mark key="]" line="376" column="42" />
+        <mark key="^" line="376" column="42" />
+        <mark key="." line="376" column="42" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180404224457-create-learning.js" timestamp="1522881958678">
         <mark key="[" line="2" column="32" />
@@ -1927,10 +1928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="3" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/dictionary/index.js" />
-      <jump line="152" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/dictionary/index.js" />
-      <jump line="179" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="52" column="43" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="55" column="37" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="85" column="40" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
@@ -2027,16 +2024,20 @@
       <jump line="252" column="14" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Properties/index.js" />
       <jump line="7" column="38" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Properties/index.js" />
       <jump line="11" column="44" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/Properties/index.js" />
+      <jump line="376" column="53" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
+      <jump line="377" column="45" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
+      <jump line="243" column="36" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
+      <jump line="297" column="59" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>word</text>
+        <text>service</text>
       </register>
       <register name="-" type="4">
-        <text>word</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
-        <text>Button</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25maXJtUmVtb3ZhbCA9ICgpID0+IHsKICAgIHRoaXMucmVxdWVzdERpY3Rpb25hcnlSZW1vdmFsKCkKICAgIHRoaXMuaGlkZVJlbW92YWxDb25maXJtYXRpb25EaWFsb2coKQogIH0KCg==</text>
@@ -2045,10 +2046,10 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9MaXN0SXRlbVRleHQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7fQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2057,31 +2058,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2xhc3NlcywKICAgICAgc3RvcmU6IHsgcHJvZHVjdGlvblNlcnZpY2U6IHByb2R1Y3Rpb25TZXJ2aWNlU3RvcmUgfSwKICAgICAgdCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0UHJvcHM6IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY2xhc3NlcywKICAgICAgc3RvcmU6IHsgcHJvZHVjdGlvblNlcnZpY2U6IHByb2R1Y3Rpb25TZXJ2aWNlU3RvcmUgfSwKICAgICAgdCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yZXF1ZXN0UHJvZHVjdGlvblNlcnZpY2VMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBuZXh0UHJvcHM6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>Button</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>Button</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Details</entry>
         <entry>detail</entry>
         <entry>get</entry>
         <entry>logger</entry>
@@ -2101,6 +2101,7 @@
         <entry>refresh</entry>
         <entry>save</entry>
         <entry>Button</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd />
       <history-expr />
