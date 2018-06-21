@@ -35,6 +35,13 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="29" column="18" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1529561167662">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/90-create-dictionary-detail.js" timestamp="1522883538650">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="23" />
@@ -328,6 +335,13 @@
         <mark key="]" line="13" column="31" />
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" timestamp="1529561257905">
+        <mark key="'" line="15" column="6" />
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/learningStatus.js" timestamp="1524026350275">
         <mark key="'" line="28" column="22" />
@@ -978,12 +992,12 @@
         <mark key="^" line="71" column="17" />
         <mark key="." line="71" column="17" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1529559772706">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1529561485154">
         <mark key="'" line="149" column="25" />
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="^" line="242" column="31" />
-        <mark key="." line="249" column="0" />
+        <mark key="[" line="248" column="61" />
+        <mark key="]" line="248" column="61" />
+        <mark key="." line="248" column="61" />
+        <mark key="^" line="249" column="49" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/connections/constants.js" timestamp="1522042974743">
         <mark key="'" line="0" column="0" />
@@ -1510,6 +1524,12 @@
         <mark key="." line="121" column="92" />
         <mark key="^" line="121" column="92" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1529561109710">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/api/index.js" timestamp="1524089666175">
         <mark key="[" line="24" column="36" />
         <mark key="]" line="24" column="39" />
@@ -1846,9 +1866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="10" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/PDCA/PQPA/PQPAList.js" />
-      <jump line="60" column="25" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/PDCA/PQPA/SearchForm.js" />
-      <jump line="123" column="11" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/PDCA/PQPA/SearchForm.js" />
       <jump line="20" column="24" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/PDCA/PQPA/CandidateList/index.js" />
       <jump line="227" column="9" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/PDCA/PQPA/CandidateList/index.js" />
       <jump line="146" column="6" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Simulation/index.js" />
@@ -1946,13 +1963,16 @@
       <jump line="22" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="17" column="52" filename="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" />
       <jump line="53" column="50" filename="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" />
+      <jump line="17" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZTogdHJ1ZSwK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>padEnd</text>
@@ -1964,31 +1984,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZTogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5mb3JtYXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmZvLnRpbWVzdGFtcCA9IG1vbWVudCgpCiAgICAubG9jYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgRGF0YWJhc2UuZmFxRXhhbXBsZS5idWxrQ3JlYXRlKHVuaXF1ZUV4YW1wbGVzV2l0aEZhcVByaW1JZCwgewogICAgICAgIHRyYW5zYWN0aW9uLAogICAgICB9KQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aW1lc3RhbXAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbmZvLnRpbWVzdGFtcCA9IG1vbWVudCgpCiAgICAubG9jYWwoKQogICAgLmZvcm1hdCgpCg==</text>
+        <text encoding="base64">Zm9vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGltZXN0YW1wKCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC50eignQXNpYS9Ub2t5bycpCg==</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKCd0ZXN0JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSksCg==</text>
+        <text encoding="base64">Y2h1bmtlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aW1lc3RhbXAoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJ3Rlc3QnCiAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICByZXN1bHRzCg==</text>
       </register>
     </registers>
     <search>
