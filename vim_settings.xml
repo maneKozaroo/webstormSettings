@@ -1442,11 +1442,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="30" />
       </file>
-      <file name="$USER_HOME$/maneKozaroo/thrifty-ninja/src/main.js" timestamp="1529541794895">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="37" column="42" />
-        <mark key="^" line="37" column="43" />
-        <mark key="." line="37" column="42" />
+      <file name="$USER_HOME$/maneKozaroo/thrifty-ninja/src/main.js" timestamp="1529620403986">
+        <mark key="[" line="49" column="46" />
+        <mark key="]" line="50" column="20" />
+        <mark key="^" line="50" column="20" />
+        <mark key="." line="50" column="20" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionaryheader.js" timestamp="1524026986467">
         <mark key="[" line="20" column="22" />
@@ -1969,10 +1969,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>warning</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>padEnd</text>
