@@ -259,12 +259,12 @@
         <mark key="." line="244" column="95" />
         <mark key="^" line="244" column="78" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" timestamp="1529630487262">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" timestamp="1529639192910">
         <mark key="'" line="60" column="30" />
-        <mark key="[" line="318" column="52" />
-        <mark key="]" line="318" column="63" />
-        <mark key="." line="318" column="63" />
-        <mark key="^" line="318" column="63" />
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="73" column="16" />
+        <mark key="." line="73" column="16" />
+        <mark key="^" line="73" column="16" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/credentials.js" timestamp="1522106582174">
         <mark key="'" line="1" column="8" />
@@ -1744,12 +1744,11 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/rootReducer.js" timestamp="1523926597490">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/rootReducer.js" timestamp="1529638794537">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="19" />
-        <mark key="^" line="25" column="19" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/dynamo/config/models/faq.js" timestamp="1522801178125">
         <mark key="[" line="3" column="1" />
@@ -2017,14 +2016,14 @@
       <jump line="27" column="16" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/errors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcHJvY2Vzc2luZywK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>processing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5vdF91bmlxdWU6ICdUaGlzIGZpZWxkIG11c3QgaGF2ZSBhIGRpZmZlcmVudCB2YWx1ZSBmcm9tIGFsbCBvdGhlciBGQVFzJywK</text>
@@ -2033,43 +2032,42 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkaWN0aW9uYXJ5OiB7CiAgfSwK</text>
+        <text encoding="base64">ICAgICAgcHJvY2Vzc2luZywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb2Nlc3NpbmcgPSBmYXEuZ2V0KCdwcm9jZXNzaW5nJykgJiYgZmFxLmdldCgncHJvY2Vzc2luZycpLnRvSlMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpY3Rpb25hcnlTeW5vbnltOiB7CiAgICAgIGludmFsaWRfY2hhcmFjdGVyczogJycsCiAgICB9LAogICAgd29yZDoge30sCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZmFxIH0pCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnJlcXVpcmVkKCdyZXF1aXJlZCcpLAo=</text>
+        <text encoding="base64">ICB1c2VySW50ZXJmYWNlOiB1c2VySW50ZXJmYWNlUmVkdWNlciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6Cg==</text>
+        <text encoding="base64">ICBwcXBhOiBwcXBhUmVkdWNlciwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaW52YWxpZF9wcmVmaXg6ICdUaGUgd29yZCBjYW5ub3Qgc3RhcnQgd2l0aCAic3lzLSInLAo=</text>
+        <text encoding="base64">ICBjb25uZWN0aW9uOiBjb25uZWN0aW9uUmVkdWNlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hdGNoZXMoL14oPyFzeXMtLiokKS4qLywgJ2ludmFsaWRfcHJlZml4JykK</text>
+        <text encoding="base64">ICBzZXJ2aWNlOiBzZXJ2aWNlUmVkdWNlciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLm1hdGNoZXMoL14oPyFzeXMtLiokKS4qLywgJ2ludmFsaWRfcHJlZml4JykK</text>
+        <text encoding="base64">ICBzZXJ2aWNlOiBzZXJ2aWNlUmVkdWNlciwKICBzaW11bGF0aW9uOiBzaW11bGF0aW9uUmVkdWNlciwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLm1hdGNoZXMoL14oPyFzeXMtLiokKS4qLywgJ2ludmFsaWRfcHJlZml4JykK</text>
+        <text encoding="base64">ICBzdGF0aXN0aWM6IHN0YXRpc3RpY1JlZHVjZXIsCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>processing</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>processing</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>refresh</entry>
         <entry>save</entry>
         <entry>create</entry>
         <entry>search</entry>
@@ -2089,6 +2087,7 @@
         <entry>padEnd</entry>
         <entry>warn</entry>
         <entry>error</entry>
+        <entry>processing</entry>
       </history-search>
       <history-cmd />
       <history-expr />
