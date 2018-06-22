@@ -1781,12 +1781,12 @@
         <mark key="^" line="39" column="41" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/errors.js" timestamp="1529630733397">
-        <mark key="'" line="27" column="16" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="77" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="27" column="19" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/errors.js" timestamp="1529638043469">
+        <mark key="'" line="25" column="16" />
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/productionservice.js" timestamp="1522897977752">
         <mark key="'" line="43" column="22" />
@@ -2018,10 +2018,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>faqId</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>faqId</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
