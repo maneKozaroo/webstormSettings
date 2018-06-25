@@ -964,12 +964,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" timestamp="1529650119051">
-        <mark key="'" line="260" column="17" />
-        <mark key="[" line="353" column="29" />
-        <mark key="]" line="353" column="29" />
-        <mark key="." line="353" column="29" />
-        <mark key="^" line="353" column="29" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" timestamp="1529890955104">
+        <mark key="'" line="262" column="17" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="54" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="110" column="15" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/NLC/Classifier.js" timestamp="1523579539734">
         <mark key="'" line="2" column="15" />
@@ -2043,17 +2043,17 @@
       <jump line="25" column="23" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/layouts/Standard/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>The FAQ has been deleted</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLm1hdGNoZXMoL14oPyFzeXMtLiokKS4qLywgJ2ludmFsaWRfcHJlZml4JykK</text>
       </register>
       <register name="-" type="4">
-        <text>The FAQ has been deleted</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZhcTogewogICAgICBjcmVhdGVkOiAnWW91ciBGQVEgaGFzIGJlZW4gY3JlYXRlZCcsCiAgICAgIHVwZGF0ZWQ6ICdZb3VyIEZBUSBoYXMgYmVlbiB1cGRhdGVkJywKICAgICAgZGVsZXRlZDogJ1lvdXIgRkFRIGhhcyBiZWVuIGRlbGV0ZWQnLAogICAgICBkZWxldGVkX3BsdXJhbDogJ1lvdXIgRkFRcyBoYXZlIGJlZW4gZGVsZXRlZCcsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgLm1hdGNoZXMoL14oPyFzeXMtLiokKS4qLywgJ2ludmFsaWRfcHJlZml4JykK</text>
       </register>
       <register name="p" type="4">
         <text />
