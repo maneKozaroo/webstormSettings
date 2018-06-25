@@ -16,11 +16,11 @@
         <mark key="." line="258" column="17" />
         <mark key="^" line="258" column="17" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" timestamp="1529650762222">
-        <mark key="[" line="87" column="46" />
-        <mark key="]" line="87" column="50" />
-        <mark key="." line="87" column="50" />
-        <mark key="^" line="87" column="50" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" timestamp="1529885836146">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="29" />
+        <mark key="^" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/test/e2e/specs/test.js" timestamp="1517359208060">
         <mark key="[" line="16" column="3" />
@@ -2043,10 +2043,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, ...rest</text>
+        <text>update</text>
       </register>
       <register name="-" type="4">
-        <text>, ...rest</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
