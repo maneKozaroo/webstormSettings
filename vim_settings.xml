@@ -964,12 +964,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" timestamp="1529890955104">
-        <mark key="'" line="262" column="17" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="54" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="110" column="15" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" timestamp="1529897891612">
+        <mark key="'" line="254" column="17" />
+        <mark key="[" line="91" column="12" />
+        <mark key="]" line="91" column="12" />
+        <mark key="." line="91" column="12" />
+        <mark key="^" line="91" column="12" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/NLC/Classifier.js" timestamp="1523579539734">
         <mark key="'" line="2" column="15" />
@@ -2047,43 +2047,43 @@
         <text encoding="base64">ICAgICAgLm1hdGNoZXMoL14oPyFzeXMtLiokKS4qLywgJ2ludmFsaWRfcHJlZml4JykK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>^@\s</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLm1hdGNoZXMoL14oPyFzeXMtLiokKS4qLywgJ2ludmFsaWRfcHJlZml4JykK</text>
+      <register name="0" type="4">
+        <text>^\r\n\t</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlZF9wbHVyYWw6ICdUaGUgRkFRcyBoYXZlIGJlZW4gZGVsZXRlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgLm1hdGNoZXMoL14oPyFzeXMtLiokKS4qLywgJ2ludmFsaWRfcHJlZml4JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZhcTogewogICAgICBjcmVhdGVkOiAnWW91ciBGQVEgaGFzIGJlZW4gY3JlYXRlZCcsCiAgICAgIHVwZGF0ZWQ6ICdZb3VyIEZBUSBoYXMgYmVlbiB1cGRhdGVkJywKICAgICAgZGVsZXRlZDogJ1lvdXIgRkFRIGhhcyBiZWVuIGRlbGV0ZWQnLAogICAgICBkZWxldGVkX3BsdXJhbDogJ1lvdXIgRkFRcyBoYXZlIGJlZW4gZGVsZXRlZCcsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5tYXRjaGVzKC9eKD8hc3lzLS4qJCkuKi8sICdpbnZhbGlkX3ByZWZpeCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnZGVzdHJveScpCg==</text>
+        <text encoding="base64">ICAgICAgZGVsZXRlZF9wbHVyYWw6ICdUaGUgRkFRcyBoYXZlIGJlZW4gZGVsZXRlZCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnZGVzdHJveScpCg==</text>
+        <text encoding="base64">ICAgIGZhcTogewogICAgICBjcmVhdGVkOiAnWW91ciBGQVEgaGFzIGJlZW4gY3JlYXRlZCcsCiAgICAgIHVwZGF0ZWQ6ICdZb3VyIEZBUSBoYXMgYmVlbiB1cGRhdGVkJywKICAgICAgZGVsZXRlZDogJ1lvdXIgRkFRIGhhcyBiZWVuIGRlbGV0ZWQnLAogICAgICBkZWxldGVkX3BsdXJhbDogJ1lvdXIgRkFRcyBoYXZlIGJlZW4gZGVsZXRlZCcsCiAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnYnVsa0NyZWF0ZScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnZGVzdHJveScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnZmluZCcpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnZGVzdHJveScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnYnVsa0NyZWF0ZScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnYnVsa0NyZWF0ZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgndXBkYXRlJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnZmluZCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgndXBkYXRlJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnYnVsa0NyZWF0ZScpCg==</text>
       </register>
     </registers>
     <search>
