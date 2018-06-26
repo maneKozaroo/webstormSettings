@@ -271,11 +271,11 @@
         <mark key="." line="244" column="95" />
         <mark key="^" line="244" column="78" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" timestamp="1529904228387">
-        <mark key="[" line="194" column="24" />
-        <mark key="]" line="194" column="42" />
-        <mark key="." line="194" column="42" />
-        <mark key="^" line="194" column="42" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" timestamp="1529973767330">
+        <mark key="[" line="520" column="18" />
+        <mark key="]" line="522" column="37" />
+        <mark key="." line="522" column="37" />
+        <mark key="^" line="522" column="37" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/credentials.js" timestamp="1522106582174">
         <mark key="'" line="1" column="8" />
@@ -976,12 +976,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" timestamp="1529972239272">
-        <mark key="'" line="258" column="17" />
-        <mark key="[" line="99" column="20" />
-        <mark key="]" line="99" column="20" />
-        <mark key="." line="99" column="20" />
-        <mark key="^" line="99" column="16" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" timestamp="1529974886243">
+        <mark key="[" line="162" column="55" />
+        <mark key="]" line="162" column="55" />
+        <mark key="." line="162" column="55" />
+        <mark key="^" line="162" column="54" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/NLC/Classifier.js" timestamp="1523579539734">
         <mark key="'" line="2" column="15" />
@@ -2063,16 +2062,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHEtYnRuIGZsYXQgbGFiZWw9IlRocmlmdHkgTmluamEiIG5vLWNhcHMgdG89Ii8iPjwvcS1idG4+Cg==</text>
+      <register name="0" type="4">
+        <text>/^[^\u000A\u000D\u0009]*$/</text>
       </register>
       <register name="p" type="4">
         <text />
