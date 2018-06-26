@@ -66,11 +66,11 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Properties/index.js" timestamp="1529979077583">
-        <mark key="[" line="219" column="18" />
-        <mark key="]" line="219" column="26" />
-        <mark key="." line="219" column="26" />
-        <mark key="^" line="219" column="26" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Properties/index.js" timestamp="1529983562843">
+        <mark key="[" line="225" column="53" />
+        <mark key="]" line="225" column="23" />
+        <mark key="." line="225" column="23" />
+        <mark key="^" line="225" column="23" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180405070315-create-constraints.js" timestamp="1522892100017">
         <mark key="[" line="78" column="16" />
@@ -2077,10 +2077,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgc2VydmljZVByb2Nlc3NpbmcsCiAgICAgIGZhcXNQcm9jZXNzaW5nLAogICAgICBkaWN0aW9uYXJ5UHJvY2Vzc2luZywKICAgICAgcHJvY2Vzc2luZywKICAgIH0pCgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcnZpY2UudG9KUygpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SUQg</text>
+        <text>{ service, processing }</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -2092,31 +2092,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgc2VydmljZVByb2Nlc3NpbmcsCiAgICAgIGZhcXNQcm9jZXNzaW5nLAogICAgICBkaWN0aW9uYXJ5UHJvY2Vzc2luZywKICAgICAgcHJvY2Vzc2luZywKICAgIH0pCgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcnZpY2UudG9KUygpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnIFRoaXMgZmllbGQgbXVzdCBoYXZlIGEgZGlmZmVyZW50IHZhbHVlIGZyb20gYWxsIG90aGVyIGRpY3Rpb25hcnkgd29yZHMnLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgc2VydmljZVByb2Nlc3NpbmcsCiAgICAgIGZhcXNQcm9jZXNzaW5nLAogICAgICBkaWN0aW9uYXJ5UHJvY2Vzc2luZywKICAgICAgcHJvY2Vzc2luZywKICAgIH0pCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnVGhpcyBmaWVsZCBtdXN0IGhhdmUgYSBkaWZmZXJlbnQgdmFsdWUgZnJvbSBhbGwgb3RoZXIgZGljdGlvbmFyeSB3b3JkcycsCg==</text>
+        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnIFRoaXMgZmllbGQgbXVzdCBoYXZlIGEgZGlmZmVyZW50IHZhbHVlIGZyb20gYWxsIG90aGVyIGRpY3Rpb25hcnkgd29yZHMnLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnVGhpcyBmaWVsZCBtdXN0IGhhdmUgYSBkaWZmZXJlbnQgdmFsdWUgZnJvbSBhbGwgb3RoZXIgZGljdGlvbmFyeSB3b3JkcycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMsCg==</text>
+        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnVGhpcyBmaWVsZCBtdXN0IGhhdmUgYSBkaWZmZXJlbnQgdmFsdWUgZnJvbSBhbGwgb3RoZXIgZGljdGlvbmFyeSB3b3JkcycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVycm9ycywK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVycm9ycywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnM6IFtdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
