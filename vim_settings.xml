@@ -919,6 +919,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180626013806-unique_word_constraint.js" timestamp="1529984676935">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="82" />
+        <mark key="." line="9" column="82" />
+        <mark key="^" line="9" column="82" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/index.js" timestamp="1529456444456">
         <mark key="'" line="235" column="28" />
         <mark key="[" line="219" column="7" />
@@ -2076,11 +2082,11 @@
       <jump line="181" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcnZpY2UudG9KUygpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>, ['serviceId', 'word'], {</text>
       </register>
       <register name="-" type="4">
-        <text>{ service, processing }</text>
+        <text>, ['serviceId', 'word'], {</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -2092,31 +2098,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcnZpY2UudG9KUygpKQo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgc2VydmljZVByb2Nlc3NpbmcsCiAgICAgIGZhcXNQcm9jZXNzaW5nLAogICAgICBkaWN0aW9uYXJ5UHJvY2Vzc2luZywKICAgICAgcHJvY2Vzc2luZywKICAgIH0pCgo=</text>
+        <text encoding="base64">ICAgICAgdHlwZTogJ3VuaXF1ZScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnIFRoaXMgZmllbGQgbXVzdCBoYXZlIGEgZGlmZmVyZW50IHZhbHVlIGZyb20gYWxsIG90aGVyIGRpY3Rpb25hcnkgd29yZHMnLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcnZpY2UudG9KUygpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnVGhpcyBmaWVsZCBtdXN0IGhhdmUgYSBkaWZmZXJlbnQgdmFsdWUgZnJvbSBhbGwgb3RoZXIgZGljdGlvbmFyeSB3b3JkcycsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgc2VydmljZVByb2Nlc3NpbmcsCiAgICAgIGZhcXNQcm9jZXNzaW5nLAogICAgICBkaWN0aW9uYXJ5UHJvY2Vzc2luZywKICAgICAgcHJvY2Vzc2luZywKICAgIH0pCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnVGhpcyBmaWVsZCBtdXN0IGhhdmUgYSBkaWZmZXJlbnQgdmFsdWUgZnJvbSBhbGwgb3RoZXIgZGljdGlvbmFyeSB3b3JkcycsCg==</text>
+        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnIFRoaXMgZmllbGQgbXVzdCBoYXZlIGEgZGlmZmVyZW50IHZhbHVlIGZyb20gYWxsIG90aGVyIGRpY3Rpb25hcnkgd29yZHMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMsCg==</text>
+        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnVGhpcyBmaWVsZCBtdXN0IGhhdmUgYSBkaWZmZXJlbnQgdmFsdWUgZnJvbSBhbGwgb3RoZXIgZGljdGlvbmFyeSB3b3JkcycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVycm9ycywK</text>
+        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnVGhpcyBmaWVsZCBtdXN0IGhhdmUgYSBkaWZmZXJlbnQgdmFsdWUgZnJvbSBhbGwgb3RoZXIgZGljdGlvbmFyeSB3b3JkcycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVycm9ycywK</text>
       </register>
     </registers>
     <search>
