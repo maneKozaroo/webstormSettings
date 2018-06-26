@@ -34,6 +34,11 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/Downloads/1_questions_5.csv" timestamp="1529986024071">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+      </file>
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" timestamp="1517361986661">
         <mark key="'" line="81" column="21" />
         <mark key="[" line="18" column="0" />
@@ -271,8 +276,8 @@
         <mark key="." line="244" column="95" />
         <mark key="^" line="244" column="78" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" timestamp="1529978231164">
-        <mark key="'" line="181" column="17" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" timestamp="1529987552957">
+        <mark key="'" line="271" column="17" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="83" column="10" />
         <mark key="." line="427" column="24" />
@@ -1047,11 +1052,11 @@
         <mark key="^" line="71" column="17" />
         <mark key="." line="71" column="17" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1529889539145">
-        <mark key="'" line="171" column="61" />
-        <mark key="[" line="373" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="." line="373" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1529987942128">
+        <mark key="'" line="278" column="8" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/maneKozaroo/thrifty-ninja/src/store/index.js" timestamp="1529884233021">
         <mark key="'" line="9" column="8" />
@@ -1533,12 +1538,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="30" />
       </file>
-      <file name="$USER_HOME$/maneKozaroo/thrifty-ninja/src/main.js" timestamp="1529967620185">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionaryheader.js" timestamp="1524026986467">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="22" />
@@ -1897,6 +1896,11 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Downloads/2_examples_5.csv" timestamp="1529985929087">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/pqpas.js" timestamp="1524027089101">
         <mark key="[" line="31" column="14" />
         <mark key="]" line="31" column="22" />
@@ -1980,21 +1984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="29" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/index.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/faq.js" />
-      <jump line="3" column="22" filename="$USER_HOME$/Downloads/NLC_20180601_1.txt" />
-      <jump line="6" column="51" filename="$USER_HOME$/Downloads/NLC_20180601_2.txt" />
-      <jump line="6" column="43" filename="$USER_HOME$/Downloads/NLC_20180601_3.txt" />
-      <jump line="13907" column="0" filename="$USER_HOME$/Downloads/NLC_20180601_3.txt" />
-      <jump line="11" column="64" filename="$USER_HOME$/Downloads/インポート-question.csv" />
-      <jump line="9" column="10" filename="$USER_HOME$/Downloads/インポート-examples.csv" />
-      <jump line="13897" column="46" filename="$USER_HOME$/Downloads/インポート-examples.csv" />
-      <jump line="13925" column="0" filename="$USER_HOME$/Downloads/インポート-examples.csv" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/インポート-examples.csv" />
-      <jump line="15" column="25" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/package.json" />
-      <jump line="33" column="15" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/package.json" />
-      <jump line="249" column="40" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
-      <jump line="253" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="396" column="32" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="149" column="25" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="60" column="38" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
@@ -2080,64 +2069,75 @@
       <jump line="80" column="8" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
       <jump line="82" column="48" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
       <jump line="181" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
+      <jump line="22" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="23" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="24" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="27" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="30" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="31" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="32" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="33" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="34" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="25" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="36" column="1" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="162" column="7" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
+      <jump line="271" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
+      <jump line="275" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, ['serviceId', 'word'], {</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyB2YWxpZGF0ZWRGYXFzIH0pCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>, ['serviceId', 'word'], {</text>
+        <text encoding="base64">Y29uc3QgdmFsaWRhdGVkRmFxcyA9IA==</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5vdF91bmlxdWU6ICflkIzjgZggRkFRIElEIOOBr+S9v+OBiOOBvuOBm+OCkycsCg==</text>
+        <text encoding="base64">IjEiCSJXaG8gYXJlIHlvdT8iCSJJJ20geW91ciBmcmllbmQuIgkiQ2F0ZWdvcnkgMSIJIiIJIiIJIkV4cGFuc2lvbiAxIgkiIgkiIgkidHJ1ZSIK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyB2YWxpZGF0ZWRGYXFzIH0pCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogJ3VuaXF1ZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcnZpY2UudG9KUygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBmYXFzID0gYXdhaXQgcXVlc3Rpb25zLmRhdGEubWFwKGZhcSA9PiB7CiAgICAgICAgICBjb25zdCBmYXFXaXRoU2VydmljZUlkID0gewogICAgICAgICAgICAuLi5mYXEsCiAgICAgICAgICAgIHNlcnZpY2VJZCwKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiBmYXFXaXRoU2VydmljZUlkCiAgICAgICAgfSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgc2VydmljZVByb2Nlc3NpbmcsCiAgICAgIGZhcXNQcm9jZXNzaW5nLAogICAgICBkaWN0aW9uYXJ5UHJvY2Vzc2luZywKICAgICAgcHJvY2Vzc2luZywKICAgIH0pCgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdmFsaWRhdGVkRmFxcyA9IGF3YWl0IGZhcVNjaGVtYS52YWxpZGF0ZShmYXFzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnIFRoaXMgZmllbGQgbXVzdCBoYXZlIGEgZGlmZmVyZW50IHZhbHVlIGZyb20gYWxsIG90aGVyIGRpY3Rpb25hcnkgd29yZHMnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnVGhpcyBmaWVsZCBtdXN0IGhhdmUgYSBkaWZmZXJlbnQgdmFsdWUgZnJvbSBhbGwgb3RoZXIgZGljdGlvbmFyeSB3b3JkcycsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZmFxcyA9IGF3YWl0IHF1ZXN0aW9ucy5kYXRhLm1hcChmYXEgPT4gewogICAgICAgIGNvbnN0IGZhcVdpdGhTZXJ2aWNlSWQgPSB7CiAgICAgICAgICAuLi5mYXEsCiAgICAgICAgICBzZXJ2aWNlSWQsCiAgICAgICAgfQogICAgICAgIHJldHVybiBmYXFXaXRoU2VydmljZUlkCiAgICAgIH0pCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbm90X3VuaXF1ZToKICAgICAgICAnVGhpcyBmaWVsZCBtdXN0IGhhdmUgYSBkaWZmZXJlbnQgdmFsdWUgZnJvbSBhbGwgb3RoZXIgZGljdGlvbmFyeSB3b3JkcycsCg==</text>
+        <text encoding="base64">CiAgICAgIExvZ2dlci5mYXEuZGVidWcoJyVvJywgcXVlc3Rpb25zKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMsCg==</text>
+        <text encoding="base64">Cn0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVycm9ycywK</text>
+        <text encoding="base64">ICBmYXFJZDogam9pCiAgICAuc3RyaW5nKCkKICAgIC5yZXF1aXJlZCgncmVxdWlyZWQnKQogICAgLnJlZ2V4KC9eKFtcZF0qfFte77yQLe+8mV0qKSQvLCB7CiAgICAgIG1lc3NhZ2U6ICdub3RfZnVsbF93aWR0aCcsCiAgICAgIGV4Y2x1ZGVFbXB0eVN0cmluZzogdHJ1ZSwKICAgIH0pCiAgICAucmVnZXgoL15bXGRdKiQvLCB7CiAgICAgIG1lc3NhZ2U6ICdvbmx5X2RpZ2l0cycsCiAgICAgIGV4Y2x1ZGVFbXB0eVN0cmluZzogdHJ1ZSwKICAgIH0pCiAgICAubWF4KDMwKSwKICB1c2VXaXRoU3VnZ2VzdDogam9pLmJvb2xlYW4oKS5vcHRpb25hbCgpLAogIHF1ZXN0aW9uOiBqb2kuc3RyaW5nKCkucmVxdWlyZWQoJ3JlcXVpcmVkJyksCiAgYW5zd2VyOiBqb2kuc3RyaW5nKCkucmVxdWlyZWQoJ3JlcXVpcmVkJyksCiAgZmFxRXhhbXBsZXM6IGpvaS5hcnJheSgpLml0ZW1zKAogICAgam9pLm9iamVjdCgpLmtleXMoewogICAgICB0ZXh0OiBqb2kuc3RyaW5nKCksCiAgICB9KQogICksCiAgY2F0ZWdvcnkxOiBqb2kuc3RyaW5nKCkub3B0aW9uYWwoKSwKICBjYXRlZ29yeTI6IGpvaS5zdHJpbmcoKS5vcHRpb25hbCgpLAogIGNhdGVnb3J5Mzogam9pLnN0cmluZygpLm9wdGlvbmFsKCksCiAgZXhwYW5zaW9uMTogam9pLnN0cmluZygpLm9wdGlvbmFsKCksCiAgZXhwYW5zaW9uMjogam9pLnN0cmluZygpLm9wdGlvbmFsKCksCiAgZXhwYW5zaW9uMzogam9pLnN0cmluZygpLm9wdGlvbmFsKCksCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>strokeWidth</entry>
-        <entry>stroke</entry>
-        <entry>stats</entry>
-        <entry>line</entry>
         <entry>width</entry>
         <entry>button</entry>
         <entry>icon</entry>
@@ -2154,6 +2154,10 @@
         <entry>auto</entry>
         <entry>key</entry>
         <entry>error</entry>
+        <entry>yup</entry>
+        <entry>nullable</entry>
+        <entry>shape</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd />
       <history-expr />
