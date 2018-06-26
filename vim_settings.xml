@@ -1052,8 +1052,7 @@
         <mark key="^" line="71" column="17" />
         <mark key="." line="71" column="17" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1529987942128">
-        <mark key="'" line="278" column="8" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1529988911881">
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
@@ -1984,7 +1983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="32" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="149" column="25" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="60" column="38" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="22" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
@@ -2084,16 +2082,17 @@
       <jump line="162" column="7" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
       <jump line="271" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
       <jump line="275" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyB2YWxpZGF0ZWRGYXFzIH0pCgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdW5pcXVlRmFxcyA9IG5ldyBTZXQoWwogICAgICAgIC4uLmZhcXMubWFwKCh7IGZhcUlkIH0pID0+IEpTT04uc3RyaW5naWZ5KHsgc2VydmljZUlkLCBmYXFJZCB9KSksCiAgICAgIF0pCgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdGVkRmFxcyA9IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>validate</text>
+        <text>unique</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IjEiCSJXaG8gYXJlIHlvdT8iCSJJJ20geW91ciBmcmllbmQuIgkiQ2F0ZWdvcnkgMSIJIiIJIiIJIkV4cGFuc2lvbiAxIgkiIgkiIgkidHJ1ZSIK</text>
@@ -2102,43 +2101,42 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyB2YWxpZGF0ZWRGYXFzIH0pCgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdW5pcXVlRmFxcyA9IG5ldyBTZXQoWwogICAgICAgIC4uLmZhcXMubWFwKCh7IGZhcUlkIH0pID0+IEpTT04uc3RyaW5naWZ5KHsgc2VydmljZUlkLCBmYXFJZCB9KSksCiAgICAgIF0pCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdW5pcXVlRmFxcyA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmYXFzID0gYXdhaXQgcXVlc3Rpb25zLmRhdGEubWFwKGZhcSA9PiB7CiAgICAgICAgICBjb25zdCBmYXFXaXRoU2VydmljZUlkID0gewogICAgICAgICAgICAuLi5mYXEsCiAgICAgICAgICAgIHNlcnZpY2VJZCwKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiBmYXFXaXRoU2VydmljZUlkCiAgICAgICAgfSkKCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyB2YWxpZGF0ZWRGYXFzIH0pCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdmFsaWRhdGVkRmFxcyA9IGF3YWl0IGZhcVNjaGVtYS52YWxpZGF0ZShmYXFzKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBmYXFzID0gYXdhaXQgcXVlc3Rpb25zLmRhdGEubWFwKGZhcSA9PiB7CiAgICAgICAgICBjb25zdCBmYXFXaXRoU2VydmljZUlkID0gewogICAgICAgICAgICAuLi5mYXEsCiAgICAgICAgICAgIHNlcnZpY2VJZCwKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiBmYXFXaXRoU2VydmljZUlkCiAgICAgICAgfSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZmFxcyA9IGF3YWl0IHF1ZXN0aW9ucy5kYXRhLm1hcChmYXEgPT4gewogICAgICAgIGNvbnN0IGZhcVdpdGhTZXJ2aWNlSWQgPSB7CiAgICAgICAgICAuLi5mYXEsCiAgICAgICAgICBzZXJ2aWNlSWQsCiAgICAgICAgfQogICAgICAgIHJldHVybiBmYXFXaXRoU2VydmljZUlkCiAgICAgIH0pCgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdmFsaWRhdGVkRmFxcyA9IGF3YWl0IGZhcVNjaGVtYS52YWxpZGF0ZShmYXFzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIExvZ2dlci5mYXEuZGVidWcoJyVvJywgcXVlc3Rpb25zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cn0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZmFxcyA9IGF3YWl0IHF1ZXN0aW9ucy5kYXRhLm1hcChmYXEgPT4gewogICAgICAgIGNvbnN0IGZhcVdpdGhTZXJ2aWNlSWQgPSB7CiAgICAgICAgICAuLi5mYXEsCiAgICAgICAgICBzZXJ2aWNlSWQsCiAgICAgICAgfQogICAgICAgIHJldHVybiBmYXFXaXRoU2VydmljZUlkCiAgICAgIH0pCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmYXFJZDogam9pCiAgICAuc3RyaW5nKCkKICAgIC5yZXF1aXJlZCgncmVxdWlyZWQnKQogICAgLnJlZ2V4KC9eKFtcZF0qfFte77yQLe+8mV0qKSQvLCB7CiAgICAgIG1lc3NhZ2U6ICdub3RfZnVsbF93aWR0aCcsCiAgICAgIGV4Y2x1ZGVFbXB0eVN0cmluZzogdHJ1ZSwKICAgIH0pCiAgICAucmVnZXgoL15bXGRdKiQvLCB7CiAgICAgIG1lc3NhZ2U6ICdvbmx5X2RpZ2l0cycsCiAgICAgIGV4Y2x1ZGVFbXB0eVN0cmluZzogdHJ1ZSwKICAgIH0pCiAgICAubWF4KDMwKSwKICB1c2VXaXRoU3VnZ2VzdDogam9pLmJvb2xlYW4oKS5vcHRpb25hbCgpLAogIHF1ZXN0aW9uOiBqb2kuc3RyaW5nKCkucmVxdWlyZWQoJ3JlcXVpcmVkJyksCiAgYW5zd2VyOiBqb2kuc3RyaW5nKCkucmVxdWlyZWQoJ3JlcXVpcmVkJyksCiAgZmFxRXhhbXBsZXM6IGpvaS5hcnJheSgpLml0ZW1zKAogICAgam9pLm9iamVjdCgpLmtleXMoewogICAgICB0ZXh0OiBqb2kuc3RyaW5nKCksCiAgICB9KQogICksCiAgY2F0ZWdvcnkxOiBqb2kuc3RyaW5nKCkub3B0aW9uYWwoKSwKICBjYXRlZ29yeTI6IGpvaS5zdHJpbmcoKS5vcHRpb25hbCgpLAogIGNhdGVnb3J5Mzogam9pLnN0cmluZygpLm9wdGlvbmFsKCksCiAgZXhwYW5zaW9uMTogam9pLnN0cmluZygpLm9wdGlvbmFsKCksCiAgZXhwYW5zaW9uMjogam9pLnN0cmluZygpLm9wdGlvbmFsKCksCiAgZXhwYW5zaW9uMzogam9pLnN0cmluZygpLm9wdGlvbmFsKCksCg==</text>
+        <text encoding="base64">CiAgICAgIExvZ2dlci5mYXEuZGVidWcoJyVvJywgcXVlc3Rpb25zKQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>validate</last-search>
+      <last-search>unique</last-search>
       <last-offset />
-      <last-pattern>validate</last-pattern>
+      <last-pattern>unique</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>width</entry>
         <entry>button</entry>
         <entry>icon</entry>
         <entry>Button</entry>
@@ -2158,6 +2156,7 @@
         <entry>nullable</entry>
         <entry>shape</entry>
         <entry>validate</entry>
+        <entry>unique</entry>
       </history-search>
       <history-cmd />
       <history-expr />
