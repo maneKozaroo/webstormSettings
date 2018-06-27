@@ -1028,7 +1028,7 @@
         <mark key="^" line="174" column="18" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/faqDetail.js" timestamp="1524026922943">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/faqDetail.js" timestamp="1530058970366">
         <mark key="[" line="44" column="22" />
         <mark key="]" line="44" column="22" />
         <mark key="." line="44" column="25" />
@@ -2095,7 +2095,7 @@
         <text>Remote container not found</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmFpLmluZm8oJ1JlbW90ZSBjb250YWluZXIgbm90IGZvdW5kJykK</text>
@@ -2132,15 +2132,14 @@
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\^</entry>
         <entry>foot</entry>
         <entry>bulk</entry>
         <entry>moment</entry>
@@ -2160,6 +2159,7 @@
         <entry>IMPORT</entry>
         <entry>catch</entry>
         <entry>data</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd />
       <history-expr />
