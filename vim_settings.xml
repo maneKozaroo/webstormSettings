@@ -1159,6 +1159,13 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/build/output/mobi-console_20180627/public/static/js/main.a2bdb910.js" timestamp="1530081992969">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="556293" />
+        <mark key="]" line="0" column="556299" />
+        <mark key="^" line="0" column="556299" />
+        <mark key="." line="0" column="556299" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180403002237-create-faq.js" timestamp="1522725435537">
         <mark key="[" line="24" column="6" />
         <mark key="]" line="24" column="19" />
@@ -2065,7 +2072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="8" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
       <jump line="178" column="55" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
       <jump line="182" column="2" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
       <jump line="184" column="55" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
@@ -2165,6 +2171,7 @@
       <jump line="24" column="30" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/index.js" />
       <jump line="12" column="37" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/build/output/mobi-console_20180627/public/static/js/main.a2bdb910.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2174,7 +2181,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>replace</text>
+        <text>ENV</text>
       </register>
       <register name="0" type="4">
         <text>process.env.REACT_APP_KONNECT_SSO_LOGOUT_URL</text>
@@ -2209,19 +2216,19 @@
       <register name="9" type="2">
         <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgY2FtZWxjYXNlICovCg==</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
     </registers>
     <search>
-      <last-search>replace</last-search>
+      <last-search>ENV</last-search>
       <last-offset />
-      <last-pattern>replace</last-pattern>
+      <last-pattern>ENV</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bulk</entry>
-        <entry>moment</entry>
-        <entry>padEnd</entry>
         <entry>warn</entry>
         <entry>processing</entry>
         <entry>export</entry>
@@ -2239,8 +2246,13 @@
         <entry>data</entry>
         <entry>update</entry>
         <entry>replace</entry>
+        <entry>env</entry>
+        <entry>production</entry>
+        <entry>ENV</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
