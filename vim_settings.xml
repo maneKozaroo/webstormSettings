@@ -1067,11 +1067,12 @@
         <mark key="^" line="71" column="17" />
         <mark key="." line="71" column="17" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1530054151684">
-        <mark key="[" line="153" column="58" />
-        <mark key="]" line="153" column="58" />
-        <mark key="^" line="153" column="58" />
-        <mark key="." line="153" column="58" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1530072986017">
+        <mark key="'" line="338" column="11" />
+        <mark key="[" line="309" column="57" />
+        <mark key="]" line="309" column="57" />
+        <mark key="^" line="309" column="30" />
+        <mark key="." line="309" column="57" />
       </file>
       <file name="$USER_HOME$/maneKozaroo/thrifty-ninja/src/store/index.js" timestamp="1529884233021">
         <mark key="'" line="9" column="8" />
@@ -1587,6 +1588,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Downloads/2_examples_5_newlines.csv" timestamp="1530072590442">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/seeders/20180405131713-dictionary-synonyms.js" timestamp="1523919233639">
         <mark key="[" line="65" column="24" />
         <mark key="]" line="65" column="24" />
@@ -2020,9 +2027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="23" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
-      <jump line="160" column="13" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
-      <jump line="161" column="6" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
       <jump line="162" column="45" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
       <jump line="163" column="23" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
       <jump line="165" column="37" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
@@ -2120,19 +2124,22 @@
       <jump line="211" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="215" column="40" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="110" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
+      <jump line="309" column="30" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="334" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
+      <jump line="338" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>releasedAt</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>releasedAt</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>replace</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8VGFibGVDZWxsPnt0KCdzZXJ2aWNlOmxlYXJuaW5nLnN0YXR1cycpfTwvVGFibGVDZWxsPgo=</text>
+      <register name="0" type="4">
+        <text>.replace(/[\t\r\n]/g, ' '),</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -2166,15 +2173,14 @@
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>replace</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>replace</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>foot</entry>
         <entry>bulk</entry>
         <entry>moment</entry>
         <entry>padEnd</entry>
@@ -2194,6 +2200,7 @@
         <entry>catch</entry>
         <entry>data</entry>
         <entry>update</entry>
+        <entry>replace</entry>
       </history-search>
       <history-cmd />
       <history-expr />
