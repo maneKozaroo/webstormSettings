@@ -806,11 +806,11 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Standard/index.js" timestamp="1530079716721">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="223" column="35" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Standard/index.js" timestamp="1530160870637">
+        <mark key="[" line="113" column="4" />
+        <mark key="]" line="113" column="10" />
+        <mark key="." line="113" column="10" />
+        <mark key="^" line="113" column="10" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/pqpamarked.js" timestamp="1524027333008">
         <mark key="[" line="18" column="0" />
@@ -2207,11 +2207,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/build/output/mobi-console_20180627/public/static/js/main.a2bdb910.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAkS09OTkVDVF9TU09fTE9HT1VUX1VSTAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">d2luZG93LmxvY2F0aW9uID0g</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">d2luZG93LmxvY2F0aW9uID0g</text>
       </register>
       <register name="/" type="4">
         <text>ENV</text>
