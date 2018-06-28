@@ -1257,11 +1257,12 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1523844642232">
-        <mark key="[" line="48" column="18" />
-        <mark key="]" line="48" column="43" />
-        <mark key="^" line="48" column="17" />
-        <mark key="." line="48" column="18" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1530161881619">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="101" column="40" />
+        <mark key="]" line="101" column="57" />
+        <mark key="^" line="101" column="57" />
+        <mark key="." line="101" column="57" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180404064222-create-service-provider.js" timestamp="1522880030986">
         <mark key="[" line="3" column="21" />
@@ -2105,27 +2106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="55" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
-      <jump line="182" column="2" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
-      <jump line="184" column="55" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
-      <jump line="185" column="24" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
-      <jump line="262" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/Form/index.js" />
-      <jump line="27" column="16" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/errors.js" />
-      <jump line="437" column="48" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
-      <jump line="445" column="34" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
-      <jump line="431" column="25" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/Form/index.js" />
-      <jump line="47" column="31" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="62" column="36" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="9" column="2" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="41" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="44" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="48" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="51" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="56" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="59" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="61" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="63" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="65" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
       <jump line="67" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
       <jump line="74" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
       <jump line="76" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
@@ -2205,16 +2185,37 @@
       <jump line="12" column="37" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/build/output/mobi-console_20180627/public/static/js/main.a2bdb910.js" />
+      <jump line="57" column="34" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="61" column="40" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="97" column="18" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="60" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="75" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="95" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="98" column="17" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="101" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="103" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="105" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="107" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="109" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="111" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="125" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="127" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="129" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="131" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="133" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="135" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="137" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">d2luZG93LmxvY2F0aW9uID0g</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2luZG93LmxvY2F0aW9uID0g</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>ENV</text>
+        <text>processing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyEvYmluL2Jhc2ggLXUK</text>
@@ -2223,47 +2224,46 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkS09OTkVDVF9TU09fTE9HT1VUX1VSTAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLnVwZGF0ZSgncHJvY2Vzc2luZycsIGZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSRUFDVF9BUFBfS09OTkVDVF9TU09fTE9HT1VUX1VSTDoKICAgICAgICAgIHByb2Nlc3MuZW52LlJFQUNUX0FQUF9LT05ORUNUX1NTT19MT0dPVVRfVVJMLAo=</text>
+        <text encoding="base64">ZWNobyAkS09OTkVDVF9TU09fTE9HT1VUX1VSTAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBSRUFDVF9BUFBfS09OTkVDVF9TU09fTE9HT1VUX1VSTDoKICAgICAgICAgIHByb2Nlc3MuZW52LlJFQUNUX0FQUF9LT05ORUNUX1NTT19MT0dPVVRfVVJMLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52KQo=</text>
+        <text encoding="base64">ICAgICAgICBSRUFDVF9BUFBfS09OTkVDVF9TU09fTE9HT1VUX1VSTDoKICAgICAgICAgIHByb2Nlc3MuZW52LlJFQUNUX0FQUF9LT05ORUNUX1NTT19MT0dPVVRfVVJMLAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52KQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICB7CiAgICAgIHBhdGg6ICcvZGVhdXRoZW50aWNhdGlvbicsCiAgICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdAL2xheW91dHMvQXV0aGVudGljYXRpb24nKSwKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7CiAgICAgICAgICBwYXRoOiAnLycsCiAgICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnQC9jb250YWluZXJzL0RlYXV0aGVudGljYXRpb24nKSwKICAgICAgICB9LAogICAgICBdLAogICAgfSw=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuZ2V0dGVycykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuJHN0b3JlKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuZ2V0dGVycykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ENV</last-search>
+      <last-search>processing</last-search>
       <last-offset />
-      <last-pattern>ENV</last-pattern>
+      <last-pattern>processing</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>warn</entry>
-        <entry>processing</entry>
         <entry>export</entry>
         <entry>auto</entry>
         <entry>key</entry>
@@ -2282,6 +2282,7 @@
         <entry>env</entry>
         <entry>production</entry>
         <entry>ENV</entry>
+        <entry>processing</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
