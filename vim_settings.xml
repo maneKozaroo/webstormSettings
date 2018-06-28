@@ -980,6 +980,12 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/build/foo.sh" timestamp="1530149291274">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/seeders/04-environments.js" timestamp="1522903237342">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="11" />
@@ -1585,11 +1591,11 @@
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/.env" timestamp="1530145881915">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="76" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/.env" timestamp="1530149547555">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="45" />
         <mark key="^" line="0" column="76" />
-        <mark key="." line="0" column="76" />
+        <mark key="." line="0" column="45" />
       </file>
       <file name="$USER_HOME$/Downloads/1_questions_5_duplicates.csv" timestamp="1529993227000">
         <mark key="[" line="2" column="1" />
@@ -1884,6 +1890,12 @@
         <mark key="]" line="10" column="29" />
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/build/build.sh" timestamp="1530149610638">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="6" />
+        <mark key="^" line="43" column="37" />
+        <mark key="." line="43" column="6" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" timestamp="1529559326832">
         <mark key="'" line="49" column="50" />
@@ -2196,17 +2208,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/build/output/mobi-console_20180627/public/static/js/main.a2bdb910.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSRUFDVF9BUFBfS09OTkVDVF9TU09fTE9HT1VUX1VSTDoKICAgICAgICAgIHByb2Nlc3MuZW52LlJFQUNUX0FQUF9LT05ORUNUX1NTT19MT0dPVVRfVVJMLAo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>https://mbwac.dev-mobilus.chat/web/logout</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>ENV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBRTGF5b3V0SGVhZGVyLAo=</text>
+        <text encoding="base64">IyEvYmluL2Jhc2ggLXUK</text>
       </register>
       <register name="p" type="4">
         <text />
