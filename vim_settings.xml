@@ -1562,6 +1562,11 @@
         <mark key="^" line="205" column="24" />
         <mark key="." line="205" column="24" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/build/output/mobi-console_20180628/ecosystem.config.js" timestamp="1530145711830">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionaryDetail.js" timestamp="1523918700069">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1580,11 +1585,11 @@
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/.env" timestamp="1530076109566">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/.env" timestamp="1530145881915">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="76" />
+        <mark key="^" line="0" column="76" />
+        <mark key="." line="0" column="76" />
       </file>
       <file name="$USER_HOME$/Downloads/1_questions_5_duplicates.csv" timestamp="1529993227000">
         <mark key="[" line="2" column="1" />
@@ -2192,10 +2197,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'http://localhost:8081'</text>
+        <text>https://mbwac.dev-mobilus.chat/web/logout</text>
       </register>
       <register name="-" type="4">
-        <text>'http://localhost:8081'</text>
+        <text>https://mbwac.dev-mobilus.chat/web/logout</text>
       </register>
       <register name="/" type="4">
         <text>ENV</text>
@@ -2207,31 +2212,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52KQo=</text>
+        <text encoding="base64">ICAgICAgICBSRUFDVF9BUFBfS09OTkVDVF9TU09fTE9HT1VUX1VSTDoKICAgICAgICAgIHByb2Nlc3MuZW52LlJFQUNUX0FQUF9LT05ORUNUX1NTT19MT0dPVVRfVVJMLAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52KQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICB7CiAgICAgIHBhdGg6ICcvZGVhdXRoZW50aWNhdGlvbicsCiAgICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdAL2xheW91dHMvQXV0aGVudGljYXRpb24nKSwKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7CiAgICAgICAgICBwYXRoOiAnLycsCiAgICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnQC9jb250YWluZXJzL0RlYXV0aGVudGljYXRpb24nKSwKICAgICAgICB9LAogICAgICBdLAogICAgfSw=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuZ2V0dGVycykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgaWYgKHRoaXMuJHN0b3JlKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsgUVRvb2xiYXJUaXRsZSwgUUxheW91dEhlYWRlciB9LAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgUVRvb2xiYXJUaXRsZQogICAgZnJvbSAncXVhc2FyLWZyYW1ld29yay9zcmMvY29tcG9uZW50cy90b29sYmFyL1FUb29sYmFyVGl0bGUnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsgUVRvb2xiYXJUaXRsZSwgUUxheW91dEhlYWRlciB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
