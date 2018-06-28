@@ -1280,10 +1280,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/ecosystem.config.js" timestamp="1530082679310">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/ecosystem.config.js" timestamp="1530145982650">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/seeders/20180403105530-faq_details.js" timestamp="1522738777131">
         <mark key="[" line="43" column="35" />
@@ -2196,8 +2196,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/build/output/mobi-console_20180627/public/static/js/main.a2bdb910.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://mbwac.dev-mobilus.chat/web/logout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBSRUFDVF9BUFBfS09OTkVDVF9TU09fTE9HT1VUX1VSTDoKICAgICAgICAgIHByb2Nlc3MuZW52LlJFQUNUX0FQUF9LT05ORUNUX1NTT19MT0dPVVRfVVJMLAo=</text>
       </register>
       <register name="-" type="4">
         <text>https://mbwac.dev-mobilus.chat/web/logout</text>
@@ -2215,28 +2215,28 @@
         <text encoding="base64">ICAgICAgICBSRUFDVF9BUFBfS09OTkVDVF9TU09fTE9HT1VUX1VSTDoKICAgICAgICAgIHByb2Nlc3MuZW52LlJFQUNUX0FQUF9LT05ORUNUX1NTT19MT0dPVVRfVVJMLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52KQo=</text>
+        <text encoding="base64">ICAgICAgICBSRUFDVF9BUFBfS09OTkVDVF9TU09fTE9HT1VUX1VSTDoKICAgICAgICAgIHByb2Nlc3MuZW52LlJFQUNUX0FQUF9LT05ORUNUX1NTT19MT0dPVVRfVVJMLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52KQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICB7CiAgICAgIHBhdGg6ICcvZGVhdXRoZW50aWNhdGlvbicsCiAgICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdAL2xheW91dHMvQXV0aGVudGljYXRpb24nKSwKICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7CiAgICAgICAgICBwYXRoOiAnLycsCiAgICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnQC9jb250YWluZXJzL0RlYXV0aGVudGljYXRpb24nKSwKICAgICAgICB9LAogICAgICBdLAogICAgfSw=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy4kc3RvcmUuZ2V0dGVycykK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgaWYgKHRoaXMuJHN0b3JlKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsgUVRvb2xiYXJUaXRsZSwgUUxheW91dEhlYWRlciB9LAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
