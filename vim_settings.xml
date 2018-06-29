@@ -151,6 +151,13 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/utils/promisify/index.js" timestamp="1530255476531">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="58" />
+      </file>
       <file name="$USER_HOME$/src/mba/mba-operator/lib/components/common/papq/PAPQ.js" timestamp="1516765635481">
         <mark key="[" line="118" column="10" />
         <mark key="]" line="118" column="13" />
@@ -1226,10 +1233,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1530253018367">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1530255314200">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="0" column="43" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionarydetail.js" timestamp="1524027025352">
         <mark key="[" line="17" column="22" />
@@ -1346,12 +1355,12 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" timestamp="1530252968394">
-        <mark key="'" line="26" column="1" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="37" column="38" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" timestamp="1530255530092">
+        <mark key="'" line="25" column="1" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="46" />
+        <mark key="." line="37" column="46" />
+        <mark key="^" line="37" column="46" />
       </file>
       <file name="$USER_HOME$/Downloads/3_dictionary_5_duplicate_synonyms.csv" timestamp="1529995480290">
         <mark key="[" line="2" column="9" />
@@ -2091,10 +2100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/store/user/index.js" />
-      <jump line="25" column="23" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/layouts/Standard/index.vue" />
-      <jump line="14" column="34" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/faq.js" />
-      <jump line="14" column="27" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/faq.js" />
       <jump line="15" column="1" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/quasar/index.js" />
       <jump line="15" column="0" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/containers/Authentication/index.vue" />
       <jump line="18" column="8" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/layouts/Authentication/index.vue" />
@@ -2191,49 +2196,53 @@
       <jump line="34" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/error/index.js" />
       <jump line="7" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/error/index.js" />
       <jump line="11" column="1" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/utils/promisify/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/utils/promisify/index.js" />
+      <jump line="2" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
+      <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyB0ZXN0IHRoZSBsaW1pdAo=</text>
+      <register name="&quot;" type="4">
+        <text>listIntents</text>
       </register>
       <register name="-" type="4">
-        <text>assistantRateLimit</text>
+        <text>listIntents</text>
       </register>
       <register name="/" type="4">
         <text>processing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R0VUIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC90ZXN0cy9hc3Npc3RhbnRSYXRlTGltaXQK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgYXBpLmxpc3RJbnRlbnRzKHsK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyB0ZXN0IHRoZSBsaW1pdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBleGNlZWQgdGhlIGxpbWl0CkdFVCBodHRwOi8vbG9jYWxob3N0OjgwMDAvdGVzdHMvYXNzaXN0YW50UmF0ZUxpbWl0CgoK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgdGVzdCB0aGUgbGltaXQKR0VUIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC90ZXN0cy9yYXRlRXhjZWVkZWQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cjw+IDIwMTgtMDYtMjlUMDMwMDU3LjIwMC50eHQKPD4gMjAxOC0wNi0yOVQwMjU5NTQuMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDAyNTkyOS4yMDAudHh0Cjw+IDIwMTgtMDYtMjlUMDI1NjE5LjIwMC50eHQKPD4gMjAxOC0wNi0yOVQwMjU2MDMuMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDAyNTUzNC4yMDAudHh0Cjw+IDIwMTgtMDYtMjlUMDI1NTI2LjIwMC50eHQKPD4gMjAxOC0wNi0yOVQwMjU1MDcuMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDEyNTk1My4yMDAudHh0Cjw+IDIwMTgtMDYtMjlUMTI1OTAwLjIwMC50eHQKPD4gMjAxOC0wNi0yOVQxMjU4MzUuMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDEyNTgxNS4yMDAudHh0Cjw+IDIwMTgtMDYtMjlUMTI1NzI2LjIwMC50eHQKPD4gMjAxOC0wNi0yOVQxMjU2MTcuNTAwLmpzb24KPD4gMjAxOC0wNi0yOVQxMjUzNDEuMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDEyNTI0Ni40MDQudHh0Cjw+IDIwMTgtMDYtMjlUMTI1MjE4LjIwMC50eHQKPD4gMjAxOC0wNi0yOVQxMjUxMDAuNTAwLmpzb24KCiMjIwo=</text>
+        <text encoding="base64">Cjw+IDIwMTgtMDYtMjlUMDM1NTA0LjUwMC5qc29uCjw+IDIwMTgtMDYtMjlUMDM1NDI4LjUwMC50eHQKPD4gMjAxOC0wNi0yOVQwMzUzMjYuMjAwLmpzb24KPD4gMjAxOC0wNi0yOVQwMzUyNDAuMjAwLmpzb24KPD4gMjAxOC0wNi0yOVQwMzUwMzcuMjAwLmpzb24KPD4gMjAxOC0wNi0yOVQwMzQ2MzMuMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDAzNDU0MC4yMDAudHh0Cjw+IDIwMTgtMDYtMjlUMDM0NTE2LjIwMC50eHQKPD4gMjAxOC0wNi0yOVQwMzQ0NTYuMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDAzNDM0NS4yMDAudHh0Cjw+IDIwMTgtMDYtMjlUMDM0MTM4LjIwMC50eHQKPD4gMjAxOC0wNi0yOVQwMzQxMTguMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDAzMzkzNS4yMDAudHh0Cjw+IDIwMTgtMDYtMjlUMDMzODU5LjIwMC50eHQKPD4gMjAxOC0wNi0yOVQwMzM4NDUuMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDAzMzc0OC4yMDAudHh0Cjw+IDIwMTgtMDYtMjlUMDMzNzIxLjIwMC50eHQKPD4gMjAxOC0wNi0yOVQwMzM1MzEuMjAwLnR4dAo8PiAyMDE4LTA2LTI5VDAzMzUxNS4yMDAuanNvbgo8PiAyMDE4LTA2LTI5VDAzMzM0My4yMDAudHh0Cjw+IDIwMTgtMDYtMjlUMDMzMzA0LjIwMC5qc29uCjw+IDIwMTgtMDYtMjlUMDMzMTQ4LjIwMC5qc29uCjw+IDIwMTgtMDYtMjlUMDMzMTIzLjIwMC50eHQKPD4gMjAxOC0wNi0yOVQwMzMxMDQuMjAwLmpzb24KPD4gMjAxOC0wNi0yOVQwMzE3MDEuMjAwLmpzb24KCiMjIwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGVycm9yLm1vZHVsZSA9ICdhcGknCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaHREcEYxaUdsdlYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBhcGkgPSBhd2FpdCBuZXcgQXBpKCkuY29ubmVjdFRvKHsKICAgIHByb3ZpZGVyOiAnYXNzaXN0YW50JywKICAgIGlkZW50aWZpZXI6ICdmNjlhZTQ5Ny01MjJmLTQ0OGItYWJkNy1kZTZjZDljMmMxNjEnLAogICAgc2VjcmV0OiAnZmh0RHBGMWlHbHZWJywKICB9KQoK</text>
+        <text encoding="base64">ICBsZXQgcmVzcG9uc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhd2FpdCBhcGkubGlzdFdvcmtzcGFjZXMoKSkK</text>
+        <text encoding="base64">ICBjdHguYm9keSA9IHJlc3BvbnNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVycm9yLmNvZGUgPQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
