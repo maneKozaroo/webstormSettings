@@ -196,6 +196,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/errorLog.js" timestamp="1530234841584">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionarysynonym.js" timestamp="1523250552340">
         <mark key="[" line="34" column="32" />
         <mark key="]" line="34" column="91" />
@@ -1380,10 +1385,11 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="127" column="39" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/error/index.js" timestamp="1530232227542">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/error/index.js" timestamp="1530235690041">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/30-create-production-services.js" timestamp="1522891941404">
         <mark key="[" line="18" column="24" />
@@ -1882,7 +1888,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" timestamp="1530234008945">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" timestamp="1530234874348">
         <mark key="'" line="82" column="9" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -2084,7 +2090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="23" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/firebase/index.js" />
       <jump line="7" column="8" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/store/index.js" />
       <jump line="7" column="51" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/firebase/index.js" />
       <jump line="29" column="0" filename="$USER_HOME$/maneKozaroo/thrifty-ninja/src/firebase/index.js" />
@@ -2184,13 +2189,14 @@
       <jump line="3" column="12" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/service.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/service.js" />
       <jump line="80" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" />
+      <jump line="8" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/error/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>set</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExvZ2dlci5hcHAuZGVidWcoJyVvJywgYXJncykK</text>
       </register>
       <register name="-" type="4">
-        <text>set</text>
+        <text>errors</text>
       </register>
       <register name="/" type="4">
         <text>processing</text>
@@ -2202,31 +2208,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlci5hcHAuZGVidWcoJyVvJywgYXJncykK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgRGF0YWJhc2UucHJvZHVjdGlvblNlcnZpY2UudXBkYXRlKAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxlYXJuaW5nU3RhdHVzSWQ6IDMsCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICB7IHdoZXJlOiB7IHByb2R1Y3Rpb25TZXJ2aWNlSWQgfSB9CiAgICAgICAgICAgICk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgYXJncyB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHN1cGVyKGFyZ3MpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ly8gaWYgKGVycm9yLm5hbWUgPT09ICdDdXN0b21FcnJvcicpIHsKICAgIC8vICAgYXdhaXQgRGF0YWJhc2UuZXJyb3JMb2cuY3JlYXRlKHsKICAgIC8vICAgICBzZXJ2aWNlSWQsCiAgICAvLyAgICAgZXJyb3JDb2RlOiBlcnJvci5jb2RlLAogICAgLy8gICAgIG1lc3NhZ2U6IGVycm9yLm1lc3NhZ2UsCiAgICAvLyAgICAgYWN0aW9uOiAnbGVhcm4nLAogICAgLy8gICAgIHByb3ZpZGVyOiBlcnJvci5zb3VyY2UsCiAgICAvLyAgIH0pCiAgICAvLyAgIGF3YWl0IERhdGFiYXNlLnNlcnZpY2UudXBkYXRlKAogICAgLy8gICAgIHsKICAgIC8vICAgICAgIGxlYXJuaW5nU3RhdHVzSWQ6IDMsCiAgICAvLyAgICAgfSwKICAgIC8vICAgICB7IHdoZXJlOiB7IHNlcnZpY2VJZCB9IH0KICAgIC8vICAgKQogICAgLy8gICBjdHguYm9keSA9IHsgbWVzc2FnZTogZXJyb3IubWVzc2FnZSwgcGFyYW1zOiBlcnJvci5wYXJhbXMgfQogICAgLy8gfSBlbHNlIHsKICAgIC8vICAgY3R4LmJvZHkgPSB7IG1lc3NhZ2U6IGVycm9yLm1lc3NhZ2UgfQogICAgLy8g</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgRGF0YWJhc2UucHJvZHVjdGlvblNlcnZpY2UudXBkYXRlKAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxlYXJuaW5nU3RhdHVzSWQ6IDMsCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICB7IHdoZXJlOiB7IHByb2R1Y3Rpb25TZXJ2aWNlSWQgfSB9CiAgICAgICAgICAgICk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGFiYXNlIGZyb20gJy4uL2RhdGFiYXNlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2dlciBmcm9tICcuLi9sb2dnZXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
