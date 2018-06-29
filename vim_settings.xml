@@ -1385,11 +1385,11 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="127" column="39" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/error/index.js" timestamp="1530235690041">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/error/index.js" timestamp="1530237157853">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/30-create-production-services.js" timestamp="1522891941404">
         <mark key="[" line="18" column="24" />
@@ -2192,11 +2192,11 @@
       <jump line="8" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/error/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5hcHAuZGVidWcoJyVvJywgYXJncykK</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>errors</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>processing</text>
@@ -2208,31 +2208,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5hcHAuZGVidWcoJyVvJywgYXJncykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgYXJncyB9KQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHN1cGVyKGFyZ3MpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgRGF0YWJhc2UucHJvZHVjdGlvblNlcnZpY2UudXBkYXRlKAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxlYXJuaW5nU3RhdHVzSWQ6IDMsCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICB7IHdoZXJlOiB7IHByb2R1Y3Rpb25TZXJ2aWNlSWQgfSB9CiAgICAgICAgICAgICk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGVycm9ycyA9IGFyZ3MubWVzc2FnZS5zcGxpdCgnLCcpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIExvZ2dlci5hcHAuZGVidWcoJyVvJywgYXJncykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgYXJncyB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
