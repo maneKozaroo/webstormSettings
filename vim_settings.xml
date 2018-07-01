@@ -109,11 +109,11 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="91" column="20" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1530233975116">
-        <mark key="[" line="523" column="0" />
-        <mark key="]" line="523" column="12" />
-        <mark key="." line="523" column="4" />
-        <mark key="^" line="523" column="3" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1530483578838">
+        <mark key="[" line="300" column="2" />
+        <mark key="]" line="301" column="0" />
+        <mark key="." line="301" column="0" />
+        <mark key="^" line="301" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Compare/index.js" timestamp="1522305368301">
         <mark key="[" line="9" column="15" />
@@ -1898,11 +1898,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" timestamp="1530234874348">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" timestamp="1530483516549">
         <mark key="'" line="82" column="9" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+        <mark key="[" line="91" column="30" />
+        <mark key="]" line="91" column="29" />
+        <mark key="." line="91" column="29" />
+        <mark key="^" line="91" column="29" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1524013274897">
         <mark key="[" line="8" column="69" />
