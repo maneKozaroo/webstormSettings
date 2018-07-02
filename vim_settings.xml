@@ -915,12 +915,12 @@
         <mark key="." line="46" column="36" />
         <mark key="^" line="46" column="36" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1530165015096">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1530490678229">
         <mark key="'" line="34" column="53" />
-        <mark key="[" line="115" column="42" />
-        <mark key="]" line="115" column="55" />
-        <mark key="." line="115" column="55" />
-        <mark key="^" line="115" column="55" />
+        <mark key="[" line="163" column="61" />
+        <mark key="]" line="163" column="71" />
+        <mark key="." line="163" column="71" />
+        <mark key="^" line="163" column="71" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/40-create-service-providers.js" timestamp="1522891515215">
         <mark key="[" line="10" column="31" />
@@ -2224,11 +2224,11 @@
       <jump line="19" column="27" filename="$USER_HOME$/maneKozaroo/jason-zudell/src/containers/ResumeContact.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>status</text>
       </register>
       <register name="-" type="4">
-        <text>listService</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>processing</text>
