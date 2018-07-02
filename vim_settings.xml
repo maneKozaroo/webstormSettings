@@ -1278,12 +1278,12 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1530488617915">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1530489171299">
         <mark key="'" line="13" column="2" />
-        <mark key="[" line="154" column="32" />
-        <mark key="]" line="154" column="38" />
-        <mark key="^" line="154" column="38" />
-        <mark key="." line="154" column="38" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="119" column="12" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180404064222-create-service-provider.js" timestamp="1522880030986">
         <mark key="[" line="3" column="21" />
@@ -2224,11 +2224,11 @@
       <jump line="19" column="27" filename="$USER_HOME$/maneKozaroo/jason-zudell/src/containers/ResumeContact.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CLEAR</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>CLEAR</text>
+        <text>listService</text>
       </register>
       <register name="/" type="4">
         <text>processing</text>
@@ -2240,31 +2240,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVNYWlsOiBjb250YWN0QGphc29uenVkZWxsLmNvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9iaWxlOiAoMDkwKSA0NzAxIDE0MjUKICAgICAgICAgICAgZU1haWw6IGNvbnRhY3RAamFzb256dWRlbGwuY29tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVNYWlsOiBjb250YWN0QGphc29uenVkZWxsLmNvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZlZWwgZnJlZSB0byBjb250YWN0IG1lIGFueXRpbWUuIEl0IG1heSB0YWtlIHNvbWUgdGltZSwgYnV0IEkgd2lsbCBkZWZpbml0ZWx5IHJlc3BvbmQhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9iaWxlOiAoMDkwKSA0NzAxIDE0MjUKICAgICAgICAgICAgZU1haWw6IGNvbnRhY3RAamFzb256dWRlbGwuY29tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMzU5LTAwMzYKICAgICAgICAgICAgVG9rb3JvemF3YSwgU2FpdGFtYQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEZlZWwgZnJlZSB0byBjb250YWN0IG1lIGFueXRpbWUuIEl0IG1heSB0YWtlIHNvbWUgdGltZSwgYnV0IEkgd2lsbCBkZWZpbml0ZWx5IHJlc3BvbmQhCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgMzU5LTAwMzYKICAgICAgICAgICAgVG9rb3JvemF3YSwgU2FpdGFtYQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHYtbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZlZWwgZnJlZSB0byBjb250YWN0IG1lIGFueXRpbWUuIEl0IG1heSB0YWtlIHNvbWUgdGltZSwgYnV0IEkgd2lsbCBkZWZpbml0ZWx5IHJlc3BvbmQhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2VtYWlsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHYtbGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
