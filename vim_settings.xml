@@ -233,6 +233,13 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/maneKozaroo/jason-zudell/src/containers/ResumeExperience.vue" timestamp="1530506701129">
+        <mark key="'" line="39" column="30" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="43" column="66" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Export/Examples/index.js" timestamp="1529545251569">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="65" />
@@ -2146,10 +2153,14 @@
         <mark key="^" line="26" column="88" />
         <mark key="." line="26" column="88" />
       </file>
+      <file name="$USER_HOME$/maneKozaroo/jason-zudell/src/containers/ResumeSkills.vue" timestamp="1530506188266">
+        <mark key="[" line="138" column="43" />
+        <mark key="]" line="138" column="54" />
+        <mark key="^" line="138" column="54" />
+        <mark key="." line="138" column="54" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
-      <jump line="32" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="33" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="34" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
       <jump line="25" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
@@ -2248,64 +2259,65 @@
       <jump line="45" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/reducer.js" />
       <jump line="66" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/reducer.js" />
       <jump line="46" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/reducer.js" />
+      <jump line="12" column="30" filename="$USER_HOME$/maneKozaroo/jason-zudell/src/containers/ResumeExperience.vue" />
+      <jump line="41" column="30" filename="$USER_HOME$/maneKozaroo/jason-zudell/src/containers/ResumeExperience.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEVycm9ySGFuZGxlciBmcm9tICcuLi8uLi8uLi9lcnJvcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvdi1saXN0LXRpbGUtYWN0aW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>June 2008 - February 2015</text>
       </register>
       <register name="/" type="4">
-        <text>STATUS</text>
+        <text>two</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHdoaWxlICh0cnVlKSB7CiAgICAgIGNvbnN0IHJlc3BvbnNlID0geWllbGQgY2FsbChBcGkuc2VydmljZXMucmVhZCwgeyBzZXJ2aWNlSWQgfSkKICAgICAgY29uc3Qgc2VydmljZSA9IHJlc3BvbnNlLmRhdGEKICAgICAgY29uc3QgbGVhcm5pbmdTdGF0dXNJZCA9IHBhcnNlSW50KHNlcnZpY2UubGVhcm5pbmdTdGF0dXNJZCwgMTApCiAgICAgIGlmIChsZWFybmluZ1N0YXR1c0lkICE9PSAyKSB7CiAgICAgICAgeWllbGQgcHV0KGFjdGlvbnMuc3RhdHVzLnN1Y2Nlc3MoZnJvbUpTKHNlcnZpY2UpKSkKICAgICAgICBicmVhawogICAgICB9CiAgICAgIHlpZWxkIGRlbGF5KDQwMDAwKQogICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHYtbGlzdC10aWxlLXN1Yi10aXRsZT5GcmVlbGFuY2Ugd2ViIGRldmVsb3Blcjwvdi1saXN0LXRpbGUtc3ViLXRpdGxlPgo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEVycm9ySGFuZGxlciBmcm9tICcuLi8uLi8uLi9lcnJvcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvdi1saXN0LXRpbGUtYWN0aW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx2LWxpc3QtdGlsZS1hY3Rpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDx2LWxpc3QtdGlsZS1hY3Rpb24tdGV4dD48L3YtbGlzdC10aWxlLWFjdGlvbi10ZXh0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvdi1saXN0LXRpbGUtYWN0aW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAqcmVwZWF0Q2hlY2soZGF0YSkgewogICAgZm9yIChsZXQgaSA9IDE7IGkgPD0gMTAwOyBpICs9IDEpIHsKICAgICAgY29uc3Qgc3RhdHVzID0geWllbGQgY2FsbChBcGkuc2VydmljZXMuc3RhdHVzLCBkYXRhKQogICAgICBpZiAoc3RhdHVzLmRhdGEubGVhcm5pbmdTdGF0dXNJZCA9PT0gMikgewogICAgICAgIHlpZWxkIHB1dChhY3Rpb25zLnN0YXR1cy5jb250aW51ZShmcm9tSlMoc3RhdHVzLmRhdGEpKSkKICAgICAgICB5aWVsZCBjYWxsKGRlbGF5LCA0MDAwMCkKICAgICAgfSBlbHNlIHsKICAgICAgICB5aWVsZCBwdXQoYWN0aW9ucy5zdGF0dXMuc3VjY2Vzcyhmcm9tSlMoc3RhdHVzLmRhdGEpKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx2LWxpc3QtdGlsZS1hY3Rpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDx2LWxpc3QtdGlsZS1hY3Rpb24tdGV4dD48L3YtbGlzdC10aWxlLWFjdGlvbi10ZXh0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC92LWxpc3QtdGlsZS1hY3Rpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHYtbGlzdC10aWxlLWFjdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICA8di1saXN0LXRpbGUtYWN0aW9uLXRleHQ+PC92LWxpc3QtdGlsZS1hY3Rpb24tdGV4dD4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgKnN0YXR1cyh7IHBheWxvYWQ6IHsgc2VydmljZUlkLCBwcm9kdWN0aW9uU2VydmljZUlkIH0gfSkgewogICAgdHJ5IHsKICAgICAgeWllbGQgY2FsbChvcGVyYXRpb25zLnJlcGVhdENoZWNrLCB7</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEVycm9ySGFuZGxlciBmcm9tICcuLi8uLi8uLi9lcnJvcicK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAqcmVwZWF0Q2hlY2soZGF0YSkgewogICAgZm9yIChsZXQgaSA9IDE7IGkgPD0gMTAwOyBpICs9IDEpIHsKICAgICAgY29uc3Qgc3RhdHVzID0geWllbGQgY2FsbChBcGkucHJvZHVjdGlvblNlcnZpY2VzLnN0YXR1cywgZGF0YSkKICAgICAgaWYgKHN0YXR1cy5kYXRhW2RhdGEucHJvZHVjdGlvblNlcnZpY2VJZF0ubGVhcm5pbmdTdGF0dXNJZCA9PT0gMikgewogICAgICAgIHlpZWxkIHB1dChhY3Rpb25zLnN0YXR1cy5jb250aW51ZShmcm9tSlMoc3RhdHVzKSkpCiAgICAgICAgeWllbGQgY2FsbChkZWxheSwgNDAwMDApCiAgICAgIH0gZWxzZSB7CiAgICAgICAgeWllbGQgcHV0KGFjdGlvbnMuc3RhdHVzLnN1Y2Nlc3MoZnJvbUpTKHN0YXR1cy5kYXRhKSkpCiAgICAgICAgYnJlYWsKICAgICAgfQogICAgfQogIH0s</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>STATUS</last-search>
+      <last-search>two</last-search>
       <last-offset />
-      <last-pattern>STATUS</last-pattern>
+      <last-pattern>two</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
         <entry>error</entry>
         <entry>yup</entry>
         <entry>nullable</entry>
@@ -2325,6 +2337,7 @@
         <entry>payload</entry>
         <entry>STATUs</entry>
         <entry>STATUS</entry>
+        <entry>two</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
