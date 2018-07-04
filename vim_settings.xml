@@ -40,7 +40,6 @@
         <mark key="]" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/maneKozaroo/jasonzudell/app/assets/javascripts/welcome.coffee" timestamp="1530487274216" />
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/package.json" timestamp="1517361986661">
         <mark key="'" line="81" column="21" />
         <mark key="[" line="18" column="0" />
@@ -251,7 +250,6 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/maneKozaroo/jasonzudell/app/assets/stylesheets/welcome.scss" timestamp="1530487622839" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/QuestionExamples/Form/index.js" timestamp="1522386783077">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
@@ -1189,7 +1187,6 @@
         <mark key="^" line="26" column="33" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/maneKozaroo/jasonzudell/app/views/welcome/index.html.haml" timestamp="1530487998013" />
       <file name="$USER_HOME$/Dropbox/src/vue-web-boilerplate/src/components/Home.vue" timestamp="1517357246008">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="10" />
@@ -1877,6 +1874,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/src/mba/mobi-series/src/App.vue" timestamp="1530663657589">
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="79" column="30" />
+        <mark key="^" line="79" column="30" />
+        <mark key="." line="79" column="30" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1530503320025">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
@@ -2187,10 +2190,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dictionaryId</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>dictionaryId</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>two</text>
