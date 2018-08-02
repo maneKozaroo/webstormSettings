@@ -2,9 +2,108 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/index.js" timestamp="1533248872880">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/_plugin.js" timestamp="1533249647673">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1533248763127">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/auth.js" timestamp="1533249572683">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/database.js" timestamp="1533249575361">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/ui.js" timestamp="1533249561105">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/config.js" timestamp="1533249582602">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/plugins/firebase.js" timestamp="1533248938154">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/config.js" />
+      <jump line="1" column="35" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/ui.js" />
+      <jump line="5" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/auth.js" />
+      <jump line="4" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/auth.js" />
+      <jump line="10" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/auth.js" />
+      <jump line="5" column="20" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/ui.js" />
+      <jump line="10" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/ui.js" />
+      <jump line="3" column="34" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/database.js" />
+      <jump line="5" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/database.js" />
+      <jump line="1" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/config.js" />
+      <jump line="7" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/_plugin.js" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGF1dGggPSBmaXJlYmFzZS5hdXRoKCk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZpcmViYXNlLmluaXRpYWxpemVBcHAoY29uZmlnLmZpcmViYXNlKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGF1dGggZnJvbSAnLi9hdXRoJzsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGF1dGggPSBmaXJlYmFzZS5hdXRoKCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuL2NvbmZpZyc7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>db</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
