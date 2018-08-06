@@ -24,11 +24,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" timestamp="1533533576986">
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="20" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="33" column="20" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" timestamp="1533535057228">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="37" />
+        <mark key="^" line="33" column="37" />
+        <mark key="." line="33" column="37" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/index.js" timestamp="1533272556243">
         <mark key="[" line="1" column="19" />
@@ -45,6 +45,10 @@
       <file name="$USER_HOME$/Downloads/jason-en-test-a50cfc703180.json" timestamp="1533532376082">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="73" />
+      </file>
+      <file name="$USER_HOME$/Downloads/dialogflow-180806-1455-8566edaf701e.json" timestamp="1533535046281">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="1749" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/main.js" timestamp="1533251328436">
         <mark key="[" line="4" column="0" />
@@ -69,6 +73,10 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/Downloads/dialogflow-180806-1443-7e2aad0efc1a.json" timestamp="1533534758545">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="1749" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/router/credentials.json" timestamp="1533277995885">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="1749" />
@@ -92,12 +100,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="23" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/config.js" timestamp="1533252051806">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/mutations.js" timestamp="1533531491374">
         <mark key="[" line="10" column="38" />
@@ -177,16 +179,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBaaJWFehBSfjQ\ngxvlRScKCZgYRRGnxyAZ+gOuB1XUbNj3UTf9PKyP0ZiAcEprGAE1AgK//jFJfVDP\nt2XBSQoMSq53mYKj0geHnIOWNgmmk6CwBUXeIi6w/zNYnniWfKcMje9iWGFSB1O0\nrQtYTZZ9UxmGpqL5F05ro5Jek35ZaJ2wf6+JzktrXUwwbwrFrYrrmQFzO7YKolzx\nc4T9sfHEXqNOArujTLhSDaf1OGze+WGgtNUAM3vZuiH+LXl+2wvEhEt7kYDIM3xy\nNL31GPIchdjIUrDyWYFibqSODbaIoJ5EclQ+ADjwYmdWgny1Gs3e4hTkLi2IKVXI\nRk/O0kIXAgMBAAECggEACIUlwJMQeyfODSlpZi0orhmEGLWaNIDiGiLYXKc4EbaF\nzEdIpyAwHdnG1QmdTaBuFS60fk6tTyZ1E+FpWx1jku0LSHt7tMnAySmM5mYVAMCK\nGJby3/kzg1qKoYHBoCd3mGb8P6HTD7EA7/mbgVVRps2tVzAqB70OGFHJVd87dqbA\ndabtfMuY+8ufEMz/WSfeH78KxmUkAt1luPXJuZ/M1Qgy7jC6ugaFjWp+PV97/fDy\nFwBuPMb/L5dP0zEZ6SAtnkiY02Elu/Cb9abxsYD4t2g+30Y8SV6Yp+VoXEZUS4vB\ny8aI4a7EgDTpmPIkaveksPZCsRo9d9GE2zjUJC8vqQKBgQDyzqLqGOnX1aXSiIde\nrNxtRcwpUWG/BeZ34u/Bh6TI6q4rR3oRiIJ65CbKXV53uxpQ0aP/F+2HFR9adTsB\nSCxRuD9mlMRYkmlqtl3aOnOJ4eFDNj0b1kqw9im1wzGjCgDAISLOT4dz/s1xHHTI\nERqpbUI7bk1aqnfmlepXpcSuUwKBgQDL6+/S2vAtDf4pA60idlkdrpBpVybPBry6\nulGDfbgrhoLOLneO0KMVcXHY58VDqr/C3qBJskAbYKAm0GynA1UweX7geFEXzDzS\nTyJonFl7tCD33QD14yPT1mfY6xNbmN3/V91Xn/AyMQkNeMTIq8xjK8ELQ0BzoCeq\nL/41nB88rQKBgQCE6Lug7RZEAT0N65I+Lt1SK1zAWT3qNK6dfWnERB3dpSjFpBCb\nvF/AKVdaepWVcKPNDZR5tH1e7h8FgxpTb1BjQznhSxnXaf2uXjktlcVc+no2MmBs\n9nZYO8dFKZ3oIzeZ9Al7aWk6A4YtnmgGg+ZWS+pvYceSE7IiVHm8lI7+5QKBgFY2\n/kIrhnfF/rrgbwau+qZt82hWDHZi5tAbjfMF6COezxbU1n9u/kRGnleSRfiB7Gk7\nLpF551ir1YoTfJxv8Eh6VYYZ2E8zblOMWYPY9owyb+3bZliPG8qoT2eKm7iSPOmE\nAHTXjfnqeWVUtf4RhGw5R3i3ijxYbeyqNdP8mchRAoGAKgP4u1uFx53GXx2KJIXo\nYxiC2U7nps5yv1/1Umce1khGRQKIVpUowWTngNoJMXNaFJ9QYKe5Q1YvA3jjg4uh\noxlEtDwPBVs63CUNXyX6hfBsbnCgWgW86LP6f1Fo8d/NSvfm+u5oKSO8ZULjij+G\n5Sljh3H95G5w7pFa3hj0AhQ=\n-----END PRIVATE KEY-----\n</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>dialogflow-abmfqn@jason-en-test.iam.gserviceaccount.com</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>\\n</text>
       </register>
       <register name="0" type="4">
-        <text>-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBaaJWFehBSfjQ\ngxvlRScKCZgYRRGnxyAZ+gOuB1XUbNj3UTf9PKyP0ZiAcEprGAE1AgK//jFJfVDP\nt2XBSQoMSq53mYKj0geHnIOWNgmmk6CwBUXeIi6w/zNYnniWfKcMje9iWGFSB1O0\nrQtYTZZ9UxmGpqL5F05ro5Jek35ZaJ2wf6+JzktrXUwwbwrFrYrrmQFzO7YKolzx\nc4T9sfHEXqNOArujTLhSDaf1OGze+WGgtNUAM3vZuiH+LXl+2wvEhEt7kYDIM3xy\nNL31GPIchdjIUrDyWYFibqSODbaIoJ5EclQ+ADjwYmdWgny1Gs3e4hTkLi2IKVXI\nRk/O0kIXAgMBAAECggEACIUlwJMQeyfODSlpZi0orhmEGLWaNIDiGiLYXKc4EbaF\nzEdIpyAwHdnG1QmdTaBuFS60fk6tTyZ1E+FpWx1jku0LSHt7tMnAySmM5mYVAMCK\nGJby3/kzg1qKoYHBoCd3mGb8P6HTD7EA7/mbgVVRps2tVzAqB70OGFHJVd87dqbA\ndabtfMuY+8ufEMz/WSfeH78KxmUkAt1luPXJuZ/M1Qgy7jC6ugaFjWp+PV97/fDy\nFwBuPMb/L5dP0zEZ6SAtnkiY02Elu/Cb9abxsYD4t2g+30Y8SV6Yp+VoXEZUS4vB\ny8aI4a7EgDTpmPIkaveksPZCsRo9d9GE2zjUJC8vqQKBgQDyzqLqGOnX1aXSiIde\nrNxtRcwpUWG/BeZ34u/Bh6TI6q4rR3oRiIJ65CbKXV53uxpQ0aP/F+2HFR9adTsB\nSCxRuD9mlMRYkmlqtl3aOnOJ4eFDNj0b1kqw9im1wzGjCgDAISLOT4dz/s1xHHTI\nERqpbUI7bk1aqnfmlepXpcSuUwKBgQDL6+/S2vAtDf4pA60idlkdrpBpVybPBry6\nulGDfbgrhoLOLneO0KMVcXHY58VDqr/C3qBJskAbYKAm0GynA1UweX7geFEXzDzS\nTyJonFl7tCD33QD14yPT1mfY6xNbmN3/V91Xn/AyMQkNeMTIq8xjK8ELQ0BzoCeq\nL/41nB88rQKBgQCE6Lug7RZEAT0N65I+Lt1SK1zAWT3qNK6dfWnERB3dpSjFpBCb\nvF/AKVdaepWVcKPNDZR5tH1e7h8FgxpTb1BjQznhSxnXaf2uXjktlcVc+no2MmBs\n9nZYO8dFKZ3oIzeZ9Al7aWk6A4YtnmgGg+ZWS+pvYceSE7IiVHm8lI7+5QKBgFY2\n/kIrhnfF/rrgbwau+qZt82hWDHZi5tAbjfMF6COezxbU1n9u/kRGnleSRfiB7Gk7\nLpF551ir1YoTfJxv8Eh6VYYZ2E8zblOMWYPY9owyb+3bZliPG8qoT2eKm7iSPOmE\nAHTXjfnqeWVUtf4RhGw5R3i3ijxYbeyqNdP8mchRAoGAKgP4u1uFx53GXx2KJIXo\nYxiC2U7nps5yv1/1Umce1khGRQKIVpUowWTngNoJMXNaFJ9QYKe5Q1YvA3jjg4uh\noxlEtDwPBVs63CUNXyX6hfBsbnCgWgW86LP6f1Fo8d/NSvfm+u5oKSO8ZULjij+G\n5Sljh3H95G5w7pFa3hj0AhQ=\n-----END PRIVATE KEY-----\n</text>
+        <text>-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmmQNj8ihCRtEp\nS9tElPOD92jo2iMPuLEXyNxMV2QuvNEbb7kLs1YbjhaXxk1MCkgZChHlkWXsOGDc\nptPhwGCT2XTiDGbw4rO+xrTqt3HP2o8K1EcQsJqcfBcIcySam2trSNC4jllhtyCq\n1/JH/pY/yA4GsPe0pMlXmv8R7Gnax+H7jnZONTWsb8Ir5oGQSYk2SO0isv5q098d\nMfRC6JOtEQiNf1wM09gXaGTyWJdWiBPUfdv8DXTSes+GLWvL/OLNRoO7AXQTwbF1\nMTt7knNiPXj5RAYGXazxEZidNBFuyJWvA/qWThnHcQ+q5nEO0nqxTfAiorgGTSin\nqcsA48QtAgMBAAECggEAD4bbRglfry2ieNLVEMNBHt+EK4+JDQINn0XdIlBSyfhX\nFNOIz4pbUB4iBOs6cQfUSGEj4d13PljSzj3OKZAgcCcoOZkmTvUSA4nJesa2GMUp\n57x5Exkij8sQ6nywwKgTjuAuc8Twl6bVqJaPwh38Kt2eUQlVTMS+7ydG9oiuJPGt\nem3prMFfFZWZwQlcJCTAreHuxeuFWrPYTd53/G+8Ju7hcM3I8Y9UypILZHXVv+a8\nUivlKdzu6mOG1gouO4fKvfc2uSDroOeReC7nguZfJMfG3FHmMAvx41DC0EhrolHG\nfThpyq1a+4V9KdMkMs8jXVXQAxfZ6q2bl40zPHM9EQKBgQDiO2DRFy+/qJrslI49\nK+Fs4MKWzRUe+cfe7wnt7EZQeLHfNzH6K6ZBoAc9yUnhHFu20TESGR6E6FR11CXM\nq3vnkLIduAu1DXwqEzmLbvo3qrFffYei9PaRrMffgQUlcXhVQtAyI44QSRq1Yi8z\nXMmUrrXUyoV2F/+fAeJ7gEb0MwKBgQC8hNsoX0wMRbBQiPbQUOwEFQm/HwjdAFYk\np+vC0l7XzCJ09cTXw6kL6Jdjk6F6zoW1/xmEEh9a5zKJk89yoNaOBgMEl9jg+xKh\ntshBfi6HXLoM59ZvZHefZ7fyZvyhcEL5NsSsUkMRq+sHU5mmZPGr+9bARdilk3UB\n+JBfXCEGHwKBgAveLZAKdVjKkYYDrQqMeMDrcYnTrF35oICTbaPrlyy1iC87iAWl\nsI0Uxgx5uMR0ZmNKyhY29yDlxzh/LpR0EoXtU0q30vVmhbL3WzdzVPECpVdrEGh+\nDUlLFRkmfYyfTT67yIw4zUURcLM/OVaqcXC5UZSeIy40yBYhVS5BZnd9AoGAKCIg\nhffDuNkdMAf4g2C23ieca5Ovz1zC+grFpjQi/M34h+3KeiStWFur3wcO2ZYd4SDt\nzbAN/Mw7dg6Bm2WiR5oACnpJMZxB2yuOdmLmhOq4sQaqIAzDaqwp/PDv126O039V\nX1oj7R8saeLiUwoqaPK0RTqZZKZ/wmuoUKTMYwECgYB+jLd/dAMllgvD3dG4eUNY\nPNK1piEO/mHBWA2Cg7SW0np60oG43b9xl8z5tN3+KAUbceY1882ZSIiZqVn6qdNx\nTpEjgro6pXI17rOabjtHyF7FjaBd5o9R5ABtDK2N6VX6jBVLWVHi51qFanNqc1G7\nx//Gh/gYPx1m5PsaAyGxeA==\n-----END PRIVATE KEY-----\n</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBsZWRnZXIgfSk7Cg==</text>
