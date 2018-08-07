@@ -56,11 +56,12 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533621328029">
-        <mark key="'" line="12" column="2" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533622754661">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+        <mark key="^" line="37" column="21" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/_init.js" timestamp="1533272936130">
         <mark key="[" line="7" column="29" />
@@ -247,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gZW5naW5lLmVuZ2luZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>conenction</text>
       </register>
       <register name="/" type="4">
         <text>Api</text>
@@ -259,31 +260,31 @@
         <text encoding="base64">ICBBaS5jYWxsKHRoaXMsIHNlcnZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gZW5naW5lLmVuZ2luZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZW5naW5lCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY29udGFpbmVyCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gZW5naW5lLmVuZ2luZQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmdpbmVzKCkgewogICAgcmV0dXJuIAogIH0gCiAgCg==</text>
+        <text encoding="base64">ZW5naW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZW5naW5lcyA9IFsnYXNzaXN0YW50JywgJ25sYycsICdkaWFsb2dmbG93J10K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZW5naW5lcyA9IFsnYXNzaXN0YW50JywgJ25sYycsICdkaWFsb2dmbG93J10K</text>
+        <text encoding="base64">ICBlbmdpbmVzKCkgewogICAgcmV0dXJuIAogIH0gCiAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZW5naW5lcyA9IFsnYXNzaXN0YW50JywgJ25sYycsICdkaWFsb2dmbG93J10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBzZXJ2aWNlID0gbnVsbAogIC8vIGVuZ2luZSA9IG51bGwK</text>
+        <text encoding="base64">ICAgIHRoaXMuZW5naW5lcyA9IFsnYXNzaXN0YW50JywgJ25sYycsICdkaWFsb2dmbG93J10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aGlzLmVuZ2luZXMgPSBbJ2Fzc2lzdGFudCcsICdubGMnLCAnZGlhbG9nZmxvdyddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
