@@ -94,11 +94,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1533635173804">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="9" column="0" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1533640187319">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="69" column="3" />
+        <mark key="." line="69" column="3" />
+        <mark key="^" line="69" column="3" />
       </file>
       <file name="$USER_HOME$/src/jason-zudell/src/App.vue" timestamp="1530448245075">
         <mark key="'" line="14" column="0" />
@@ -186,9 +186,9 @@
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1533635001375">
-        <mark key="[" line="60" column="45" />
-        <mark key="]" line="60" column="45" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1533640171333">
+        <mark key="[" line="70" column="15" />
+        <mark key="]" line="74" column="22" />
         <mark key="." line="60" column="45" />
         <mark key="^" line="41" column="46" />
       </file>
@@ -554,43 +554,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtZXRob2RzOiB7CiAgfSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgdGl0bGU6IHByb2Nlc3MuZW52LlZVRV9BUFBfVElUTEUs</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>container</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvLyAgICAgY3JlYXRlZEF0OiBmaXJlYmFzZS5maXJlc3RvcmUuRmllbGRWYWx1ZS5zZXJ2ZXJUaW1lc3RhbXAoKSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAgIDxyb3V0ZXItdmlldyAvPgogICAgPC92LWNvbnRlbnQ+CgogICAgPHNpZ24tb3V0LWRpYWxvZyAvPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtZXRob2RzOiB7CiAgfSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxyb3V0ZXItdmlldyAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC4uLm1hcEFjdGlvbnMoWwogICAgICAnc2hvd1NpZ25PdXREaWFsb2cnLAogICAgXSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkYXRhKCkgewogIH0sCg==</text>
+        <text encoding="base64">ICBtZXRob2RzOiB7CiAgfSwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CgogICAgfTsK</text>
+        <text encoding="base64">ICAgIC4uLm1hcEFjdGlvbnMoWwogICAgICAnc2hvd1NpZ25PdXREaWFsb2cnLAogICAgXSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21wdXRlZDogewogIH0sCg==</text>
+        <text encoding="base64">ICBkYXRhKCkgewogIH0sCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4uLm1hcEdldHRlcnMoWwogICAgICAnY3VycmVudFVzZXInLAogICAgICAnc2lnbk91dERpYWxvZ09wZW4nLAogICAgICAndXNlcklzQXV0aGVudGljYXRlZCcsCiAgICBdKSwK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CgogICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
