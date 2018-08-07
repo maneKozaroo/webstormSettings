@@ -15,11 +15,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/index.js" timestamp="1533207608152">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/index.js" timestamp="1533635074321">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/src/jason-zudell/.npmrc" timestamp="1530352952005">
         <mark key="[" line="0" column="0" />
@@ -93,6 +94,12 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1533635173804">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/src/jason-zudell/src/App.vue" timestamp="1530448245075">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="35" column="78" />
@@ -163,6 +170,12 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/router.js" timestamp="1533634962437">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="14" />
+        <mark key="^" line="31" column="16" />
+        <mark key="." line="31" column="14" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/index.js" timestamp="1533207480334">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -173,10 +186,10 @@
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1533468181992">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="46" />
-        <mark key="." line="41" column="46" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1533635001375">
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="45" />
+        <mark key="." line="60" column="45" />
         <mark key="^" line="41" column="46" />
       </file>
       <file name="$USER_HOME$/Sync/thrifty-ninja/src/router.js" timestamp="1523184794164">
@@ -191,11 +204,10 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/index.js" timestamp="1533202254503">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/index.js" timestamp="1533634394519">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/src/canned-kanji/app/authentication/auth0.js" timestamp="1509436994644">
         <mark key="[" line="6" column="40" />
@@ -241,13 +253,6 @@
         <mark key="[" line="93" column="0" />
         <mark key="]" line="137" column="25" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/_constants.js" timestamp="1533469241021">
-        <mark key="'" line="4" column="1" />
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="54" />
-        <mark key="." line="13" column="54" />
-        <mark key="^" line="13" column="54" />
       </file>
       <file name="$USER_HOME$/src/jason-zudell/src/components/Experience/index.vue" timestamp="1530178988941">
         <mark key="'" line="85" column="20" />
@@ -304,10 +309,10 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/ledgers.js" timestamp="1533469764975">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/src/canned-kanji/app/authorization/ui.js" timestamp="1509761762373">
         <mark key="[" line="51" column="17" />
@@ -345,12 +350,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1533470043241">
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-        <mark key="^" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/src/canned-kanji/app/index.html" timestamp="1509751742626">
         <mark key="[" line="17" column="17" />
@@ -452,7 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="10" filename="$USER_HOME$/src/canned-kanji/app/containers/HomePage/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/canned-kanji/app/containers/HomePage/index.js" />
       <jump line="18" column="19" filename="$USER_HOME$/src/canned-kanji/app/components/Section/index.js" />
       <jump line="1" column="32" filename="$USER_HOME$/src/canned-kanji/app/components/Section/index.js" />
@@ -552,13 +550,14 @@
       <jump line="22" column="21" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
       <jump line="30" column="7" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
       <jump line="4" column="1" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/_constants.js" />
+      <jump line="13" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICBtZXRob2RzOiB7CiAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text>docs</text>
+        <text encoding="base64">ICAgICAgdGl0bGU6IHByb2Nlc3MuZW52LlZVRV9BUFBfVElUTEUs</text>
       </register>
       <register name="/" type="4">
         <text>container</text>
@@ -567,31 +566,31 @@
         <text encoding="base64">ICAvLyAgICAgY3JlYXRlZEF0OiBmaXJlYmFzZS5maXJlc3RvcmUuRmllbGRWYWx1ZS5zZXJ2ZXJUaW1lc3RhbXAoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICBtZXRob2RzOiB7CiAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBbY29uc3RhbnRzLkxFREdFUl9BRERfUkVRVUVTVF0oc3RvcmUsIHBheWxvYWQpIHsKICAgIGNvbnNvbGUubG9nKCdsZWRnZXIgYWRkIHJlcXVlc3Q6ICVvJywgcGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGVkZ2Vycy5vblNuYXBzaG90KChkb2NzKSA9PiB7CiAgc3RvcmUuZGlzcGF0Y2goJ2xlZGdlci9saXN0JywgZG9jcyk7Cn0pOwoK</text>
+        <text encoding="base64">ICAgIC4uLm1hcEFjdGlvbnMoWwogICAgICAnc2hvd1NpZ25PdXREaWFsb2cnLAogICAgXSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBkYXRhKCkgewogIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBMRURHRVJfQUREX1NVQ0NFU1M6ICdhcHAvbGVkZ2VyL0FERF9TVUNDRVNTJywKICBMRURHRVJfQUREX0ZBSUxVUkU6ICdhcHAvbGVkZ2VyL0FERF9GQUlMVVJFJywK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CgogICAgfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBMRURHRVJfQUREX1JFUVVFU1Q6ICdhcHAvbGVkZ2VyL0FERF9SRVFVRVNUJywK</text>
+        <text encoding="base64">ICBjb21wdXRlZDogewogIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMRURHRVJfTElTVF9SRVFVRVNUOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbW1pdCgsIGxlZGdlcnNDb2xsZWN0aW9uLmdldCgpKTsK</text>
+        <text encoding="base64">ICAgIC4uLm1hcEdldHRlcnMoWwogICAgICAnY3VycmVudFVzZXInLAogICAgICAnc2lnbk91dERpYWxvZ09wZW4nLAogICAgICAndXNlcklzQXV0aGVudGljYXRlZCcsCiAgICBdKSwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
