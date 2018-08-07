@@ -21,10 +21,6 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Downloads/dialogflow-180806-1429-a0bde87c1705.json" timestamp="1533533552574">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="1749" />
-      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/plugins/firebase.js" timestamp="1533248938154">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="18" />
@@ -66,14 +62,6 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/jason-en-test-a50cfc703180.json" timestamp="1533532376082">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="73" />
-      </file>
-      <file name="$USER_HOME$/Downloads/dialogflow-180806-1455-8566edaf701e.json" timestamp="1533535046281">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="1749" />
-      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/main.js" timestamp="1533251328436">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -102,9 +90,11 @@
         <mark key="." line="25" column="39" />
         <mark key="^" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/Downloads/dialogflow-180806-1443-7e2aad0efc1a.json" timestamp="1533534758545">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="1749" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/views/index.html" timestamp="1533616611131">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1533616172896">
         <mark key="[" line="2" column="0" />
