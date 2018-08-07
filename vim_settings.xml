@@ -169,11 +169,10 @@
         <mark key="^" line="22" column="33" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" timestamp="1533601764303">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="11" column="0" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" timestamp="1533680806265">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/accounts.js" timestamp="1533600648433">
         <mark key="[" line="7" column="0" />
@@ -288,8 +287,8 @@
       <jump line="428" column="35" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihzZXJ2aWNlKSB7CiAgICB0aGlzLnNlcnZpY2UgPSBzZXJ2aWNlCiAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>----------</text>
@@ -301,31 +300,31 @@
         <text encoding="base64">ICBjb25zdHJ1Y3RvcihzZXJ2aWNlKSB7CiAgICB0aGlzLnNlcnZpY2UgPSBzZXJ2aWNlCiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZW1vdmVEYXRhKCkgewogIH0K</text>
+        <text encoding="base64">ICAgICAgICBEYXNoYm9hcmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAncmVtb3ZpbmcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgc2VydmljZSB9KQo=</text>
+        <text encoding="base64">ICByZW1vdmVEYXRhKCkgewogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAncmVtb3ZpbmcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlYXJuaW5nU3RhdHVzID09PSAndHJhaW5pbmcnIHx8CiAgICAgICAgICAgICAgICBsZWFybmluZ1N0YXR1cyA9PT0gJ2F2YWlsYWJsZScK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgc2VydmljZSB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlYXJuaW5nU3RhdHVzID09PSAndHJhaW5pbmcnIHx8CiAgICAgICAgICAgICAgICBsZWFybmluZ1N0YXR1cyA9PT0gJ2F2YWlsYWJsZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
     </registers>
     <search>
