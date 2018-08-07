@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/index.js" timestamp="1533606175330">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="25" column="45" />
-        <mark key="." line="25" column="45" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/index.js" timestamp="1533619805689">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
         <mark key="^" line="25" column="45" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/getters.js" timestamp="1533601469789">
@@ -56,12 +56,12 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533617384232">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="26" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533619416472">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="46" column="39" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="47" />
+        <mark key="^" line="46" column="47" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/_init.js" timestamp="1533272936130">
         <mark key="[" line="7" column="29" />
@@ -79,6 +79,9 @@
         <mark key="]" line="26" column="16" />
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" timestamp="1533618047236">
+        <mark key="'" line="3" column="7" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/public/SignIn.vue" timestamp="1533605061915">
         <mark key="[" line="15" column="0" />
@@ -103,13 +106,10 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1533616172896">
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1533619619292">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533600156321">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/getters.js" timestamp="1533530031971">
         <mark key="[" line="1" column="20" />
@@ -156,12 +156,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/router.js" timestamp="1533605582244">
-        <mark key="'" line="49" column="16" />
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/router.js" timestamp="1533619778869">
+        <mark key="'" line="33" column="16" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/index.js" timestamp="1533529954343">
         <mark key="[" line="8" column="14" />
@@ -231,52 +230,62 @@
       <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
       <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="26" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="12" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="22" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="154" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
+      <jump line="269" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
+      <jump line="70" column="44" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGlhbG9nZmxvdwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>NLC</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>\\n</text>
+        <text>Database</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBBaS5jYWxsKHRoaXMsIHNlcnZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGlhbG9nZmxvdwo=</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlRW50ZXI6IHJlcXVpcmVMb2dpbiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXNzaXN0YW50Cm5sYwo=</text>
+        <text encoding="base64">CmltcG9ydCBzdG9yZSBmcm9tICdAL3N0b3JlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0aGlzLnNlcnZpY2UgPSBzZXJ2aWNlCg==</text>
+        <text encoding="base64">aW1wb3J0ICdAL2ZpcmViYXNlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aGlzLnNlcnZpY2UgPSBzZXJ2aWNlCg==</text>
+        <text encoding="base64">Y29uc3QgcmVxdWlyZUxvZ2luID0gYXN5bmMgKHRvLCBmcm9tLCBuZXh0KSA9PiB7CiAgc3RvcmUud2F0Y2goCiAgICAoc3RhdGUpID0+IHsKICAgICAgY29uc29sZS5sb2coJ3dhdGNoaW5nJyk7CiAgICAgIHJldHVybiBzdGF0ZS51c2VyLmluZm87CiAgICB9LAogICAgKC4uLmFyZ3MpID0+IHsKICAgICAgY29uc29sZS5sb2coJ3dhdGNoZWQgc3RvcmUgY2FsbGJhY2s6ICVvJywgYXJncyk7CiAgICB9LAogICk7CiAgbmV4dCgpOwp9OwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0aGlzLnNlcnZpY2UgPSBzZXJ2aWNlCg==</text>
+        <text encoding="base64">Pgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICA8di10b29sYmFyPgogICAgICA8cm91dGVyLWxpbmsgdG89Ii8iPgogICAgICAgIDx2LXRvb2xiYXItdGl0bGU+CiAgICAgICAgICB7eyB0aXRsZSB9fQogICAgICAgIDwvdi10b29sYmFyLXRpdGxlPgogICAgICA8L3JvdXRlci1saW5rPgoKICAgICAgPHYtc3BhY2VyIC8+CgogICAgICA8di10b29sYmFyLWl0ZW1zCiAgICAgICAgdi1pZj0iIXRoaXMudXNlcklzQXV0aGVudGljYXRlZCIKICAgICAgPgogICAgICAgIDx2LWJ0bgogICAgICAgICAgZmxhdAogICAgICAgICAgdG89Ii9zaWduSW4iCiAgICAgICAgPgogICAgICAgICAgPHYtaWNvbiBsZWZ0PmxvY2tfb3Blbjwvdi1pY29uPgogICAgICAgICAgU2lnbiBJbgogICAgICAgIDwvdi1idG4+CiAgICAgIDwvdi10b29sYmFyLWl0ZW1zPgoKICAgICAgPHYtbWVudQogICAgICAgIHYtaWY9InRoaXMudXNlcklzQXV0aGVudGljYXRlZCIKICAgICAgPgogICAgICAgIDx2LWJ0bgogICAgICAgICAgZmFiCiAgICAgICAgICBmbGF0CiAgICAgICAgICBzbG90PSJhY3RpdmF0b3IiCiAgICAgICAgPgogICAgICAgICAgPHYtYXZhdGFyIGNvbG9yPSJ0ZWFsIj4KICAgICAgICAgICAgPGltZyA6c3JjPSJjdXJyZW50VXNlci5waG90b1VSTCIgLz4KICAgICAgICAgIDwvdi1hdmF0YXI+CiAgICAgICAgPC92LWJ0bj4KCiAgICAgICAgPHYtY2FyZD4KICAgICAgICAgIDx2LWxpc3Q+CiAgICAgICAgICAgIDx2LWxpc3QtdGlsZSBhdmF0YXI+CiAgICAgICAgICAgICAgPHYtbGlzdC10aWxlLWF2YXRhciBjb2xvcj0idGVhbCI+CiAgICAgICAgICAgICAgICA8aW1nIDpzcmM9ImN1cnJlbnRVc2VyLnBob3RvVVJMIiAvPgogICAgICAgICAgICAgIDwvdi1saXN0LXRpbGUtYXZhdGFyPgogICAgICAgICAgICAgIDx2LWxpc3QtdGlsZS1jb250ZW50PgogICAgICAgICAgICAgICAgPHYtbGlzdC10aWxlLXRpdGxlPnt7IGN1cnJlbnRVc2VyLmRpc3BsYXlOYW1lIH19PC92LWxpc3QtdGlsZS10aXRsZT4KICAgICAgICAgICAgICAgIDx2LWxpc3QtdGlsZS1zdWItdGl0bGU+e3sgY3VycmVudFVzZXIuZW1haWwgfX08L3YtbGlzdC10aWxlLXN1Yi10aXRsZT4KICAgICAgICAgICAgICA8L3YtbGlzdC10aWxlLWNvbnRlbnQ+CiAgICAgICAgICAgIDwvdi1saXN0LXRpbGU+CiAgICAgICAgICA8L3YtbGlzdD4KCiAgICAgICAgICA8di1kaXZpZGVyPjwvdi1kaXZpZGVyPgoKICAgICAgICAgIDx2LWNhcmQtYWN0aW9ucz4KICAgICAgICAgICAgPHYtYnRuIGNvbG9yPSJwcmltYXJ5IiBmbGF0IEBjbGljaz0ic2hvd1NpZ25PdXREaWFsb2ciPgogICAgICAgICAgICAgIDx2LWljb24gbGVmdD5sb2NrPC92LWljb24+CiAgICAgICAgICAgICAgU2lnbiBPdXQKICAgICAgICAgICAgPC92LWJ0bj4KCiAgICAgICAgICAgIDx2LXNwYWNlcj48L3Ytc3BhY2VyPgoKICAgICAgICAgICAgPHYtYnRuIGNvbG9yPSJwcmltYXJ5IiBmbGF0IHRvPSIvYXBwL2Rhc2hib2FyZCI+CiAgICAgICAgICAgICAgPHYtaWNvbiBsZWZ0PndpZGdldHM8L3YtaWNvbj4KICAgICAgICAgICAgICBEYXNoYm9hcmQKICAgICAgICAgICAgPC92LWJ0bj4KICAgICAgICAgIDwvdi1jYXJkLWFjdGlvbnM+CiAgICAgICAgPC92LWNhcmQ+CiAgICAgIDwvdi1tZW51PgoKICAgIDwvdi10b29sYmFyPgoKICAgIDx2LWNvbnRlbnQ+CiAgICAgIDxyb3V0ZXItdmlldyAvPgogICAgPC92LWNvbnRlbnQ+CgogICAgPHNpZ24tb3V0LWRpYWxvZyAv</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coRW5naW5lLnByb3RvdHlwZS5jb25zdHJ1Y3RvcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>\\n</last-search>
+      <last-search>Database</last-search>
       <last-offset />
-      <last-pattern>\\n</last-pattern>
+      <last-pattern>Database</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -284,6 +293,7 @@
       <history-search>
         <entry>\</entry>
         <entry>\\n</entry>
+        <entry>Database</entry>
       </history-search>
       <history-cmd />
       <history-expr />
