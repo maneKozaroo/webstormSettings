@@ -56,12 +56,11 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533620607539">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="2" />
-        <mark key="." line="7" column="2" />
-        <mark key="^" line="7" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533621328029">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/_init.js" timestamp="1533272936130">
         <mark key="[" line="7" column="29" />
@@ -247,11 +246,11 @@
       <jump line="3" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gZW5naW5lLmVuZ2luZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>Api</text>
@@ -260,81 +259,31 @@
         <text encoding="base64">ICBBaS5jYWxsKHRoaXMsIHNlcnZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZW5naW5lID0gbmV3IEFJRW5naW5lKHsgcHJvdmlkZXI6IHsgbmFtZTogJ2JsYWgnIH0sIG5hbWU6ICdtb2NrIHNlcnZpY2UnIH0pCg==</text>
+        <text encoding="base64">Ly8gZW5naW5lLmVuZ2luZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVuZ2luZXMgPSBbJ2Fzc2lzdGFudCcsICdubGMnLCAnZGlhbG9nZmxvdyddCg==</text>
+        <text encoding="base64">ZW5naW5lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmdpbmVzKCkgewogICAgcmV0dXJuIAogIH0gCiAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZW5naW5lcyA9IFsnYXNzaXN0YW50JywgJ25sYycsICdkaWFsb2dmbG93J10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZW5naW5lcyA9IFsnYXNzaXN0YW50JywgJ25sYycsICdkaWFsb2dmbG93J10K</text>
       </register>
-      <register name="7" type="4">
-        <text>class Engine {
-  constructor(service) {
-    this.service = service
-  }
-
-  prepareData() {
-    return 'not implemented'
-  }
-}
-
-class Assistant extends Engine {
-  constructor(service) {
-    super(service)
-  }
-
-  prepareData() {
-    return 'assistant'
-  }
-}
-
-class NLC extends Engine {
-  constructor(service) {
-    super(service)
-  }
-
-  prepareData() {
-    return 'nlc'
-  }
-}
-
-class DialogFlow extends Engine {
-  constructor(service) {
-    super(service)
-  }
-}
-
-const engine = {
-  Assistant,
-  NLC,
-  DialogFlow,
-}
-
-const assistant = new Assistant({ name: 'assistant' })
-const nlc = new NLC({ name: 'nlc' })
-const dialogflow = new DialogFlow({ name: 'nlc' })
-
-const foo = Object.getOwnPropertyNames(Assistant.prototype)
-const result = foo.prepareData()
-
-foo
-result</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlRW50ZXI6IHJlcXVpcmVMb2dpbiwK</text>
+        <text encoding="base64">ICAvLyBzZXJ2aWNlID0gbnVsbAogIC8vIGVuZ2luZSA9IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmltcG9ydCBzdG9yZSBmcm9tICdAL3N0b3JlJzsK</text>
+        <text encoding="base64">ICB0aGlzLmVuZ2luZXMgPSBbJ2Fzc2lzdGFudCcsICdubGMnLCAnZGlhbG9nZmxvdyddCg==</text>
       </register>
     </registers>
     <search>
