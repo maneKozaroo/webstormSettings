@@ -56,12 +56,12 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533619416472">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="46" column="39" />
-        <mark key="]" line="46" column="47" />
-        <mark key="." line="46" column="47" />
-        <mark key="^" line="46" column="47" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533620607539">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+        <mark key="^" line="7" column="7" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/_init.js" timestamp="1533272936130">
         <mark key="[" line="7" column="29" />
@@ -110,6 +110,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1533619993381">
+        <mark key="'" line="14" column="50" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/getters.js" timestamp="1533530031971">
         <mark key="[" line="1" column="20" />
@@ -240,52 +243,104 @@
       <jump line="70" column="44" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
       <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+      <jump line="14" column="50" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="3" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>Database</text>
+        <text>Api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBBaS5jYWxsKHRoaXMsIHNlcnZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlRW50ZXI6IHJlcXVpcmVMb2dpbiwK</text>
+        <text encoding="base64">Y29uc3QgZW5naW5lID0gbmV3IEFJRW5naW5lKHsgcHJvdmlkZXI6IHsgbmFtZTogJ2JsYWgnIH0sIG5hbWU6ICdtb2NrIHNlcnZpY2UnIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmltcG9ydCBzdG9yZSBmcm9tICdAL3N0b3JlJzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVuZ2luZXMgPSBbJ2Fzc2lzdGFudCcsICdubGMnLCAnZGlhbG9nZmxvdyddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdAL2ZpcmViYXNlJzsK</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWlyZUxvZ2luID0gYXN5bmMgKHRvLCBmcm9tLCBuZXh0KSA9PiB7CiAgc3RvcmUud2F0Y2goCiAgICAoc3RhdGUpID0+IHsKICAgICAgY29uc29sZS5sb2coJ3dhdGNoaW5nJyk7CiAgICAgIHJldHVybiBzdGF0ZS51c2VyLmluZm87CiAgICB9LAogICAgKC4uLmFyZ3MpID0+IHsKICAgICAgY29uc29sZS5sb2coJ3dhdGNoZWQgc3RvcmUgY2FsbGJhY2s6ICVvJywgYXJncyk7CiAgICB9LAogICk7CiAgbmV4dCgpOwp9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pgo=</text>
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICA8di10b29sYmFyPgogICAgICA8cm91dGVyLWxpbmsgdG89Ii8iPgogICAgICAgIDx2LXRvb2xiYXItdGl0bGU+CiAgICAgICAgICB7eyB0aXRsZSB9fQogICAgICAgIDwvdi10b29sYmFyLXRpdGxlPgogICAgICA8L3JvdXRlci1saW5rPgoKICAgICAgPHYtc3BhY2VyIC8+CgogICAgICA8di10b29sYmFyLWl0ZW1zCiAgICAgICAgdi1pZj0iIXRoaXMudXNlcklzQXV0aGVudGljYXRlZCIKICAgICAgPgogICAgICAgIDx2LWJ0bgogICAgICAgICAgZmxhdAogICAgICAgICAgdG89Ii9zaWduSW4iCiAgICAgICAgPgogICAgICAgICAgPHYtaWNvbiBsZWZ0PmxvY2tfb3Blbjwvdi1pY29uPgogICAgICAgICAgU2lnbiBJbgogICAgICAgIDwvdi1idG4+CiAgICAgIDwvdi10b29sYmFyLWl0ZW1zPgoKICAgICAgPHYtbWVudQogICAgICAgIHYtaWY9InRoaXMudXNlcklzQXV0aGVudGljYXRlZCIKICAgICAgPgogICAgICAgIDx2LWJ0bgogICAgICAgICAgZmFiCiAgICAgICAgICBmbGF0CiAgICAgICAgICBzbG90PSJhY3RpdmF0b3IiCiAgICAgICAgPgogICAgICAgICAgPHYtYXZhdGFyIGNvbG9yPSJ0ZWFsIj4KICAgICAgICAgICAgPGltZyA6c3JjPSJjdXJyZW50VXNlci5waG90b1VSTCIgLz4KICAgICAgICAgIDwvdi1hdmF0YXI+CiAgICAgICAgPC92LWJ0bj4KCiAgICAgICAgPHYtY2FyZD4KICAgICAgICAgIDx2LWxpc3Q+CiAgICAgICAgICAgIDx2LWxpc3QtdGlsZSBhdmF0YXI+CiAgICAgICAgICAgICAgPHYtbGlzdC10aWxlLWF2YXRhciBjb2xvcj0idGVhbCI+CiAgICAgICAgICAgICAgICA8aW1nIDpzcmM9ImN1cnJlbnRVc2VyLnBob3RvVVJMIiAvPgogICAgICAgICAgICAgIDwvdi1saXN0LXRpbGUtYXZhdGFyPgogICAgICAgICAgICAgIDx2LWxpc3QtdGlsZS1jb250ZW50PgogICAgICAgICAgICAgICAgPHYtbGlzdC10aWxlLXRpdGxlPnt7IGN1cnJlbnRVc2VyLmRpc3BsYXlOYW1lIH19PC92LWxpc3QtdGlsZS10aXRsZT4KICAgICAgICAgICAgICAgIDx2LWxpc3QtdGlsZS1zdWItdGl0bGU+e3sgY3VycmVudFVzZXIuZW1haWwgfX08L3YtbGlzdC10aWxlLXN1Yi10aXRsZT4KICAgICAgICAgICAgICA8L3YtbGlzdC10aWxlLWNvbnRlbnQ+CiAgICAgICAgICAgIDwvdi1saXN0LXRpbGU+CiAgICAgICAgICA8L3YtbGlzdD4KCiAgICAgICAgICA8di1kaXZpZGVyPjwvdi1kaXZpZGVyPgoKICAgICAgICAgIDx2LWNhcmQtYWN0aW9ucz4KICAgICAgICAgICAgPHYtYnRuIGNvbG9yPSJwcmltYXJ5IiBmbGF0IEBjbGljaz0ic2hvd1NpZ25PdXREaWFsb2ciPgogICAgICAgICAgICAgIDx2LWljb24gbGVmdD5sb2NrPC92LWljb24+CiAgICAgICAgICAgICAgU2lnbiBPdXQKICAgICAgICAgICAgPC92LWJ0bj4KCiAgICAgICAgICAgIDx2LXNwYWNlcj48L3Ytc3BhY2VyPgoKICAgICAgICAgICAgPHYtYnRuIGNvbG9yPSJwcmltYXJ5IiBmbGF0IHRvPSIvYXBwL2Rhc2hib2FyZCI+CiAgICAgICAgICAgICAgPHYtaWNvbiBsZWZ0PndpZGdldHM8L3YtaWNvbj4KICAgICAgICAgICAgICBEYXNoYm9hcmQKICAgICAgICAgICAgPC92LWJ0bj4KICAgICAgICAgIDwvdi1jYXJkLWFjdGlvbnM+CiAgICAgICAgPC92LWNhcmQ+CiAgICAgIDwvdi1tZW51PgoKICAgIDwvdi10b29sYmFyPgoKICAgIDx2LWNvbnRlbnQ+CiAgICAgIDxyb3V0ZXItdmlldyAvPgogICAgPC92LWNvbnRlbnQ+CgogICAgPHNpZ24tb3V0LWRpYWxvZyAv</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coRW5naW5lLnByb3RvdHlwZS5jb25zdHJ1Y3RvcikK</text>
+      <register name="7" type="4">
+        <text>class Engine {
+  constructor(service) {
+    this.service = service
+  }
+
+  prepareData() {
+    return 'not implemented'
+  }
+}
+
+class Assistant extends Engine {
+  constructor(service) {
+    super(service)
+  }
+
+  prepareData() {
+    return 'assistant'
+  }
+}
+
+class NLC extends Engine {
+  constructor(service) {
+    super(service)
+  }
+
+  prepareData() {
+    return 'nlc'
+  }
+}
+
+class DialogFlow extends Engine {
+  constructor(service) {
+    super(service)
+  }
+}
+
+const engine = {
+  Assistant,
+  NLC,
+  DialogFlow,
+}
+
+const assistant = new Assistant({ name: 'assistant' })
+const nlc = new NLC({ name: 'nlc' })
+const dialogflow = new DialogFlow({ name: 'nlc' })
+
+const foo = Object.getOwnPropertyNames(Assistant.prototype)
+const result = foo.prepareData()
+
+foo
+result</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlRW50ZXI6IHJlcXVpcmVMb2dpbiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmltcG9ydCBzdG9yZSBmcm9tICdAL3N0b3JlJzsK</text>
       </register>
     </registers>
     <search>
-      <last-search>Database</last-search>
+      <last-search>Api</last-search>
       <last-offset />
-      <last-pattern>Database</last-pattern>
+      <last-pattern>Api</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -294,6 +349,7 @@
         <entry>\</entry>
         <entry>\\n</entry>
         <entry>Database</entry>
+        <entry>Api</entry>
       </history-search>
       <history-cmd />
       <history-expr />
