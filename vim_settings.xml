@@ -138,11 +138,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="95" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1533700715795">
-        <mark key="[" line="460" column="0" />
-        <mark key="]" line="460" column="0" />
-        <mark key="." line="460" column="0" />
-        <mark key="^" line="459" column="34" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1533706462296">
+        <mark key="'" line="129" column="30" />
+        <mark key="[" line="251" column="11" />
+        <mark key="]" line="251" column="11" />
+        <mark key="." line="251" column="11" />
+        <mark key="^" line="249" column="27" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/getters.js" timestamp="1533530031971">
         <mark key="[" line="1" column="20" />
@@ -164,12 +165,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1533693378048">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1533705961934">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="35" column="3" />
+        <mark key="]" line="38" column="29" />
+        <mark key="^" line="38" column="29" />
+        <mark key="." line="38" column="29" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1533703430587">
         <mark key="[" line="145" column="19" />
@@ -257,12 +258,12 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1533700688660">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1533706530323">
         <mark key="'" line="4" column="11" />
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="22" column="39" />
+        <mark key="[" line="178" column="22" />
+        <mark key="]" line="178" column="27" />
+        <mark key="." line="178" column="27" />
+        <mark key="^" line="178" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -331,52 +332,58 @@
       <jump line="1" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="4" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="16" column="51" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
+      <jump line="363" column="48" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="488" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="508" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="476" column="29" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="459" column="34" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="129" column="30" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXJpbmcgcHJvcGVydGllcyBwYWdlJykK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>serviceActions</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>status()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgeWllbGQgcHV0KGNvbm5lY3Rpb25BY3Rpb25zLmxpc3QucmVxdWVzdCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXJpbmcgcHJvcGVydGllcyBwYWdlJykK</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHVuZGVmaW5lZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHN0YXR1czogJW8nLCBzdGF0dXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmb3VuZFNlcnZpY2U6ICVvJywgZm91bmRTZXJ2aWNlLnRvSlMoKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoYWN0aW9ucy5zdGF0dXMuc3VjY2Vzcyhmcm9tSlMoc2VydmljZSkpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcm92aWRlclJlbW90ZUlkOiAlbycsIHByb3ZpZGVyUmVtb3RlSWQpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhaSBpbml0ZWQnKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhaSB0cmFpbmVkJykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IHRoaXMuZGVsZXRlQ29udGFpbmVyKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXJpbmcgcHJvcGVydGllcyBwYWdlJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmb3VuZFNlcnZpY2U6ICVvJywgZm91bmRTZXJ2aWNlLnRvSlMoKSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMucmVhZENvbnRhaW5lcigpCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoYWN0aW9ucy5zdGF0dXMuc3VjY2Vzcyhmcm9tSlMoc2VydmljZSkpKQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>status()</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>status()</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -387,6 +394,9 @@
         <entry>Database</entry>
         <entry>Api</entry>
         <entry>get</entry>
+        <entry>remoteContainer</entry>
+        <entry>providerRemoteId()</entry>
+        <entry>status()</entry>
       </history-search>
       <history-cmd />
       <history-expr />
