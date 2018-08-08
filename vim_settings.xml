@@ -21,6 +21,24 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/actions.js" timestamp="1533698044711">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/getters.js" timestamp="1533698351204">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/mutations.js" timestamp="1533698232025">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/plugins/firebase.js" timestamp="1533248938154">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="18" />
@@ -111,10 +129,10 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1533619619292">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1533698395183">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/Assistant/index.js" timestamp="1533684948583" />
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/NLC/index.js" timestamp="1533685918250">
@@ -174,11 +192,17 @@
         <mark key="^" line="22" column="33" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" timestamp="1533683518584">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="20" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/index.js" timestamp="1533698183765">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" timestamp="1533698277945">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+        <mark key="^" line="15" column="61" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/accounts.js" timestamp="1533600648433">
         <mark key="[" line="7" column="0" />
@@ -192,17 +216,11 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="6" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/Ledger.vue" timestamp="1533684526524">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="5" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/router.js" timestamp="1533619778869">
-        <mark key="'" line="33" column="16" />
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="31" column="14" />
-        <mark key="." line="31" column="14" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/Ledger.vue" timestamp="1533698404948">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="4" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/index.js" timestamp="1533529954343">
         <mark key="[" line="8" column="14" />
@@ -227,6 +245,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/_constants.js" timestamp="1533698008778">
+        <mark key="[" line="8" column="66" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+        <mark key="." line="8" column="66" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1533693402126">
         <mark key="'" line="4" column="11" />
@@ -305,43 +329,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgewogICAgICAgIGNvbm5lY3Rpb246IHsKICAgICAgICAgIHByb3ZpZGVyOiB7IHByb3ZpZGVySWQgfSwKICAgICAgICB9LAogICAgICB9ID0gc2VydmljZQogICAgICAK</text>
+        <text encoding="base64">ICAgICAgJ3NpZ25PdXREaWFsb2dPcGVuJywK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByb3ZpZGVySWQg</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaW50ZW50cywgZW50aXRpZXMgfSA9IHRoaXMK</text>
+        <text encoding="base64">ICBbY29uc3RhbnRzLlNIT1dfTkVXX0xFREdFUl9ESUFMT0ddKHN0b3JlKSB7CiAgICBzdG9yZS5kaWFsb2dzLmxlZGdlci5uZXcgPSB0cnVlOwogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgewogICAgICAgIGNvbm5lY3Rpb246IHsKICAgICAgICAgIHByb3ZpZGVyOiB7IHByb3ZpZGVySWQgfSwKICAgICAgICB9LAogICAgICB9ID0gc2VydmljZQogICAgICAK</text>
+        <text encoding="base64">ICAgICAgJ3NpZ25PdXREaWFsb2dPcGVuJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBwcm92aWRlcklkIH0gPSBzZXJ2aWNlLnByb3ZpZGVyCg==</text>
+        <text encoding="base64">ICAgIC4uLm1hcEdldHRlcnMoKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpCg==</text>
+      <register name="3" type="4">
+        <text>{
+      
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3TGVkZ2VyRGlhbG9nT3BlbjogJ2xlZGdlci9uZXdMZWRnZXJEaWFsb2dPcGVuJywK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBzdGF0dXMoKSB7CiAgICBjb25zdCB7CiAgICAgIHNlcnZpY2U6IHsgcHJvdmlkZXJSZW1vdGVJZCB9LAogICAgfSA9IHRoaXMKICAgIGNvbnNvbGUubG9nKCctLS0tLSBDaGVja2luZyBzdGF0dXMgZm9yIHNlcnZpY2U6ICVvJywgcHJvdmlkZXJSZW1vdGVJZCkKICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNob3dOZXdMZWRnZXJEaWFsb2coKSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgewogICAgICAgIGNvbm5lY3Rpb246IHsKICAgICAgICAgIHByb3ZpZGVyOiB7IHByb3ZpZGVySWQgfSwKICAgICAgICB9LAogICAgICB9ID0gc2VydmljZQogICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhc3luYyBwcm92aWRlclJlbW90ZUlkKCkgewogICAgcmV0dXJuIHRoaXMuZW5naW5lLnByb3ZpZGVyUmVtb3RlSWQoKQogIH0KICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBwcm92aWRlcklkIH0gPSBzZXJ2aWNlLnByb3ZpZGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpCg==</text>
       </register>
     </registers>
     <search>
