@@ -57,12 +57,12 @@
         <mark key="." line="25" column="39" />
         <mark key="^" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1533785811022">
-        <mark key="'" line="427" column="53" />
-        <mark key="[" line="145" column="14" />
-        <mark key="]" line="145" column="14" />
-        <mark key="." line="145" column="19" />
-        <mark key="^" line="127" column="24" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1533786811656">
+        <mark key="'" line="434" column="53" />
+        <mark key="[" line="152" column="14" />
+        <mark key="]" line="152" column="14" />
+        <mark key="." line="152" column="19" />
+        <mark key="^" line="134" column="24" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/views/index.html" timestamp="1533616611131">
         <mark key="[" line="12" column="31" />
@@ -70,7 +70,7 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1533785684450">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1533786455022">
         <mark key="'" line="4" column="7" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="142" column="5" />
@@ -178,6 +178,12 @@
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
         <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1533786885527">
+        <mark key="[" line="137" column="18" />
+        <mark key="]" line="137" column="19" />
+        <mark key="." line="137" column="19" />
+        <mark key="^" line="134" column="37" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/ledgers.js" timestamp="1533600662856">
         <mark key="[" line="5" column="30" />
@@ -327,10 +333,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>service</text>
+        <text>fromJS(productionService)</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>fromJS(productionService)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcGlcPg==</text>
