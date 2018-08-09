@@ -70,8 +70,8 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1533787520885">
-        <mark key="'" line="4" column="7" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1533791929503">
+        <mark key="'" line="462" column="22" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="142" column="5" />
         <mark key="." line="465" column="13" />
@@ -110,11 +110,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/NLC.js" timestamp="1533790128466">
-        <mark key="[" line="144" column="10" />
-        <mark key="]" line="144" column="25" />
-        <mark key="." line="144" column="25" />
-        <mark key="^" line="144" column="25" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/NLC.js" timestamp="1533792089426">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/Ledger.vue" timestamp="1533698404948">
         <mark key="[" line="4" column="4" />
@@ -338,16 +339,24 @@
       <jump line="438" column="42" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
       <jump line="550" column="43" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
       <jump line="97" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="149" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="467" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="682" column="37" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="685" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="260" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="282" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="462" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/NLC.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deleteWorkspace</text>
+        <text>workspace</text>
       </register>
       <register name="-" type="4">
-        <text>deleteWorkspace</text>
+        <text>workspace</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBcGlcPg==</text>
+        <text>worksp</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBhc3luYyBkZWxldGVDb250YWluZXIoKSB7CiAgICBjb25zdCB7CiAgICAgIGFzc2lzdGFudCwKICAgICAgc2VydmljZTogeyBwcm92aWRlclJlbW90ZUlkIH0sCiAgICB9ID0gdGhpcwoKICAgIGNvbnN0IHBhcmFtcyA9IHsKICAgICAgd29ya3NwYWNlX2lkOiBwcm92aWRlclJlbW90ZUlkLAogICAgfQoKICAgIGF3YWl0IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgYXNzaXN0YW50LmRlbGV0ZVdvcmtzcGFjZShwYXJhbXMsIChlcnJvciwgcmVzdWx0KSA9PiB7CiAgICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgICByZWplY3QoZXJyb3IpCiAgICAgICAgfQogICAgICAgIHJlc29sdmUocmVzdWx0IHx8IHt9KQogICAgICB9KQogICAgfSkKICB9</text>
@@ -381,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBcGlcPg==</last-search>
+      <last-search>worksp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBcGlcPg==</last-pattern>
+      <last-pattern>worksp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -399,6 +408,9 @@
         <entry>status()</entry>
         <entry encoding="base64">XDxBSVw+</entry>
         <entry encoding="base64">XDxBcGlcPg==</entry>
+        <entry>ES</entry>
+        <entry>status</entry>
+        <entry>worksp</entry>
       </history-search>
       <history-cmd />
       <history-expr />
