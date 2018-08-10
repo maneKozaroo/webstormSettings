@@ -242,7 +242,7 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Downloads/MobiConsoleTestProject-afbac98d3673.json" timestamp="1533865023690" />
+      <file name="$USER_HOME$/Downloads/MobiConsoleTestProject-afbac98d3673.json" timestamp="1533866258221" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1533796323278">
         <mark key="[" line="137" column="19" />
         <mark key="]" line="137" column="19" />
@@ -259,6 +259,12 @@
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/connection.js" timestamp="1533866087573">
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="45" column="30" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="45" column="30" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/_constants.js" timestamp="1533600911130">
         <mark key="'" line="12" column="8" />
@@ -304,12 +310,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" timestamp="1533863830557">
-        <mark key="'" line="160" column="16" />
-        <mark key="[" line="167" column="42" />
-        <mark key="]" line="167" column="43" />
-        <mark key="." line="167" column="43" />
-        <mark key="^" line="160" column="27" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" timestamp="1533866214886">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="154" column="27" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/app.js" timestamp="1533253586406">
         <mark key="[" line="1" column="0" />
@@ -428,52 +434,55 @@
       <jump line="165" column="20" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" />
       <jump line="167" column="32" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" />
       <jump line="160" column="16" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" />
+      <jump line="143" column="40" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" />
+      <jump line="42" column="12" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" />
+      <jump line="57" column="12" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlucHV0UHJvcHM9e3sKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="-" type="4">
         <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>dialogflow</text>
+        <text>maxLength</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkaWFsb2dmbG93SWQ6ICdEaWFsb2dGbG93IFByb2plY3QgSUQnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlucHV0UHJvcHM9e3sKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4TGVuZ3RoOiAxMjgsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgogICAgICBFeGFtcGxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlucHV0UHJvcHM9e3sKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4TGVuZ3RoOiAxMjgsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlucHV0UHJvcHM9e3sKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQWRkIGFsdGVyaW5nIGNvbW1hbmRzIGhlcmUuCiAgICAgIFJldHVybiBhIHByb21pc2UgdG8gY29ycmVjdGx5IGhhbmRsZSBhc3luY2hyb25pY2l0eS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4TGVuZ3RoOiAxMjgsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuZHJvcFRhYmxlKCd1c2VycycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgogICAgICBFeGFtcGxlOgo=</text>
       </register>
     </registers>
     <search>
-      <last-search>dialogflow</last-search>
+      <last-search>maxLength</last-search>
       <last-offset />
-      <last-pattern>dialogflow</last-pattern>
+      <last-pattern>maxLength</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -494,6 +503,8 @@
         <entry>Api</entry>
         <entry>id</entry>
         <entry>dialogflow</entry>
+        <entry>128</entry>
+        <entry>maxLength</entry>
       </history-search>
       <history-cmd />
       <history-expr />
