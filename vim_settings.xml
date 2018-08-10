@@ -100,12 +100,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1533879516287">
-        <mark key="'" line="3" column="23" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="37" />
-        <mark key="." line="14" column="37" />
-        <mark key="^" line="14" column="37" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1533884367933">
+        <mark key="'" line="29" column="9" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="70" column="13" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1533874988772">
         <mark key="'" line="43" column="0" />
@@ -313,16 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="1" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
-      <jump line="25" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
-      <jump line="12" column="9" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="9" column="5" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="4" column="25" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/accounts.js" />
-      <jump line="22" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="28" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
-      <jump line="31" column="1739" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
-      <jump line="97" column="46" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="29" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="30" column="1713" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="34" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
@@ -406,52 +396,69 @@
       <jump line="143" column="40" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" />
       <jump line="42" column="12" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" />
       <jump line="57" column="12" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" />
+      <jump line="161" column="48" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="69" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="157" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="85" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="111" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="63" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="94" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="130" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="133" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="151" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="153" column="44" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="162" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="165" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="18" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="21" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="25" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="29" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGVudGl0eVBhcmVudCA9IGF3YWl0IHRoaXMuZW50aXR5VHlwZXNDbGllbnQucHJvamVjdEFnZW50UGF0aCgKICAgICAgdGhpcy5jb25maWcucHJvamVjdElkCiAgICApCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>'What is your name again?'</text>
       </register>
       <register name="/" type="4">
-        <text>maxLength</text>
+        <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHBhcmVudDogJW8nLCBwYXJlbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gc2VydmljZS5jb25uZWN0aW9uOiAlbycsIHNlcnZpY2UuY29ubmVjdGlvbikK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVudGl0eVBhcmVudCA9IGF3YWl0IHRoaXMuZW50aXR5VHlwZXNDbGllbnQucHJvamVjdEFnZW50UGF0aCgKICAgICAgdGhpcy5jb25maWcucHJvamVjdElkCiAgICApCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHBhcmVudDogJW8nLCBwYXJlbnQpCgo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIGNvbmZpZzogJW8nLCBjb25maWcpCgo=</text>
+        <text encoding="base64">ICAgICAgcGFyZW50OiBlbnRpdHlQYXJlbnQsCiAgICAgIGVudGl0eVR5cGU6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHBhcmVudDogJW8nLCBwYXJlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBbCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuCg==</text>
+        <text encoding="base64">ICAgICAgWwogICAgICAgIHsKICAgICAgICAgIHR5cGU6ICdFWEFNUExFJywKICAgICAgICAgIHBhcnRzOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0ZXh0OiAnV2hhdCBpcyB5b3VyIG5hbWUgYWdhaW4/JywKICAgICAgICAgICAgfSwKICAgICAgICAgIF0sCiAgICAgICAgfSwKICAgICAgXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbgo=</text>
+        <text encoding="base64">ICAgICAgICBdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>maxLength</last-search>
+      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
       <last-offset />
-      <last-pattern>maxLength</last-pattern>
+      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -474,6 +481,8 @@
         <entry>dialogflow</entry>
         <entry>128</entry>
         <entry>maxLength</entry>
+        <entry>console</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
