@@ -200,6 +200,12 @@
         <mark key="." line="60" column="24" />
         <mark key="^" line="60" column="21" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/README.md" timestamp="1533864452739">
+        <mark key="[" line="72" column="76" />
+        <mark key="]" line="72" column="14" />
+        <mark key="^" line="72" column="14" />
+        <mark key="." line="72" column="14" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/connection.js" timestamp="1533863947173">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="33" />
@@ -236,6 +242,7 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/MobiConsoleTestProject-afbac98d3673.json" timestamp="1533865023690" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1533796323278">
         <mark key="[" line="137" column="19" />
         <mark key="]" line="137" column="19" />
@@ -424,10 +431,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Project</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>Project</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>dialogflow</text>
