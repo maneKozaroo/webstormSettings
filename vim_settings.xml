@@ -221,7 +221,6 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Downloads/MobiConsoleTestProject-afbac98d3673.json" timestamp="1533866258221" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1533796323278">
         <mark key="[" line="137" column="19" />
         <mark key="]" line="137" column="19" />
@@ -272,12 +271,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" timestamp="1533871219593">
-        <mark key="'" line="1" column="16" />
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="34" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" timestamp="1534113368585">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" timestamp="1533866214886">
         <mark key="'" line="57" column="12" />
@@ -313,9 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
-      <jump line="30" column="1713" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
-      <jump line="34" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="35" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="36" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="37" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
@@ -413,13 +408,16 @@
       <jump line="21" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="25" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="29" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="68" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
+      <jump line="54" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
+      <jump line="71" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVudGl0eVBhcmVudCA9IGF3YWl0IHRoaXMuZW50aXR5VHlwZXNDbGllbnQucHJvamVjdEFnZW50UGF0aCgKICAgICAgdGhpcy5jb25maWcucHJvamVjdElkCiAgICApCgo=</text>
+        <text encoding="base64">ICAgICAgPCEtLXYtZmxleChkLWZsZXggeHMxMiBzbTYgbGczKS0tPgogICAgICAgIDwhLS12LWNhcmQuZmxleGlibGUtLT4KICAgICAgICAgIDwhLS12LWNhcmQtdGl0bGUocHJpbWFyeS10aXRsZSkgTmV3IExlZGdlci0tPgogICAgICAgICAgPCEtLXYtZGl2aWRlci0tPgogICAgICAgICAgPCEtLXYtY2FyZC10ZXh0Lmdyb3cgQ3JlYXRlIGEgbmV3IGxlZGdlci4tLT4KICAgICAgICAgIDwhLS12LWNhcmQtYWN0aW9ucy0tPgogICAgICAgICAgICA8IS0tdi1zcGFjZXItLT4KICAgICAgICAgICAgPCEtLXYtYnRuKGZsYXQgaWNvbiBjb2xvcj0icHJpbWFyeSIgQGNsaWNrPSJzaG93TmV3TGVkZ2VyRGlhbG9nIiktLT4KICAgICAgICAgICAgICA8IS0tdi1pY29uIGNyZWF0ZS0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>'What is your name again?'</text>
+        <text>blue darken-2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
@@ -428,31 +426,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHBhcmVudDogJW8nLCBwYXJlbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVudGl0eVBhcmVudCA9IGF3YWl0IHRoaXMuZW50aXR5VHlwZXNDbGllbnQucHJvamVjdEFnZW50UGF0aCgKICAgICAgdGhpcy5jb25maWcucHJvamVjdElkCiAgICApCgo=</text>
+        <text encoding="base64">ICAgICAgPCEtLXYtZmxleChkLWZsZXggeHMxMiBzbTYgbGczKS0tPgogICAgICAgIDwhLS12LWNhcmQuZmxleGlibGUtLT4KICAgICAgICAgIDwhLS12LWNhcmQtdGl0bGUocHJpbWFyeS10aXRsZSkgTmV3IExlZGdlci0tPgogICAgICAgICAgPCEtLXYtZGl2aWRlci0tPgogICAgICAgICAgPCEtLXYtY2FyZC10ZXh0Lmdyb3cgQ3JlYXRlIGEgbmV3IGxlZGdlci4tLT4KICAgICAgICAgIDwhLS12LWNhcmQtYWN0aW9ucy0tPgogICAgICAgICAgICA8IS0tdi1zcGFjZXItLT4KICAgICAgICAgICAgPCEtLXYtYnRuKGZsYXQgaWNvbiBjb2xvcj0icHJpbWFyeSIgQGNsaWNrPSJzaG93TmV3TGVkZ2VyRGlhbG9nIiktLT4KICAgICAgICAgICAgICA8IS0tdi1pY29uIGNyZWF0ZS0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBmYWIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFyZW50OiBlbnRpdHlQYXJlbnQsCiAgICAgIGVudGl0eVR5cGU6IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRhcmsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbG9yPSJwcmltYXJ5Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgWwogICAgICAgIHsKICAgICAgICAgIHR5cGU6ICdFWEFNUExFJywKICAgICAgICAgIHBhcnRzOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0ZXh0OiAnV2hhdCBpcyB5b3VyIG5hbWUgYWdhaW4/JywKICAgICAgICAgICAgfSwKICAgICAgICAgIF0sCiAgICAgICAgfSwKICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHYtbW9kZWw9ImZhYiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNsb3Q9ImFjdGl2YXRvciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHYtaWNvbiBjbG9zZQo=</text>
       </register>
     </registers>
     <search>
