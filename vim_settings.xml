@@ -107,12 +107,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534129713104">
-        <mark key="'" line="197" column="6" />
-        <mark key="[" line="181" column="37" />
-        <mark key="]" line="181" column="42" />
-        <mark key="." line="181" column="42" />
-        <mark key="^" line="181" column="42" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534130595804">
+        <mark key="'" line="177" column="6" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1533874988772">
         <mark key="'" line="43" column="0" />
@@ -418,11 +417,11 @@
       <jump line="42" column="24" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>intentDeletionResposne</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSBhZ2VudDogJW8nLCBhZ2VudCkK</text>
       </register>
       <register name="-" type="4">
-        <text>intentDeletionResposne</text>
+        <text encoding="base64">Y29uc3QgaW50ZW50RGVsZXRpb25SZXNwb25zZSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
@@ -431,31 +430,31 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coCiAgICAgICAgJy0tLS0tLS0tLS0gaW50ZW50RGVsZXRpb25SZXNwb3NuZTogJW8nLAogICAgICAgIGludGVudERlbGV0aW9uUmVzcG9uc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSBhZ2VudDogJW8nLCBhZ2VudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lczoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFnZW50ID0gdGhpcy5hZ2VudHNDbGllbnQucHJvamVjdFBhdGgoJ21vYmljb25zb2xldGVzdHByb2plY3QnKQogICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gYWdlbnQ6ICVvJywgYXdhaXQgdGhpcy5hZ2VudHNDbGllbnQuZ2V0QWdlbnQoeyBwYXJlbnQ6IGFnZW50IH0pKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIGFnZW50OiAlbycsIGFnZW50KQoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0aW5nJykK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgaW50ZW50TmFtZXMgPSBpbnRlbnRMaXN0WzBdLm1hcChpbnRlbnQgPT4gaW50ZW50Lm5hbWUpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coCiAgICAgICkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAnLS0tLS0tLS0tLSBlbnRpdHlEZWxldGlvblJlc3BvbnNlOiAlbycsCiAgICAgICAgZW50aXR5RGVsZXRpb25SZXNwb25zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gb3BlcmF0JykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coCiAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gaW50ZW50czogJW8nLCBpbnRlbnROYW1lcykKICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gZW50aXRpZXM6ICVvJywgZW50aXR5TmFtZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAnLS0tLS0tLS0tLSBpbnRlbnREZWxldGlvblJlc3Bvc25lOiAlbycsCiAgICAgICAgaW50ZW50RGVsZXRpb25SZXNwb25zZQo=</text>
       </register>
     </registers>
     <search>
