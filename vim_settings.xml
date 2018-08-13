@@ -256,11 +256,12 @@
         <mark key="." line="145" column="19" />
         <mark key="^" line="145" column="19" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1534118045123">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1534126898682">
+        <mark key="'" line="42" column="24" />
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="23" column="10" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/mutations.js" timestamp="1534117746717">
         <mark key="'" line="20" column="49" />
@@ -315,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="55" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="56" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="57" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
@@ -415,16 +415,17 @@
       <jump line="40" column="44" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="149" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="184" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="42" column="24" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>intentNames</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gaW50ZW50czogJW8nLCBpbnRlbnROYW1lcykK</text>
@@ -458,15 +459,14 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>root</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>root</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\</entry>
         <entry>\\n</entry>
         <entry>Database</entry>
         <entry>get</entry>
@@ -486,6 +486,7 @@
         <entry>id</entry>
         <entry>ES</entry>
         <entry>console</entry>
+        <entry>root</entry>
       </history-search>
       <history-cmd />
       <history-expr />
