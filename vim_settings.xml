@@ -107,11 +107,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534130595804">
-        <mark key="'" line="177" column="6" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534131872342">
+        <mark key="'" line="183" column="6" />
+        <mark key="[" line="62" column="16" />
+        <mark key="]" line="62" column="64" />
+        <mark key="." line="62" column="64" />
+        <mark key="^" line="62" column="64" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1533874988772">
         <mark key="'" line="43" column="0" />
@@ -417,11 +418,11 @@
       <jump line="42" column="24" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSBhZ2VudDogJW8nLCBhZ2VudCkK</text>
+      <register name="&quot;" type="4">
+        <text>{ trainResponse }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgaW50ZW50RGVsZXRpb25SZXNwb25zZSA9IA==</text>
+        <text>{ trainResponse }</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
