@@ -107,12 +107,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534126105352">
-        <mark key="'" line="190" column="6" />
-        <mark key="[" line="112" column="6" />
-        <mark key="]" line="112" column="11" />
-        <mark key="." line="112" column="11" />
-        <mark key="^" line="112" column="11" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534129713104">
+        <mark key="'" line="197" column="6" />
+        <mark key="[" line="181" column="37" />
+        <mark key="]" line="181" column="42" />
+        <mark key="." line="181" column="42" />
+        <mark key="^" line="181" column="42" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1533874988772">
         <mark key="'" line="43" column="0" />
@@ -419,16 +419,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>intentDeletionResposne</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>intentDeletionResposne</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gaW50ZW50czogJW8nLCBpbnRlbnROYW1lcykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coCiAgICAgICAgJy0tLS0tLS0tLS0gaW50ZW50RGVsZXRpb25SZXNwb3NuZTogJW8nLAogICAgICAgIGludGVudERlbGV0aW9uUmVzcG9uc2UK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
