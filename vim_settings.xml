@@ -105,12 +105,12 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534136614702">
-        <mark key="'" line="446" column="31" />
-        <mark key="[" line="451" column="0" />
-        <mark key="]" line="451" column="0" />
-        <mark key="^" line="13" column="44" />
-        <mark key="." line="451" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534141811185">
+        <mark key="'" line="137" column="24" />
+        <mark key="[" line="436" column="0" />
+        <mark key="]" line="436" column="0" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="436" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/getters.js" timestamp="1533530031971">
         <mark key="[" line="1" column="20" />
@@ -118,17 +118,17 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534136568802">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534140231696">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1534135863794">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1534141602519">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="9" />
-        <mark key="." line="36" column="9" />
-        <mark key="^" line="36" column="9" />
+        <mark key="[" line="47" column="2" />
+        <mark key="]" line="48" column="42" />
+        <mark key="." line="48" column="42" />
+        <mark key="^" line="48" column="42" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/ui.js" timestamp="1533254901578">
         <mark key="'" line="8" column="0" />
@@ -316,24 +316,15 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1534136839406">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="54" column="5" />
-        <mark key="." line="54" column="5" />
-        <mark key="^" line="54" column="5" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1534141848061">
+        <mark key="'" line="164" column="6" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="153" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="16" filename="/Volumes/Storage/Source/thrifty-ninja/src/router.js" />
-      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-      <jump line="26" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-      <jump line="12" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-      <jump line="22" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-      <jump line="154" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="269" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="3" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="70" column="44" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
@@ -425,13 +416,22 @@
       <jump line="58" column="54" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="62" column="47" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="446" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="137" column="24" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="44" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="104" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="167" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="164" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>trainingDonePromise</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHJlZ2lzdGVyaW5nJykK</text>
       </register>
       <register name="-" type="4">
-        <text>trainingDonePromise</text>
+        <text>updateLearningStatus</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -440,31 +440,31 @@
         <text>clearFormAndHideNewLedgerForm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBhd2FpdFJlc3VsdHModHJhaW5pbmdQcm9taXNlKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHJlZ2lzdGVyaW5nJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIGdldHRpbmcgcmVtb3RlIGlkJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gdHJhaW5SZXNwb25zZVswXS5wcm9taXNlKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIGluaXRpYWxpemluZycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cmFpblJlc3BvbnNlWzBdLnByb21pc2UoKQogIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gZXJyb3IgZ2V0dGluZyB3b3Jrc3BhY2UnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRyYWluUmVzcG9uc2UgPSBhd2FpdCB0aGlzLmFnZW50c0NsaWVudC50cmFpbkFnZW50KHsgcGFyZW50IH0pCgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHRyYWluaW5nJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudCA9IHRoaXMuYWdlbnRzQ2xpZW50LnByb2plY3RQYXRoKCdtb2JpY29uc29sZXRlc3Rwcm9qZWN0JykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRyYWluaW5nQ29tcGxldGlvblByb21pc2UgPSBhaS50cmFpbmluZ0NvbXBsZXRpb25Qcm9taXNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnJlYWRDb250YWluZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSB0cmFpbmluZyByZXNwb25zZTogJW8nLCBhd2FpdCB0cmFpblJlc3BvbnNlWzBdLnByb21pc2UoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
