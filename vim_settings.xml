@@ -105,12 +105,12 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534141811185">
-        <mark key="'" line="137" column="24" />
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="436" column="0" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="436" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534143662982">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="46" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="14" column="46" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/getters.js" timestamp="1533530031971">
         <mark key="[" line="1" column="20" />
@@ -316,16 +316,15 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1534141848061">
-        <mark key="'" line="164" column="6" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="153" column="16" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1534142859855">
+        <mark key="'" line="168" column="6" />
+        <mark key="[" line="57" column="40" />
+        <mark key="]" line="58" column="45" />
+        <mark key="." line="58" column="45" />
+        <mark key="^" line="58" column="45" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="3" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
       <jump line="70" column="44" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
       <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
@@ -425,58 +424,58 @@
       <jump line="22" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="102" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="164" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHJlZ2lzdGVyaW5nJykK</text>
+      <register name="&quot;" type="4">
+        <text>status</text>
       </register>
       <register name="-" type="4">
-        <text>updateLearningStatus</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>remoteLearning</text>
       </register>
-      <register name="0" type="4">
-        <text>clearFormAndHideNewLedgerForm</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSBzdGF0dXM6ICVvJywgc3RhdHVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHJlZ2lzdGVyaW5nJykK</text>
+        <text encoding="base64">ICAvLyAgIGNvbnN0IHN0YXR1cyA9IGF3YWl0IGFpLnN0YXR1cygpCiAgLy8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIGdldHRpbmcgcmVtb3RlIGlkJykK</text>
+        <text encoding="base64">ICAvLwogIC8vICAgY29uc3QgYWkgPSBuZXcgQUkoeyBzZXJ2aWNlIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIGluaXRpYWxpemluZycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gZXJyb3IgZ2V0dGluZyB3b3Jrc3BhY2UnKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSByZXN1bHQ6ICVvJywgcmVzdWx0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHRyYWluaW5nJykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSBwcm9taXNlOiAlbycsIHByb21pc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSBjb250YWluZXI6ICVvJywgdGhpcy53b3Jrc3BhY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRyYWluaW5nQ29tcGxldGlvblByb21pc2UgPSBhaS50cmFpbmluZ0NvbXBsZXRpb25Qcm9taXNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy53b3Jrc3BhY2Uuc3RhdHVzICE9PSAnVHJhaW5pbmcnKSB7CiAgICAgICAgfQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>remoteLearning</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>remoteLearning</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\\n</entry>
         <entry>Database</entry>
         <entry>get</entry>
         <entry>remoteContainer</entry>
@@ -496,6 +495,7 @@
         <entry>ES</entry>
         <entry>root</entry>
         <entry>console</entry>
+        <entry>remoteLearning</entry>
       </history-search>
       <history-cmd />
       <history-expr />
