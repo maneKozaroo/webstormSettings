@@ -107,8 +107,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534122421285">
-        <mark key="'" line="29" column="9" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534125169055">
+        <mark key="'" line="190" column="6" />
+        <mark key="[" line="175" column="37" />
+        <mark key="]" line="175" column="42" />
+        <mark key="." line="175" column="42" />
+        <mark key="^" line="175" column="42" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1533874988772">
         <mark key="'" line="43" column="0" />
@@ -311,9 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
-      <jump line="52" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
-      <jump line="53" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="54" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="55" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
       <jump line="56" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" />
@@ -411,52 +412,55 @@
       <jump line="608" column="34" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="265" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="277" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="40" column="44" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="184" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHsgZW50aXR5VHlwZSB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>displayName</text>
+        <text>intentNames</text>
       </register>
       <register name="/" type="4">
-        <text>ES</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIGRlbGV0ZSBpbnRlbnRzOiAlbycsIGRlbGV0ZUludGVudHNSZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gaW50ZW50czogJW8nLCBpbnRlbnROYW1lcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHsgZW50aXR5VHlwZSB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnV29yZDEnCg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIGVudGl0eVR5cGVMaXN0OiAlbycsIGVudGl0eVR5cGVMaXN0KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFnZW50ID0gdGhpcy5hZ2VudHNDbGllbnQucHJvamVjdFBhdGgoJ21vYmljb25zb2xldGVzdHByb2plY3QnKQogICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gYWdlbnQ6ICVvJywgYXdhaXQgdGhpcy5hZ2VudHNDbGllbnQuZ2V0QWdlbnQoeyBwYXJlbnQ6IGFnZW50IH0pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIGFnZW50OiAlbycsIGFnZW50KQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0aW5nJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb25maWcucHJvamVjdElkLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gb3BlcmF0JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb25maWcucHJvamVjdElkLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gaW50ZW50czogJW8nLCBpbnRlbnROYW1lcykKICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gZW50aXRpZXM6ICVvJywgZW50aXR5TmFtZXMpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>ES</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>ES</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -477,11 +481,11 @@
         <entry>dialogflow</entry>
         <entry>128</entry>
         <entry>maxLength</entry>
-        <entry>console</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxsZWRnZXJcPg==</entry>
         <entry>id</entry>
         <entry>ES</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd />
       <history-expr />
