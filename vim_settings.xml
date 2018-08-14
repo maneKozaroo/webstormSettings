@@ -95,12 +95,12 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1534224285335">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1534225743403">
         <mark key="'" line="444" column="22" />
-        <mark key="[" line="442" column="0" />
-        <mark key="]" line="442" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="442" column="0" />
+        <mark key="[" line="89" column="14" />
+        <mark key="]" line="89" column="32" />
+        <mark key="^" line="89" column="32" />
+        <mark key="." line="89" column="32" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/views/index.html" timestamp="1533616611131">
         <mark key="[" line="12" column="31" />
@@ -455,10 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>serviceId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>serviceId</text>
       </register>
       <register name="/" type="4">
         <text>ES</text>
