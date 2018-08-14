@@ -119,12 +119,12 @@
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534214891373">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534220776823">
         <mark key="'" line="170" column="13" />
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="22" column="57" />
-        <mark key="^" line="22" column="57" />
-        <mark key="." line="22" column="57" />
+        <mark key="[" line="458" column="35" />
+        <mark key="]" line="459" column="3" />
+        <mark key="^" line="459" column="3" />
+        <mark key="." line="459" column="3" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/getters.js" timestamp="1533530031971">
         <mark key="[" line="1" column="20" />
@@ -132,10 +132,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534140231696">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534220686522">
+        <mark key="'" line="109" column="2" />
+        <mark key="[" line="114" column="29" />
+        <mark key="]" line="114" column="29" />
+        <mark key="^" line="125" column="23" />
+        <mark key="." line="114" column="29" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1534214989410">
         <mark key="[" line="34" column="4" />
@@ -334,17 +336,14 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1534217626871">
-        <mark key="[" line="134" column="21" />
-        <mark key="]" line="135" column="16" />
-        <mark key="^" line="135" column="16" />
-        <mark key="." line="135" column="16" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1534218839738">
+        <mark key="[" line="88" column="2" />
+        <mark key="]" line="88" column="1" />
+        <mark key="^" line="88" column="1" />
+        <mark key="." line="88" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="35" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="534" column="3" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="4" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="390" column="53" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
       <jump line="225" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
       <jump line="219" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
@@ -390,7 +389,6 @@
       <jump line="18" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="21" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="25" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="29" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="68" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
       <jump line="54" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
       <jump line="71" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
@@ -442,60 +440,64 @@
       <jump line="84" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="81" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="89" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="179" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="29" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="290" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="113" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gZXJyb3IgY3JlYXRpbmcgd29ya3NwYWNlOiAlbycsIGVycm9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.worksworkspace_id || providerRemoteId</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>:nohl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByb21pc2lmeSh0aGlzLmFzc2lzdGFudCwgJ2dldFdvcmtzcGFjZScpKHBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyYWluaW5nUmVzdWx0OiAlbycsIHRyYWluaW5nUmVzdWx0WzBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gZXJyb3IgY3JlYXRpbmcgd29ya3NwYWNlOiAlbycsIGVycm9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWFkIGNvbnRhaW5lcjogJW8nLCB0aGlzLnByb3ZpZGVyUmVtb3RlSWQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjcmVhdGluZyBuZXcgQUknKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHByb21pc2lmeSBmcm9tICcuLi91dGlscy9wcm9taXNpZnknCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjcmVhdGluZyBjb250YWluZXInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcm92aWRlclJlbW90ZUlkOiAlbycsIHRoaXMpCgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhd2FpdGluZyB0cmFpbmluZyBjb21wbGV0aW9uJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0cmFpbmluZycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZTogeyBwcm92aWRlclJlbW90ZUlkIH0sCiAgICAgIHdvcmtzcGFjZSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnZXR0aW5nIHByb3ZpZGVyIHJlbW90ZSBJRCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IHsKICAgICAgd29ya3NwYWNlX2lkOgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgCiAgICAgIC8vIHRyYWluaW5nUmVzdWx0OiBbCiAgICAgIC8vICAgRW1wdHkge30sCiAgICAgIC8vICAgICB1bmRlZmluZWQsCiAgICAgIC8vICAgICB7IHJlc3VsdDogJ3Jlc3BvbnNlJywKICAgICAgLy8gICAgICAgbmFtZTogJ3Byb2plY3RzL21vYmljb25zb2xldGVzdHByb2plY3Qvb3BlcmF0aW9ucy9lZTAzYmVmNS0yYTNkLTQ2M2UtOWVmYS1lYTMzZGUzNjg0YjInLAogICAgICAvLyAgICAgICBtZXRhZGF0YTogbnVsbCwKICAgICAgLy8gICAgICAgZG9uZTogdHJ1ZSwKICAgICAgLy8gICAgICAgZXJyb3I6IG51bGwsCiAgICAgIC8vICAgICAgIHJlc3BvbnNlOgogICAgICAvLyAgICAgICAgIHsgdHlwZVVybDogJ3R5cGUuZ29vZ2xlYXBpcy5jb20vZ29vZ2xlLnByb3RvYnVmLkVtcHR5JywKICAgICAgLy8gICAgICAgICAgIHZhbHVlOiA8QnVmZmVyID4gfSB9LAogICAgICAvLyAgIFtsZW5ndGhdOiAzCiAgICAgIC8vIF0KCiAgICAgIHJlc29sdmUoJ05vbiBFeGlzdGFudCcp</text>
+      </register>
+      <register name=":" type="4">
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>:nohl</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>:nohl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Database</entry>
-        <entry>get</entry>
-        <entry>remoteContainer</entry>
         <entry>providerRemoteId()</entry>
         <entry>status()</entry>
         <entry encoding="base64">XDxBSVw+</entry>
@@ -513,8 +515,13 @@
         <entry>console</entry>
         <entry>remoteLearning</entry>
         <entry>status</entry>
+        <entry>promise</entry>
+        <entry>agents</entry>
+        <entry>:nohl</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>nohl</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
