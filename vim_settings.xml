@@ -47,9 +47,9 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1534312890362">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1534314778481">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="89" column="10" />
         <mark key="." line="104" column="0" />
         <mark key="^" line="89" column="9" />
       </file>
@@ -100,11 +100,12 @@
         <mark key="^" line="66" column="83" />
         <mark key="." line="66" column="83" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/simulation/index.js" timestamp="1534306703415">
-        <mark key="'" line="87" column="45" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/simulation/index.js" timestamp="1534314829567">
+        <mark key="'" line="88" column="45" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="24" />
+        <mark key="." line="77" column="24" />
+        <mark key="^" line="77" column="24" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/mutations.js" timestamp="1533601336234">
         <mark key="[" line="25" column="26" />
@@ -244,7 +245,6 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Downloads/mobiconsole-180814-155125-9d0ecc732d44.json" timestamp="1534286916524" />
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/plugins/firebase.js" timestamp="1533248938154">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="18" />
@@ -281,7 +281,6 @@
         <mark key="." line="137" column="19" />
         <mark key="^" line="137" column="19" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" timestamp="1534306218311" />
       <file name="/JavaScript Console" timestamp="1534306401756">
         <mark key="[" line="0" column="0" />
       </file>
@@ -342,14 +341,18 @@
         <mark key="." line="30" column="13" />
         <mark key="^" line="30" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1534312605304" />
-      <file name="$USER_HOME$/Downloads/mobiconsole-180814-155240-14e6cc08e284.json" timestamp="1534287742430" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" timestamp="1533866214886">
         <mark key="'" line="57" column="12" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="^" line="154" column="27" />
         <mark key="." line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Mobi-Console/4_batch_simulation_5.csv" timestamp="1534314720601">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/app.js" timestamp="1533253586406">
         <mark key="[" line="1" column="0" />
@@ -480,43 +483,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'Testing'</text>
+        <text>leanguage</text>
       </register>
       <register name="-" type="4">
-        <text>'Testing'</text>
+        <text>leanguage</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgY29uc29sZS5sb2coeyByZXR1cm5PYmplY3QgfSkK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBtb2RlbDogRGF0YWJhc2UubGFuZ3VhZ2UsCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIJIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7Cg==</text>
+        <text encoding="base64">IiIJIiIKIiIJIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gZXJyb3I6ICVvJywgZXJyb3IpCiAgICB9Cg==</text>
+        <text encoding="base64">IjUiCSJXaGVuIGRpZCB5b3UgZ2V0IGhlcmU/Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">IjQiCSJXaGVyZSBhcmUgeW91IGZyb20/IgoiNSIJIldoeSBkaWQgeW91IGNvbWUgaGVyZT8iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICBjb25zb2xlLmxvZyhyZXR1cm5PYmplY3QpCg==</text>
+        <text encoding="base64">IjMiCSJXaGF0IGlzIHlvdXIgbmFtZT8iCiI0IgkiV2hlbiBkaWQgeW91IGdldCBoZXJlPyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICBjb25zb2xlLmxvZyhyZXR1cm5PYmplY3QpCg==</text>
+        <text encoding="base64">IjIiCSJXaG8gYXJlIHlvdT8iCiIzIgkiV2hlcmUgYXJlIHlvdSBmcm9tPyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJldHVybk9iamVjdCkKCg==</text>
+        <text encoding="base64">IjEiCSJXaHkgZGlkIHlvdSBjb21lIGhlcmU/IgoiMiIJIldoYXQgaXMgeW91ciBuYW1lPyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50czogW3Jlc3VsdC5pbnRlbnRdLAogICAgICAgICAgICBmYXFJZDogcmVzdWx0LmludGVudCAmJiBOdW1iZXIocmVzdWx0LmludGVudC5kaXNwbGF5TmFtZSksCiAgICAgICAgICAgIGNvbmZpZGVuY2U6IE51bWJlcihyZXN1bHQuaW50ZW50RGV0ZWN0aW9uQ29uZmlkZW5jZSksCiAgICAgICAgICAgIHRleHQ6IHJlc3VsdC5xdWVyeVRleHQs</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
