@@ -127,6 +127,12 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1534391254051">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534381551198">
         <mark key="'" line="209" column="13" />
         <mark key="[" line="89" column="9" />
@@ -186,6 +192,12 @@
         <mark key="^" line="14" column="53" />
         <mark key="." line="14" column="53" />
       </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/router.js" timestamp="1534391155331">
+        <mark key="[" line="36" column="68" />
+        <mark key="]" line="36" column="67" />
+        <mark key="." line="36" column="67" />
+        <mark key="^" line="36" column="67" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" timestamp="1534390520918">
         <mark key="'" line="404" column="43" />
         <mark key="[" line="105" column="42" />
@@ -193,11 +205,11 @@
         <mark key="." line="106" column="46" />
         <mark key="^" line="106" column="46" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1533615901222">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="46" />
-        <mark key="^" line="60" column="48" />
-        <mark key="." line="60" column="48" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1534391232382">
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="47" />
+        <mark key="^" line="60" column="47" />
+        <mark key="." line="60" column="47" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1534386366650">
         <mark key="[" line="84" column="22" />
@@ -470,10 +482,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>service</text>
+        <text>app</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
