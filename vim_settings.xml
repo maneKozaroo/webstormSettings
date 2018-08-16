@@ -27,6 +27,9 @@
         <mark key="." line="15" column="39" />
         <mark key="^" line="15" column="39" />
       </file>
+      <file name="/fragment.js" timestamp="1534206156801">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/getters.js" timestamp="1534372474304">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="35" />
@@ -287,6 +290,9 @@
         <mark key="." line="137" column="19" />
         <mark key="^" line="137" column="19" />
       </file>
+      <file name="/JavaScript Console" timestamp="1534306401756">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/ledgers.js" timestamp="1534288010084">
         <mark key="'" line="10" column="30" />
         <mark key="[" line="11" column="23" />
@@ -299,6 +305,9 @@
         <mark key="]" line="45" column="30" />
         <mark key="^" line="45" column="30" />
         <mark key="." line="45" column="30" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534382239223">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/_constants.js" timestamp="1533600911130">
         <mark key="'" line="12" column="8" />
@@ -313,11 +322,10 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1533703430587">
-        <mark key="[" line="145" column="19" />
-        <mark key="]" line="145" column="19" />
-        <mark key="." line="145" column="19" />
-        <mark key="^" line="145" column="19" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1534384324551">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1534378744505">
         <mark key="[" line="39" column="0" />
@@ -383,7 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="111" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="63" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="94" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
@@ -483,46 +490,47 @@
       <jump line="86" column="7" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledgers/Form.vue" />
       <jump line="90" column="11" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledgers/Form.vue" />
       <jump line="2" column="22" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledgers/Form.vue" />
+      <jump line="26" column="8" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSByZXR1cm5lZCBzdGF0dXM6ICVvJywgc3RhdHVzKQo=</text>
+        <text encoding="base64">CmNvbnN0IG9uZ29pbmdTdGF0dXNDaGVja3MgPSB7fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>notAvailable</text>
+        <text>statusCheck</text>
       </register>
       <register name="/" type="4">
         <text>hide</text>
       </register>
-      <register name="0" type="4">
-        <text>ledgerFormDialogOpen</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB5aWVsZCB0YWtlRXZlcnkoY29uc3RhbnRzLlNUQVRVU19DSEVDS19SRVFVRVNULCBvcGVyYXRpb25zLnN0YXR1c0NoZWNrKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLSByZXR1cm5lZCBzdGF0dXM6ICVvJywgc3RhdHVzKQo=</text>
+        <text encoding="base64">CmNvbnN0IG9uZ29pbmdTdGF0dXNDaGVja3MgPSB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHJhaW5pbmcK</text>
+        <text encoding="base64">ICAgICAgc2VydmljZXMuZm9yRWFjaChzZXJ2aWNlID0+IHsKICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0cmFpbmluZyA9IHNlcnZpY2UubGVhcm5pbmdTdGF0dXMubGVhcm5pbmdTdGF0dXNJZCA9PT0gMgogICAgICAgIGNvbnNvbGUubG9nKCd0cmFpbmluZzogJW8gLSAlbycsIHRyYWluaW5nLCBzZXJ2aWNlLnNlcnZpY2VJZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9uZ29pbmdTdGF0dXNDaGVja3Nbc2VydmljZS5zZXJ2aWNlSWRdID0gbmV3IFByb21pc2UoYXN5bmMgcmVzb2x2ZSA9PiB7CiAgICAgIGNvbnN0IHN0YXR1cyA9IGF3YWl0IGFpLnN0YXR1cygpCiAgICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tIHJldHVybmVkIHN0YXR1czogJW8nLCBzdGF0dXMpCiAgICAgIGRlbGV0ZSBvbmdvaW5nU3RhdHVzQ2hlY2tzW3NlcnZpY2Uuc2VydmljZUlkXQogICAgICByZXNvbHZlKHN0YXR1cykKICAgIH0pCg==</text>
+        <text encoding="base64">ICB5aWVsZCB0YWtlRXZlcnkoY29uc3RhbnRzLkxJU1RfUkVRVUVTVCwgb3BlcmF0aW9ucy5jaGVja1N0YXR1c2VzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnVHJhaW5pbmcnCg==</text>
+        <text encoding="base64">ICBjaGVja1N0YXR1c2VzKHBheWxvYWQpIHsKICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRhaW5lciA9IGF3YWl0IHRoaXMucmVhZENvbnRhaW5lcigpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGVja2luZyBzdGF0dXM6ICVvJywgcGF5bG9hZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gY29udGFpbmVyLnN0YXR1cwo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ3B1dDogJW8nLCB5aWVsZCBwdXQoYWN0aW9ucy5yZWFkLnJlcXVlc3Qoc2VydmljZXNbMV0pKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnVHJhaW5pbmcnCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlYWRpbmc6ICVvJywgc2VydmljZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VydmljZSA9IHlpZWxkIGNhbGwoQXBpLnNlcnZpY2VzLnJlYWQsIHsgc2VydmljZUlkIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
