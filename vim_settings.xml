@@ -206,12 +206,12 @@
         <mark key="." line="36" column="67" />
         <mark key="^" line="36" column="67" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" timestamp="1534402458364">
-        <mark key="'" line="277" column="9" />
-        <mark key="[" line="102" column="41" />
-        <mark key="]" line="103" column="72" />
-        <mark key="." line="103" column="72" />
-        <mark key="^" line="103" column="72" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" timestamp="1534402773274">
+        <mark key="'" line="275" column="9" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="87" column="3" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1534393726407">
         <mark key="'" line="7" column="13" />
@@ -499,11 +499,11 @@
       <jump line="242" column="9" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3QgY2hlY2tlciA9IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgY2hlY2tlciA9IA==</text>
+        <text>componentWillUpdate</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
@@ -512,31 +512,31 @@
         <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUocHJldlN0YXRlID0+IHsKICAgICAgICAgICAgY29uc3QgbmV3U3RhdGUgPSBPYmplY3QuYXNzaWduKHt9LCBwcmV2U3RhdGUpCiAgICAgICAgICAgIGRlbGV0ZSBuZXdTdGF0ZS5vbmdvaW5nU3RhdHVzQ2hlY2tzW2Nsb3N1cmVTZXJ2aWNlLnNlcnZpY2VJZF0KICAgICAgICAgICAgcmV0dXJuIG5ld1N0YXRlCiAgICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrY29uc29sZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RvcCBjaGVja2luZywgJW8nLCB0aGlzLm9uZ29pbmdTdGF0dXNDaGVja3MpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBvbmdvaW5nU3RhdHVzQ2hlY2tzIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvbmdvaW5nU3RhdHVzQ2hlY2tzID0ge30K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBvbmdvaW5nU3RhdHVzQ2hlY2tzIH0gPSB0aGlzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZTogeyBvbmdvaW5nU3RhdHVzQ2hlY2tzIH0sCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHByZXZTdGF0ZSA9PiB7CiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2hlY2tlcjogJW8nLCBjaGVja2VyKQogICAgICAgIGNvbnNvbGUubG9nKCdzdG9wIGNoZWNraW5nLCAlbycsIHRoaXMub25nb2luZ1N0YXR1c0NoZWNrcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG5ld1N0YXRlID0gT2JqZWN0LmFzc2lnbih7fSwgcHJldlN0YXRlKQogICAgICAgICAgcmV0dXJuIG5ld1N0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgY2hlY2tpbmcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlbGV0ZSBuZXdTdGF0ZS5vbmdvaW5nU3RhdHVzQ2hlY2tzW2Nsb3N1cmVTZXJ2aWNlLnNlcnZpY2VJZF0K</text>
+        <text encoding="base64">ICAgICAgICBrY29uc29sZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IGNoZWNrZXIgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RvcCBjaGVja2luZywgJW8nLCB0aGlzLm9uZ29pbmdTdGF0dXNDaGVja3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
