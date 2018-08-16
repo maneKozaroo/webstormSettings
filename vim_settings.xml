@@ -268,11 +268,11 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/_constants.js" timestamp="1534373882580">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="32" />
-        <mark key="." line="1" column="32" />
-        <mark key="^" line="1" column="32" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/_constants.js" timestamp="1534378720528">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1533796323278">
         <mark key="[" line="137" column="19" />
@@ -312,10 +312,10 @@
         <mark key="." line="145" column="19" />
         <mark key="^" line="145" column="19" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1534376050956">
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1534378744505">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
         <mark key="^" line="23" column="34" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/mutations.js" timestamp="1534375530425">
@@ -479,7 +479,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHYtaWY9ImxlZGdlckZvcm1EaWFsb2dPcGVuIgo=</text>
+        <text encoding="base64">ICBhc3luYyBmb2N1c0xlZGdlcih7IGNvbW1pdCB9LCBwYXlsb2FkID0geyBsZWRnZXI6IHt9IH0pIHsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">di1pZj0ibGVkZ2VyRm9ybURpYWxvZ09wZW4iIHRyYW5zaXRpb249InYtZmFkZS10cmFuc2l0aW9uIiA=</text>
@@ -491,31 +491,31 @@
         <text>ledgerFormDialogOpen</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHYtaWY9ImxlZGdlckZvcm1EaWFsb2dPcGVuIgo=</text>
+        <text encoding="base64">ICBhc3luYyBmb2N1c0xlZGdlcih7IGNvbW1pdCB9LCBwYXlsb2FkID0geyBsZWRnZXI6IHt9IH0pIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ2xlZGdlcicKCg==</text>
+        <text encoding="base64">ICAgIGNvbW1pdChjb25zdGFudHMuRk9DVVNfTEVER0VSLCBwYXlsb2FkKTsKICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1cGRhdGVkKC4uLmFyZ3MpIHsKICB9LAo=</text>
+        <text encoding="base64">ICBGT0NVU19MRURHRVI6ICdGT0NVU19MRURHRVInLAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcmdzOiAlbycsIGFyZ3MpOwo=</text>
+        <text encoding="base64">ICBVUERBVEVfRk9STTogJ1VQREFURV9GT1JNJywKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhY3RpdmF0ZWQoKSB7CiAgfSwK</text>
+        <text encoding="base64">ICBQT1BVTEFURV9GT1JNOiAnUE9QVUxBVEVfRk9STScsCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhY3RpdmF0ZWQnKTsK</text>
+        <text encoding="base64">ICAgIHYtaWY9ImxlZGdlckZvcm1EaWFsb2dPcGVuIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiZWZvcmVVcGRhdGUoKSB7CiAgfSwK</text>
+        <text encoding="base64">ICAgICAgJ2xlZGdlcicKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWZzOiAlbycsIHRoaXMuJHJlZnMpOwo=</text>
+        <text encoding="base64">ICB1cGRhdGVkKC4uLmFyZ3MpIHsKICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgbGVkZ2VyIH0sIG5ldyBMZWRnZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcmdzOiAlbycsIGFyZ3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
