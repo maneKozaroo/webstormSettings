@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Mobi-Console/4_batch_simulation_5 (1).csv" timestamp="1534306487057">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledgers/New.vue" timestamp="1534296899538">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="3" />
@@ -14,9 +19,6 @@
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/actions.js" timestamp="1534375092115">
-        <mark key="'" line="1" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1534206156801">
         <mark key="[" line="0" column="0" />
@@ -64,11 +66,16 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/dialogs/SignOut.vue" timestamp="1533253756426">
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="37" />
-        <mark key="." line="26" column="16" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/main.js" timestamp="1534133857517">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/dialogs/SignOut.vue" timestamp="1534393846494">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Properties/index.js" timestamp="1533624828329">
         <mark key="[" line="260" column="16" />
@@ -127,11 +134,12 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1534391254051">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1534393752671">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534381551198">
         <mark key="'" line="209" column="13" />
@@ -198,24 +206,29 @@
         <mark key="." line="36" column="67" />
         <mark key="^" line="36" column="67" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" timestamp="1534390520918">
-        <mark key="'" line="404" column="43" />
-        <mark key="[" line="105" column="42" />
-        <mark key="]" line="106" column="46" />
-        <mark key="." line="106" column="46" />
-        <mark key="^" line="106" column="46" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" timestamp="1534402458364">
+        <mark key="'" line="277" column="9" />
+        <mark key="[" line="102" column="41" />
+        <mark key="]" line="103" column="72" />
+        <mark key="." line="103" column="72" />
+        <mark key="^" line="103" column="72" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1534391232382">
-        <mark key="[" line="60" column="45" />
-        <mark key="]" line="60" column="47" />
-        <mark key="^" line="60" column="47" />
-        <mark key="." line="60" column="47" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1534393726407">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1534386366650">
-        <mark key="[" line="84" column="22" />
-        <mark key="]" line="85" column="30" />
-        <mark key="." line="85" column="30" />
-        <mark key="^" line="85" column="30" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1534398305806">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1534397376620">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/index.js" timestamp="1533619805689">
         <mark key="[" line="17" column="24" />
@@ -315,11 +328,10 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1534390243427">
-        <mark key="[" line="136" column="44" />
-        <mark key="]" line="137" column="31" />
-        <mark key="." line="137" column="31" />
-        <mark key="^" line="137" column="31" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1534399750443">
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="8" />
+        <mark key="." line="50" column="8" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1534378744505">
         <mark key="[" line="39" column="0" />
@@ -339,6 +351,12 @@
         <mark key="]" line="12" column="11" />
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" timestamp="1534393881327">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" timestamp="1533866214886">
         <mark key="'" line="57" column="12" />
@@ -379,25 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="151" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="153" column="44" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="162" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="165" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="18" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="21" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="25" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="68" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
-      <jump line="54" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
-      <jump line="71" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" />
-      <jump line="4" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/model.js" />
-      <jump line="32" column="12" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="11" column="45" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="31" column="73" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="41" column="56" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="52" column="56" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="10" column="30" filename="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/ledgers.js" />
-      <jump line="23" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
       <jump line="11" column="3" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/mutations.js" />
       <jump line="20" column="49" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/mutations.js" />
       <jump line="5" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/model.js" />
@@ -479,62 +478,79 @@
       <jump line="99" column="2" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
       <jump line="137" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
       <jump line="391" column="43" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="35" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" />
+      <jump line="75" column="9" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" />
+      <jump line="1" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" />
+      <jump line="34" column="2" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" />
+      <jump line="30" column="18" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" />
+      <jump line="7" column="13" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" />
+      <jump line="7" column="12" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" />
+      <jump line="21" column="12" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/dialogs/SignOut.vue" />
+      <jump line="1" column="10" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/dialogs/SignOut.vue" />
+      <jump line="104" column="32" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="253" column="9" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="264" column="9" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="73" column="4" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="76" column="44" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="77" column="9" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="88" column="9" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="375" column="6" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="231" column="9" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
+      <jump line="242" column="9" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app</text>
+        <text encoding="base64">Y29uc3QgY2hlY2tlciA9IA==</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text encoding="base64">Y29uc3QgY2hlY2tlciA9IA==</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>setState</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgcHJvcHM6IHsgZGlzcGF0Y2ggfSwKICAgIH0gPSB0aGlz</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUocHJldlN0YXRlID0+IHsKICAgICAgICAgICAgY29uc3QgbmV3U3RhdGUgPSBPYmplY3QuYXNzaWduKHt9LCBwcmV2U3RhdGUpCiAgICAgICAgICAgIGRlbGV0ZSBuZXdTdGF0ZS5vbmdvaW5nU3RhdHVzQ2hlY2tzW2Nsb3N1cmVTZXJ2aWNlLnNlcnZpY2VJZF0KICAgICAgICAgICAgcmV0dXJuIG5ld1N0YXRlCiAgICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBsaXN0U2VydmljZSB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBrY29uc29sZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHNlcnZpY2VJZCB9ID0gbGlzdFNlcnZpY2UudG9KUygpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RvcCBjaGVja2luZywgJW8nLCB0aGlzLm9uZ29pbmdTdGF0dXNDaGVja3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Nob3VsZCBjaGVjayBzdGF0dXMnKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvdWxkIGNoZWNrIHN0YXR1cycpCg==</text>
+        <text encoding="base64">ICBvbmdvaW5nU3RhdHVzQ2hlY2tzID0ge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZTogeyBvbmdvaW5nU3RhdHVzQ2hlY2tzIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHByZXZTdGF0ZSA9PiB7CiAgICAgICAgfSkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgLy8gbGV0IHNlcnZpY2VJZAogICAgICAvLyBpZiAocGF5bG9hZCkgewogICAgICAvLyAgIHNlcnZpY2VJZCA9IHBheWxvYWQuc2VydmljZS5zZXJ2aWNlSWQKICAgICAgLy8gfSBlbHNlIHs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG5ld1N0YXRlID0gT2JqZWN0LmFzc2lnbih7fSwgcHJldlN0YXRlKQogICAgICAgICAgcmV0dXJuIG5ld1N0YXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlbGV0ZSBuZXdTdGF0ZS5vbmdvaW5nU3RhdHVzQ2hlY2tzW2Nsb3N1cmVTZXJ2aWNlLnNlcnZpY2VJZF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBzZXJ2aWNlSWQgfSA9IGxpc3RTZXJ2aWNlCiAgICAgIGRpc3BhdGNoKHNlcnZpY2VBY3Rpb25zLnN0YXR1cy5yZXF1ZXN0KHsgc2VydmljZUlkIH0pKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IGNoZWNrZXIgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>setState</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>setState</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dialogflow</entry>
-        <entry>128</entry>
         <entry>maxLength</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxsZWRnZXJcPg==</entry>
@@ -553,6 +569,8 @@
         <entry>hide</entry>
         <entry>read</entry>
         <entry>list</entry>
+        <entry>state</entry>
+        <entry>setState</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
