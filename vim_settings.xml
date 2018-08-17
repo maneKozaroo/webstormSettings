@@ -253,11 +253,10 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1534465644546">
-        <mark key="[" line="180" column="22" />
-        <mark key="]" line="181" column="39" />
-        <mark key="." line="181" column="39" />
-        <mark key="^" line="181" column="39" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1534468892024">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/public/Terms.vue" timestamp="1534459451671">
         <mark key="[" line="3" column="12" />
@@ -370,12 +369,12 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1534467237791">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1534468994713">
         <mark key="'" line="25" column="36" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="9" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="41" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1534463964855">
         <mark key="[" line="6" column="29" />
@@ -544,10 +543,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VydmljZTogJW8nLCBzZXJ2aWNlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>${service}'</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
@@ -556,18 +555,24 @@
         <text encoding="base64">ICBbY29uc3RhbnRzLlBPUFVMQVRFX0ZPUk1fU1VDQ0VTU10oKSB7fSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VydmljZTogJW8nLCBzZXJ2aWNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHNlcnZpY2VJZCB9ID0gc2VydmljZQogICAgICAgIHlpZWxkIGZvcmsob3BlcmF0aW9ucy5zdGF0dXNDaGVjaywgeyBwYXlsb2FkOiB7IHNlcnZpY2VJZCB9IH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXR1cyByZXF1ZXN0IGFjdGlvbicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZXMuZm9yRWFjaCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHNlcnZpY2VJZCB9ID0gc2VydmljZQogICAgICAgIHlpZWxkIGZvcmsob3BlcmF0aW9ucy5zdGF0dXNDaGVjaywgeyBwYXlsb2FkOiB7IHNlcnZpY2VJZCB9IH0pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc2VydmljZXMuZm9yRWFjaCgpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAoKShzZXJ2aWNlcykubmV4dCgpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>function* forEach(services) {
           yield console.log(`looping services: ${services}`)
           // if (service.learningStatusId === 2) {
@@ -577,17 +582,11 @@
           // }
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZXJ2aWNlLmxlYXJuaW5nU3RhdHVzSWQsIHsgcGF5bG9hZDogeyBzZXJ2aWNlSWQgfSB9KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHNlcnZpY2UgfSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CiAgICBjb25zb2xlLmxvZygnQ0RVJykKICAgIGNvbnN0IHsKICAgICAgb25nb2luZ1N0YXR1c0NoZWNrcywKICAgICAgcHJvcHM6IHsKICAgICAgICBkaXNwYXRjaCwKICAgICAgICBzdG9yZTogeyBzZXJ2aWNlIH0sCiAgICAgIH0sCiAgICB9ID0gdGhpcwoKICAgIGNvbnN0IGxpc3QgPSBzZXJ2aWNlLmdldCgnbGlzdCcsIHt9KQoKCiAgICBsaXN0LmZvckVhY2goaW1tdXRhYmxlU2VydmljZSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdydW5uaW5nIGZvciBlYWNoJykKICAgICAgY29uc3QgY2xvc3VyZVNlcnZpY2UgPSBpbW11dGFibGVTZXJ2aWNlLnRvSlMoKQogICAgICBjb25zdCBjaGVja2luZyA9IG9uZ29pbmdTdGF0dXNDaGVja3NbY2xvc3VyZVNlcnZpY2Uuc2VydmljZUlkXQogICAgICBjb25zdCB0cmFpbmluZyA9IGNsb3N1cmVTZXJ2aWNlLmxlYXJuaW5nU3RhdHVzSWQgPT09IDIKCiAgICAgIGlmICghY2hlY2tpbmcgJiYgdHJhaW5pbmcpIHsKICAgICAgICBjb25zb2xlLmxvZygnbm90IGNoZWNraW5nIGJ1dCB0cmFpbmluZycpCiAgICAgICAgY29uc3QgY2hlY2tlciA9IHNldEludGVydmFsKCgpID0+IHsKICAgICAgICAgIGRpc3BhdGNoKAogICAgICAgICAgICBzZXJ2aWNlQWN0aW9ucy5zdGF0dXMucmVxdWVzdCh7CiAgICAgICAgICAgICAgc2VydmljZUlkOiBjbG9zdXJlU2VydmljZS5zZXJ2aWNlSWQsCiAgICAgICAgICAgIH0pCiAgICAgICAgICApCiAgICAgICAgfSwgMzAwMCkKICAgICAgICB0aGlzLm9uZ29pbmdTdGF0dXNDaGVja3NbY2xvc3VyZVNlcnZpY2Uuc2VydmljZUlkXSA9IGNoZWNrZXIKICAgICAgfSBlbHNlIGlmIChjaGVja2luZyAmJiAhdHJhaW5pbmcpIHsKICAgICAgICBjb25zb2xlLmxvZygnY2hlY2tpbmcgYnV0IG5vdCB0cmFpbmluZycpCiAgICAgICAgY29uc3QgY2hlY2tlciA9IHRoaXMub25nb2luZ1N0YXR1c0NoZWNrc1tjbG9zdXJlU2VydmljZS5zZXJ2aWNlSWRdCiAgICAgICAgZGVsZXRlIHRoaXMub25nb2luZ1N0YXR1c0NoZWNrc1tjbG9zdXJlU2VydmljZS5zZXJ2aWNlSWRdCiAgICAgICAgY2xlYXJJbnRlcnZhbChjaGVja2VyKQogICAgICB9CiAgICB9KQogIH0KCiAgb25nb2luZ1N0YXR1c0NoZWNrcyA9IHt9Cgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgb25nb2luZ1N0YXR1c0NoZWNrcyB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHNlcnZpY2UgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
