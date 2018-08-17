@@ -155,13 +155,6 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534475800230">
-        <mark key="'" line="656" column="34" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="89" column="7" />
-      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/getters.js" timestamp="1533530031971">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="25" />
@@ -341,12 +334,11 @@
         <mark key="." line="137" column="19" />
         <mark key="^" line="137" column="19" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" timestamp="1534481047904">
-        <mark key="'" line="9" column="26" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="70" column="19" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" timestamp="1534482221436">
+        <mark key="[" line="34" column="80" />
+        <mark key="]" line="34" column="80" />
+        <mark key="." line="34" column="80" />
+        <mark key="^" line="38" column="18" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledger/Form.vue" timestamp="1534463779184">
         <mark key="[" line="50" column="45" />
@@ -380,11 +372,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1534469993064">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1534482596173">
         <mark key="'" line="25" column="36" />
-        <mark key="[" line="152" column="40" />
-        <mark key="]" line="152" column="40" />
-        <mark key="." line="152" column="40" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="39" />
+        <mark key="." line="61" column="0" />
         <mark key="^" line="152" column="63" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1534463964855">
@@ -451,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="22" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="102" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="164" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
@@ -551,46 +542,69 @@
       <jump line="656" column="34" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="205" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="9" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="79" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkb21haW5JZCA9IGRvbWFpbk5hbWVzW3RhYmxlTmFtZV0KCg==</text>
+        <text encoding="base64">ICAgICAgeWllbGQgcHV0KGFjdGlvbnMubGlzdC5yZXF1ZXN0KCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>domainName</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>lang</text>
       </register>
       <register name="0" type="4">
-        <text>dialogflow-ixfobu@mobiconsole-180817-125330.iam.gserviceaccount.com</text>
+        <text>const mergedFields = Object.assign({}, standardFields, fields)
+    const {
+      roomId: { S: roomId },
+      dateTime: { N: dateTime },
+      userInput: { S: userInput },
+      answer: { S: answer },
+      operator: { BOOL: operator },
+      notFound: { BOOL: notFound },
+      final: { BOOL: final },
+      survey: { BOOL: survey },
+    } = mergedFields
+
+    return [
+      domainId,
+      roomId,
+      new Date(parseInt(dateTime, 10)).toISOString(),
+      userInput,
+      answer,
+      operator,
+      notFound,
+      final,
+      survey,
+    ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkb21haW5JZCA9IGRvbWFpbk5hbWVzW3RhYmxlTmFtZV0KCg==</text>
+        <text encoding="base64">ICAgICAgeWllbGQgcHV0KGFjdGlvbnMubGlzdC5yZXF1ZXN0KCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZG9tYWluTmFtZXMgPSB7CiAgd2F0c29uX3dhdHNvbnBhY2tkZXYwMV9ib3Rsb2c6ICdpc2hpa2F3YTAxJywKfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXR1cyBjaGVja2luZyBub3Qgc3RhcnRlZDogJW8nLCBzZXJ2aWNlLnNlcnZpY2VJZCkKICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXR1cyBjaGVja2luZyBzdGFydGVkLCAlbycsIHNlcnZpY2Uuc2VydmljZUlkKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VydmljZTogJW8nLCBzZXJ2aWNlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXR1cyByZXF1ZXN0IGFjdGlvbicpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgcXVlcnlWYWx1ZXMgPSB7CiAgaXNoaWthd2EwMTogKGRvbWFpbklkLCBmaWVsZHMpID0+IHsKICAgIGNvbnN0IG1lcmdlZEZpZWxkcyA9IE9iamVjdC5hc3NpZ24oe30sIHN0YW5kYXJkRmllbGRzLCBmaWVsZHMpCiAgICBjb25zdCB7CiAgICAgIHJvb21JZDogeyBTOiByb29tSWQgfSwKICAgICAgZGF0ZVRpbWU6IHsgTjogZGF0ZVRpbWUgfSwKICAgICAgdXNlcklucHV0OiB7IFM6IHVzZXJJbnB1dCB9LAogICAgICBhbnN3ZXI6IHsgUzogYW5zd2VyIH0sCiAgICAgIG9wZXJhdG9yOiB7IEJPT0w6IG9wZXJhdG9yIH0sCiAgICAgIG5vdEZvdW5kOiB7IEJPT0w6IG5vdEZvdW5kIH0sCiAgICAgIGZpbmFsOiB7IEJPT0w6IGZpbmFsIH0sCiAgICAgIHN1cnZleTogeyBCT09MOiBzdXJ2ZXkgfSwKICAgIH0gPSBtZXJnZWRGaWVsZHMKCiAgICByZXR1cm4gWwogICAgICBkb21haW5JZCwKICAgICAgcm9vbUlkLAogICAgICBuZXcgRGF0ZShwYXJzZUludChkYXRlVGltZSwgMTApKS50b0lTT1N0cmluZygpLAogICAgICB1c2VySW5wdXQsCiAgICAgIGFuc3dlciwKICAgICAgb3BlcmF0b3IsCiAgICAgIG5vdEZvdW5kLAogICAgICBmaW5hbCwKICAgICAgc3VydmV5LAogICAgXQogIH0sCn0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgcXVlcnlUZW1wbGF0ZXMgPSB7CiAgaXNoaWthd2EwMTogKCkgPT4KfQoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBbCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB2YWx1ZXMgPSAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHNlcnZpY2VJZCB9ID0gc2VydmljZQogICAgICAgIHlpZWxkIGZvcmsob3BlcmF0aW9ucy5zdGF0dXNDaGVjaywgeyBwYXlsb2FkOiB7IHNlcnZpY2VJZCB9IH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHF1ZXJ5VmFsdWVzW2RvbWFpbklkXShkb21haW5JZCwgZmllbGRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZXMuZm9yRWFjaCgpCg==</text>
+        <text encoding="base64">ICAgIGBJTlNFUlQgSU5UTyAiYm90TG9ncyIgKCJkb21haW5JZCIsICJyb29tSWQiLCAiZGF0ZVRpbWUiLCAidXNlcklucHV0IiwgImFuc3dlciIsICJvcGVyYXRvciIsICJub3RGb3VuZCIsICJmaW5hbCIsICJzdXJ2ZXkiKSBWQUxVRVMgKCQxLCAkMiwgJDMsICQ0LCAkNSwgJDYsICQ3LCAkOCwgJDkpO2AsCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
