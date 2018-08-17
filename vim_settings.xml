@@ -151,8 +151,8 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534470560644">
-        <mark key="'" line="206" column="13" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534475800230">
+        <mark key="'" line="656" column="34" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
@@ -164,8 +164,8 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534380995913">
-        <mark key="'" line="168" column="2" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1534475741293">
+        <mark key="'" line="69" column="14" />
         <mark key="[" line="96" column="18" />
         <mark key="]" line="97" column="21" />
         <mark key="." line="97" column="21" />
@@ -440,14 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="430" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="183" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="58" column="54" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="62" column="47" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="446" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="137" column="24" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="44" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="104" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="167" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="4" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
@@ -540,6 +532,14 @@
       <jump line="55" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledger/Form.vue" />
       <jump line="9" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/_constants.js" />
       <jump line="25" column="36" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
+      <jump line="97" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="51" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="69" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="76" column="36" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="306" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="314" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="481" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="656" column="34" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -549,7 +549,7 @@
         <text encoding="base64">IGVsc2Ugew==</text>
       </register>
       <register name="/" type="4">
-        <text>setState</text>
+        <text>ES</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBbY29uc3RhbnRzLlBPUFVMQVRFX0ZPUk1fU1VDQ0VTU10oKSB7fSwK</text>
@@ -586,15 +586,14 @@
       </register>
     </registers>
     <search>
-      <last-search>setState</last-search>
+      <last-search>ES</last-search>
       <last-offset />
-      <last-pattern>setState</last-pattern>
+      <last-pattern>ES</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>maxLength</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxsZWRnZXJcPg==</entry>
         <entry>id</entry>
@@ -604,7 +603,6 @@
         <entry>promise</entry>
         <entry>agents</entry>
         <entry>:nohl</entry>
-        <entry>ES</entry>
         <entry encoding="base64">XDxBcGlcPg==</entry>
         <entry>console</entry>
         <entry>ref</entry>
@@ -614,6 +612,8 @@
         <entry>list</entry>
         <entry>state</entry>
         <entry>setState</entry>
+        <entry>lang</entry>
+        <entry>ES</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
