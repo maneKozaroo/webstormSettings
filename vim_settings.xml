@@ -126,12 +126,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1534288545111">
-        <mark key="'" line="418" column="22" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1534470597867">
+        <mark key="'" line="417" column="22" />
+        <mark key="[" line="416" column="0" />
+        <mark key="]" line="416" column="0" />
         <mark key="^" line="87" column="32" />
-        <mark key="." line="158" column="0" />
+        <mark key="." line="416" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/views/index.html" timestamp="1533616611131">
         <mark key="[" line="12" column="31" />
@@ -151,12 +151,12 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534381551198">
-        <mark key="'" line="209" column="13" />
-        <mark key="[" line="89" column="9" />
-        <mark key="]" line="90" column="7" />
-        <mark key="." line="90" column="7" />
-        <mark key="^" line="90" column="7" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1534470560644">
+        <mark key="'" line="206" column="13" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="89" column="7" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/getters.js" timestamp="1533530031971">
         <mark key="[" line="1" column="20" />
@@ -542,11 +542,11 @@
       <jump line="25" column="36" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IGVsc2Ugew==</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
@@ -555,38 +555,31 @@
         <text encoding="base64">ICBbY29uc3RhbnRzLlBPUFVMQVRFX0ZPUk1fU1VDQ0VTU10oKSB7fSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VydmljZTogJW8nLCBzZXJ2aWNlKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXR1cyByZXF1ZXN0IGFjdGlvbicpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXR1cyBjaGVja2luZyBub3Qgc3RhcnRlZDogJW8nLCBzZXJ2aWNlLnNlcnZpY2VJZCkKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXR1cyBjaGVja2luZyBzdGFydGVkLCAlbycsIHNlcnZpY2Uuc2VydmljZUlkKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHNlcnZpY2VJZCB9ID0gc2VydmljZQogICAgICAgIHlpZWxkIGZvcmsob3BlcmF0aW9ucy5zdGF0dXNDaGVjaywgeyBwYXlsb2FkOiB7IHNlcnZpY2VJZCB9IH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VydmljZTogJW8nLCBzZXJ2aWNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZXMuZm9yRWFjaCgpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXR1cyByZXF1ZXN0IGFjdGlvbicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoKShzZXJ2aWNlcykubmV4dCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>function* forEach(services) {
-          yield console.log(`looping services: ${services}`)
-          // if (service.learningStatusId === 2) {
-          //   console.log(`should start checking service ${service.serviceId}`)
-          //   const { serviceId } = service
-          //   yield call(operations.statusCheck({ payload: { serviceId } }))
-          // }
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHNlcnZpY2VJZCB9ID0gc2VydmljZQogICAgICAgIHlpZWxkIGZvcmsob3BlcmF0aW9ucy5zdGF0dXNDaGVjaywgeyBwYXlsb2FkOiB7IHNlcnZpY2VJZCB9IH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZXJ2aWNlLmxlYXJuaW5nU3RhdHVzSWQsIHsgcGF5bG9hZDogeyBzZXJ2aWNlSWQgfSB9KQo=</text>
+        <text encoding="base64">ICAgICAgc2VydmljZXMuZm9yRWFjaCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHNlcnZpY2UgfSkK</text>
+        <text encoding="base64">ICAgICAgICAoKShzZXJ2aWNlcykubmV4dCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
