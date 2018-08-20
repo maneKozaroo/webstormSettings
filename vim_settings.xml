@@ -64,11 +64,11 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Settings/index.vue" timestamp="1534736855151">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Settings/index.vue" timestamp="1534742969371">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledgers/Form.vue" timestamp="1534377810986">
         <mark key="'" line="2" column="22" />
@@ -145,11 +145,11 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Services/index.vue" timestamp="1534736847883">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Services/index.vue" timestamp="1534742845695">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1534470597867">
         <mark key="'" line="417" column="22" />
@@ -303,11 +303,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Connections/index.vue" timestamp="1534736862936">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="1" column="16" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Connections/index.vue" timestamp="1534742853102">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/index.js" timestamp="1534459775260">
         <mark key="[" line="17" column="24" />
@@ -507,12 +507,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/Dashboard.vue" timestamp="1534739544207">
-        <mark key="'" line="21" column="32" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/Dashboard.vue" timestamp="1534742028605">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="41" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="21" column="41" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/_constants.js" timestamp="1534721395667">
         <mark key="[" line="9" column="0" />
@@ -637,58 +636,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>to</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>to</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>ES</text>
+        <text encoding="base64">XDxOZXdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdi10YWIoIHRvPSIiICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtdGFicy1pdGVtcwo=</text>
+        <text encoding="base64">ICBkaXYgQ29ubmVjdGlvbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtdGFicwo=</text>
+        <text encoding="base64">ICBkaXYgU2VydmljZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2LWxheW91dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtdGFiLWl0ZW0gSXRlbSAxCiAgICAgICAgICB2LXRhYi1pdGVtIEl0ZW0gMgo=</text>
+        <text encoding="base64">ICAgIHYtZmxleCggZC1mbGV4ICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtdGFiIFRhYiAxCiAgICAgICAgICB2LXRhYiBUYWIgMgo=</text>
+        <text encoding="base64">ICAgICAgdi1zcGFjZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB8IERhc2hib2FyZAo=</text>
+        <text encoding="base64">ICAgIHYtY29udGFpbmVyLmNvbnRlbnQtY29udGFpbmVyKCBmbHVpZCApCiAgICAgIHYtbGF5b3V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHYtc3BhY2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9tZQo=</text>
+        <text encoding="base64">ICBkaXYgU2V0dGluZ3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2LXRvb2xiYXItc2lkZS1pY29uCiAgICAgICAgICB2LWljb24gaG9tZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>ES</last-search>
+      <last-search encoding="base64">XDxOZXdcPg==</last-search>
       <last-offset />
-      <last-pattern>ES</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxOZXdcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsZWRnZXJcPg==</entry>
         <entry>id</entry>
         <entry>root</entry>
         <entry>remoteLearning</entry>
@@ -708,6 +706,7 @@
         <entry>lang</entry>
         <entry>showPass</entry>
         <entry>ES</entry>
+        <entry encoding="base64">XDxOZXdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
