@@ -410,6 +410,12 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/package.json" timestamp="1534834300780">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="25" column="27" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/actions.js" timestamp="1534809847923">
         <mark key="[" line="23" column="33" />
         <mark key="]" line="23" column="33" />
@@ -820,11 +826,11 @@
       <jump line="19" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/batch/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAicGx1Z2lucyI6IFsiQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzIl0K</text>
+      <register name="&quot;" type="4">
+        <text>5.4.0</text>
       </register>
       <register name="-" type="4">
-        <text>plugsin</text>
+        <text>5.4.0</text>
       </register>
       <register name="/" type="4">
         <text>babel</text>
