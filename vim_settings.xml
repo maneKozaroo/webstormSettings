@@ -271,6 +271,12 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/.gitignore" timestamp="1534822508726">
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="58" column="5" />
+        <mark key="^" line="58" column="6" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/mutations.js" timestamp="1534811019885">
         <mark key="'" line="46" column="49" />
         <mark key="[" line="49" column="0" />
@@ -695,11 +701,11 @@
       <jump line="4" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXV0aC5vbkF1dGhTdGF0ZUNoYW5nZWQoKHVzZXIpID0+IHsKICBpZiAodXNlcikgewogICAgY29uc3QgeyBwcm92aWRlckRhdGE6IFt1c2VyRGF0YV0gfSA9IHVzZXI7CiAgICBzdG9yZS5kaXNwYXRjaCgndXNlci9zaWduSW4nLCB1c2VyRGF0YSk7CiAgfSBlbHNlIHsKICAgIHN0b3JlLmRpc3BhdGNoKCd1c2VyL3NpZ25PdXQnKTsKICB9Cn0sIChlcnJvcikgPT4gewogIHN0b3JlLmRpc3BhdGNoKCd1c2VyL3NpZ25JbicsIGVycm9yKTsKfSk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>google.com</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
