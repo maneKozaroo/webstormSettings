@@ -434,6 +434,13 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" timestamp="1534904311322">
+        <mark key="'" line="122" column="12" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="396" column="0" />
+        <mark key="." line="396" column="0" />
+        <mark key="^" line="391" column="90" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533623934141">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="23" />
@@ -724,8 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/index.js" />
-      <jump line="46" column="31" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledger/Form.vue" />
       <jump line="55" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledger/Form.vue" />
       <jump line="9" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/_constants.js" />
       <jump line="25" column="36" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
@@ -824,61 +829,62 @@
       <jump line="17" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/batch/package.json" />
       <jump line="18" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/batch/package.json" />
       <jump line="19" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/batch/package.json" />
+      <jump line="384" column="24" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
+      <jump line="122" column="12" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>factory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3ViaGVhZGVyPXt9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>factory</text>
+        <text>formatDateTime( productionService.get('learningStatusUpdatedAt') )</text>
       </register>
       <register name="/" type="4">
-        <text>babel</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAicGx1Z2lucyI6IFsiQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMiOiAiNy4wLjAtcmMuMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3ViaGVhZGVyPXt9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICJAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMiOiAiNy4wLjAtcmMuMSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICI2LjI2LjAiLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICJAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMiOiAiNy4wLjAtcmMuMSIsCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICI2LjI2LjAiLAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJjcmF3bCI6ICJiYWJlbC1ub2RlIGJhdGNoL2JhdGNoLmpzIC0tcHJlc2V0cyBAYmFiZWwvcHJlc2V0LWVudixAYmFiZWwvcHJlc2V0LXN0YWdlLTIiCg==</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMiOiAiNy4wLjAtcmMuMSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICJjcmF3bCI6ICJiYWJlbC1ub2RlIGJhdGNoL2JhdGNoLmpzIC0tcHJlc2V0cyBAYmFiZWwvcHJlc2V0LWVudixAYmFiZWwvcHJlc2V0LXN0YWdlLTIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlc2V0czogWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnQGJhYmVsL3ByZXNldC1lbnYnLAogICAgICAgICAgICAgIFsnQGJhYmVsL3ByZXNldC1zdGFnZS0yJywgeyBkZWNvcmF0b3JzTGVnYWN5OiB0cnVlIH1dLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlc2V0czogWwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnQGJhYmVsL3ByZXNldC1lbnYnLAogICAgICAgICAgICAgIFsnQGJhYmVsL3ByZXNldC1zdGFnZS0yJywgeyBkZWNvcmF0b3JzTGVnYWN5OiB0cnVlIH1dLAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>babel</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>babel</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ref</entry>
         <entry>new</entry>
         <entry>hide</entry>
         <entry>read</entry>
@@ -898,6 +904,7 @@
         <entry>AI</entry>
         <entry>pre</entry>
         <entry>babel</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
