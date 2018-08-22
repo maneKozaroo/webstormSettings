@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" timestamp="1534819243379">
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" timestamp="1534902941136">
         <mark key="'" line="4" column="17" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="1" column="27" />
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="45" />
+        <mark key="^" line="27" column="45" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/index.js" timestamp="1534819106493">
         <mark key="[" line="3" column="0" />
@@ -652,12 +652,12 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/index.js" timestamp="1534830386049">
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/index.js" timestamp="1534903001636">
         <mark key="'" line="19" column="9" />
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1534482596173">
         <mark key="'" line="25" column="36" />
@@ -827,10 +827,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5.4.0</text>
+        <text>factory</text>
       </register>
       <register name="-" type="4">
-        <text>5.4.0</text>
+        <text>factory</text>
       </register>
       <register name="/" type="4">
         <text>babel</text>
