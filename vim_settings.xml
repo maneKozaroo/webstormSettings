@@ -9,11 +9,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/SignOut.vue" timestamp="1534936310994">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="35" column="29" />
-        <mark key="." line="31" column="0" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/SignOut.vue" timestamp="1534937385320">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+        <mark key="." line="30" column="17" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/App.vue" timestamp="1534726141000">
         <mark key="[" line="1" column="2" />
@@ -246,12 +246,12 @@
         <mark key="^" line="27" column="31" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/actions.js" timestamp="1534936355952">
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/actions.js" timestamp="1534937341431">
         <mark key="'" line="3" column="33" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="45" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Connections/Form.vue" timestamp="1534744738236">
         <mark key="[" line="2" column="35" />
@@ -550,10 +550,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Close</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Close</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZXdcPg==</text>
@@ -562,31 +562,31 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd1c2VyIGxvZ2dlZCBpbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ3Jlc2V0U3RhdGUnKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmlyZWJhc2UuYXV0aCgpLnNpZ25PdXQoKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyBzaWduSW4oeyBjb21taXQgfSwgcGF5bG9hZCkgewogIC8vICAgaWYgKHBheWxvYWQudWlkKSB7CiAgLy8gICAgIGNvbW1pdChjb25zdGFudHMuU0lHTl9JTl9TVUNDRVNTLCBwYXlsb2FkKTsKICAvLyAgIH0gZWxzZSB7CiAgLy8gICAgIGNvbW1pdChjb25zdGFudHMuU0lHTl9JTl9GQUlMVVJFLCBwYXlsb2FkKTsKICAvLyAgIH0KICAvLyB9LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ3Jlc2V0U3RhdGUnKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ0AvZmlyZWJhc2UnOwo=</text>
+        <text encoding="base64">ICAgICAgZmlyZWJhc2UuYXV0aCgpLnNpZ25PdXQoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci5wdXNoKCcvJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ0AvZmlyZWJhc2UnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdsZWRnZXItZGVzdHJ1Y3Rpb24tZGlhbG9nJzogKCkgPT4gaW1wb3J0KCdAL2NvbXBvbmVudHMvbGVkZ2VyL0Rlc3Ryb3kudnVlJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBsZWRnZXItZGVzdHJ1Y3Rpb24tZGlhbG9nCg==</text>
+        <text encoding="base64">ICAgIHJvdXRlci5wdXNoKCcvJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd1c2VyIGxvZ2dlZCBpbicpOwo=</text>
+        <text encoding="base64">ICAgICdsZWRnZXItZGVzdHJ1Y3Rpb24tZGlhbG9nJzogKCkgPT4gaW1wb3J0KCdAL2NvbXBvbmVudHMvbGVkZ2VyL0Rlc3Ryb3kudnVlJyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
