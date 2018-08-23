@@ -433,11 +433,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" timestamp="1534985755489">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="1" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" timestamp="1534998313977">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Card.vue" timestamp="1534806507014">
         <mark key="[" line="92" column="24" />
@@ -809,11 +809,11 @@
       <jump line="23" column="812" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/SignOut.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2LXRleHRhcmUK</text>
+      <register name="&quot;" type="4">
+        <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>foo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
@@ -822,19 +822,19 @@
         <text encoding="base64">ICAgICAgICAgIHYtdGV4dGFyZWEoCiAgICAgICAgICAgIDpjb3VudGVyPSJtYXhEZXNjcmlwdGlvbkxlbmd0aCIKICAgICAgICAgICAgbGFiZWw9IkRlc2NyaXB0aW9uIgogICAgICAgICAgICBsb2FkaW5nCiAgICAgICAgICAgIHYtbW9kZWw9ImxlZGdlci5kZXNjcmlwdGlvbiIKICAgICAgICAgICkKICAgICAgICAgICAgdi1wcm9ncmVzcy1saW5lYXIoCiAgICAgICAgICAgICAgc2xvdD0icHJvZ3Jlc3MiCiAgICAgICAgICAgICAgOnZhbHVlPSJkZXNjcmlwdGlvbkxlbmd0aCIKICAgICAgICAgICAgICBjb2xvcj0icHJpbWFyeSIKICAgICAgICAgICAgICBoZWlnaHQ9IjUiCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RpbWVvdXQgZG9uZScpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB2LXRleHRhcmUK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">di1hcHAKICAgIHYtdG9vbGJhcgogICAgICByb3V0ZXItbGluayggdG89Jy9sZWRnZXJzJyApCiAgICAgICAgdi10b29sYmFyLXRpdGxlIHt7IHRpdGxlIH19CiAgICAgIHYtc3BhY2VyCiAgICAgIHYtdG9vbGJhci1pdGVtcyggdi1pZj0iIXRoaXMudXNlcklzQXV0aGVudGljYXRlZCIgKQogICAgICAgIHYtYnRuKCBmbGF0IHRvPSIvc2lnbkluIiApCiAgICAgICAgICB2LWljb24oIGxlZnQgKSBsb2NrX29wZW4KICAgICAgICAgIHwgU2lnbiBJbgogICAgICB2LW1lbnUoIHYtaWY9InRoaXMudXNlcklzQXV0aGVudGljYXRlZCIgKQogICAgICAgIHYtYnRuKCBmYWIgZmxhdCBzbG90PSJhY3RpdmF0b3IiICkKICAgICAgICAgIHYtYXZhdGFyKCBjb2xvcj0idGVhbCIgKQogICAgICAgICAgICBpbWcoIDpzcmM9ImN1cnJlbnRVc2VyLnBob3RvVVJMIiB2LWlmPSJjdXJyZW50VXNlci5waG90b1VSTCIgKQogICAgICAgIHYtY2FyZAogICAgICAgICAgdi1saXN0CiAgICAgICAgICAgIHYtbGlzdC10aWxlKCBhdmF0YXIgKQogICAgICAgICAgICAgIHYtbGlzdC10aWxlLWF2YXRhciggY29sb3I9InRlYWwiICkKICAgICAgICAgICAgICAgIGltZyggOnNyYz0iY3VycmVudFVzZXIucGhvdG9VUkwiICkKICAgICAgICAgICAgICB2LWxpc3QtdGlsZS1jb250ZW50CiAgICAgICAgICAgICAgICB2LWxpc3QtdGlsZS10aXRsZSB7eyBjdXJyZW50VXNlci5kaXNwbGF5TmFtZSB9fQogICAgICAgICAgICAgICAgdi1saXN0LXRpbGUtc3ViLXRpdGxlIHt7IGN1cnJlbnRVc2VyLmVtYWlsIH19CiAgICAgICAgICB2LWRpdmlkZXIKICAgICAgICAgIHYtY2FyZC1hY3Rpb25zCiAgICAgICAgICAgIHYtYnRuKCBAY2xpY2s9InNob3dTaWduT3V0RGlhbG9nIiBjb2xvcj0icHJpbWFyeSIgZmxhdCApCiAgICAgICAgICAgICAgdi1pY29uKCBsZWZ0ICkgbG9jawogICAgICAgICAgICAgIHwgU2lnbiBPdXQKICAgICAgICAgICAgdi1zcGFjZXIKICAgICAgICAgICAgdi1idG4oIGNvbG9yPSJwcmltYXJ5IiBmbGF0IHRvPSIvIiApCiAgICAgICAgICAgICAgdi1pY29uKCBsZWZ0ICkgaG9tZQogICAgICAgICAgICAgIHwgSG9tZQoKICAgIA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICA8di1zbmFja2Jhcgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNuYWNrYmFyCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2LWFwcCNhcHAK</text>
+        <text encoding="base64">ICAgIHNuYWNrYmFyCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICB2LWFwcCNhcHAK</text>
@@ -846,7 +846,7 @@
         <text encoding="base64">ICB2LWFwcCNhcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzbmFja2Jhcgo=</text>
+        <text encoding="base64">ICB2LWFwcCNhcHAK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
