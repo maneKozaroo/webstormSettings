@@ -16,6 +16,11 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/routes/index.js" timestamp="1534827204984">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/plugins/vuetify.js" timestamp="1534730122178">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="22" />
@@ -52,6 +57,11 @@
         <mark key="]" line="17" column="36" />
         <mark key="." line="17" column="33" />
         <mark key="^" line="17" column="33" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/main.js" timestamp="1534908774199">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/dialogs/SignOut.vue" timestamp="1534393846494">
         <mark key="[" line="5" column="2" />
@@ -197,6 +207,11 @@
         <mark key="]" line="15" column="55" />
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1534831083898">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/index.js" timestamp="1534819237295">
         <mark key="[" line="24" column="0" />
@@ -347,11 +362,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Ledgers.vue" timestamp="1534999115820">
-        <mark key="[" line="49" column="83" />
-        <mark key="]" line="49" column="83" />
-        <mark key="^" line="49" column="101" />
-        <mark key="." line="49" column="83" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Ledgers.vue" timestamp="1535065024133">
+        <mark key="[" line="49" column="82" />
+        <mark key="]" line="49" column="104" />
+        <mark key="^" line="49" column="104" />
+        <mark key="." line="49" column="104" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/Dashboard.vue" timestamp="1534742028605">
         <mark key="[" line="21" column="33" />
@@ -384,6 +399,11 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Mobi-Console/4_batch_simulation_5 (1).csv" timestamp="1534306487057">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledgers/New.vue" timestamp="1534296899538">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="3" />
@@ -408,11 +428,10 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/mutations.js" timestamp="1534999230260">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="8" column="53" />
-        <mark key="." line="5" column="41" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/mutations.js" timestamp="1535064782024">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533623934141">
         <mark key="[" line="0" column="18" />
@@ -440,12 +459,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" timestamp="1534999404173">
-        <mark key="'" line="21" column="17" />
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="20" column="33" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" timestamp="1535065167098">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Card.vue" timestamp="1534806507014">
         <mark key="[" line="92" column="24" />
@@ -542,6 +561,11 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1534468892024">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/actions.js" timestamp="1534809834645">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -634,6 +658,11 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/README.md" timestamp="1534823260074">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1534911406304">
         <mark key="[" line="0" column="0" />
       </file>
@@ -721,11 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="36" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="306" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="314" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="481" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="656" column="34" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="205" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="9" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
       <jump line="79" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
@@ -821,46 +845,51 @@
       <jump line="23" column="812" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/SignOut.vue" />
       <jump line="14" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
       <jump line="17" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/serverless.dev.yml" />
+      <jump line="19" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
+      <jump line="34" column="31" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
+      <jump line="30" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
+      <jump line="9" column="27" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
+      <jump line="2" column="4" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y3VzdG9tOgogIGVudk5hbWU6ICcke3NlbGY6cHJvdmlkZXIuc3RhZ2V9JwoK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>-webchat-history</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHYtdGV4dGFyZWEoCiAgICAgICAgICAgIDpjb3VudGVyPSJtYXhEZXNjcmlwdGlvbkxlbmd0aCIKICAgICAgICAgICAgbGFiZWw9IkRlc2NyaXB0aW9uIgogICAgICAgICAgICBsb2FkaW5nCiAgICAgICAgICAgIHYtbW9kZWw9ImxlZGdlci5kZXNjcmlwdGlvbiIKICAgICAgICAgICkKICAgICAgICAgICAgdi1wcm9ncmVzcy1saW5lYXIoCiAgICAgICAgICAgICAgc2xvdD0icHJvZ3Jlc3MiCiAgICAgICAgICAgICAgOnZhbHVlPSJkZXNjcmlwdGlvbkxlbmd0aCIKICAgICAgICAgICAgICBjb2xvcj0icHJpbWFyeSIKICAgICAgICAgICAgICBoZWlnaHQ9IjUiCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb24oKSB7CiAgICAgIGNvbnNvbGUubG9nKCd0cmFuc2l0aW9uJyk7CiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3VzdG9tOgogIGVudk5hbWU6ICcke3NlbGY6cHJvdmlkZXIuc3RhZ2V9JwoK</text>
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbigpIHsKICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGFnZTogZGV2Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vdGlmaWNhdGlvbicpOwogICAgICByZXR1cm4gdGhpcy5ub3RpZmljYXRpb25zWzBdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIC8vIHN0b3JlLm5vdGlmaWNhdGlvbnNbMF0gPSBub3RpZmljYXRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoOiAvcm9vbQogICAgICAgIG1ldGhvZDogZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgbXVsdGktbGluZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV2ZW50czoKICAgIC0gaHR0cDoK</text>
+        <text encoding="base64">ICAgICAgdi1wcm9ncmVzcy1saW5lYXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGFnZTogZGV2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbm90aWZpY2F0aW9ucyB9ID0gc3RvcmU7CiAgICBpZiAobm90aWZpY2F0aW9ucy5sZW5ndGggPiAxKSB7CiAgICAgIHN0b3JlLm5vdGlmaWNhdGlvbnMuc3BsaWNlKDEpOwogICAgfSBlbHNlIGlmIChub3RpZmljYXRpb25zLmxlbmd0aCA9PT0gMSkgewogICAgICBzdG9yZS5ub3RpZmljYXRpb25zLnNwbGljZSgwKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3VzdG9tOgogIGVudk5hbWU6ICcke3NlbGY6cHJvdmlkZXIuc3RhZ2V9Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0b3JlLm5vdGlmaWNhdGlvbnMuc3BsaWNlKDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
