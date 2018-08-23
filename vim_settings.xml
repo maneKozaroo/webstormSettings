@@ -340,11 +340,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Ledgers.vue" timestamp="1534985436838">
-        <mark key="[" line="49" column="100" />
-        <mark key="]" line="49" column="101" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Ledgers.vue" timestamp="1534999115820">
+        <mark key="[" line="49" column="83" />
+        <mark key="]" line="49" column="83" />
         <mark key="^" line="49" column="101" />
-        <mark key="." line="49" column="101" />
+        <mark key="." line="49" column="83" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/Dashboard.vue" timestamp="1534742028605">
         <mark key="[" line="21" column="33" />
@@ -395,17 +395,17 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/getters.js" timestamp="1534985782601">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/getters.js" timestamp="1534999368522">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/mutations.js" timestamp="1534985284320">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="53" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/mutations.js" timestamp="1534999230260">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="41" />
         <mark key="^" line="8" column="53" />
-        <mark key="." line="8" column="53" />
+        <mark key="." line="5" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533623934141">
         <mark key="[" line="0" column="18" />
@@ -433,11 +433,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" timestamp="1534998313977">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" timestamp="1534999404173">
+        <mark key="'" line="21" column="17" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Card.vue" timestamp="1534806507014">
         <mark key="[" line="92" column="24" />
@@ -707,7 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="69" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="76" column="36" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="306" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
@@ -807,13 +807,14 @@
       <jump line="11" column="20" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/mutations.js" />
       <jump line="25" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Form.vue" />
       <jump line="23" column="812" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/SignOut.vue" />
+      <jump line="14" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>foo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
@@ -822,31 +823,31 @@
         <text encoding="base64">ICAgICAgICAgIHYtdGV4dGFyZWEoCiAgICAgICAgICAgIDpjb3VudGVyPSJtYXhEZXNjcmlwdGlvbkxlbmd0aCIKICAgICAgICAgICAgbGFiZWw9IkRlc2NyaXB0aW9uIgogICAgICAgICAgICBsb2FkaW5nCiAgICAgICAgICAgIHYtbW9kZWw9ImxlZGdlci5kZXNjcmlwdGlvbiIKICAgICAgICAgICkKICAgICAgICAgICAgdi1wcm9ncmVzcy1saW5lYXIoCiAgICAgICAgICAgICAgc2xvdD0icHJvZ3Jlc3MiCiAgICAgICAgICAgICAgOnZhbHVlPSJkZXNjcmlwdGlvbkxlbmd0aCIKICAgICAgICAgICAgICBjb2xvcj0icHJpbWFyeSIKICAgICAgICAgICAgICBoZWlnaHQ9IjUiCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RpbWVvdXQgZG9uZScpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2LXRleHRhcmUK</text>
+        <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9uOiAndXNlckludGVyZmFjZS9ub3RpZmljYXRpb24nLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">di1hcHAKICAgIHYtdG9vbGJhcgogICAgICByb3V0ZXItbGluayggdG89Jy9sZWRnZXJzJyApCiAgICAgICAgdi10b29sYmFyLXRpdGxlIHt7IHRpdGxlIH19CiAgICAgIHYtc3BhY2VyCiAgICAgIHYtdG9vbGJhci1pdGVtcyggdi1pZj0iIXRoaXMudXNlcklzQXV0aGVudGljYXRlZCIgKQogICAgICAgIHYtYnRuKCBmbGF0IHRvPSIvc2lnbkluIiApCiAgICAgICAgICB2LWljb24oIGxlZnQgKSBsb2NrX29wZW4KICAgICAgICAgIHwgU2lnbiBJbgogICAgICB2LW1lbnUoIHYtaWY9InRoaXMudXNlcklzQXV0aGVudGljYXRlZCIgKQogICAgICAgIHYtYnRuKCBmYWIgZmxhdCBzbG90PSJhY3RpdmF0b3IiICkKICAgICAgICAgIHYtYXZhdGFyKCBjb2xvcj0idGVhbCIgKQogICAgICAgICAgICBpbWcoIDpzcmM9ImN1cnJlbnRVc2VyLnBob3RvVVJMIiB2LWlmPSJjdXJyZW50VXNlci5waG90b1VSTCIgKQogICAgICAgIHYtY2FyZAogICAgICAgICAgdi1saXN0CiAgICAgICAgICAgIHYtbGlzdC10aWxlKCBhdmF0YXIgKQogICAgICAgICAgICAgIHYtbGlzdC10aWxlLWF2YXRhciggY29sb3I9InRlYWwiICkKICAgICAgICAgICAgICAgIGltZyggOnNyYz0iY3VycmVudFVzZXIucGhvdG9VUkwiICkKICAgICAgICAgICAgICB2LWxpc3QtdGlsZS1jb250ZW50CiAgICAgICAgICAgICAgICB2LWxpc3QtdGlsZS10aXRsZSB7eyBjdXJyZW50VXNlci5kaXNwbGF5TmFtZSB9fQogICAgICAgICAgICAgICAgdi1saXN0LXRpbGUtc3ViLXRpdGxlIHt7IGN1cnJlbnRVc2VyLmVtYWlsIH19CiAgICAgICAgICB2LWRpdmlkZXIKICAgICAgICAgIHYtY2FyZC1hY3Rpb25zCiAgICAgICAgICAgIHYtYnRuKCBAY2xpY2s9InNob3dTaWduT3V0RGlhbG9nIiBjb2xvcj0icHJpbWFyeSIgZmxhdCApCiAgICAgICAgICAgICAgdi1pY29uKCBsZWZ0ICkgbG9jawogICAgICAgICAgICAgIHwgU2lnbiBPdXQKICAgICAgICAgICAgdi1zcGFjZXIKICAgICAgICAgICAgdi1idG4oIGNvbG9yPSJwcmltYXJ5IiBmbGF0IHRvPSIvIiApCiAgICAgICAgICAgICAgdi1pY29uKCBsZWZ0ICkgaG9tZQogICAgICAgICAgICAgIHwgSG9tZQoKICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8di1zbmFja2Jhcgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNuYWNrYmFyCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RpbWVvdXQgZG9uZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2LWFwcCNhcHAK</text>
+        <text encoding="base64">ICAgICAgICB2LXRleHRhcmUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB2LWFwcCNhcHAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">di1hcHAKICAgIHYtdG9vbGJhcgogICAgICByb3V0ZXItbGluayggdG89Jy9sZWRnZXJzJyApCiAgICAgICAgdi10b29sYmFyLXRpdGxlIHt7IHRpdGxlIH19CiAgICAgIHYtc3BhY2VyCiAgICAgIHYtdG9vbGJhci1pdGVtcyggdi1pZj0iIXRoaXMudXNlcklzQXV0aGVudGljYXRlZCIgKQogICAgICAgIHYtYnRuKCBmbGF0IHRvPSIvc2lnbkluIiApCiAgICAgICAgICB2LWljb24oIGxlZnQgKSBsb2NrX29wZW4KICAgICAgICAgIHwgU2lnbiBJbgogICAgICB2LW1lbnUoIHYtaWY9InRoaXMudXNlcklzQXV0aGVudGljYXRlZCIgKQogICAgICAgIHYtYnRuKCBmYWIgZmxhdCBzbG90PSJhY3RpdmF0b3IiICkKICAgICAgICAgIHYtYXZhdGFyKCBjb2xvcj0idGVhbCIgKQogICAgICAgICAgICBpbWcoIDpzcmM9ImN1cnJlbnRVc2VyLnBob3RvVVJMIiB2LWlmPSJjdXJyZW50VXNlci5waG90b1VSTCIgKQogICAgICAgIHYtY2FyZAogICAgICAgICAgdi1saXN0CiAgICAgICAgICAgIHYtbGlzdC10aWxlKCBhdmF0YXIgKQogICAgICAgICAgICAgIHYtbGlzdC10aWxlLWF2YXRhciggY29sb3I9InRlYWwiICkKICAgICAgICAgICAgICAgIGltZyggOnNyYz0iY3VycmVudFVzZXIucGhvdG9VUkwiICkKICAgICAgICAgICAgICB2LWxpc3QtdGlsZS1jb250ZW50CiAgICAgICAgICAgICAgICB2LWxpc3QtdGlsZS10aXRsZSB7eyBjdXJyZW50VXNlci5kaXNwbGF5TmFtZSB9fQogICAgICAgICAgICAgICAgdi1saXN0LXRpbGUtc3ViLXRpdGxlIHt7IGN1cnJlbnRVc2VyLmVtYWlsIH19CiAgICAgICAgICB2LWRpdmlkZXIKICAgICAgICAgIHYtY2FyZC1hY3Rpb25zCiAgICAgICAgICAgIHYtYnRuKCBAY2xpY2s9InNob3dTaWduT3V0RGlhbG9nIiBjb2xvcj0icHJpbWFyeSIgZmxhdCApCiAgICAgICAgICAgICAgdi1pY29uKCBsZWZ0ICkgbG9jawogICAgICAgICAgICAgIHwgU2lnbiBPdXQKICAgICAgICAgICAgdi1zcGFjZXIKICAgICAgICAgICAgdi1idG4oIGNvbG9yPSJwcmltYXJ5IiBmbGF0IHRvPSIvIiApCiAgICAgICAgICAgICAgdi1pY29uKCBsZWZ0ICkgaG9tZQogICAgICAgICAgICAgIHwgSG9tZQoKICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2LWFwcCNhcHAK</text>
+        <text encoding="base64">ICA8di1zbmFja2Jhcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2LWFwcCNhcHAK</text>
+        <text encoding="base64">ICAgIHNuYWNrYmFyCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
