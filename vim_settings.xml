@@ -661,9 +661,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534911406304">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/containers/Settings/index.js" timestamp="1534825016761">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="22" />
@@ -740,8 +737,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535076351040">
-        <mark key="[" line="14" column="49" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535083211540">
+        <mark key="'" line="7" column="1" />
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/dashboard.vue" timestamp="1534726733943">
         <mark key="[" line="8" column="0" />
@@ -751,7 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
       <jump line="23" column="3" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" />
       <jump line="77" column="11" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" />
       <jump line="78" column="35" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" />
@@ -851,13 +850,14 @@
       <jump line="2" column="4" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
       <jump line="20" column="50" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
       <jump line="18" column="39" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
+      <jump line="7" column="1" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>persistFunction</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb2xlIG5vdCBmb3VuZCwnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>persistFunction</text>
+        <text encoding="base64">LmNhdGNoKGVycm9yID0+IGNvbnNvbGUubG9nKCdlcnJvcjogJW8nLCBlcnJvcikp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
@@ -866,31 +866,31 @@
         <text encoding="base64">PHRlbXBsYXRlIGxhbmc9InB1ZyI+CiAgLnYtc25hY2sKICAgIHYtc25hY2tiYXIoCiAgICAgIGJvdHRvbQogICAgICA6Y29sb3I9Im5vdGlmaWNhdGlvbi5jb2xvciIKICAgICAgQGlucHV0PSJyZW1vdmVOb3RpZmljYXRpb25zIgogICAgICA6a2V5PSJub3RpZmljYXRpb24uY3JlYXRlZEF0IgogICAgICBsZWZ0CiAgICAgIDp0aW1lb3V0PSI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IGNvbmZpZyA9IG5ldyBBV1MuQ29uZmlnKHt9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSb2xlIG5vdCBmb3VuZCwnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhY2Nlc3NLZXlJZDogcHJvY2Vzcy5lbnYuQVdTX0FDQ0VTU19LRVlfSUQsCiAgc2VjcmV0QWNjZXNzS2V5OiBwcm9jZXNzLmVudi5BV1NfU0VDUkVUX0FDQ0VTU19LRVksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkeW5hbW9TdHJlYW1Ub0xhbWJkYVJvbGUgPSBhd2FpdCBpYW0KICAgIC5nZXRSb2xlKHsKICAgICAgUm9sZU5hbWU6ICdkeW5hbW9zU3RyZWFtVG9MYW1iZGEnLAogICAgfSkKICAgIC5wcm9taXNlKCkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgdXBkYXRlRnVuY3Rpb24gPSBhc3luYyAoKSA9PiB7Cn0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBsYW1iZGEgPSBuZXcgQVdTLkxhbWJkYSgpLmxpc3RGdW5jdGlvbnMoKS5wcm9taXNlKCkKICAKICBjb25zb2xlLmxvZygnYXdzOiAlbycsIGxhbWJkYSkK</text>
+        <text encoding="base64">ICAgICAgVGFibGVOYW1lOiAnd2F0c29uX3dhdHNvbnBhY2tkZXYwMV9ib3Rsb2cnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IGNvbmZpZyA9IG5ldyBBV1MuQ29uZmlnKHt9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhY2Nlc3NLZXlJZDogcHJvY2Vzcy5lbnYuQVdTX0FDQ0VTU19LRVlfSUQsCiAgc2VjcmV0QWNjZXNzS2V5OiBwcm9jZXNzLmVudi5BV1NfU0VDUkVUX0FDQ0VTU19LRVksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2F3czogJW8nLCBsYW1iZGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
