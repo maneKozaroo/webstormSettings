@@ -737,11 +737,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535073143925">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-        <mark key="^" line="15" column="39" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535075507043">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/dashboard.vue" timestamp="1534726733943">
         <mark key="[" line="8" column="0" />
@@ -854,10 +854,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lambda</text>
+        <text>AWD</text>
       </register>
       <register name="-" type="4">
-        <text>lambda</text>
+        <text>AWD</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
