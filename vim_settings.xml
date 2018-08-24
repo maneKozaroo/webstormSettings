@@ -237,6 +237,12 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/package.json" timestamp="1535071037817">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/connection.js" timestamp="1534485380986">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="36" />
@@ -731,6 +737,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535071139527">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/dashboard.vue" timestamp="1534726733943">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -842,10 +854,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHt7IG5vdGlmaWNhdGlvbi5jcmVhdGVkQXQgfX0=</text>
+        <text>config</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHt7IG5vdGlmaWNhdGlvbi5jcmVhdGVkQXQgfX0=</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
@@ -854,31 +866,31 @@
         <text encoding="base64">PHRlbXBsYXRlIGxhbmc9InB1ZyI+CiAgLnYtc25hY2sKICAgIHYtc25hY2tiYXIoCiAgICAgIGJvdHRvbQogICAgICA6Y29sb3I9Im5vdGlmaWNhdGlvbi5jb2xvciIKICAgICAgQGlucHV0PSJyZW1vdmVOb3RpZmljYXRpb25zIgogICAgICA6a2V5PSJub3RpZmljYXRpb24uY3JlYXRlZEF0IgogICAgICBsZWZ0CiAgICAgIDp0aW1lb3V0PSI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goJ3VzZXJJbnRlcmZhY2UvZW5xdWV1ZU5vdGlmaWNhdGlvbicsICkK</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIjIuMzAwLjAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgbm90aWZpY2F0aW9uID0gewogICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFXUyBmcm9tICdhd3Mtc2RrJwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0OiAnTGVkZ2VyICcK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1J1bm5pbmcgdGhlIGRlcGxveSBzY3JpcHQnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFXUyBmcm9tICdhd3Mtc2RrJzsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgdi1mbGV4CiAgICAgICAgdi1idG4oIEBjbGljaz0iZW5xdWV1ZU5vdGlmaWNhdGlvbiIgKSBUZXN0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGVucXVldWVOb3RpZmljYXRpb24oKSB7CiAgICAgIGNvbnN0IG5vdGlmaWNhdGlvbiA9IHsKICAgICAgICB0ZXh0OiBuZXcgRGF0ZSgpLAogICAgICB9OwogICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgndXNlckludGVyZmFjZS9lbnF1ZXVlTm90aWZpY2F0aW9uJywgeyBub3RpZmljYXRpb24gfSk7CiAgICB9LA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzIjogIjEuMzAuMSIK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
