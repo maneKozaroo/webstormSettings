@@ -737,12 +737,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535086347973">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535088030564">
         <mark key="'" line="7" column="1" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="42" column="71" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/dashboard.vue" timestamp="1534726733943">
         <mark key="[" line="8" column="0" />
@@ -854,11 +854,11 @@
       <jump line="7" column="1" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJlc291cmNlOiAnKicsCg==</text>
+      <register name="&quot;" type="4">
+        <text>dynamosStreamToLambda</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>dynamosStreamToLambda</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
@@ -867,31 +867,31 @@
         <text encoding="base64">PHRlbXBsYXRlIGxhbmc9InB1ZyI+CiAgLnYtc25hY2sKICAgIHYtc25hY2tiYXIoCiAgICAgIGJvdHRvbQogICAgICA6Y29sb3I9Im5vdGlmaWNhdGlvbi5jb2xvciIKICAgICAgQGlucHV0PSJyZW1vdmVOb3RpZmljYXRpb25zIgogICAgICA6a2V5PSJub3RpZmljYXRpb24uY3JlYXRlZEF0IgogICAgICBsZWZ0CiAgICAgIDp0aW1lb3V0PSI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJlc291cmNlOiAnKicsCg==</text>
+        <text encoding="base64">ICAgICAgVmVyc2lvbjogJzIwMTItMTAtMTcnLAogICAgICBTdGF0ZW1lbnQ6IFsKICAgICAgICB7CiAgICAgICAgICBFZmZlY3Q6ICdBbGxvdycsCiAgICAgICAgICBQcmluY2lwYWw6IHsKICAgICAgICAgICAgU2VydmljZTogJ2xhbWJkYS5hbWF6b25hd3MuY29tJywKICAgICAgICAgIH0sCiAgICAgICAgICBBY3Rpb246ICdkeW5hbW9kYjoqJywKICAgICAgICB9LAogICAgICBdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfSwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkeW5hbW9TdHJlYW1Ub0xhbWJkYVJvbGU6ICVvJywgZHluYW1vU3RyZWFtVG9MYW1iZGFSb2xlKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFjdGlvbjogJ2lhbTpDcmVhdGVTZXJ2aWNlTGlua2VkUm9sZScsCiAgICAgICAgICBFZmZlY3Q6ICdBbGxvdycsCiAgICAgICAgICBSZXNvdXJjZTogJyonLAogICAgICAgICAgQ29uZGl0aW9uOiB7CiAgICAgICAgICAgIFN0cmluZ0xpa2U6IHsKICAgICAgICAgICAgICAnaWFtOkFXU1NlcnZpY2VOYW1lJzogWwogICAgICAgICAgICAgICAgJ3Jkcy5hbWF6b25hd3MuY29tJywKICAgICAgICAgICAgICAgICdyZHMuYXBwbGljYXRpb24tYXV0b3NjYWxpbmcuYW1hem9uYXdzLmNvbScsCiAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIEFjdGlvbjogWydyZHM6KicsICdsYW1iZGE6KiddLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgIFJlc291cmNlOiAnKicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFjdGlvbjogJ3BpOionLAogICAgICAgICAgUmVzb3VyY2U6ICdhcm46YXdzOnBpOio6KjptZXRyaWNzL3Jkcy8qJywK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIEVmZmVjdDogJ0FsbG93JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xvZ3M6R2V0TG9nRXZlbnRzJywK</text>
+        <text encoding="base64">ICAgICAgICAgIEFjdGlvbjogJ2lhbTpDcmVhdGVTZXJ2aWNlTGlua2VkUm9sZScsCiAgICAgICAgICBFZmZlY3Q6ICdBbGxvdycsCiAgICAgICAgICBSZXNvdXJjZTogJyonLAogICAgICAgICAgQ29uZGl0aW9uOiB7CiAgICAgICAgICAgIFN0cmluZ0xpa2U6IHsKICAgICAgICAgICAgICAnaWFtOkFXU1NlcnZpY2VOYW1lJzogWwogICAgICAgICAgICAgICAgJ3Jkcy5hbWF6b25hd3MuY29tJywKICAgICAgICAgICAgICAgICdyZHMuYXBwbGljYXRpb24tYXV0b3NjYWxpbmcuYW1hem9uYXdzLmNvbScsCiAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NuczpQdWJsaXNoJywKICAgICAgICAgICAgJ2xvZ3M6RGVzY3JpYmVMb2dTdHJlYW1zJywK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
