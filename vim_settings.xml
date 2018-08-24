@@ -661,6 +661,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1534911406304">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/containers/Settings/index.js" timestamp="1534825016761">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="22" />
@@ -737,11 +740,8 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535075507043">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-        <mark key="." line="13" column="23" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535076351040">
+        <mark key="[" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/dashboard.vue" timestamp="1534726733943">
         <mark key="[" line="8" column="0" />
@@ -854,10 +854,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AWD</text>
+        <text>persistFunction</text>
       </register>
       <register name="-" type="4">
-        <text>AWD</text>
+        <text>persistFunction</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
