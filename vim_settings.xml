@@ -239,10 +239,10 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/package.json" timestamp="1535071037817">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="2" />
-        <mark key="." line="14" column="2" />
-        <mark key="^" line="14" column="2" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
+        <mark key="^" line="12" column="2" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/connection.js" timestamp="1534485380986">
         <mark key="[" line="17" column="0" />
@@ -386,6 +386,12 @@
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/dynamo/index.js" timestamp="1535338674835">
+        <mark key="[" line="90" column="12" />
+        <mark key="]" line="90" column="13" />
+        <mark key="." line="90" column="13" />
+        <mark key="^" line="90" column="13" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/_constants.js" timestamp="1535066869814">
         <mark key="[" line="2" column="44" />
@@ -854,10 +860,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ledgersCollection</text>
+        <text>faqId</text>
       </register>
       <register name="-" type="4">
-        <text>ledgersCollection</text>
+        <text>faqId</text>
       </register>
       <register name="/" type="4">
         <text>action</text>
@@ -866,31 +872,31 @@
         <text encoding="base64">aW1wb3J0ICdmaXJlYmFzZS9maXJlc3RvcmUnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgbGVkZ2VycyB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7IEF0dHJpYnV0ZU5hbWU6ICdxdWVzdGlvbicsIEF0dHJpYnV0ZVR5cGU6ICdTJyB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsZWRnZXIgYWN0aW9uIHBheWxvYWQ6ICVvJywgdWlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7IEF0dHJpYnV0ZU5hbWU6ICdxdWVzdGlvbicsIEtleVR5cGU6ICdSQU5HRScgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsZWRnZXIgYWN0aW9uIHBheWxvYWQ6ICVvJywgdWlkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgbGVkZ2VycyB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdWlkIH0gPSBwYXlsb2FkCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsZWRnZXIgYWN0aW9uIHBheWxvYWQ6ICVvJywgdWlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1c2VyIHN0YXRlOiAlbycsIHN0YXRlLmluc3RhbmNlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsZWRnZXIgYWN0aW9uIHBheWxvYWQ6ICVvJywgdWlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgbGVkZ2Vyc0NvbGxlY3Rpb24gfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdWlkIH0gPSBwYXlsb2FkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1c2VyIHN0YXRlOiAlbycsIHN0YXRlLmluc3RhbmNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmVzdG9yZSBmcm9tICdAL2ZpcmViYXNlL2ZpcmVzdG9yZScK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgbGVkZ2Vyc0NvbGxlY3Rpb24gfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlL2FwcCc7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
