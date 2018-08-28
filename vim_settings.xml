@@ -243,7 +243,6 @@
         <mark key="[" line="6" column="80" />
         <mark key="]" line="6" column="80" />
         <mark key="." line="6" column="80" />
-        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/connection.js" timestamp="1534485380986">
         <mark key="[" line="17" column="0" />
@@ -262,11 +261,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" timestamp="1534482221436">
-        <mark key="[" line="34" column="80" />
-        <mark key="]" line="34" column="80" />
-        <mark key="." line="34" column="80" />
-        <mark key="^" line="38" column="18" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" timestamp="1535430372200">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="0" column="67" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/.babelrc" timestamp="1534833284819">
         <mark key="[" line="2" column="0" />
@@ -614,12 +613,11 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1535419782089">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="36" column="7" />
-        <mark key="]" line="36" column="7" />
-        <mark key="." line="36" column="7" />
-        <mark key="^" line="36" column="7" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1535431161523">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/plugins/firebase.js" timestamp="1533248938154">
         <mark key="[" line="4" column="0" />
@@ -753,12 +751,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535421504679">
-        <mark key="'" line="22" column="23" />
-        <mark key="[" line="29" column="75" />
-        <mark key="]" line="29" column="76" />
-        <mark key="." line="29" column="76" />
-        <mark key="^" line="29" column="76" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535431204659">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/dashboard.vue" timestamp="1534726733943">
         <mark key="[" line="8" column="0" />
@@ -768,18 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="1" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/mutations.js" />
-      <jump line="4" column="38" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/account/_constants.js" />
-      <jump line="15" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/account/index.js" />
-      <jump line="20" column="20" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/index.js" />
-      <jump line="16" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/index.js" />
-      <jump line="2" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/index.js" />
-      <jump line="39" column="18" filename="/Volumes/Storage/Source/thrifty-ninja/src/router.js" />
-      <jump line="3" column="25" filename="/Volumes/Storage/Source/thrifty-ninja/src/router.js" />
-      <jump line="8" column="2" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" />
-      <jump line="0" column="11" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" />
-      <jump line="2" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" />
-      <jump line="3" column="14" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" />
       <jump line="5" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" />
       <jump line="7" column="14" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" />
       <jump line="17" column="9" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/index.js" />
@@ -868,61 +853,79 @@
       <jump line="32" column="27" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
       <jump line="31" column="56" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
       <jump line="22" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="23" column="28" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="74" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="34" column="32" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="75" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="0" column="67" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="14" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="92" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="137" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
+      <jump line="6" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>secretKeyId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>secretKeyId</text>
+        <text>listEventSourceMappings</text>
       </register>
       <register name="/" type="4">
-        <text>schema</text>
+        <text>async</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXJndjogJW8nLCBwcm9jZXNzLmFyZ3YpCg==</text>
+        <text encoding="base64">ICAgICAgZHluYW1vVGFibGVzOiBbJyddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgcGFyYW1zIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgWmlwRmlsZTogQnVmZmVyLmZyb20oemlwKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi4vcGVyc2lzdERhdGFGb3JNQkNTTC56aXAnKQo=</text>
+      <register name="3" type="4">
+        <text>// AWS.config.update({
+//   credentials: {
+//     accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+//     secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
+//   },
+// })
+
+// const iam = new AWS.IAM()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHppcCBmcm9tICcuLi9wZXJzaXN0RGF0YUZvck1CQ1NMLnppcCcK</text>
+        <text encoding="base64">ICAgICAgZHluYW1vVGFibGVzOiBbJ3dhdHNvbl93YXRzb25wYWNrZGV2MDFfYm90bG9nJ10sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgY3JlZGVudGlhbHMgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxpc3RNYXBwaW5nc1BhcmFtcyA9IHsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBuYW1lLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlhbSA9IG5ldyBBV1MuTGFtYmRhKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFXUy5jb25maWcudXBkYXRlKHt9KQo=</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhtYXBwaW5ncy5FdmVudFNvdXJjZU1hcHBpbmdzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>schema</last-search>
+      <last-search>async</last-search>
       <last-offset />
-      <last-pattern>schema</last-pattern>
+      <last-pattern>async</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>state</entry>
         <entry>setState</entry>
         <entry>lang</entry>
         <entry>showPass</entry>
@@ -942,6 +945,7 @@
         <entry>formAction</entry>
         <entry>action</entry>
         <entry>schema</entry>
+        <entry>async</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
