@@ -515,12 +515,12 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1535435355123">
-        <mark key="'" line="210" column="6" />
-        <mark key="[" line="237" column="33" />
-        <mark key="]" line="237" column="33" />
-        <mark key="^" line="222" column="3" />
-        <mark key="." line="237" column="33" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1535436577797">
+        <mark key="'" line="102" column="8" />
+        <mark key="[" line="257" column="25" />
+        <mark key="]" line="257" column="39" />
+        <mark key="^" line="257" column="39" />
+        <mark key="." line="257" column="39" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/ui.js" timestamp="1533254901578">
         <mark key="'" line="8" column="0" />
@@ -775,8 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="14" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" />
-      <jump line="17" column="9" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/index.js" />
       <jump line="4" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/model.js" />
       <jump line="1102" column="34" filename="$USER_HOME$/src/mba/mbcsl-admin-react/README.md" />
       <jump line="19" column="20" filename="$USER_HOME$/src/mba/mbcsl-admin-react/src/router/index.js" />
@@ -875,13 +873,15 @@
       <jump line="137" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
       <jump line="6" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
       <jump line="50" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/List/index.js" />
+      <jump line="2" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="102" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.slice(0, 500)</text>
+        <text>entityNameChunk</text>
       </register>
       <register name="-" type="4">
-        <text>.slice(0, 500)</text>
+        <text>entityNameChunk</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
@@ -893,28 +893,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhpbnRlbnRzKQo=</text>
+        <text encoding="base64">CiAgICB0aHJvdyBuZXcgRXJyb3IoJ3Rlc3RpbmcnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNodW5rCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGludGVudExpc3RbMF0pCg==</text>
+        <text encoding="base64">ICAgIC8vIGF3YWl0IHRoaXMuZW50aXR5VHlwZXNDbGllbnQuYmF0Y2hEZWxldGVFbnRpdHlUeXBlcyh7CiAgICAvLyAgIHBhcmVudDogZW50aXR5UGFyZW50LAogICAgLy8gICBlbnRpdHlUeXBlTmFtZXM6IGVudGl0eU5hbWVzLAogICAgLy8gfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyh7IGVudGl0eVR5cGVOYW1lczogZW50aXR5TmFtZXMgfSkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZW50aXR5TmFtZUNodW5rKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUYWJsZUNlbGw+e2ZhcS5nZXQoJ2NhdGVnb3J5MycpfTwvVGFibGVDZWxsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUYWJsZUNlbGw+e2ZhcS5nZXQoJ2NhdGVnb3J5MScpfTwvVGFibGVDZWxsPgogICAgICAgICAgPFRhYmxlQ2VsbD57ZmFxLmdldCgnY2F0ZWdvcnkyJyl9PC9UYWJsZUNlbGw+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW50ZW50Q2h1bmspCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8VGFibGVDZWxsPnt0KCdmYXE6Y2F0ZWdvcnkzJyl9PC9UYWJsZUNlbGw+Cg==</text>
+        <text encoding="base64">ICAgIC8vIGF3YWl0IHRoaXMuaW50ZW50c0NsaWVudC5iYXRjaERlbGV0ZUludGVudHMoewogICAgLy8gICBwYXJlbnQ6IGludGVudFBhcmVudCwKICAgIC8vICAgaW50ZW50cywKICAgIC8vIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8VGFibGVDZWxsPnt0KCdmYXE6Y2F0ZWdvcnkxJyl9PC9UYWJsZUNlbGw+CiAgICAgICAgPFRhYmxlQ2VsbD57dCgnZmFxOmNhdGVnb3J5MicpfTwvVGFibGVDZWxsPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
