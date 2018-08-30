@@ -259,12 +259,6 @@
         <mark key="." line="42" column="1" />
         <mark key="^" line="42" column="1" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" timestamp="1535430372200">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="0" column="67" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/.babelrc" timestamp="1534833284819">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="56" />
@@ -624,11 +618,12 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1535594298670">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="19" />
-        <mark key="^" line="27" column="19" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1535609736467">
+        <mark key="'" line="8" column="51" />
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/plugins/firebase.js" timestamp="1533248938154">
         <mark key="[" line="4" column="0" />
@@ -782,12 +777,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535598613880">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535609310242">
         <mark key="'" line="13" column="23" />
-        <mark key="[" line="85" column="45" />
-        <mark key="]" line="85" column="53" />
-        <mark key="." line="85" column="53" />
-        <mark key="^" line="85" column="53" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="46" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/dashboard.vue" timestamp="1534726733943">
         <mark key="[" line="8" column="0" />
@@ -797,12 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
-      <jump line="20" column="25" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
-      <jump line="223" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
-      <jump line="224" column="30" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
-      <jump line="225" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
-      <jump line="7" column="24" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="43" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="46" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="50" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
@@ -839,9 +828,7 @@
       <jump line="69" column="16" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" />
       <jump line="108" column="39" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" />
       <jump line="195" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" />
-      <jump line="18" column="3" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
       <jump line="13" column="46" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
-      <jump line="5" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
       <jump line="30" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
       <jump line="31" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
       <jump line="0" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
@@ -897,46 +884,54 @@
       <jump line="18" column="54" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
       <jump line="31" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" />
       <jump line="17" column="6" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
+      <jump line="4" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
+      <jump line="17" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
+      <jump line="29" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
+      <jump line="8" column="51" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Promise()</text>
+        <text>watson_aikoweb_log</text>
       </register>
       <register name="-" type="4">
-        <text>new Promise()</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcvKioqKioqKioqKiBGdW5jdGlvbiB1cGRhdGUgc3RhcnRlZCAqKioqKioqKioqLycpCg==</text>
+      <register name="0" type="4">
+        <text>watson_aikoweb_log</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3JlZGVudGlhbHM6IHsKICAgICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvdmlkZXJSZW1vdGVJZCwgcHJvZHVjdGlvblNlcnZpY2VzIH0gPSBmb3VuZFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICBhY2Nlc3NLZXlJZDogJycsCiAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiAnJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3JlZGVudGlhbHM6IHsKICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VBSSA9IG5ldyBBSSh7IHNlcnZpY2U6IGZvdW5kU2VydmljZSB9KQogICAgYXdhaXQgc2VydmljZUFJLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhY2Nlc3NLZXlJZDogJycsCiAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiAnJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY3JlZGVudGlhbHM6IHsKICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY2Nlc3NLZXlJZDogJycsCiAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiAnJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IFByb21pc2UuYWxsKAogICAgICBwcm9kdWN0aW9uU2VydmljZXMubWFwKGFzeW5jIHByb2R1Y3Rpb25TZXJ2aWNlID0+IHsKICAgICAgICBjb25zdCBwcm9kdWN0aW9uU2VydmljZUFJID0gbmV3IEFJKHsgc2VydmljZTogcHJvZHVjdGlvblNlcnZpY2UgfSkKCiAgICAgICAgcmV0dXJuIHByb2R1Y3Rpb25TZXJ2aWNlQUkuZGVsZXRlKCkKICAgICAgfSkKICAgICkK</text>
+        <text encoding="base64">ICAgICAgY3JlZGVudGlhbHM6IHsKICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IFByb21pc2UuYWxsKAogICAgICBwcm9kdWN0aW9uU2VydmljZXMubWFwKGFzeW5jIHByb2R1Y3Rpb25TZXJ2aWNlID0+IHsKICAgICAgICBjb25zdCBwcm9kdWN0aW9uU2VydmljZUFJID0gbmV3IEFJKHsgc2VydmljZTogcHJvZHVjdGlvblNlcnZpY2UgfSkKCiAgICAgICAgcmV0dXJuIHByb2R1Y3Rpb25TZXJ2aWNlQUkuZGVsZXRlKCkKICAgICAgfSkKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBhY2Nlc3NLZXlJZDogcHJvY2Vzcy5lbnYuTUJDU0xfTEFNQkRBX0RFVl9BQ0NFU1NfS0VZX0lELAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogcHJvY2Vzcy5lbnYuTUJDU0xfTEFNQkRBX0RFVl9TRUNSRVRfQUNDRVNTX0tFWSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IFByb21pc2UuYWxsKAogICAgICBwcm9kdWN0aW9uU2VydmljZXMubWFwKGFzeW5jIHByb2R1Y3Rpb25TZXJ2aWNlID0+IHsKICAgICAgICBjb25zdCBwcm9kdWN0aW9uU2VydmljZUFJID0gbmV3IEFJKHsgc2VydmljZTogcHJvZHVjdGlvblNlcnZpY2UgfSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBGdW5jdGlvbk5hbWU6ICcnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
