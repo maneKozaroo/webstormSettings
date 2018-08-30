@@ -614,11 +614,11 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1535591181976">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="72" />
-        <mark key="^" line="7" column="72" />
-        <mark key="." line="7" column="72" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1535594298670">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="19" />
+        <mark key="^" line="27" column="19" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/plugins/firebase.js" timestamp="1533248938154">
         <mark key="[" line="4" column="0" />
@@ -772,12 +772,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535591473213">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535594424819">
         <mark key="'" line="13" column="23" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="39" />
+        <mark key="[" line="54" column="19" />
+        <mark key="]" line="54" column="22" />
+        <mark key="^" line="54" column="22" />
+        <mark key="." line="54" column="22" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/dashboard.vue" timestamp="1534726733943">
         <mark key="[" line="8" column="0" />
@@ -889,44 +889,44 @@
       <jump line="17" column="6" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{ }</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>{ }</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyW3RoaXMucHJvdmlkZXJdLmluZm8oJ0Vycm9yIGRlbGV0aW5nIHdvcmtzcGFjZTogJW8nLCBlcnJvcikK</text>
+      <register name="0" type="4">
+        <text>FunctionName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3RyZWFtRW5hYmxlZFRhYmxlRGVzY3JpcHRpb25zLm1hcCgKICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtYXBwaW5nOiAlbycsIGxhbWJkYS5saXN0RXZlbnRTb3VyY2VNYXBwaW5ncyhsaXN0UGFyYW1zKSkK</text>
+        <text encoding="base64">ICAgICAgICAoeyBUYWJsZURlc2NyaXB0aW9uOiB0YWJsZSB9KSA9PiB0YWJsZS5TdHJlYW1TcGVjaWZpY2F0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Uwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdD4KPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewp9Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVGFibGUuVGFibGVOYW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lOiAnYXBwJywKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVGFibGUuTGF0ZXN0U3RyZWFtQXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRzOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVRhYmxlLkxhdGVzdFN0cmVhbUFybikgewogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
