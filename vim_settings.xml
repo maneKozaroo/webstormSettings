@@ -387,6 +387,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1535694439392">
+        <mark key="'" line="23" column="34" />
+        <mark key="[" line="73" column="8" />
+        <mark key="]" line="74" column="18" />
+        <mark key="^" line="74" column="18" />
+        <mark key="." line="74" column="18" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Ledgers.vue" timestamp="1535677803428">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="23" />
@@ -798,10 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="11" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/index.js" />
-      <jump line="11" column="20" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/user/mutations.js" />
-      <jump line="25" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Form.vue" />
-      <jump line="23" column="812" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/SignOut.vue" />
       <jump line="14" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
       <jump line="17" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/serverless.dev.yml" />
       <jump line="19" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
@@ -898,6 +901,10 @@
       <jump line="6" column="18" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Accounts.vue" />
       <jump line="10" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Accounts.vue" />
       <jump line="402" column="37" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="27" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="74" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="110" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="23" column="34" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -907,7 +914,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>enqueue</text>
+        <text>\.botLog</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgYXdhaXQgRGF0YWJhc2UuZXJyb3JMb2dzLmNyZWF0ZSh7CiAgICAgICAgc2VydmljZUlkOiBmb3VuZFNlcnZpY2Uuc2VydmljZUlkLAogICAgICAgIGVycm9yQ29kZTogZXJyb3IuY29kZSwKICAgICAgICBtZXNzYWdlOiBlcnJvci5tZXNzYWdlLAogICAgICAgIHByb3ZpZGVyOiBlcnJvci5tb2R1bGUsCiAgICAgICAgYWN0aW9uOiAnY3JlYXRlJywKICAgICAgfSkKICAgICAgdGhyb3cgZXJyb3I=</text>
@@ -944,16 +951,14 @@
       </register>
     </registers>
     <search>
-      <last-search>enqueue</last-search>
+      <last-search>\.botLog</last-search>
       <last-offset />
-      <last-pattern>enqueue</last-pattern>
+      <last-pattern>\.botLog</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
-        <entry>aws</entry>
         <entry>\^</entry>
         <entry>es</entry>
         <entry>message</entry>
@@ -972,6 +977,8 @@
         <entry>\/delete</entry>
         <entry>delete</entry>
         <entry>enqueue</entry>
+        <entry>\.botLong</entry>
+        <entry>\.botLog</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
