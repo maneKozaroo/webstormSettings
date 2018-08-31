@@ -387,12 +387,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1535694439392">
-        <mark key="'" line="23" column="34" />
-        <mark key="[" line="73" column="8" />
-        <mark key="]" line="74" column="18" />
-        <mark key="^" line="74" column="18" />
-        <mark key="." line="74" column="18" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1535703983164">
+        <mark key="'" line="27" column="45" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="121" column="21" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Ledgers.vue" timestamp="1535677803428">
         <mark key="[" line="1" column="13" />
@@ -665,12 +665,6 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1535675858255">
-        <mark key="[" line="102" column="54" />
-        <mark key="]" line="102" column="54" />
-        <mark key="." line="102" column="54" />
-        <mark key="^" line="102" column="54" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/layouts/Services.js" timestamp="1534825149229">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="20" />
@@ -713,12 +707,6 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1535674995035">
-        <mark key="'" line="71" column="18" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/settings/sagas.js" timestamp="1534485274671">
         <mark key="[" line="19" column="0" />
@@ -805,9 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
-      <jump line="17" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/serverless.dev.yml" />
-      <jump line="19" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
       <jump line="34" column="31" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
       <jump line="30" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
       <jump line="9" column="27" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
@@ -901,65 +886,67 @@
       <jump line="6" column="18" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Accounts.vue" />
       <jump line="10" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Accounts.vue" />
       <jump line="402" column="37" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="27" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
       <jump line="74" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
       <jump line="110" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
-      <jump line="23" column="34" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="34" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="27" column="45" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhzdGF0aXN0aWNzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>\.botLog</text>
+        <text>findAll</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgYXdhaXQgRGF0YWJhc2UuZXJyb3JMb2dzLmNyZWF0ZSh7CiAgICAgICAgc2VydmljZUlkOiBmb3VuZFNlcnZpY2Uuc2VydmljZUlkLAogICAgICAgIGVycm9yQ29kZTogZXJyb3IuY29kZSwKICAgICAgICBtZXNzYWdlOiBlcnJvci5tZXNzYWdlLAogICAgICAgIHByb3ZpZGVyOiBlcnJvci5tb2R1bGUsCiAgICAgICAgYWN0aW9uOiAnY3JlYXRlJywKICAgICAgfSkKICAgICAgdGhyb3cgZXJyb3I=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJhd1F1ZXJ5ID0gYFNFTEVDVCAqIEZST00gImJvdExvZ3MiIHQxIFdIRVJFICJib3RMb2dJZCIgSU4gKCBTRUxFQ1QgTUlOKCJib3RMb2dJZCIpIEZST00gImJvdExvZ3MiIHQyIFdIRVJFIHQyLiJ1c2VySW5wdXQiID0gdDEuInVzZXJJbnB1dCIgQU5EIHQyLiJyb29tSWQiID0gdDEuInJvb21JZCIgKSBBTkQgImRvbWFpbklkIiA9ICcke2RvbWFpbklkfScgQU5EICJkYXRlVGltZSIgQkVUV0VFTiAnJHtmcm9tRGF0ZVRpbWUudG9JU09TdHJpbmcoKX0nIEFORCAnJHt0b0RhdGVUaW1lLnRvSVNPU3RyaW5nKCl9JyBPUkRFUiBCWSAiZGF0ZVRpbWUiIERFU0M7YAoKICAgIGNvbnN0IGJvdExvZ3MgPSBhd2FpdCBEYXRhYmFzZS5zZXF1ZWxpemUucXVlcnkocmF3UXVlcnkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0gZXJyb3I6IFxuJW8nLCBlcnJvcikK</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhzdGF0aXN0aWNzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXdhaXQgRGF0YWJhc2UuZXJyb3JMb2dzLmNyZWF0ZSh7CiAgICAgIC8vIH0pCg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhib3RMb2dzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgZXJyb3IK</text>
+        <text encoding="base64">ICAgIAogICAgY29uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgRGF0YWJhc2UuZXJyb3JMb2dzLmNyZWF0ZSh7CiAgICAgICAgc2VydmljZUlkOiBmb3VuZFNlcnZpY2Uuc2VydmljZUlkLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJhd1F1ZXJ5KQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKiogZXJyb3I6IFxuJW8nLCBlcnJvcikK</text>
+        <text encoding="base64">CiAgICBkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvdmlkZXJSZW1vdGVJZCB9ID0gYWkK</text>
+        <text encoding="base64">ICAgICAgICBib3RMb2dJZDogewogICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICRpbjogbGl0ZXJhbChgYCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGFpLmNvbnRhaW5lci5jcmVhdGUoewogICAgICBpbnRlbnRzLAogICAgICBlbnRpdGllcywKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaW46ICRpbiB9ID0gRGF0YWJhc2Uuc2VxdWVsaXplLk9wCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>\.botLog</last-search>
+      <last-search>findAll</last-search>
       <last-offset />
-      <last-pattern>\.botLog</last-pattern>
+      <last-pattern>findAll</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\^</entry>
         <entry>es</entry>
         <entry>message</entry>
         <entry>ai</entry>
@@ -979,6 +966,7 @@
         <entry>enqueue</entry>
         <entry>\.botLong</entry>
         <entry>\.botLog</entry>
+        <entry>findAll</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
