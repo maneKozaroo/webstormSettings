@@ -9,11 +9,11 @@
         <mark key="." line="45" column="76" />
         <mark key="^" line="45" column="76" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Transactions.vue" timestamp="1536272850687">
-        <mark key="[" line="72" column="11" />
-        <mark key="]" line="73" column="29" />
-        <mark key="." line="73" column="29" />
-        <mark key="^" line="73" column="29" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Transactions.vue" timestamp="1536276045723">
+        <mark key="[" line="12" column="65" />
+        <mark key="]" line="12" column="62" />
+        <mark key="^" line="12" column="62" />
+        <mark key="." line="12" column="62" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/account/Form.vue" timestamp="1536271731281">
         <mark key="[" line="92" column="0" />
@@ -25,11 +25,12 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="98" column="65" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" timestamp="1536272145062">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="36" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" timestamp="1536276430899">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="37" />
+        <mark key="." line="44" column="37" />
+        <mark key="^" line="44" column="37" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/actions.js" timestamp="1536272246098">
         <mark key="[" line="17" column="14" />
@@ -38,43 +39,45 @@
         <mark key="^" line="17" column="24" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="33" column="11" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKCdhY2NvdW50L2luaXRpYWxpemUnLCBpbnN0YW5jZSwgeyByb290OiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2LWxpc3QtdGlsZS1hY3Rpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY3JlYXRlZEF0KTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbAo=</text>
+      <register name="&quot;" type="4">
+        <text>D</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHIuZm9vCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY3JlYXRlZEF0KTsKICAgIHJldHVybiB0aGlzLmNyZWF0ZWRBdC50b0RhdGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRyYW5zYWN0aW9uLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5jcmVhdGVkQXQpIHJldHVybiAnJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHJhbnNhY3Rpb24ubmFtZSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRyYW5zYWN0aW9uLmNyZWF0ZWRBdCAmJiB0cmFuc2FjdGlvbi5jcmVhdGVkQXQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBhY3Rpb24sIGFjY291bnQsICRyb3V0ZTogeyBwYXJhbXM6IHsgbGVkZ2VySWQgfSB9IH0gPSB0aGlzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBAY2xpY2s9IiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBAbW91c2VvdmVyPSJmb28iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWF4TmFtZUxlbmd0aDogMzIsCiAgICAgIG1heERlc2NyaXB0aW9uTGVuZ3RoOiAxMjgsCg==</text>
+        <text encoding="base64">ICAgIGZvbygpIHsKICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wdXRlZDogewogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hvdmVyaW5nJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWVMZW5ndGgoKSB7CiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdi1kaXZpZGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.hover</text>
+        <text>D</text>
       </register>
     </registers>
     <search>
@@ -87,6 +90,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
