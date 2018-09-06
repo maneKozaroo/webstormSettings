@@ -3,61 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/actions.js" timestamp="1536271416305">
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="55" column="31" />
-        <mark key="^" line="55" column="31" />
-        <mark key="." line="55" column="31" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" timestamp="1536271496748">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/simulation/index.js" timestamp="1536211479609" />
     </filemarks>
     <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICB9Owo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICB9Owo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWF4TmFtZUxlbmd0aDogMzIsCiAgICAgIG1heERlc2NyaXB0aW9uTGVuZ3RoOiAxMjgsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb21wdXRlZDogewogIH0sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWVMZW5ndGgoKSB7CiAgICB9LAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnRyYW5zYWN0aW9uLm5hbWUpIHJldHVybiAwOwogICAgICByZXR1cm4gKHRoaXMudHJhbnNhY3Rpb24ubmFtZS5sZW5ndGggLyB0aGlzLm1heE5hbWVMZW5ndGgpICogMTAwOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uTGVuZ3RoKCkgewogICAgfSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnRyYW5zYWN0aW9uLmRlc2NyaXB0aW9uKSByZXR1cm4gMDsKICAgICAgcmV0dXJuICh0aGlzLnRyYW5zYWN0aW9uLmRlc2NyaXB0aW9uLmxlbmd0aCAvIHRoaXMubWF4RGVzY3JpcHRpb25MZW5ndGgpICogMTAwOwo=</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
