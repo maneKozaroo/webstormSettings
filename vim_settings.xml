@@ -15,6 +15,12 @@
         <mark key="^" line="12" column="62" />
         <mark key="." line="12" column="62" />
       </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/tsconfig.json" timestamp="1536283374739">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/account/Form.vue" timestamp="1536271731281">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="73" />
