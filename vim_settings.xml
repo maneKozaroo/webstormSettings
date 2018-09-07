@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/index.ts" timestamp="1536298855523">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="22" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/index.ts" timestamp="1536299805641">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="69" />
+        <mark key="." line="5" column="56" />
+        <mark key="^" line="5" column="56" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/index.ts" timestamp="1536290746547">
         <mark key="'" line="10" column="71" />
@@ -52,12 +52,12 @@
         <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/Downloads/mobiconsole-jz-simulation-b130874191e7.json" timestamp="1536291556620" />
-      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" timestamp="1536290784689">
-        <mark key="'" line="17" column="23" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" timestamp="1536299855079">
+        <mark key="'" line="5" column="56" />
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" timestamp="1536276430899">
         <mark key="'" line="35" column="11" />
@@ -89,19 +89,19 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" timestamp="1536290520320">
-        <mark key="'" line="17" column="26" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="5" column="26" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" timestamp="1536299818352">
+        <mark key="'" line="15" column="33" />
+        <mark key="[" line="5" column="66" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" timestamp="1536298295816">
-        <mark key="'" line="10" column="24" />
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="2" column="50" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" timestamp="1536299668166">
+        <mark key="'" line="3" column="36" />
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/server.ts" timestamp="1536297665047">
         <mark key="[" line="6" column="8" />
@@ -138,7 +138,6 @@
       <jump line="0" column="7" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
       <jump line="5" column="26" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
       <jump line="9" column="26" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
-      <jump line="13" column="26" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
       <jump line="17" column="26" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
       <jump line="5" column="61" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/index.ts" />
       <jump line="9" column="71" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/index.ts" />
@@ -151,17 +150,19 @@
       <jump line="20" column="7" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" />
       <jump line="24" column="16" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" />
-      <jump line="5" column="23" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" />
       <jump line="9" column="23" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" />
       <jump line="13" column="23" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" />
       <jump line="17" column="23" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" />
       <jump line="102" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="8" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" />
       <jump line="13" column="24" filename="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" />
+      <jump line="3" column="36" filename="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" />
+      <jump line="13" column="33" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
+      <jump line="5" column="56" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AuthenticationContext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyQXV0aGVudGljYXRpb25Db250ZXh0IH0gZnJvbSAiLi4vLi4vLi4vYXV0aGVudGljYXRvciI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>AuthenticationContext</text>
@@ -170,34 +171,34 @@
         <text>connections</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VmVyc2lvbjEudXNlKCcvc2VydmljZXMnLCBTZXJ2aWNlcy5yb3V0ZXMoKSwgU2VydmljZXMuYWxsb3dlZE1ldGhvZHMoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyQXV0aGVudGljYXRpb25Db250ZXh0IH0gZnJvbSAiLi4vLi4vLi4vYXV0aGVudGljYXRvciI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVjbGFyZSBtb2R1bGUgJ2tvYScgewogICAgaW50ZXJmYWNlIEF1dGhlbnRpY2F0aW9uQ29udGV4dCBleHRlbmRzIENvbnRleHQgewogICAgICAgIGF1dGhlbnRpY2F0ZSgpOiBib29sZWFuOwogICAgfQp9Cgo=</text>
+        <text encoding="base64">aW50ZXJmYWNlIEF1dGhlbnRpY2F0aW9uQ29udGV4dCBleHRlbmRzIFJvdXRlci5JUm91dGVyQ29udGV4dCB7CiAgICBhdXRoZW50aWNhdGU6ICgpID0+IGJvb2xlYW4sCiAgICBwYXJhbXM6IGFueSwKICAgIHJvdXRlcjogUm91dGVyLAp9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQmFzZUNvbnRleHQgfSBmcm9tICJrb2EiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQmFzZUNvbnRleHQgfSBmcm9tICJrb2EiOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVjbGFyZSBtb2R1bGUgJ2tvYScgewogICAgaW50ZXJmYWNlIEF1dGhlbnRpY2F0aW9uQ29udGV4dCBleHRlbmRzIEJhc2VDb250ZXh0IHsKICAgICAgICBhdXRoZW50aWNhdGUoKTogYm9vbGVhbjsKICAgIH0KfQoK</text>
+        <text encoding="base64">ZGVjbGFyZSBtb2R1bGUgJ2tvYS1yb3V0ZXInIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVjbGFyZSBtb2R1bGUgJ2tvYScgewogICAgaW50ZXJmYWNlIEF1dGhlbnRpY2F0aW9uQ29udGV4dCBleHRlbmRzIENvbnRleHQgewogICAgICAgIGF1dGhlbnRpY2F0ZSgpOiBib29sZWFuOwogICAgfQp9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7IEJhc2VDb250ZXh0IH0gZnJvbSAia29hIjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQmFzZUNvbnRleHQgfSBmcm9tICJrb2EiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQmFzZUNvbnRleHQgfSBmcm9tICdrb2EnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQmFzZUNvbnRleHQgfSBmcm9tICJrb2EiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbWlkZGxld2FyZSBpcyBiZWluZyBydW4nKTsK</text>
+        <text encoding="base64">ZGVjbGFyZSBtb2R1bGUgJ2tvYScgewogICAgaW50ZXJmYWNlIEF1dGhlbnRpY2F0aW9uQ29udGV4dCBleHRlbmRzIEJhc2VDb250ZXh0IHsKICAgICAgICBhdXRoZW50aWNhdGUoKTogYm9vbGVhbjsKICAgIH0KfQoK</text>
       </register>
     </registers>
     <search>
