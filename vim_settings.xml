@@ -143,12 +143,12 @@
         <mark key="." line="60" column="7" />
         <mark key="^" line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1536291322261">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1536552397480">
         <mark key="'" line="102" column="14" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="146" column="5" />
-        <mark key="." line="157" column="0" />
+        <mark key="[" line="270" column="5" />
+        <mark key="]" line="271" column="4" />
+        <mark key="^" line="271" column="4" />
+        <mark key="." line="271" column="4" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" timestamp="1536538817659">
         <mark key="'" line="17" column="69" />
@@ -315,11 +315,11 @@
       <jump line="5" column="31" filename="$USER_HOME$/src/experiments/mbcsl-api/src/server.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBzdGF0aWMgYXN5bmMgbWlkZGxld2FyZShjdHg6IElBdXRoZW50aWNhdGlvbkNvbnRleHQsIG5leHQ6ICgpID0+IFByb21pc2U8YW55PikgewogICAgLy8gICAgIGN0eC5hdXRoZW50aWNhdGUgPSAoKSA9PiB7CiAgICAvLyAgICAgICAgIGN0eC50aHJvdyg0MDEpCiAgICAvLyAgICAgfQogICAgLy8gICAgIGF3YWl0IG5leHQoKQogICAgLy8gfQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Authenticator</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>diction</text>
