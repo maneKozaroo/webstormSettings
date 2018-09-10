@@ -69,11 +69,11 @@
         <mark key="." line="60" column="7" />
         <mark key="^" line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/notifications.js" timestamp="1536559251580">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="23" column="44" />
-        <mark key="^" line="23" column="44" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/notifications.js" timestamp="1536562184098">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="4" column="2" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1536552397480">
         <mark key="'" line="102" column="14" />
@@ -122,6 +122,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/logger/index.js" timestamp="1536562597062">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/actions.js" timestamp="1536272246098">
         <mark key="[" line="17" column="14" />
@@ -244,18 +249,17 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1536557353024">
-        <mark key="'" line="53" column="18" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="56" column="41" />
-        <mark key="^" line="56" column="42" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/Properties/index.js" timestamp="1536560547362">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="97" column="3" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/notifications.js" timestamp="1536562206562">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Transactions.vue" timestamp="1536276045723">
         <mark key="[" line="12" column="65" />
@@ -387,44 +391,44 @@
       <jump line="528" column="40" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcG9seWZpbGwnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>The requested service does not exist</text>
       </register>
       <register name="/" type="4">
         <text>getIn</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCA9ICgpID0+IHsKICAgIHRoaXMucmVxdWVzdFByb2R1Y3Rpb25TZXJ2aWNlKCkKICB9CgogIHJlcXVlc3RQcm9kdWN0aW9uU2VydmljZSA9ICgpID0+IHsKICAgIGNvbnN0IHsKICAgICAgZGlzcGF0Y2gsCiAgICAgIG1hdGNoOiB7CiAgICAgICAgcGFyYW1zOiB7IHNlcnZpY2VJZCwgcHJvZHVjdGlvblNlcnZpY2VJZCB9LAogICAgICB9LAogICAgfSA9IHRoaXMucHJvcHMKICAgIGlmIChzZXJ2aWNlSWQpIHsKICAgICAgZGlzcGF0Y2goCiAgICAgICAgcHJvZHVjdGlvblNlcnZpY2VBY3Rpb25zLnJlYWQucmVxdWVzdCh7CiAgICAgICAgICBwcm9kdWN0aW9uU2VydmljZUlkLAogICAgICAgICAgcmVkaXJlY3RPbkVtcHR5OiB0cnVlLAogICAgICAgIH0pCiAgICAgICkKICAgIH0KICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCFzZXJ2aWNlSWQpIHsKICAgICAgICBzZXJ2aWNlSWQgPSB5aWVsZCBzZWxlY3Qoc3RvcmUgPT4gc3RvcmUuc2VydmljZS5nZXRJbihbJ2FjdGl2ZSddKSkKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBwcm9kdWN0aW9uU2VydmljZUlkIH0pCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcG9seWZpbGwnKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMucmVxdWVzdFByb2R1Y3Rpb25TZXJ2aWNlTGlzdCgpCiAgfQogIAogIHJlcXVlc3RQcm9kdWN0aW9uU2VydmljZSgpIHt9</text>
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVxdWVzdAoK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgZGlzcGF0Y2gsCiAgICAgIG1hdGNoOiB7CiAgICAgICAgcGFyYW1zOiB7IHNlcnZpY2VJZCB9LAogICAgICB9LAogICAgfSA9IHRoaXMucHJvcHMKICAgIGRpc3BhdGNoKHByb2R1Y3Rpb25TZXJ2aWNlQWN0aW9ucy5saXN0LnJlcXVlc3QoeyBzZXJ2aWNlSWQgfSkpCg==</text>
+        <text encoding="base64">ICAqcmVhZCh7IHBheWxvYWQ6IHsgc2VydmljZUlkIH0gfSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHlpZWxkIGNhbGwoQXBpLnNlcnZpY2VzLnJlYWQsIHsgc2VydmljZUlkIH0pCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoCiAgICAgICAgICB1aUFjdGlvbnMuZW5xdWV1ZU5vdGlmaWNhdGlvbih7CiAgICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICAgIG1lc3NhZ2U6ICdub3RpZmljYXRpb25zOmVycm9yLnByb2R1Y3Rpb25TZXJ2aWNlLm5vbkV4aXN0YW50JywKICAgICAgICAgIH0pCiAgICAgICAgKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VydmljZUlkID0geWllbGQgc2VsZWN0KHN0b3JlID0+IHN0b3JlLnNlcnZpY2UuZ2V0SW4oWydhY3RpdmUnXSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2cocHJvZHVjdGlvblNlcnZpY2VTdG9yZS50b0pTKCkpCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFzZXJ2aWNlSWQpIHsKICAgICAgICBzZXJ2aWNlSWQgPSB5aWVsZCBzZWxlY3Qoc3RvcmUgPT4gc3RvcmUuc2VydmljZS5nZXRJbihbJ2FjdGl2ZSddKSkKICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3Rpb25TZXJ2aWNlU3RvcmUudG9KUygpKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBlcnJvcjogewogICAgcHJvZHVjdGlvblNlcnZpY2U6IHsKICAgICAgbm9uRXhpc3RhbnQ6ICdUaGUgcmVxdWVzdGVkIHByb2R1Y3Rpb24gc2VydmljZSBkb2VzIG5vdCBleGlzdCcsCiAgICB9LAogICAgc2VydmljZTogewogICAgICBub25FeGlzdGFudDogJ1RoZSByZXF1ZXN0ZWQgc2VydmljZSBkb2VzIG5vdCBleGlzdCcsCiAgICB9LAogIH0s</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBwcm9kdWN0aW9uU2VydmljZUlkIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
