@@ -17,6 +17,12 @@
         <mark key="." line="18" column="53" />
         <mark key="^" line="18" column="37" />
       </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/.gitignore" timestamp="1536284290553">
+        <mark key="'" line="88" column="35" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/tsconfig.json" timestamp="1536283534117">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="9" column="1" />
@@ -49,6 +55,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" timestamp="1536559080438">
+        <mark key="'" line="528" column="40" />
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="324" column="0" />
+        <mark key="." line="324" column="0" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/simulations/index.ts" timestamp="1536538820257">
         <mark key="'" line="18" column="25" />
         <mark key="[" line="6" column="0" />
@@ -59,6 +71,19 @@
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/logger/index.js" timestamp="1536543437526">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/FAQs/index.js" timestamp="1536558309334">
+        <mark key="[" line="82" column="30" />
+        <mark key="]" line="83" column="31" />
+        <mark key="." line="83" column="31" />
+        <mark key="^" line="83" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1536559163541">
+        <mark key="'" line="31" column="34" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" timestamp="1536538805621">
         <mark key="'" line="17" column="72" />
@@ -143,12 +168,30 @@
         <mark key="." line="60" column="7" />
         <mark key="^" line="60" column="7" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/index.js" timestamp="1536556258623">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/notifications.js" timestamp="1536559251580">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="23" column="44" />
+        <mark key="^" line="23" column="44" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1536552397480">
         <mark key="'" line="102" column="14" />
         <mark key="[" line="270" column="5" />
         <mark key="]" line="271" column="4" />
         <mark key="^" line="271" column="4" />
         <mark key="." line="271" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1536557353024">
+        <mark key="'" line="53" column="18" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="56" column="41" />
+        <mark key="^" line="56" column="42" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" timestamp="1536538817659">
         <mark key="'" line="17" column="69" />
@@ -177,6 +220,12 @@
         <mark key="." line="45" column="76" />
         <mark key="^" line="45" column="76" />
       </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Transactions.vue" timestamp="1536276045723">
+        <mark key="[" line="12" column="65" />
+        <mark key="]" line="12" column="62" />
+        <mark key="^" line="12" column="62" />
+        <mark key="." line="12" column="62" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.js" timestamp="1536537932619">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="26" column="9" />
@@ -191,6 +240,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/config/index.js" timestamp="1536535694254">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="70" column="63" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" timestamp="1536538809817">
         <mark key="'" line="18" column="18" />
         <mark key="[" line="6" column="0" />
@@ -204,6 +259,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1536555734511">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/statistics/index.js" timestamp="1536537977551">
         <mark key="'" line="22" column="9" />
         <mark key="[" line="26" column="9" />
@@ -213,13 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="31" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
-      <jump line="10" column="61" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
-      <jump line="14" column="70" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
-      <jump line="18" column="72" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" />
-      <jump line="5" column="13" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/info/index.ts" />
-      <jump line="10" column="54" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/info/index.ts" />
-      <jump line="14" column="63" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/info/index.ts" />
       <jump line="18" column="65" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/info/index.ts" />
       <jump line="10" column="55" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" />
       <jump line="14" column="64" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" />
@@ -313,69 +366,62 @@
       <jump line="64" column="24" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/server.ts" />
       <jump line="5" column="31" filename="$USER_HOME$/src/experiments/mbcsl-api/src/server.ts" />
+      <jump line="53" column="18" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
+      <jump line="30" column="34" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" />
+      <jump line="342" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
+      <jump line="346" column="34" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
+      <jump line="404" column="39" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
+      <jump line="523" column="50" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
+      <jump line="528" column="40" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
-        <text>diction</text>
+        <text>getIn</text>
       </register>
-      <register name="0" type="4">
-        <text>const errorFormat = `
-______________________________________________________Context
-%o
-
-______________________________________________________Error
-%o
-`
-
-const requestFormat = `%s: %s
-______________________________________________________Request
-%o
-
-______________________________________________________Body
-%o
-`</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcHVzaCB9IGZyb20gJ3JlYWN0LXJvdXRlci1yZWR1eCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBzdGF0aWMgYXN5bmMgbWlkZGxld2FyZShjdHg6IElBdXRoZW50aWNhdGlvbkNvbnRleHQsIG5leHQ6ICgpID0+IFByb21pc2U8YW55PikgewogICAgLy8gICAgIGN0eC5hdXRoZW50aWNhdGUgPSAoKSA9PiB7CiAgICAvLyAgICAgICAgIGN0eC50aHJvdyg0MDEpCiAgICAvLyAgICAgfQogICAgLy8gICAgIGF3YWl0IG5leHQoKQogICAgLy8gfQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoCiAgICAgICAgICB1aUFjdGlvbnMuZW5xdWV1ZU5vdGlmaWNhdGlvbih7CiAgICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICAgIG1lc3NhZ2U6ICdub3RpZmljYXRpb25zOmVycm9yLnByb2R1Y3Rpb25TZXJ2aWNlLm5vbkV4aXN0YW50JywKICAgICAgICAgIH0pCiAgICAgICAgKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlcXVlc3RGb3JtYXQgPSBgJXM6ICVzCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX1JlcXVlc3QKJW8KCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX0JvZHkKJW8KYAoK</text>
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2cocHJvZHVjdGlvblNlcnZpY2VTdG9yZS50b0pTKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3Rpb25TZXJ2aWNlU3RvcmUudG9KUygpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBlcnJvckZvcm1hdCA9IGAKX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fQ29udGV4dAolbwoKX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fRXJyb3IKJW8KYAoKICBwcml2YXRlIHJlcXVlc3RGb3JtYXQgPSBgJXM6ICVzCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX1JlcXVlc3QKJW8KCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX0JvZHkKJW8KYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeWllbGQgcHV0KGFjdGlvbnMucmVhZC5zdWNjZXNzKGZyb21KUyhwcm9kdWN0aW9uU2VydmljZSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpc3QudG9KUygpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFtpbmRleDogc3RyaW5nXTogd2luc3Rvbi5Mb2dnZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHsgcHJvZHVjdGlvblNlcnZpY2UgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlZGlyZWN0PycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>diction</last-search>
+      <last-search>getIn</last-search>
       <last-offset />
-      <last-pattern>diction</last-pattern>
+      <last-pattern>getIn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -397,6 +443,7 @@ ______________________________________________________Body
         <entry>production services</entry>
         <entry>Diction</entry>
         <entry>diction</entry>
+        <entry>getIn</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
