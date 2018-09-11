@@ -130,6 +130,12 @@
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" timestamp="1536628547175">
         <mark key="'" line="84" column="19" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/batch/package.json" timestamp="1536639073301">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="81" />
+        <mark key="^" line="7" column="81" />
+        <mark key="." line="7" column="81" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" timestamp="1536624688272">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="31" />
@@ -319,6 +325,12 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/batch/batch.js" timestamp="1536638899617">
+        <mark key="[" line="164" column="1" />
+        <mark key="]" line="166" column="33" />
+        <mark key="^" line="166" column="33" />
+        <mark key="." line="166" column="33" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/Properties/index.js" timestamp="1536560547362">
         <mark key="[" line="78" column="0" />
