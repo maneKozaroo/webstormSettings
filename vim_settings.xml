@@ -127,6 +127,12 @@
         <mark key="^" line="271" column="4" />
         <mark key="." line="271" column="4" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180911051402-change_pqpas_from_varchar_to_text.js" timestamp="1536642921021">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" timestamp="1536628547175">
         <mark key="'" line="84" column="19" />
       </file>
@@ -507,10 +513,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>secret</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>secret</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
