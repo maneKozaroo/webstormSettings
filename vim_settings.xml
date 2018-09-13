@@ -228,12 +228,12 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="30" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1536809575848">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1536813297066">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="5" column="49" />
-        <mark key="." line="5" column="49" />
-        <mark key="^" line="5" column="48" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" timestamp="1536271787656">
         <mark key="[" line="99" column="0" />
@@ -266,6 +266,13 @@
         <mark key="]" line="86" column="37" />
         <mark key="^" line="86" column="37" />
         <mark key="." line="86" column="37" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" timestamp="1536623977492">
+        <mark key="'" line="11" column="72" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="13" column="62" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/productionServices/index.js" timestamp="1536538205198">
         <mark key="'" line="22" column="17" />
@@ -565,7 +572,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -600,6 +607,7 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
