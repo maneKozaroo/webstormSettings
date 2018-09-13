@@ -416,6 +416,12 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1536820427025">
+        <mark key="[" line="119" column="78" />
+        <mark key="]" line="119" column="80" />
+        <mark key="." line="119" column="80" />
+        <mark key="^" line="119" column="80" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" timestamp="1536624383663">
         <mark key="'" line="13" column="47" />
         <mark key="[" line="5" column="19" />
@@ -540,11 +546,11 @@
       <jump line="36" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJkZXBsb3k6cHJvZHVjdGlvbiI6ICJucG0gcnVuIGRlcGxveSAtLXRhcmdldHMgdHJpYWwscWEiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>MIN</text>
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text>MIN</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
