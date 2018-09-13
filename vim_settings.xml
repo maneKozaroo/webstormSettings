@@ -228,6 +228,11 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="30" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/package.json" timestamp="1536815589148">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1536813297066">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="16" column="18" />
@@ -532,44 +537,44 @@
       <jump line="36" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dynamoTables</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJkZXBsb3k6cHJvZHVjdGlvbiI6ICJucG0gcnVuIGRlcGxveSAtLXRhcmdldHMgdHJpYWwscWEiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>dynamoTables</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgLS0tLS0tLS0tLSBJTlNFUlQgLS0tLS0tLS0tLWApCg==</text>
+        <text encoding="base64">ICAgICJkZXBsb3k6c3RhZ2luZyI6ICJucG0gcnVuIGRlcGxveSAtLXRhcmdldHMgdHJpYWwscWEiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZHluYW1vVGFibGVzOiAK</text>
+        <text encoding="base64">ICAgICJkZXBsb3k6cHJvZHVjdGlvbiI6ICJucG0gcnVuIGRlcGxveSAtLXRhcmdldHMgdHJpYWwscWEiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coeyBxdWVyaWVzIH0pCg==</text>
+        <text encoding="base64">ICAgICJkZXBsb3kiOiAiIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHluYW1vVGFibGVzOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHF1ZXJpZXMgfSkK</text>
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coeyBxdWVyaWVzIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9tYWluSWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vbUlkLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHF1ZXJpZXMgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">InJvb21JZCIgPSAkMiwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9tYWluSWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9vbUlkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">InJvb21JZCIgPSAkMiwgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
