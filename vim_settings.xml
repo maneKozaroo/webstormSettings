@@ -60,6 +60,7 @@
         <mark key="]" line="161" column="29" />
         <mark key="." line="161" column="29" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1536817987222" />
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/dictionaries/index.ts" timestamp="1536624273037">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="64" />
@@ -188,6 +189,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/pqpa.js" timestamp="1536817483777" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1536628961887">
         <mark key="'" line="113" column="19" />
       </file>
@@ -376,6 +378,7 @@
         <mark key="." line="113" column="38" />
         <mark key="^" line="113" column="38" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/pqpas.js" timestamp="1536817485960" />
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/faqs.ts" timestamp="1536624457567">
         <mark key="'" line="2" column="12" />
         <mark key="[" line="20" column="16" />
