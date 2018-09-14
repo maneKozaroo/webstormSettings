@@ -21,11 +21,10 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" timestamp="1536628534177">
-        <mark key="[" line="129" column="32" />
-        <mark key="]" line="129" column="38" />
-        <mark key="." line="129" column="38" />
-        <mark key="^" line="129" column="38" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" timestamp="1536907602745">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="41" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/service.js" timestamp="1536904222668">
         <mark key="[" line="32" column="13" />
@@ -446,11 +445,11 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/sagas.js" timestamp="1536628770383">
-        <mark key="[" line="113" column="32" />
-        <mark key="]" line="113" column="38" />
-        <mark key="." line="113" column="38" />
-        <mark key="^" line="113" column="38" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/sagas.js" timestamp="1536907596477">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="41" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" timestamp="1536885883572">
         <mark key="'" line="408" column="0" />
@@ -536,8 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="27" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/productionServices.ts" />
-      <jump line="16" column="27" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/productionServices.ts" />
       <jump line="20" column="27" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/productionServices.ts" />
       <jump line="4" column="27" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/productionServices.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/productionServices/index.ts" />
@@ -636,61 +633,62 @@
       <jump line="192" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
       <jump line="108" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/simulation/index.js" />
       <jump line="13" column="3" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/service.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/sagas.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dictionary</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoYWN0aW9ucy5pbXBvcnQuZmFpbHVyZSgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>dictionary</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBUElcPg==</text>
+        <text>push</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGRpY3Rpb25hcnk6IHsKICAgICAgY3N2OiB7CiAgICAgICAgZm9ybWF0OiAnVGhlIGNzdiBmaWxlIHByb3ZpZGVkIHdhcyBub3QgZm9ybWF0dGVkIGNvcnJlY3RseScsCiAgICAgIH0sCiAgICB9LA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgeWllbGQgcHV0KGFjdGlvbnMuaW1wb3J0LnN1Y2Nlc3MoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN5bm9ueW06IHsKICAgICAgdW5pcXVlOiAnVGhhdCBzeW5vbnltIGFscmVhZHkgZXhpc3RzJywKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoYWN0aW9ucy5pbXBvcnQuZmFpbHVyZSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNzdjogewo=</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoYWN0aW9ucy5pbXBvcnQuZmFpbHVyZSgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgeWllbGQgcHV0KGFjdGlvbnMuaW1wb3J0LmZhaWx1cmUoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpY3Rpb25hcnk6IHsKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoYWN0aW9ucy5pbXBvcnQuZmFpbHVyZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY3N2OiB7CiAgICAgICAgZm9ybWF0OiAnVGhlIGNzdiBmaWxlIHByb3ZpZGVkIHdhcyBub3QgZm9ybWF0dGVkIGNvcnJlY3RseScsCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoYWN0aW9ucy5pbXBvcnQuZmFpbHVyZSgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpY3Rpb25hcnk6IHsKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyKGVycm9yKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY3N2OiB7CiAgICAgICAgZm9ybWF0OiAnVGhlIGNzdiBmaWxlIHByb3ZpZGVkIHdhcyBub3QgZm9ybWF0dGVkIGNvcnJlY3RseScsCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoYWN0aW9ucy5pbXBvcnQuZmFpbHVyZSgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBUElcPg==</last-search>
+      <last-search>push</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBUElcPg==</last-pattern>
+      <last-pattern>push</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Sett</entry>
         <entry>Serv</entry>
         <entry>ctx)</entry>
         <entry>service</entry>
@@ -710,6 +708,7 @@
         <entry encoding="base64">XDxBcGlcPg==</entry>
         <entry>API</entry>
         <entry encoding="base64">XDxBUElcPg==</entry>
+        <entry>push</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
