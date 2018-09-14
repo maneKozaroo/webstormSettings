@@ -97,11 +97,12 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1536629693436">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1536908297421">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="531" column="0" />
-        <mark key="]" line="531" column="0" />
-        <mark key="." line="531" column="0" />
+        <mark key="[" line="535" column="2" />
+        <mark key="]" line="536" column="0" />
+        <mark key="." line="536" column="0" />
+        <mark key="^" line="536" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1536897139117">
         <mark key="'" line="189" column="22" />
