@@ -497,11 +497,11 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1536880896359">
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="13" />
-        <mark key="^" line="36" column="43" />
-        <mark key="." line="36" column="13" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1536913811986">
+        <mark key="[" line="94" column="34" />
+        <mark key="]" line="94" column="34" />
+        <mark key="^" line="94" column="34" />
+        <mark key="." line="94" column="34" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" timestamp="1536624383663">
         <mark key="'" line="13" column="47" />
@@ -634,11 +634,11 @@
       <jump line="8" column="31" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/statistic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBvcGVyYXRvckNhbGw6ICfjgqrjg5rjg6zjg7zjgr/lkbzlh7onLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEFORCAic3VydmV5IiBJUyBudWxsIEFORCAib3BlcmF0b3IiIElTIG51bGwg</text>
       </register>
       <register name="-" type="4">
-        <text>noAnswerQuestions</text>
+        <text encoding="base64">IEFORCAic3VydmV5IiBJUyBudWxsIEFORCAib3BlcmF0b3IiIElTIG51bGwg</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
