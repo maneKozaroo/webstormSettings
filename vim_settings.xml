@@ -296,12 +296,12 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/index.js" timestamp="1536882991129">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/index.js" timestamp="1536884977467">
         <mark key="'" line="139" column="51" />
-        <mark key="[" line="470" column="42" />
-        <mark key="]" line="471" column="49" />
-        <mark key="^" line="471" column="49" />
-        <mark key="." line="471" column="49" />
+        <mark key="[" line="520" column="0" />
+        <mark key="]" line="520" column="0" />
+        <mark key="^" line="519" column="5" />
+        <mark key="." line="520" column="0" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/pqpas.ts" timestamp="1536624366361">
         <mark key="'" line="16" column="19" />
@@ -400,6 +400,13 @@
         <mark key="." line="113" column="38" />
         <mark key="^" line="113" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" timestamp="1536885883572">
+        <mark key="'" line="408" column="0" />
+        <mark key="[" line="437" column="6" />
+        <mark key="]" line="437" column="7" />
+        <mark key="." line="437" column="7" />
+        <mark key="^" line="466" column="19" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/faqs.ts" timestamp="1536624457567">
         <mark key="'" line="2" column="12" />
         <mark key="[" line="20" column="16" />
@@ -465,42 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/faqs/index.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/index.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/index.ts" />
-      <jump line="39" column="22" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="17" column="6" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="46" column="34" filename="$USER_HOME$/src/experiments/mbcsl-api/src/config/index.ts" />
-      <jump line="17" column="8" filename="$USER_HOME$/src/experiments/mbcsl-api/src/config/index.ts" />
-      <jump line="64" column="8" filename="$USER_HOME$/src/experiments/mbcsl-api/src/config/index.ts" />
-      <jump line="44" column="9" filename="$USER_HOME$/src/experiments/mbcsl-api/src/config/index.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/config/index.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/config/index.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="18" column="6" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="38" column="10" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="22" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="49" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="64" column="24" filename="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/server.ts" />
-      <jump line="5" column="31" filename="$USER_HOME$/src/experiments/mbcsl-api/src/server.ts" />
-      <jump line="53" column="18" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="30" column="34" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" />
-      <jump line="342" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
-      <jump line="346" column="34" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
-      <jump line="404" column="39" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
-      <jump line="523" column="50" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
-      <jump line="528" column="40" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" />
-      <jump line="2" column="13" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/pqpas.ts" />
-      <jump line="34" column="22" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/pqpas.ts" />
-      <jump line="4" column="13" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/pqpas.ts" />
-      <jump line="8" column="19" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/pqpas.ts" />
-      <jump line="12" column="19" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/pqpas.ts" />
-      <jump line="16" column="19" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/pqpas.ts" />
-      <jump line="16" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" />
-      <jump line="13" column="47" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" />
       <jump line="35" column="0" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" />
       <jump line="2" column="20" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" />
       <jump line="4" column="22" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" />
@@ -565,46 +536,82 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="139" column="51" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="30" column="17" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="92" column="6" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="155" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="173" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="192" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="212" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="247" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="233" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="277" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="255" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="301" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="278" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="326" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="302" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="352" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="327" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="378" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="353" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="407" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="380" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="436" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="408" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">NTU0NTcxUmVjaXBpZW50YWRkcmVzc3JlamVjdGVkQWNjZXNzZGVuaWVk44Ko44Op44O8MgnjgIw1NTQuNS43LjEgPD46UmVjaXBpZW50IGFkZHJlc3MgcmVqZWN0ZWQ6QWNjZXNzIGRlbmllZOOAjeOBqOOBhOOBhuOCqOODqeODvAo=</text>
+        <text encoding="base64">IldvcmQzOSIJIlN5bm9ueW0yOSIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>valida</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJkZXBsb3k6c3RhZ2luZyI6ICJucG0gcnVuIGRlcGxveSAtLXRhcmdldHMgdHJpYWwscWEiLAo=</text>
+        <text encoding="base64">IldvcmQzOSIJIlN5bm9ueW0yOSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NTU0NTcxUmVjaXBpZW50YWRkcmVzc3JlamVjdGVkQWNjZXNzZGVuaWVk44Ko44Op44O8MgnjgIw1NTQuNS43LjEgPD46UmVjaXBpZW50IGFkZHJlc3MgcmVqZWN0ZWQ6QWNjZXNzIGRlbmllZOOAjeOBqOOBhOOBhuOCqOODqeODvAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAubWF0Y2hlcygKICAgICAgICApCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC9eWy1cd1xkXHUzMDAxLVx1MzAzZlx1MzA0MC1cdTMwOWZcdTMwYTAtXHUzMGZmXHVmZjAwLVx1ZmY5Zlx1NGUwMC1cdTlmYWZcdTM0MDAtXHU0ZGJmXSokLywKICAgICAgICAgICdpbnZhbGlkX2NoYXJhY3RlcnMnCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAubWF0Y2hlcygKICAgICAgICAgIC9eWy1cd1xkXHUzMDAxLVx1MzAzZlx1MzA0MC1cdTMwOWZcdTMwYTAtXHUzMGZmXHVmZjAwLVx1ZmY5Zlx1NGUwMC1cdTlmYWZcdTM0MDAtXHU0ZGJmXSokLywKICAgICAgICAgICdpbnZhbGlkX2NoYXJhY3RlcnMnCiAgICAgICAgKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">IldvcmQ3IgkiU3lub255bTEiCiJXb3JkNyIJIlN5bm9ueW0yIgoiV29yZDciCSJTeW5vbnltMyIKIldvcmQ3IgkiU3lub255bTQiCiJXb3JkNyIJIlN5bm9ueW02Igo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IldvcmQKIldvcmQyIgkiU3lub255bTEiCiJXb3JkMiIJIlN5bm9ueW0yIgoiV29yZDMiCSJTeW5vbnltMSIKIldvcmQzIgkiU3lub255bTIiCiJXb3JkMyIJIlN5bm9ueW0zIgoiV29yZDQiCSJTeW5vbnltMSIKIldvcmQ0IgkiU3lub255bTIiCiJXb3JkNCIJIlN5bm9ueW0zIgoiV29yZDQiCSJTeW5vbnltNCIKIldvcmQ1IgkiU3lub255bTEiCiJXb3JkNSIJIlN5bm9ueW0yIgoiV29yZDUiCSJTeW5vbnltMyIKIldvcmQ1IgkiU3lub255bTQiCiJXb3JkNSIJIlN5bm9ueW01IgoiV29yZDEiCSJTeW5vbnltMSIKIldvcmQyIgkiU3lub255bTEiCiJXb3JkMiIJIlN5bm9ueW0yIgoiV29yZDMiCSJTeW5vbnltMSIKIldvcmQzIgkiU3lub255bTIiCiJXb3JkMyIJIlN5bm9ueW0zIgoiV29yZDQiCSJTeW5vbnltMSIKIldvcmQ0IgkiU3lub255bTIiCiJXb3JkNCIJIlN5bm9ueW0zIgoiV29yZDQiCSJTeW5vbnltNCIKIldvcmQ1IgkiU3lub255bTEiCiJXb3JkNSIJIlN5bm9ueW0yIgoiV29yZDUiCSJTeW5vbnltMyIKIldvcmQ1IgkiU3lub255bTQiCiJXb3JkNSIJIlN5bm9ueW01IgoiV29yZDEiCSJTeW5vbnltMSIKIldvcmQyIgkiU3lub255bTEiCiJXb3JkMiIJIlN5bm9ueW0yIgoiV29yZDMiCSJTeW5vbnltMSIKIldvcmQzIgkiU3lub255bTIiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgeyBiZXR3ZWVuIH0gPSBEYXRhYmFzZS5zZXF1ZWxpemUuT3AK</text>
+        <text encoding="base64">IldvcmQzIgkiU3lub255bTMiCiJXb3JkNCIJIlN5bm9ueW0xIgoiV29yZDQiCSJTeW5vbnltMiIKIldvcmQ0IgkiU3lub255bTMiCiJXb3JkNCIJIlN5bm9ueW00IgoiV29yZDUiCSJTeW5vbnltMSIKIldvcmQ1IgkiU3lub255bTIiCiJXb3JkNSIJIlN5bm9ueW0zIgoiV29yZDUiCSJTeW5vbnltNCIKIldvcmQ1IgkiU3lub255bTUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgc3RhdGlzdGljcwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">NTU0NTcxUmVjaXBpZW50YWRkcmVzc3JlamVjdGVkQWNjZXNzZGVuaWVk44Ko44Op44O8MgnjgIw1NTQuNS43LjEgPD46UmVjaXBpZW50IGFkZHJlc3MgcmVqZWN0ZWQ6QWNjZXNzIGRlbmllZOOAjeOBqOOBhOOBhuOCqOODqeODvAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
