@@ -30,12 +30,12 @@
         <mark key="^" line="99" column="30" />
         <mark key="." line="99" column="30" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1537243478890">
-        <mark key="'" line="3" column="7" />
-        <mark key="[" line="212" column="19" />
-        <mark key="]" line="213" column="38" />
-        <mark key="^" line="213" column="38" />
-        <mark key="." line="213" column="38" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1537244757188">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Row.vue" timestamp="1537234109466">
         <mark key="[" line="28" column="21" />
@@ -43,12 +43,18 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1536897139117">
-        <mark key="'" line="189" column="22" />
-        <mark key="[" line="671" column="0" />
-        <mark key="]" line="671" column="0" />
-        <mark key="^" line="540" column="3" />
-        <mark key="." line="671" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1537244316910">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="163" column="33" />
+        <mark key="]" line="163" column="58" />
+        <mark key="." line="148" column="50" />
+        <mark key="^" line="148" column="50" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1537244913154">
+        <mark key="[" line="137" column="32" />
+        <mark key="]" line="138" column="30" />
+        <mark key="^" line="138" column="30" />
+        <mark key="." line="138" column="30" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" timestamp="1536623955309">
         <mark key="'" line="16" column="22" />
@@ -500,6 +506,13 @@
         <mark key="." line="13" column="96" />
         <mark key="^" line="13" column="96" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/sagas.js" timestamp="1536910444684">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="54" column="47" />
+        <mark key="." line="54" column="47" />
+        <mark key="^" line="54" column="47" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/faqs.ts" timestamp="1536624457567">
         <mark key="'" line="2" column="12" />
         <mark key="[" line="20" column="16" />
@@ -565,8 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="23" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/settings.ts" />
-      <jump line="16" column="23" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/settings.ts" />
       <jump line="20" column="23" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/settings.ts" />
       <jump line="4" column="26" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/simulations.ts" />
       <jump line="8" column="26" filename="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/simulations.ts" />
@@ -665,46 +676,48 @@
       <jump line="91" column="13" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/account/Form.vue" />
       <jump line="23" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" />
       <jump line="13" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/ListTile.vue" />
+      <jump line="106" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BvbnNlCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>second</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBwcm9wczogewogICAgYWNjb3VudDogewogICAgICB0eXBlOiBPYmplY3QsCiAgICAgIHJlcXVpcmVkOiB0cnVlLAogICAgfSwKICB9LA==</text>
+        <text>replace(/[\t\r\n]/g, ' '),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BvbnNlCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgfSwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgbW9kZWw6IERhdGFiYXNlLmNvbm5lY3Rpb24sCiAgICAgICAgaW5jbHVkZTogWwogICAgICAgICAgewogICAgICAgICAgICBtb2RlbDogRGF0YWJhc2UucHJvdmlkZXIsCiAgICAgICAgICB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIERhdGFiYXNlLmxlYXJuaW5nU3RhdHVzLAogICAgICBEYXRhYmFzZS5yZWxlYXNlU3RhdHVzLAogICAgICBEYXRhYmFzZS5sYW5ndWFnZSwKICAgICAgewogICAgICAgIG1vZGVsOiBEYXRhYmFzZS5mYXEsCiAgICAgICAgc2VwYXJhdGU6IHRydWUsCiAgICAgICAgaW5jbHVkZTogWwogICAgICAgICAgewogICAgICAgICAgICBtb2RlbDogRGF0YWJhc2UuZmFxRXhhbXBsZSwKICAgICAgICAgICAgc2VwYXJhdGU6IHRydWUsCiAgICAgICAgICB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBtb2RlbDogRGF0YWJhc2UuZGljdGlvbmFyeSwKICAgICAgICBzZXBhcmF0ZTogdHJ1ZSwKICAgICAgICBpbmNsdWRlOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIG1vZGVsOiBEYXRhYmFzZS5kaWN0aW9uYXJ5U3lub255bSwKICAgICAgICAgICAgc2VwYXJhdGU6IHRydWUsCiAgICAgICAgICB9LAogICAgICAgIF0sCj4+Pj4+Pj4gbWFzdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgICAgIGVycm9yLmFjdGlvbiA9ICdjYW5kaWRhdGUnCiAgICAgICAgICAgIGVycm9yLm1vZHVsZSA9ICdwcXBhJwogICAgICAgICAgICBhd2FpdCBBSUVycm9yKHsgc2VydmljZSwgZXJyb3IgfSkuc2F2ZSgpCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICBdLAogICAgICAgIH0sCiAgICAgICAgRGF0YWJhc2UubGVhcm5pbmdTdGF0dXMsCiAgICAgICAgRGF0YWJhc2UubGFuZ3VhZ2UsCiAgICAgICAgewogICAgICAgICAgbW9kZWw6IERhdGFiYXNlLmZhcSwKICAgICAgICAgIHNlcGFyYXRlOiB0cnVlLAogICAgICAgICAgaW5jbHVkZTogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgbW9kZWw6IERhdGFiYXNlLmZhcUV4YW1wbGUsCiAgICAgICAgICAgICAgc2VwYXJhdGU6IHRydWUsCiAgICAgICAgICAgIH0sCiAgICAgICAgICBdLAogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgbW9kZWw6IERhdGFiYXNlLmRpY3Rpb25hcnksCiAgICAgICAgICBzZXBhcmF0ZTogdHJ1ZSwKICAgICAgICAgIGluY2x1ZGU6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgIG1vZGVsOiBEYXRhYmFzZS5kaWN0aW9uYXJ5U3lub255bSwKICAgICAgICAgICAgICBzZXBhcmF0ZTogdHJ1ZSwKICAgICAgICAgICAgfSwKICAgICAgICAgIF0sCiAgICAgICAgfSwKICAgICAgXSwKICAgICAgd2hlcmU6IHsKICAgICAgICBwcm9kdWN0aW9uU2VydmljZUlkLAo9PT09PT09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kc3RvcmUuZGlzcGF0Y2goJ3RyYW5zYWN0aW9uL3JlYWQnLCB7IHRyYW5zYWN0aW9uIH0pOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZWRpdDogJW8nLCB0cmFuc2FjdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaW50ZW50cyA9IGF3YWl0IFByb21pc2UuYWxsKAogICAgICAgIHF1ZXN0aW9ucy5tYXAocXVlc3Rpb24gPT4KICAgICAgICAgIGFpLm1lc3NhZ2UoeyB0ZXh0OiBxdWVzdGlvbi5xdWVzdGlvbiwgYWx0ZXJuYXRlX2ludGVudHM6IHRydWUgfSkKICAgICAgICApCiAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnRzID0gYXdhaXQgUHJvbWlzZS5hbGwoCiAgICAgICAgICBxdWVzdGlvbnMubWFwKGFzeW5jIHF1ZXN0aW9uID0+IHsKICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBuZXcgQVBJKCkKICAgICAgICAgICAgICAuY29ubmVjdFRvKHsKICAgICAgICAgICAgICAgIHByb3ZpZGVyOiBzZXJ2aWNlLmNvbm5lY3Rpb24ucHJvdmlkZXIubmFtZSwKICAgICAgICAgICAgICAgIGlkZW50aWZpZXI6IHNlcnZpY2UuY29ubmVjdGlvbi5pZGVudGlmaWVyLAogICAgICAgICAgICAgICAgc2VjcmV0OiBzZXJ2aWNlLmNvbm5lY3Rpb24uc2VjcmV0LAogICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgLmdldE1lc3NhZ2UoewogICAgICAgICAgICAgICAgcmVtb3RlQ29udGFpbmVySWQ6IHNlcnZpY2UucHJvdmlkZXJSZW1vdGVJZCwKICAgICAgICAgICAgICAgIHRleHQ6IHF1ZXN0aW9uLnF1ZXN0aW9uLnJlcGxhY2UoL1tcdFxyXG5dL2csICcgJyksCiAgICAgICAgICAgICAgICBhbHRlcm5hdGVfaW50ZW50czogdHJ1ZSwKICAgICAgICAgICAgICB9KQogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UKICAgICAgICAgIH0pCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
