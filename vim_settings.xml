@@ -53,10 +53,11 @@
         <mark key="." line="426" column="66" />
         <mark key="^" line="426" column="66" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1537258286836">
-        <mark key="[" line="599" column="0" />
-        <mark key="]" line="599" column="0" />
-        <mark key="." line="599" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1537259094680">
+        <mark key="[" line="189" column="6" />
+        <mark key="]" line="192" column="78" />
+        <mark key="." line="192" column="78" />
+        <mark key="^" line="192" column="78" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" timestamp="1536623955309">
         <mark key="'" line="16" column="22" />
@@ -443,12 +444,12 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1537251990377">
-        <mark key="'" line="31" column="34" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="39" column="65" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="33" column="7" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1537259451349">
+        <mark key="'" line="32" column="34" />
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="45" column="50" />
+        <mark key="^" line="45" column="50" />
+        <mark key="." line="45" column="50" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/productionServices/index.js" timestamp="1536538205198">
         <mark key="'" line="22" column="17" />
@@ -516,11 +517,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1537255027104">
-        <mark key="[" line="73" column="7" />
-        <mark key="]" line="74" column="41" />
-        <mark key="." line="74" column="41" />
-        <mark key="^" line="74" column="41" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1537259214345">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="187" column="6" />
+        <mark key="." line="187" column="0" />
+        <mark key="^" line="72" column="41" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/batch/batch.js" timestamp="1537248152075">
         <mark key="[" line="35" column="94" />
@@ -707,44 +708,44 @@
       <jump line="78" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/dictionary/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>second</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoCiAgICAgICAgICB1aUFjdGlvbnMuZW5xdWV1ZU5vdGlmaWNhdGlvbih7CiAgICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICAgIG1lc3NhZ2U6IGBub3RpZmljYXRpb25zOmVycm9yLnNlcnZpY2Uubm9uRXhpc3RhbnRgLAogICAgICAgICAgfSkKICAgICAgICApCiAgICAgICAgeWllbGQgcHV0KHB1c2goJy8nKSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGVycm9yLnJlc3BvbnNlLnN0YXR1cyA9PT0gNDA0KSB7CiAgICAgICAgeWllbGQgcHV0KAogICAgICAgICAgdWlBY3Rpb25zLmVucXVldWVOb3RpZmljYXRpb24oewogICAgICAgICAgICB0eXBlOiAnZXJyb3InLAogICAgICAgICAgICBtZXNzYWdlOiAnbm90aWZpY2F0aW9uczplcnJvci5zZXJ2aWNlLm5vbkV4aXN0YW50JywKICAgICAgICAgIH0pCiAgICAgICAgKQogICAgICAgIHlpZWxkIHB1dChwdXNoKCcvJykpCiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VJZCA9IHlpZWxkIHNlbGVjdChzdG9yZSA9PiBzdG9yZS5zZXJ2aWNlLmdldCgnYWN0aXZlJykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN0eC50aHJvdyg0MDQsIHsgcGF0aDogJ3Byb2R1Y3Rpb25TZXJ2aWNlLm5vdGlmaWNhdGlvbi5lcnJvci5ub3RGb3VuZCcgfSkK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VydmljZUlkID0geWllbGQgc2VsZWN0KHN0b3JlID0+IHN0b3JlLnNlcnZpY2UuZ2V0KCdhY3RpdmUnKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBrCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgewogICAgICAgIHJlc3BvbnNlOiB7CiAgICAgICAgICBkYXRhOiB7IG1lc3NhZ2UsIHBhcmFtcyB9LAogICAgICAgIH0sCiAgICAgIH0gPSBlcnJvcgogICAgICB5aWVsZCBwdXQoCiAgICAgICAgdWlBY3Rpb25zLmVucXVldWVOb3RpZmljYXRpb24oewogICAgICAgICAgdHlwZTogJ2Vycm9yJywKICAgICAgICAgIG1lc3NhZ2UsCiAgICAgICAgICBwYXJhbXMsCiAgICAgICAgfSkKICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNhY3Rpb24sCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGVycm9yLnJlc3BvbnNlLnN0YXR1cyA9PT0gNDA0KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIoZXJyb3IpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
