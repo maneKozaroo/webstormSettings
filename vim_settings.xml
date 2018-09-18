@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/utils/ssoCookie/index.js" timestamp="1537246940195" />
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/index.ts" timestamp="1536538677230">
         <mark key="'" line="18" column="24" />
         <mark key="[" line="18" column="49" />
@@ -31,11 +32,7 @@
         <mark key="." line="99" column="30" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1537244757188">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
+        <mark key="'" line="120" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Row.vue" timestamp="1537234109466">
         <mark key="[" line="28" column="21" />
@@ -49,12 +46,6 @@
         <mark key="]" line="163" column="58" />
         <mark key="." line="148" column="50" />
         <mark key="^" line="148" column="50" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1537244913154">
-        <mark key="[" line="137" column="32" />
-        <mark key="]" line="138" column="30" />
-        <mark key="^" line="138" column="30" />
-        <mark key="." line="138" column="30" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" timestamp="1536623955309">
         <mark key="'" line="16" column="22" />
@@ -188,6 +179,7 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/faq.js" timestamp="1536905534221" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/List/index.js" timestamp="1536903026637">
         <mark key="[" line="103" column="68" />
         <mark key="]" line="103" column="70" />
