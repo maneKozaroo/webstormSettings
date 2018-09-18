@@ -40,10 +40,10 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1537244316910">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1537248143198">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="163" column="33" />
-        <mark key="]" line="163" column="58" />
+        <mark key="[" line="319" column="31" />
+        <mark key="]" line="319" column="57" />
         <mark key="." line="148" column="50" />
         <mark key="^" line="148" column="50" />
       </file>
@@ -486,11 +486,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/batch/batch.js" timestamp="1536641834156">
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="29" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/batch/batch.js" timestamp="1537248152075">
+        <mark key="[" line="35" column="94" />
+        <mark key="]" line="35" column="95" />
+        <mark key="." line="35" column="95" />
+        <mark key="^" line="35" column="75" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1537230696357">
         <mark key="[" line="13" column="74" />
@@ -672,17 +672,17 @@
       <jump line="111" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LnJlcGxhY2Ug</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">LnJlcGxhY2Ug</text>
       </register>
       <register name="/" type="4">
         <text>second</text>
       </register>
       <register name="0" type="4">
-        <text>replace(/[\t\r\n]/g, ' '),</text>
+        <text>.replace(/[\t\r\n]/g, ' '),</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
