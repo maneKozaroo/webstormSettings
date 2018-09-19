@@ -241,18 +241,24 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1537335340266">
-        <mark key="'" line="5" column="78" />
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="23" column="12" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1537336851573">
+        <mark key="[" line="97" column="11" />
+        <mark key="]" line="97" column="11" />
+        <mark key="." line="97" column="11" />
+        <mark key="^" line="97" column="22" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/ListTile.vue" timestamp="1537322220134">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="54" />
         <mark key="." line="20" column="54" />
         <mark key="^" line="20" column="54" />
+      </file>
+      <file name="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.17.05.csv" timestamp="1537337842396">
+        <mark key="'" line="24" column="71" />
+        <mark key="[" line="1" column="395" />
+        <mark key="]" line="1" column="394" />
+        <mark key="^" line="1" column="394" />
+        <mark key="." line="1" column="394" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1537318103474">
         <mark key="[" line="23" column="3976" />
@@ -290,6 +296,12 @@
         <mark key="]" line="13" column="41" />
         <mark key="." line="13" column="45" />
         <mark key="^" line="5" column="55" />
+      </file>
+      <file name="$USER_HOME$/Downloads/local-test-statistics-noanswers-2018.09.19-15.19.54.csv" timestamp="1537338003563">
+        <mark key="[" line="1" column="4006" />
+        <mark key="]" line="1" column="4005" />
+        <mark key="^" line="1" column="4005" />
+        <mark key="." line="1" column="4005" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" timestamp="1536904185722">
         <mark key="'" line="533" column="40" />
@@ -347,11 +359,11 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Statistics/StatisticDetails.js" timestamp="1536912132306">
-        <mark key="[" line="245" column="28" />
-        <mark key="]" line="245" column="33" />
-        <mark key="." line="245" column="33" />
-        <mark key="^" line="245" column="33" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Statistics/StatisticDetails.js" timestamp="1537338232512">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+        <mark key="^" line="156" column="19" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" timestamp="1536624688272">
         <mark key="[" line="13" column="31" />
@@ -470,6 +482,13 @@
         <mark key="]" line="255" column="49" />
         <mark key="." line="255" column="49" />
         <mark key="^" line="255" column="54" />
+      </file>
+      <file name="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" timestamp="1537337424135">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="1" column="395" />
+        <mark key="]" line="1" column="394" />
+        <mark key="^" line="1" column="394" />
+        <mark key="." line="1" column="394" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/statistics.ts" timestamp="1536624853846">
         <mark key="'" line="16" column="25" />
@@ -606,11 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="18" filename="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/statistics/index.ts" />
-      <jump line="278" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" />
-      <jump line="88" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
-      <jump line="42" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
       <jump line="84" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
       <jump line="51" column="42" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/reducer.js" />
       <jump line="70" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/reducer.js" />
@@ -706,46 +720,51 @@
       <jump line="55" column="53" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="84" column="41" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="15" column="78" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
+      <jump line="25" column="701" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
+      <jump line="1" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
+      <jump line="50" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
+      <jump line="24" column="71" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.17.05.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogRGF0YWJhc2Uuc2VxdWVsaXplLlF1ZXJ5VHlwZXMuU0VMRUNULAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHR5cGUgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>answers</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgaWYgKGVycm9yLnJlc3BvbnNlLnN0YXR1cyA9PT0gNDA0KSB7CiAgICAgICAgeWllbGQgcHV0KAogICAgICAgICAgdWlBY3Rpb25zLmVucXVldWVOb3RpZmljYXRpb24oewogICAgICAgICAgICB0eXBlOiAnZXJyb3InLAogICAgICAgICAgICBtZXNzYWdlOiAnbm90aWZpY2F0aW9uczplcnJvci5zZXJ2aWNlLm5vbkV4aXN0YW50JywKICAgICAgICAgIH0pCiAgICAgICAgKQogICAgICAgIHlpZWxkIHB1dChwdXNoKCcvJykpCiAgICAgIH0KICAgICAgbG9nZ2VyKGVycm9yKQ==</text>
+        <text>Database.sequelize.query(queries('questions'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogRGF0YWJhc2Uuc2VxdWVsaXplLlF1ZXJ5VHlwZXMuU0VMRUNULAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHR5cGUgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVwbGFjZW1lbnRzOiB7CiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRvbWFpbklkLAogICAgICAgICAgcm9vbUlkLAogICAgICAgICAgZGF0ZVRpbWUsCiAgICAgICAgICB1c2VySW5wdXQsCiAgICAgICAgICBhbnN3ZXIsCiAgICAgICAgICBvcGVyYXRvciwKICAgICAgICAgIG5vdEZvdW5kLAogICAgICAgICAgZmluYWwsCiAgICAgICAgICBzdXJ2ZXksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb21haW5JZCwKICAgICAgICBmcm9tRGF0ZVRpbWUsCiAgICAgICAgdG9EYXRlVGltZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb21haW5JZDogZGV0YWlsLmRvbWFpbklkLAogICAgICAgIHJvb21JZDogZGV0YWlsLnJvb21JZCwKICAgICAgICBkYXRlVGltZTogZGV0YWlsLmRhdGVUaW1lLAogICAgICAgIHVzZXJJbnB1dDogZGV0YWlsLnVzZXJJbnB1dCwKICAgICAgICBhbnN3ZXI6IGRldGFpbC5hbnN3ZXIsCiAgICAgICAgb3BlcmF0b3I6IGRldGFpbC5vcGVyYXRvciwKICAgICAgICBub3RGb3VuZDogZGV0YWlsLm5vdEZvdW5kLAogICAgICAgIGZpbmFsOiBkZXRhaWwuZmluYWwsCiAgICAgICAgc3VydmV5OiBkZXRhaWwuc3VydmV5LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kaXRpb25zOiAnQU5EICJzdXJ2ZXkiIElTIHRydWUnLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHR5cGVzID0gewogICAgICB0eXBlLAogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA6Y29uZGl0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWNjdW11bGF0b3IKICAgICAgfSwgW10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHN0YXRpc3RpY3MgPSBhd2FpdCBEYXRhYmFzZS5ib3RMb2cuZmluZEFsbCh7CiAgICAvLyAgIHdoZXJlOiBjb25kaXRpb25zLAogICAgLy8gICBvcmRlcjogW1snZGF0ZVRpbWUnLCAnQVNDJ11dLAogICAgLy8gfSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcmFxUXVlcnkgPSBgYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJhd1F1ZXJ5ID0gYFNFTEVDVCAqIEZST00gImJvdExvZ3MiIHQxIFdIRVJFICJib3RMb2dJZCIgSU4gKCBTRUxFQ1QgTUFYKCJib3RMb2dJZCIpIEZST00gImJvdExvZ3MiIHQyIFdIRVJFIHQyLiJ1c2VySW5wdXQiID0gdDEuInVzZXJJbnB1dCIgQU5EIHQyLiJyb29tSWQiID0gdDEuInJvb21JZCIgQU5EICJkb21haW5JZCIgPSAnJHtkb21haW5JZH0nIEFORCAiZGF0ZVRpbWUiIEJFVFdFRU4gJyR7ZnJvbURhdGVUaW1lLnRvSVNPU3RyaW5nKCl9JyBBTkQgJyR7dG9EYXRlVGltZS50b0lTT1N0cmluZygpfScgKSBPUkRFUiBCWSAiZGF0ZVRpbWUiIERFU0M7YAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJhd1F1ZXJ5ID0gYFNFTEVDVCAqIEZST00gImJvdExvZ3MiIHQxIFdIRVJFICJib3RMb2dJZCIgSU4gKCBTRUxFQ1QgTUFYKCJib3RMb2dJZCIpIEZST00gImJvdExvZ3MiIHQyIFdIRVJFIHQyLiJ1c2VySW5wdXQiID0gdDEuInVzZXJJbnB1dCIgQU5EIHQyLiJyb29tSWQiID0gdDEuInJvb21JZCIgQU5EICJkb21haW5JZCIgPSAnJHtkb21haW5JZH0nIEFORCAiZGF0ZVRpbWUiIEJFVFdFRU4gJyR7ZnJvbURhdGVUaW1lLnRvSVNPU3RyaW5nKCl9JyBBTkQgJyR7dG9EYXRlVGltZS50b0lTT1N0cmluZygpfScgJHtjb25kaXRpb25zfSApIE9SREVSIEJZICJkYXRlVGltZSIgREVTQztgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
