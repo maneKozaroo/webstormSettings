@@ -3,987 +3,822 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/containers/Settings/index.js" timestamp="1534825016761">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/index.ts" timestamp="1536538677230">
+        <mark key="'" line="18" column="24" />
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="53" />
+        <mark key="^" line="18" column="37" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/index.js" timestamp="1535499873998">
-        <mark key="'" line="19" column="11" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" timestamp="1537256344907">
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
+        <mark key="^" line="155" column="17" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1535679471517">
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/service.js" timestamp="1536904222668">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/simulations/index.js" timestamp="1536537898821">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="10" column="10" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/account/Form.vue" timestamp="1537322416437">
+        <mark key="'" line="91" column="13" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="37" />
+        <mark key="^" line="99" column="30" />
+        <mark key="." line="99" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1537244757188">
+        <mark key="'" line="120" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1537318106502">
+        <mark key="[" line="21" column="3980" />
+        <mark key="]" line="21" column="3980" />
+        <mark key="^" line="21" column="3980" />
+        <mark key="." line="21" column="3980" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Row.vue" timestamp="1537234109466">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1537257188426">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="173" column="21" />
-        <mark key="]" line="174" column="30" />
-        <mark key="." line="174" column="30" />
-        <mark key="^" line="174" column="30" />
+        <mark key="[" line="423" column="4" />
+        <mark key="]" line="426" column="66" />
+        <mark key="." line="426" column="66" />
+        <mark key="^" line="426" column="66" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/_init.js" timestamp="1535328876761">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1537312888039">
+        <mark key="[" line="437" column="0" />
+        <mark key="]" line="437" column="0" />
+        <mark key="^" line="435" column="3" />
+        <mark key="." line="437" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledgers/Destroy.vue" timestamp="1534290742641">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" timestamp="1536623955309">
+        <mark key="'" line="16" column="22" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Downloads/mobiconsole-180814-154945-76eaffe4476f.json" timestamp="1534229799963">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="18" />
+      <file name="$USER_HOME$/Downloads/富士通エンティティ元ネタ.csv" timestamp="1536882920883">
+        <mark key="[" line="3184" column="0" />
+        <mark key="]" line="3184" column="0" />
+        <mark key="." line="3184" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/main.js" timestamp="1535327033224">
-        <mark key="[" line="8" column="30" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/statistic.js" timestamp="1536912709002">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/account/Destroy.vue" timestamp="1537233159537">
+        <mark key="[" line="14" column="68" />
+        <mark key="]" line="14" column="78" />
+        <mark key="." line="14" column="78" />
+        <mark key="^" line="14" column="78" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/config/index.ts" timestamp="1536625974767">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="13" />
+        <mark key="." line="29" column="13" />
+        <mark key="^" line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/notifications.js" timestamp="1536905484246">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1537326051553">
+        <mark key="'" line="84" column="41" />
+        <mark key="[" line="221" column="20" />
+        <mark key="]" line="221" column="28" />
+        <mark key="." line="221" column="28" />
+        <mark key="^" line="221" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.js" timestamp="1536537932619">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/statistics/index.ts" timestamp="1536624892826">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/service.js" timestamp="1536904198403">
+        <mark key="'" line="13" column="3" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/package.json" timestamp="1536815589148">
+        <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1535512306553">
-        <mark key="'" line="46" column="48" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="51" column="33" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" timestamp="1537322937083">
+        <mark key="'" line="10" column="71" />
+        <mark key="[" line="102" column="15" />
+        <mark key="]" line="102" column="15" />
+        <mark key="." line="102" column="15" />
+        <mark key="^" line="110" column="39" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/dialogs/SignOut.vue" timestamp="1534393846494">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/actions.js" timestamp="1537230677313">
+        <mark key="[" line="13" column="98" />
+        <mark key="]" line="13" column="98" />
+        <mark key="." line="13" column="98" />
+        <mark key="^" line="13" column="75" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/List/index.js" timestamp="1535433433457">
-        <mark key="'" line="56" column="28" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="38" column="3" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/FAQs/index.js" timestamp="1536560496092">
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="26" />
+        <mark key="." line="72" column="26" />
+        <mark key="^" line="72" column="26" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/_constants.js" timestamp="1534809284033">
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="28" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" timestamp="1536649862808">
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="37" />
+        <mark key="^" line="86" column="37" />
+        <mark key="." line="86" column="37" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/mutations.js" timestamp="1535585303814">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-        <mark key="^" line="8" column="1" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/index.js" timestamp="1536905587655">
+        <mark key="[" line="263" column="33" />
+        <mark key="]" line="263" column="38" />
+        <mark key="^" line="263" column="38" />
+        <mark key="." line="263" column="38" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/model.js" timestamp="1535326259331">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/public/SignIn.vue" timestamp="1534459276782">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/plugins/vuetify.js" timestamp="1534730122178">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1535677782636">
-        <mark key="'" line="33" column="30" />
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="38" column="76" />
-        <mark key="." line="38" column="76" />
-        <mark key="^" line="38" column="76" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/package.json" timestamp="1535606385298">
-        <mark key="[" line="6" column="80" />
-        <mark key="]" line="6" column="80" />
-        <mark key="." line="6" column="80" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1533623934141">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/seeders/20180508112736-remote-learning-statuses.js" timestamp="1535518428957">
-        <mark key="[" line="55" column="51" />
-        <mark key="]" line="55" column="52" />
-        <mark key="^" line="55" column="52" />
-        <mark key="." line="55" column="52" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1534830911616">
-        <mark key="'" line="362" column="8" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="89" column="10" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="89" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/App.js" timestamp="1534823198544">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="12" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/App.vue" timestamp="1535589871913">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/accounts.js" timestamp="1533600648433">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="4" column="7" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/public/Home.vue" timestamp="1534459212641">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/serverless.dev.yml" timestamp="1535002925915">
-        <mark key="'" line="17" column="10" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/router.ts" timestamp="1534736066149">
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="55" />
-        <mark key="^" line="15" column="55" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/index.js" timestamp="1535498550486">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/index.js" timestamp="1535519545037">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/settings/sagas.js" timestamp="1534485274671">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="27" column="31" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1535679607184">
-        <mark key="'" line="102" column="8" />
-        <mark key="[" line="192" column="8" />
-        <mark key="]" line="195" column="16" />
-        <mark key="^" line="195" column="16" />
-        <mark key="." line="195" column="16" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/index.js" timestamp="1535327734571">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="16" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/layouts/Services.js" timestamp="1534825149229">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180810010720-add_dialogflow_id_to_connections.js" timestamp="1533863531646">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="8" column="59" />
-        <mark key="." line="8" column="59" />
-        <mark key="^" line="8" column="59" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" timestamp="1535673893185">
-        <mark key="[" line="129" column="9" />
-        <mark key="]" line="129" column="14" />
-        <mark key="." line="129" column="14" />
-        <mark key="^" line="129" column="14" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" timestamp="1537358593311">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/containers/Connections/index.js" timestamp="1534824541337">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/actions.js" timestamp="1535585275250">
-        <mark key="'" line="117" column="3" />
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-        <mark key="^" line="42" column="1" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1535703983164">
-        <mark key="'" line="27" column="45" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="121" column="21" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/Form/index.js" timestamp="1533866214886">
-        <mark key="'" line="57" column="12" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="154" column="27" />
-        <mark key="." line="129" column="0" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Destroy.vue" timestamp="1534980812401">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="26" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/firestore/ledgers.js" timestamp="1535329405651">
-        <mark key="'" line="10" column="30" />
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="5" column="47" />
-        <mark key="." line="5" column="47" />
-        <mark key="^" line="5" column="88" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/config.js" timestamp="1535520173686">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Connections/index.vue" timestamp="1534742853102">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/_constants.js" timestamp="1535500502940">
-        <mark key="'" line="4" column="38" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="34" />
-        <mark key="." line="13" column="34" />
-        <mark key="^" line="13" column="34" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Properties/index.js" timestamp="1533624828329">
-        <mark key="[" line="260" column="16" />
-        <mark key="]" line="260" column="18" />
-        <mark key="." line="260" column="18" />
-        <mark key="^" line="260" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/dashboard.vue" timestamp="1534726733943">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/statistic.js" timestamp="1534487757367">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/mutations.js" timestamp="1535585242973">
-        <mark key="'" line="40" column="49" />
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/index.js" timestamp="1534984948476">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Dashboard.vue" timestamp="1534806096289">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Accounts.vue" timestamp="1535677277701">
-        <mark key="^" line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/seeders/20180829051435-add_dialogflow_to_providers.js" timestamp="1535519689467">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" timestamp="1535430372200">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="0" column="67" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" timestamp="1535583897878">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="156" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/.babelrc" timestamp="1534833284819">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="56" />
-        <mark key="." line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/app.js" timestamp="1533253586406">
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/connections/index.ts" timestamp="1536623977492">
+        <mark key="'" line="11" column="72" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-        <mark key="^" line="13" column="17" />
+        <mark key="^" line="13" column="62" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Ledgers.vue" timestamp="1535677803428">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/index.js" timestamp="1536884977467">
+        <mark key="'" line="139" column="51" />
+        <mark key="[" line="520" column="0" />
+        <mark key="]" line="520" column="0" />
+        <mark key="^" line="519" column="5" />
+        <mark key="." line="520" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/index.js" timestamp="1535500190733">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/statistic.js" timestamp="1536912713085">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/_constants.js" timestamp="1535585056948">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/server.ts" timestamp="1536625996996">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/SignOut.vue" timestamp="1534982135356">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="26" />
-        <mark key="^" line="17" column="26" />
-        <mark key="." line="17" column="26" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/App.vue" timestamp="1534726141000">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="6" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/views/index.html" timestamp="1533616611131">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledgers/New.vue" timestamp="1534296899538">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/layouts/Dashboard.js" timestamp="1534826196934">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="11" column="14" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/mutations.js" timestamp="1535585110183">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/router/dashboard.js" timestamp="1534483594010">
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="41" />
-        <mark key="." line="39" column="41" />
-        <mark key="^" line="39" column="41" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.css" timestamp="1534744558199">
-        <mark key="'" line="0" column="10001" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1536821466585">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9997" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/NLC.js" timestamp="1535679564288">
-        <mark key="'" line="182" column="2" />
-        <mark key="[" line="149" column="21" />
-        <mark key="]" line="151" column="16" />
-        <mark key="." line="151" column="16" />
-        <mark key="^" line="151" column="16" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/info/index.ts" timestamp="1536623730789">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="3" column="9" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/ledgers/Form.vue" timestamp="1534377810986">
-        <mark key="'" line="2" column="22" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="10" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/List/index.js" timestamp="1536903026637">
+        <mark key="[" line="103" column="68" />
+        <mark key="]" line="103" column="70" />
+        <mark key="^" line="103" column="70" />
+        <mark key="." line="103" column="70" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.js" timestamp="1534981498423">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/Properties/index.js" timestamp="1537253427152">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Form.vue" timestamp="1535322437846">
-        <mark key="'" line="95" column="14" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="38" column="26" />
+      <file name="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" timestamp="1536885883572">
+        <mark key="'" line="408" column="0" />
+        <mark key="[" line="437" column="6" />
+        <mark key="]" line="437" column="7" />
+        <mark key="." line="437" column="7" />
+        <mark key="^" line="466" column="19" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" timestamp="1535068675263">
-        <mark key="'" line="21" column="50" />
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="8" column="35" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/dictionary/index.js" timestamp="1537257879179">
+        <mark key="'" line="99" column="19" />
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/containers/Services/index.js" timestamp="1534824830393">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Statistics/StatisticCards.js" timestamp="1536912648362">
+        <mark key="[" line="97" column="34" />
+        <mark key="]" line="97" column="42" />
+        <mark key="^" line="97" column="42" />
+        <mark key="." line="97" column="42" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Connections/index.js" timestamp="1534487523077">
-        <mark key="[" line="307" column="58" />
-        <mark key="]" line="307" column="62" />
-        <mark key="^" line="307" column="62" />
-        <mark key="." line="307" column="62" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Card.vue" timestamp="1535667714638">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/.npmrc" timestamp="1534823521186">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" timestamp="1534487493647">
-        <mark key="'" line="382" column="26" />
-        <mark key="[" line="381" column="58" />
-        <mark key="]" line="381" column="62" />
-        <mark key="." line="381" column="62" />
-        <mark key="^" line="381" column="62" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/containers/Services/Service.js" timestamp="1534826544700">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Mobi-Console/4_batch_simulation_5.csv" timestamp="1534314720601">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/connection.js" timestamp="1533866087573">
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="45" column="30" />
-        <mark key="^" line="45" column="30" />
-        <mark key="." line="45" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/index.js" timestamp="1534824649575">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/connection.js" timestamp="1534485380986">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="3" column="33" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/ui.js" timestamp="1533254901578">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="3" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/statistic.js" timestamp="1534487764207">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" timestamp="1537358657351">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1534830980905">
-        <mark key="'" line="225" column="21" />
-        <mark key="[" line="580" column="0" />
-        <mark key="]" line="580" column="0" />
-        <mark key="^" line="581" column="38" />
-        <mark key="." line="580" column="0" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/dialogs/Ledger.vue" timestamp="1534134083492">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="58" />
-        <mark key="." line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180810011401-change_connection_identifier_and_secret_to_text.js" timestamp="1533863759390">
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="53" />
-        <mark key="^" line="14" column="53" />
-        <mark key="." line="14" column="53" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/router.js" timestamp="1535587094128">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="59" column="36" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/Public.vue" timestamp="1535666924958">
-        <mark key="'" line="29" column="26" />
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/common.js" timestamp="1534485232582">
-        <mark key="[" line="4" column="19" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/connections.ts" timestamp="1536625159762">
+        <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/webpack.config.js" timestamp="1534833287459">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="66" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1537336851573">
+        <mark key="[" line="97" column="11" />
+        <mark key="]" line="97" column="11" />
+        <mark key="." line="97" column="11" />
+        <mark key="^" line="97" column="22" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/actions.js" timestamp="1535500858953">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/ListTile.vue" timestamp="1537322220134">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="54" />
+        <mark key="." line="20" column="54" />
+        <mark key="^" line="20" column="54" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Connections/Form.vue" timestamp="1534744738236">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+      <file name="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.17.05.csv" timestamp="1537337842396">
+        <mark key="'" line="24" column="71" />
+        <mark key="[" line="1" column="395" />
+        <mark key="]" line="1" column="394" />
+        <mark key="^" line="1" column="394" />
+        <mark key="." line="1" column="394" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/public/Terms.vue" timestamp="1534459451671">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1537318103474">
+        <mark key="[" line="23" column="3976" />
+        <mark key="]" line="23" column="3976" />
+        <mark key="." line="23" column="3976" />
+        <mark key="^" line="23" column="3976" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/mutations.js" timestamp="1534913171768">
-        <mark key="'" line="6" column="20" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/package.json" timestamp="1536629926010">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/tsconfig.json" timestamp="1536283534117">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/productionServices.ts" timestamp="1536624536032">
+        <mark key="'" line="4" column="27" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/package.json" timestamp="1536283701583">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/productionServices/index.ts" timestamp="1536624582880">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="5" column="55" />
+      </file>
+      <file name="$USER_HOME$/Downloads/local-test-statistics-noanswers-2018.09.19-15.19.54.csv" timestamp="1537338003563">
+        <mark key="[" line="1" column="4006" />
+        <mark key="]" line="1" column="4005" />
+        <mark key="^" line="1" column="4005" />
+        <mark key="." line="1" column="4005" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/index.js" timestamp="1536904185722">
+        <mark key="'" line="533" column="40" />
+        <mark key="[" line="405" column="31" />
+        <mark key="]" line="405" column="38" />
+        <mark key="." line="405" column="38" />
+        <mark key="^" line="405" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/dictionaries/index.ts" timestamp="1536624273037">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="64" />
+        <mark key="." line="13" column="64" />
+        <mark key="^" line="13" column="64" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/simulation/index.js" timestamp="1537253995187">
+        <mark key="[" line="86" column="8" />
+        <mark key="]" line="86" column="19" />
+        <mark key="." line="86" column="19" />
+        <mark key="^" line="86" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/settings.ts" timestamp="1536624658451">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="34" column="9" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/common.js" timestamp="1536903130637">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-admin/tslint.json" timestamp="1536626617963">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1536552397480">
+        <mark key="'" line="102" column="14" />
+        <mark key="[" line="270" column="5" />
+        <mark key="]" line="271" column="4" />
+        <mark key="^" line="271" column="4" />
+        <mark key="." line="271" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180911051402-change_pqpas_from_varchar_to_text.js" timestamp="1536642921021">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/batch/package.json" timestamp="1536641975047">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Statistics/StatisticDetails.js" timestamp="1537338232512">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+        <mark key="^" line="156" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" timestamp="1536624688272">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/info/index.js" timestamp="1536538013050">
+        <mark key="'" line="22" column="3" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="3" column="9" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" timestamp="1537322348566">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/actions.js" timestamp="1537321848315">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/logger/index.js" timestamp="1536628406773">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/common.js" timestamp="1536903048480">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="10" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/actions.js" timestamp="1536272246098">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/actions.js" timestamp="1536555734511">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/reducer.js" timestamp="1536628791530">
+        <mark key="'" line="70" column="19" />
+        <mark key="[" line="73" column="43" />
+        <mark key="]" line="73" column="66" />
+        <mark key="^" line="73" column="66" />
+        <mark key="." line="73" column="66" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/mutations.js" timestamp="1537323054037">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="80" />
+        <mark key="." line="34" column="80" />
+        <mark key="^" line="34" column="80" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/dictionaries.ts" timestamp="1536624200131">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+        <mark key="^" line="34" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/.eslintrc.json" timestamp="1536887055425">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1536813297066">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/dictionary.js" timestamp="1536905565439">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/model.js" timestamp="1537229218751">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/simulations/index.ts" timestamp="1536624785668">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/productionServices/sagas.js" timestamp="1537313068724">
+        <mark key="'" line="42" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/productionServices/index.js" timestamp="1536538205198">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/pqpas.ts" timestamp="1536624366361">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Standard/index.js" timestamp="1536902530143">
+        <mark key="[" line="255" column="48" />
+        <mark key="]" line="255" column="49" />
+        <mark key="." line="255" column="49" />
+        <mark key="^" line="255" column="54" />
+      </file>
+      <file name="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" timestamp="1537337424135">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="1" column="395" />
+        <mark key="]" line="1" column="394" />
+        <mark key="^" line="1" column="394" />
+        <mark key="." line="1" column="394" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/statistics.ts" timestamp="1536624853846">
+        <mark key="'" line="16" column="25" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/router/index.ts" timestamp="1536284918496">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/Dictionary/index.js" timestamp="1536560543141">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="73" column="2" />
+        <mark key="^" line="58" column="26" />
+        <mark key="." line="58" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/faqs/index.ts" timestamp="1536624434674">
+        <mark key="'" line="11" column="47" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/simulations.ts" timestamp="1536624757765">
+        <mark key="'" line="16" column="26" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/index.ts" timestamp="1536624106113">
+        <mark key="'" line="17" column="48" />
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="64" />
+        <mark key="^" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/index.js" timestamp="1536556258623">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" timestamp="1537325988059">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="126" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/batch/batch.js" timestamp="1537248152075">
+        <mark key="[" line="35" column="94" />
+        <mark key="]" line="35" column="95" />
+        <mark key="." line="35" column="95" />
+        <mark key="^" line="35" column="75" />
+      </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1537230696357">
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="13" column="96" />
+        <mark key="." line="13" column="96" />
+        <mark key="^" line="13" column="96" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/sagas.js" timestamp="1537256230282">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="136" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/faqs.ts" timestamp="1536624457567">
+        <mark key="'" line="2" column="12" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/notifications.js" timestamp="1536905489443">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
-        <mark key="^" line="9" column="30" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/getters.js" timestamp="1533601469789">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="1" column="9" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/dictionary.js" timestamp="1536905546447">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Services/index.vue" timestamp="1534742845695">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="18" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Transactions.vue" timestamp="1537321830203">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="9" column="38" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/public/Privacy.vue" timestamp="1534459237718">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/config/index.js" timestamp="1536535694254">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="70" column="63" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/FAQs/List/index.js" timestamp="1535433460817">
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="46" column="47" />
-        <mark key="." line="46" column="47" />
-        <mark key="^" line="46" column="47" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/simulation/sagas.js" timestamp="1536910803479">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="59" column="29" />
+        <mark key="." line="54" column="0" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/plugins/firebase.js" timestamp="1533248938154">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" timestamp="1536624383663">
+        <mark key="'" line="13" column="47" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/dashboard/index.ts" timestamp="1534725800160">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" timestamp="1536888302593">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/simulation/index.js" timestamp="1534314829567">
-        <mark key="'" line="88" column="45" />
-        <mark key="[" line="77" column="17" />
-        <mark key="]" line="77" column="24" />
-        <mark key="." line="77" column="24" />
-        <mark key="^" line="77" column="24" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/info.ts" timestamp="1536623751170">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" timestamp="1535609736467">
-        <mark key="'" line="8" column="51" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="40" />
-        <mark key="^" line="15" column="24" />
-        <mark key="." line="21" column="22" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/_constants.js" timestamp="1535500464569">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="2" column="28" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/model.js" timestamp="1535500113670">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/common.js" timestamp="1534485242756">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/server.js" timestamp="1535507812992">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="24" column="44" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/connection.js" timestamp="1534485378438">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" timestamp="1535342123337">
-        <mark key="'" line="193" column="28" />
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="36" />
-        <mark key="^" line="225" column="24" />
-        <mark key="." line="40" column="36" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180829043453-add_dialogflow_to_providers.js" timestamp="1535517467629">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/src/router/index.js" timestamp="1534825563279">
-        <mark key="'" line="31" column="20" />
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="10" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/getters.js" timestamp="1534913222277">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="1" column="28" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1535680834578">
-        <mark key="'" line="402" column="37" />
-        <mark key="[" line="477" column="29" />
-        <mark key="]" line="477" column="29" />
-        <mark key="." line="477" column="29" />
-        <mark key="^" line="498" column="21" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/index.js" timestamp="1534909767538">
-        <mark key="'" line="19" column="9" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/package.json" timestamp="1534834300780">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
-        <mark key="^" line="25" column="27" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" timestamp="1535585161479">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="42" column="1" />
-        <mark key="^" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1535609310242">
-        <mark key="'" line="13" column="23" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="46" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-react/.gitignore" timestamp="1534822787611">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="125" column="6" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/layouts/Dashboard.vue" timestamp="1534742028605">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="41" />
-        <mark key="^" line="21" column="41" />
-        <mark key="." line="21" column="41" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/serverless.yml" timestamp="1535004697027">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/README.md" timestamp="1533864452739">
-        <mark key="[" line="72" column="76" />
-        <mark key="]" line="72" column="14" />
-        <mark key="^" line="72" column="14" />
-        <mark key="." line="72" column="14" />
-      </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/firebase/auth.js" timestamp="1533600580575">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/containers/Settings/index.vue" timestamp="1534742969371">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/dynamo/index.js" timestamp="1535338674835">
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="45" column="13" />
-        <mark key="." line="45" column="13" />
-        <mark key="^" line="45" column="13" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Dashboard/index.js" timestamp="1534483648809">
-        <mark key="[" line="120" column="25" />
-        <mark key="]" line="120" column="32" />
-        <mark key="." line="120" column="32" />
-        <mark key="^" line="120" column="32" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin-vue/src/main.ts" timestamp="1534726949465">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/statistics/index.js" timestamp="1536537977551">
+        <mark key="'" line="22" column="9" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="5" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="31" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
-      <jump line="30" column="8" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
-      <jump line="9" column="27" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
-      <jump line="2" column="4" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
-      <jump line="20" column="50" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/Snackbar.vue" />
-      <jump line="18" column="39" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="7" column="1" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
-      <jump line="37" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Form.vue" />
-      <jump line="79" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Form.vue" />
-      <jump line="95" column="14" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Form.vue" />
-      <jump line="8" column="50" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="6" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="4" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/actions.js" />
-      <jump line="69" column="16" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" />
-      <jump line="108" column="39" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" />
-      <jump line="195" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" />
-      <jump line="13" column="46" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
-      <jump line="0" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
-      <jump line="12" column="38" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
-      <jump line="32" column="27" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
-      <jump line="31" column="56" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
-      <jump line="22" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" />
-      <jump line="99" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="23" column="28" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="74" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="22" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="34" column="32" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="75" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="0" column="67" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="14" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="92" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="137" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/index.js" />
-      <jump line="6" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
-      <jump line="50" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/List/index.js" />
-      <jump line="2" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="102" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="80" column="3" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/account/actions.js" />
-      <jump line="35" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/account/model.js" />
-      <jump line="0" column="12" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/account/model.js" />
-      <jump line="34" column="21" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/account/model.js" />
-      <jump line="23" column="21" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/account/model.js" />
-      <jump line="29" column="48" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/actions.js" />
-      <jump line="43" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/server.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/server.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
-      <jump line="118" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="215" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
-      <jump line="2" column="28" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
-      <jump line="216" column="42" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
-      <jump line="147" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
-      <jump line="108" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
-      <jump line="110" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
-      <jump line="2" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/api/index.js" />
-      <jump line="475" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="228" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="236" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="247" column="24" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="274" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="293" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="305" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="1" column="12" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" />
-      <jump line="74" column="14" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" />
-      <jump line="73" column="1" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" />
-      <jump line="201" column="16" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="18" column="54" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="31" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" />
-      <jump line="17" column="6" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="4" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
+      <jump line="84" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/reducer.js" />
+      <jump line="51" column="42" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/reducer.js" />
+      <jump line="70" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/reducer.js" />
+      <jump line="53" column="8" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="66" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="109" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="113" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/reducer.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="17" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
-      <jump line="18" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
-      <jump line="29" column="8" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
-      <jump line="8" column="51" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
-      <jump line="15" column="3" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Accounts.vue" />
-      <jump line="112" column="15" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="113" column="18" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="129" column="18" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="158" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="165" column="18" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="178" column="28" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="185" column="18" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="71" column="18" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/service/sagas.js" />
-      <jump line="33" column="30" filename="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" />
-      <jump line="6" column="18" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Accounts.vue" />
-      <jump line="10" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Accounts.vue" />
-      <jump line="402" column="37" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="74" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
-      <jump line="110" column="31" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
-      <jump line="34" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
-      <jump line="116" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
-      <jump line="27" column="45" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/config.js" />
+      <jump line="4" column="126" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="0" column="60" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="139" column="51" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="30" column="17" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="92" column="6" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="155" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="173" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="192" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="212" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="247" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="233" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="277" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="255" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="301" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="278" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="326" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="302" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="352" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="327" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="378" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="353" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="407" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="380" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="436" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="408" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
+      <jump line="722" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="213" column="64" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="6" column="1" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
+      <jump line="12" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
+      <jump line="699" column="27" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="226" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="267" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="434" column="35" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="474" column="40" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="95" column="35" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
+      <jump line="118" column="46" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
+      <jump line="18" column="38" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
+      <jump line="98" column="27" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
+      <jump line="192" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
+      <jump line="108" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/simulation/index.js" />
+      <jump line="13" column="3" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/service.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/sagas.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" />
+      <jump line="8" column="31" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/statistic.js" />
+      <jump line="44" column="37" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" />
+      <jump line="56" column="9" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" />
+      <jump line="91" column="13" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/account/Form.vue" />
+      <jump line="23" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" />
+      <jump line="13" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/ListTile.vue" />
+      <jump line="106" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
+      <jump line="78" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/dictionary/index.js" />
+      <jump line="102" column="23" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" />
+      <jump line="110" column="29" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" />
+      <jump line="10" column="71" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" />
+      <jump line="762" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="171" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="50" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="52" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="53" column="37" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="54" column="49" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="55" column="53" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="84" column="41" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
+      <jump line="15" column="78" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
+      <jump line="25" column="701" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
+      <jump line="1" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
+      <jump line="50" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
+      <jump line="24" column="71" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.17.05.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50cmFuc2FjdGlvbiA9IG5ldyBUcmFuc2FjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHR5cGUgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>answers</text>
       </register>
       <register name="/" type="4">
-        <text>findAll</text>
+        <text>null</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJhd1F1ZXJ5ID0gYFNFTEVDVCAqIEZST00gImJvdExvZ3MiIHQxIFdIRVJFICJib3RMb2dJZCIgSU4gKCBTRUxFQ1QgTUlOKCJib3RMb2dJZCIpIEZST00gImJvdExvZ3MiIHQyIFdIRVJFIHQyLiJ1c2VySW5wdXQiID0gdDEuInVzZXJJbnB1dCIgQU5EIHQyLiJyb29tSWQiID0gdDEuInJvb21JZCIgKSBBTkQgImRvbWFpbklkIiA9ICcke2RvbWFpbklkfScgQU5EICJkYXRlVGltZSIgQkVUV0VFTiAnJHtmcm9tRGF0ZVRpbWUudG9JU09TdHJpbmcoKX0nIEFORCAnJHt0b0RhdGVUaW1lLnRvSVNPU3RyaW5nKCl9JyBPUkRFUiBCWSAiZGF0ZVRpbWUiIERFU0M7YAoKICAgIGNvbnN0IGJvdExvZ3MgPSBhd2FpdCBEYXRhYmFzZS5zZXF1ZWxpemUucXVlcnkocmF3UXVlcnkpCg==</text>
+      <register name="0" type="4">
+        <text>Database.sequelize.query(queries('questions'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50cmFuc2FjdGlvbiA9IG5ldyBUcmFuc2FjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHR5cGUgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhzdGF0aXN0aWNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRvbWFpbklkLAogICAgICAgICAgcm9vbUlkLAogICAgICAgICAgZGF0ZVRpbWUsCiAgICAgICAgICB1c2VySW5wdXQsCiAgICAgICAgICBhbnN3ZXIsCiAgICAgICAgICBvcGVyYXRvciwKICAgICAgICAgIG5vdEZvdW5kLAogICAgICAgICAgZmluYWwsCiAgICAgICAgICBzdXJ2ZXksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhib3RMb2dzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgY29uCg==</text>
+        <text encoding="base64">ICAgICAgICBkb21haW5JZDogZGV0YWlsLmRvbWFpbklkLAogICAgICAgIHJvb21JZDogZGV0YWlsLnJvb21JZCwKICAgICAgICBkYXRlVGltZTogZGV0YWlsLmRhdGVUaW1lLAogICAgICAgIHVzZXJJbnB1dDogZGV0YWlsLnVzZXJJbnB1dCwKICAgICAgICBhbnN3ZXI6IGRldGFpbC5hbnN3ZXIsCiAgICAgICAgb3BlcmF0b3I6IGRldGFpbC5vcGVyYXRvciwKICAgICAgICBub3RGb3VuZDogZGV0YWlsLm5vdEZvdW5kLAogICAgICAgIGZpbmFsOiBkZXRhaWwuZmluYWwsCiAgICAgICAgc3VydmV5OiBkZXRhaWwuc3VydmV5LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJhd1F1ZXJ5KQoK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHR5cGVzID0gewogICAgICB0eXBlLAogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWNjdW11bGF0b3IKICAgICAgfSwgW10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3RMb2dJZDogewogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIC8vIHN0YXRpc3RpY3MgPSBhd2FpdCBEYXRhYmFzZS5ib3RMb2cuZmluZEFsbCh7CiAgICAvLyAgIHdoZXJlOiBjb25kaXRpb25zLAogICAgLy8gICBvcmRlcjogW1snZGF0ZVRpbWUnLCAnQVNDJ11dLAogICAgLy8gfSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICRpbjogbGl0ZXJhbChgYCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJhd1F1ZXJ5ID0gYFNFTEVDVCAqIEZST00gImJvdExvZ3MiIHQxIFdIRVJFICJib3RMb2dJZCIgSU4gKCBTRUxFQ1QgTUFYKCJib3RMb2dJZCIpIEZST00gImJvdExvZ3MiIHQyIFdIRVJFIHQyLiJ1c2VySW5wdXQiID0gdDEuInVzZXJJbnB1dCIgQU5EIHQyLiJyb29tSWQiID0gdDEuInJvb21JZCIgQU5EICJkb21haW5JZCIgPSAnJHtkb21haW5JZH0nIEFORCAiZGF0ZVRpbWUiIEJFVFdFRU4gJyR7ZnJvbURhdGVUaW1lLnRvSVNPU3RyaW5nKCl9JyBBTkQgJyR7dG9EYXRlVGltZS50b0lTT1N0cmluZygpfScgJHtjb25kaXRpb25zfSApIE9SREVSIEJZICJkYXRlVGltZSIgREVTQztgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>findAll</last-search>
+      <last-search>null</last-search>
       <last-offset />
-      <last-pattern>findAll</last-pattern>
+      <last-pattern>null</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>es</entry>
-        <entry>message</entry>
-        <entry>ai</entry>
-        <entry>AI</entry>
-        <entry>pre</entry>
-        <entry>babel</entry>
-        <entry>title</entry>
-        <entry encoding="base64">XDx2XD4=</entry>
-        <entry>formAction</entry>
-        <entry>action</entry>
-        <entry>schema</entry>
-        <entry>async</entry>
-        <entry>led</entry>
-        <entry>Logg</entry>
-        <entry>\/delete</entry>
+        <entry>Production</entry>
+        <entry>production services</entry>
+        <entry>Diction</entry>
+        <entry>getIn</entry>
+        <entry>connec</entry>
+        <entry>diction</entry>
+        <entry>servi</entry>
+        <entry>conn</entry>
+        <entry>REMOV</entry>
+        <entry>ssh</entry>
+        <entry>valida</entry>
+        <entry encoding="base64">XDxBcGlcPg==</entry>
+        <entry>API</entry>
+        <entry encoding="base64">XDxBUElcPg==</entry>
+        <entry>push</entry>
+        <entry>seconds</entry>
+        <entry>second</entry>
+        <entry encoding="base64">XDxUcmFuc2FjdGlvblw+</entry>
         <entry>delete</entry>
-        <entry>enqueue</entry>
-        <entry>\.botLong</entry>
-        <entry>\.botLog</entry>
-        <entry>findAll</entry>
+        <entry>null</entry>
       </history-search>
       <history-cmd>
-        <entry>nohl</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
