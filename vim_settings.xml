@@ -269,6 +269,12 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="3" column="23" />
       </file>
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Ledgers.vue" timestamp="1537361698010">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="49" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/ListTile.vue" timestamp="1537322220134">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="54" />
@@ -327,11 +333,11 @@
         <mark key="^" line="1" column="4005" />
         <mark key="." line="1" column="4005" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Card.vue" timestamp="1537360926085">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="55" column="68" />
-        <mark key="." line="57" column="0" />
+      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Card.vue" timestamp="1537361637563">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="55" />
+        <mark key="^" line="45" column="68" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/dictionary.js" timestamp="1536905565439">
         <mark key="[" line="12" column="0" />
@@ -739,23 +745,23 @@
       <jump line="24" column="71" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.17.05.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNob3dMZWRnZXJEZXN0cnVjdGlvbkRpYWxvZygpIHsKICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>arguments</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
       </register>
-      <register name="0" type="4">
-        <text>Database.sequelize.query(queries('questions'))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2hvd0xlZGdlckZvcm1EaWFsb2c6ICd1c2VySW50ZXJmYWNlL2xlZGdlckZvcm0nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNob3dMZWRnZXJEZXN0cnVjdGlvbkRpYWxvZygpIHsKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGhpZGVMZWRnZXJGb3JtRGlhbG9nKCkgewogICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kaWFsb2dzLmRlc3RydWN0aW9uLm9wZW4gPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kaWFsb2dzLmZvcm0ub3BlbiA9IGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHNob3dMZWRnZXJGb3JtRGlhbG9nKCkgewogICAgfSwK</text>
@@ -764,19 +770,19 @@
         <text encoding="base64">ICAgICAgdGhpcy5kaWFsb2dzLmZvcm0ub3BlbiA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHR5cGUgfSkK</text>
+        <text encoding="base64">ICAgIGxlZGdlci1mb3JtLWRpYWxvZygKICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvbWFpbklkLAogICAgICAgICAgcm9vbUlkLAogICAgICAgICAgZGF0ZVRpbWUsCiAgICAgICAgICB1c2VySW5wdXQsCiAgICAgICAgICBhbnN3ZXIsCiAgICAgICAgICBvcGVyYXRvciwKICAgICAgICAgIG5vdEZvdW5kLAogICAgICAgICAgZmluYWwsCiAgICAgICAgICBzdXJ2ZXksCg==</text>
+        <text encoding="base64">ICAgICAgYWN0aW9uPSJuZXciCiAgICAgIDpvcGVuPSJkaWFsb2dzLmZvcm0ub3BlbiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgOmhpZGVMZWRnZXJGb3JtRGlhbG9nPSJoaWRlTGVkZ2VyRm9ybURpYWxvZyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb21haW5JZDogZGV0YWlsLmRvbWFpbklkLAogICAgICAgIHJvb21JZDogZGV0YWlsLnJvb21JZCwKICAgICAgICBkYXRlVGltZTogZGV0YWlsLmRhdGVUaW1lLAogICAgICAgIHVzZXJJbnB1dDogZGV0YWlsLnVzZXJJbnB1dCwKICAgICAgICBhbnN3ZXI6IGRldGFpbC5hbnN3ZXIsCiAgICAgICAgb3BlcmF0b3I6IGRldGFpbC5vcGVyYXRvciwKICAgICAgICBub3RGb3VuZDogZGV0YWlsLm5vdEZvdW5kLAogICAgICAgIGZpbmFsOiBkZXRhaWwuZmluYWwsCiAgICAgICAgc3VydmV5OiBkZXRhaWwuc3VydmV5LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHR5cGVzID0gewogICAgICB0eXBlLAogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
