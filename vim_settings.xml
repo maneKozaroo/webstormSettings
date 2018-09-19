@@ -40,6 +40,12 @@
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1537244757188">
         <mark key="'" line="120" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1537318106502">
+        <mark key="[" line="21" column="3980" />
+        <mark key="]" line="21" column="3980" />
+        <mark key="^" line="21" column="3980" />
+        <mark key="." line="21" column="3980" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Row.vue" timestamp="1537234109466">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="23" />
@@ -230,28 +236,29 @@
         <mark key="^" line="97" column="42" />
         <mark key="." line="97" column="42" />
       </file>
-      <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/account/Card.vue" timestamp="1537234046288">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="20" column="6" />
-      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/connections.ts" timestamp="1536625159762">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1537227546854">
-        <mark key="[" line="117" column="181" />
-        <mark key="]" line="117" column="315" />
-        <mark key="^" line="117" column="315" />
-        <mark key="." line="117" column="315" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" timestamp="1537317666068">
+        <mark key="[" line="38" column="60" />
+        <mark key="]" line="38" column="71" />
+        <mark key="^" line="38" column="71" />
+        <mark key="." line="38" column="71" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/ListTile.vue" timestamp="1537236067831">
         <mark key="[" line="61" column="47" />
         <mark key="]" line="61" column="47" />
         <mark key="." line="61" column="47" />
         <mark key="^" line="61" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1537318103474">
+        <mark key="[" line="23" column="3976" />
+        <mark key="]" line="23" column="3976" />
+        <mark key="." line="23" column="3976" />
+        <mark key="^" line="23" column="3976" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/package.json" timestamp="1536629926010">
         <mark key="[" line="8" column="0" />
@@ -699,10 +706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICYmIGxvZy5zdXJ2ZXkgPT09IG51bGwgJiYgbG9nLm9wZXJhdG9yID09PSBudWxs</text>
       </register>
       <register name="/" type="4">
         <text>second</text>
@@ -711,31 +718,31 @@
         <text encoding="base64">ICAgICAgaWYgKGVycm9yLnJlc3BvbnNlLnN0YXR1cyA9PT0gNDA0KSB7CiAgICAgICAgeWllbGQgcHV0KAogICAgICAgICAgdWlBY3Rpb25zLmVucXVldWVOb3RpZmljYXRpb24oewogICAgICAgICAgICB0eXBlOiAnZXJyb3InLAogICAgICAgICAgICBtZXNzYWdlOiAnbm90aWZpY2F0aW9uczplcnJvci5zZXJ2aWNlLm5vbkV4aXN0YW50JywKICAgICAgICAgIH0pCiAgICAgICAgKQogICAgICAgIHlpZWxkIHB1dChwdXNoKGAvc2VydmljZXMvJHtzZXJ2aWNlSWR9L2RhdGEvcHJvZHVjdGlvbmApKQogICAgICB9CiAgICAgIGxvZ2dlcihlcnJvcik=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGNvbnN0IHsKICAgICAgICByZXNwb25zZTogewogICAgICAgICAgZGF0YTogeyBtZXNzYWdlLCBwYXJhbXMsIGVycm9yOiBlcnJvck1lc3NhZ2UgfSwKICAgICAgICB9LAogICAgICB9ID0gZXJyb3IKICAgICAgeWllbGQgcHV0KAogICAgICAgIHVpQWN0aW9ucy5lbnF1ZXVlTm90aWZpY2F0aW9uKHsKICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICBtZXNzYWdlOiBtZXNzYWdlIHx8IGVycm9yTWVzc2FnZSwKICAgICAgICAgIHBhcmFtcywKICAgICAgICB9KQogICAgICApCj09PT09PT0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbG9nID0+IGxvZy5zdXJ2ZXkgPT09IG51bGwgJiYgbG9nLm9wZXJhdG9yID09PSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGNvbnN0IHsKICAgICAgICByZXNwb25zZTogewogICAgICAgICAgZGF0YTogeyBtZXNzYWdlLCBwYXJhbXMsIGVycm9yOiBlcnJvck1lc3NhZ2UgfSwKICAgICAgICB9LAogICAgICB9ID0gZXJyb3IKICAgICAgeWllbGQgcHV0KAogICAgICAgIHVpQWN0aW9ucy5lbnF1ZXVlTm90aWZpY2F0aW9uKHsKICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICBtZXNzYWdlOiBtZXNzYWdlIHx8IGVycm9yTWVzc2FnZSwKICAgICAgICAgIHBhcmFtcywKICAgICAgICB9KQogICAgICApCj0=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGNvbnN0IHsKICAgICAgICByZXNwb25zZTogewogICAgICAgICAgZGF0YTogeyBtZXNzYWdlLCBwYXJhbXMsIGVycm9yOiBlcnJvck1lc3NhZ2UgfSwKICAgICAgICB9LAogICAgICB9ID0gZXJyb3IKICAgICAgeWllbGQgcHV0KAogICAgICAgIHVpQWN0aW9ucy5lbnF1ZXVlTm90aWZpY2F0aW9uKHsKICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICBtZXNzYWdlOiBtZXNzYWdlIHx8IGVycm9yTWVzc2FnZSwKICAgICAgICAgIHBhcmFtcywKICAgICAgICB9KQogICAgICApCj09PT09PT0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZhcXMgPSBhd2FpdCBEYXRhYmFzZS5mYXEuZmluZEFsbCh7Cj4+Pj4+Pj4gbWFzdGVyCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQoK</text>
+        <text encoding="base64">PT09PT09Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGNvbnN0IHsKICAgICAgICByZXNwb25zZTogewogICAgICAgICAgZGF0YTogeyBtZXNzYWdlLCBwYXJhbXMsIGVycm9yOiBlcnJvck1lc3NhZ2UgfSwKICAgICAgICB9LAogICAgICB9ID0gZXJyb3IKICAgICAgeWllbGQgcHV0KAogICAgICAgIHVpQWN0aW9ucy5lbnF1ZXVlTm90aWZpY2F0aW9uKHsKICAgICAgICAgIHR5cGU6ICdlcnJvcicsCiAgICAgICAgICBtZXNzYWdlOiBtZXNzYWdlIHx8IGVycm9yTWVzc2FnZSwKICAgICAgICAgIHBhcmFtcywKICAgICAgICB9KQogICAgICApCj0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
