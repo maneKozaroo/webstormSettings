@@ -188,6 +188,12 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
+      <file name="/Volumes/Storage/Source/maneblog/src/store/modules/posts/model.js" timestamp="1537793400029">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1536552397480">
         <mark key="'" line="102" column="14" />
         <mark key="[" line="270" column="5" />
@@ -367,11 +373,11 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
-      <file name="/Volumes/Storage/Source/maneblog/src/containers/Home.vue" timestamp="1537790980077">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
+      <file name="/Volumes/Storage/Source/maneblog/src/containers/Home.vue" timestamp="1537793908210">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="37" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/account/Card.vue" timestamp="1537501097115">
         <mark key="[" line="39" column="0" />
@@ -494,6 +500,12 @@
         <mark key="." line="45" column="20" />
         <mark key="^" line="45" column="20" />
       </file>
+      <file name="/Volumes/Storage/Source/maneblog/src/store/modules/posts/actions.js" timestamp="1537793471180">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/dictionary.js" timestamp="1536905565439">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="6" />
@@ -512,6 +524,12 @@
         <mark key="]" line="26" column="9" />
         <mark key="." line="26" column="19" />
         <mark key="^" line="10" column="10" />
+      </file>
+      <file name="/Volumes/Storage/Source/maneblog/src/store/modules/posts/getters.js" timestamp="1537792109287">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/connection.js" timestamp="1537513055508">
         <mark key="[" line="4" column="0" />
@@ -577,6 +595,17 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="/Volumes/Storage/Source/maneblog/src/store/modules/posts/mutations.js" timestamp="1537793529427">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+      </file>
+      <file name="/Volumes/Storage/Source/maneblog/src/api/index.js" timestamp="1537793256868">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/index.ts" timestamp="1536538677230">
         <mark key="'" line="18" column="24" />
@@ -941,11 +970,11 @@
       <jump line="59" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/Connection.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>display-1</text>
       </register>
       <register name="-" type="4">
-        <text>v-app</text>
+        <text>display-1</text>
       </register>
       <register name="/" type="4">
         <text>Schema</text>
@@ -954,31 +983,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiZWZvcmUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgcG9zdC50aXRsZSB9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRzOiB7IFZUb29sYmFyIH0sCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocG9zdHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8di10b29sYmFyPgogICAgPHYtdG9vbGJhci10aXRsZT4KICAgICAgSG9tZQogICAgPC92LXRvb2xiYXItdGl0bGU+CiAgPC92LXRvb2xiYXI+CiAgPHYtY29udGFpbmVyPgogICAgPHYtbGF5b3V0PgogICAgICA8di1mbGV4PgogICAgICA8L3YtZmxleD4KICAgIDwvdi1sYXlvdXQ+CiAgPC92LWNvbnRhaW5lcj4K</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgcG9zdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFZUb29sYmFyIGZyb20gJ3Z1ZXRpZnkvc3JjL2NvbXBvbmVudHMvVlRvb2xiYXIvVlRvb2xiYXInCg==</text>
+        <text encoding="base64">ICAgIGFwaS5wb3N0Lmxpc3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8di1jYXJkPgogICAgICAgIDwvdi1jYXJkPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBwb3N0cyB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2LXJlc3BvbnNpdmUgOmFzcGVjdC1yYXRpbz0iMTYvOSI+CiAgICAgICAgICA8L3YtcmVzcG9uc2l2ZT4K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBwb3N0cyB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHYtY2FyZC10ZXh0PgogICAgICAgICAgICA8L3YtY2FyZC10ZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyByZXNwb25zZSB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xpc3RpbmcnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
