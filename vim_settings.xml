@@ -97,11 +97,12 @@
         <mark key="^" line="34" column="46" />
         <mark key="." line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/dictionaries.js" timestamp="1537486435319">
-        <mark key="'" line="378" column="7" />
-        <mark key="[" line="439" column="0" />
-        <mark key="]" line="439" column="0" />
-        <mark key="." line="439" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/dictionaries.js" timestamp="1537858598777">
+        <mark key="'" line="76" column="14" />
+        <mark key="[" line="79" column="8" />
+        <mark key="]" line="81" column="30" />
+        <mark key="." line="81" column="30" />
+        <mark key="^" line="81" column="30" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" timestamp="1536623955309">
         <mark key="'" line="16" column="22" />
@@ -182,6 +183,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionarydetail.js" timestamp="1537857722197">
+        <mark key="[" line="62" column="8" />
+        <mark key="]" line="62" column="7" />
+        <mark key="." line="62" column="7" />
+        <mark key="^" line="62" column="7" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.js" timestamp="1536537932619">
         <mark key="'" line="22" column="4" />
@@ -802,10 +809,6 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/connection.js" timestamp="1537513055508">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="56" column="7" />
-      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/logger/index.ts" timestamp="1536625895450">
         <mark key="'" line="65" column="24" />
         <mark key="[" line="81" column="0" />
@@ -943,7 +946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
       <jump line="380" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
       <jump line="436" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
       <jump line="408" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
@@ -1043,13 +1045,14 @@
       <jump line="12" column="42" filename="/Volumes/Storage/Source/maneblog/src/store/modules/posts/actions.js" />
       <jump line="45" column="52" filename="/Volumes/Storage/Source/maneblog/src/api/index.js" />
       <jump line="15" column="5" filename="/Volumes/Storage/Source/maneblog/src/api/index.js" />
+      <jump line="74" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/dictionaries.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>postId</text>
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>postId</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text>Schema</text>
@@ -1058,31 +1061,31 @@
         <text encoding="base64">ICAgICAgY29uc3QgdHJhbnNhY3Rpb24gPSB0aGlzLmRiLnRyYW5zYWN0aW9uKCdwb3N0cycsICdyZWFkd3JpdGUnKQogICAgICBjb25zdCBwb3N0c0NvbGxlY3Rpb24gPSB0cmFuc2FjdGlvbi5vYmplY3RTdG9yZSgncG9zdHMnKQoKICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCB0aGlzLmRiUHJvbWlzZShwb3N0c0NvbGxlY3Rpb24uZ2V0KHBvc3RJZCkpCgogICAgICBjb25zdCB7IHJlc3VsdDogcG9zdCB9ID0gcmVzcG9uc2UKCiAgICAgIHJldHVybiBwb3N0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHBvc3QKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGljdGlvbmFyeSA9IGF3YWl0IERhdGFiYXNlLmRpY3Rpb25hcnkuZmluZCh7CiAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdHJhbnNhY3Rpb24gPSB0aGlzLmRiLnRyYW5zYWN0aW9uKCdwb3N0cycsICdyZWFkd3JpdGUnKQogICAgICBjb25zdCBwb3N0c0NvbGxlY3Rpb24gPSB0cmFuc2FjdGlvbi5vYmplY3RTdG9yZSgncG9zdHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZTogewogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIGNvbnN0IHsgcmVzdWx0OiBwb3N0SWQgfSA9IHJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdvcmQ6IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBwb3N0IH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmRleGVzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHVuaXF1ZTogdHJ1ZSwKICAgICAgICAgICAgZmllbGRzOiBbJ3dvcmQnXSwKICAgICAgICAgIH0sCiAgICAgICAgXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlc3BvbnNlCiAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmRleGVzOiBbCiAgICAgICAgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICBjb25zb2xlLmxvZyh7IGVycm9yIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pcXVlOiB0cnVlLAogICAgICAgICAgICBmaWVsZHM6IFsnd29yZCddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
