@@ -62,12 +62,12 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" timestamp="1537943733697">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" timestamp="1537945407159">
         <mark key="'" line="19" column="2" />
-        <mark key="[" line="21" column="93" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="6" />
+        <mark key="." line="34" column="6" />
+        <mark key="^" line="34" column="6" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/fileUploads/index.js" timestamp="1537486895488">
         <mark key="[" line="9" column="0" />
@@ -1121,44 +1121,44 @@
       <jump line="39" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZWNyZXQgPSBqYXJiOThhcmEwcmFAQmRiYXJ0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29va2llcyA=</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>Schema</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL2xvY2FsaG9zdDo4MDgwJywK</text>
+      <register name="0" type="4">
+        <text>.final('utf8')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZWNyZXQgPSBqYXJiOThhcmEwcmFAQmRiYXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgLmZpbmFsKCd1dGY4JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGN0eC5jb29raWVzLnNldCgK</text>
+        <text encoding="base64">ICAgIGRlYyArPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZGVjIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgJ2Rldl9tb2JpbHVzX3NzbycsCiAgICAvLyAgICdDaWR5V0htRlBfczVCQURHN3I0bXFZX2lKM2JFYXpldnJ5aHZBMHZmTElIRllOUFZwYTU0dFRqSkpwYnZyTnBzc1Vkb1hVS3hzdnAtczJPOGdGZTVVTDJXb3RYU205U1pXMnRBdnoySklLbXpMTzhqSk0xWU8yUkpvbUJKNmNxdEVfSWwwYlc1ejNZTmp2U3ZGcHNKZlR6djU1b0JiTHNTN3FTbWRHR2FpQjNCVmtPdWczclU1QVI2RFdrLXBnTTgyTEd2U1YwU0hVd25obExRbmhYaDRxbnNpRW9SOFFGdVZaRHFIUnZsX1ItVk5sYkExMi00amZISzBTeU4zeEpXQy1zY19hT0ZkUExSWndES1FRTVR4c0FabWZ1eDBWLVk3aVIxWVEwX0NPVGhnLWo4cnc2WkxOTloxYm1vQllUYmNQaEFhczczQU9BZURuTko1MXoxd2cnLAogICAgLy8gICB7CiAgICAvLyAgICAgaHR0cE9ubHk6IGZhbHNlLAogICAgLy8gICB9CiAgICAvLyAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZGVjIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb29raWVzOiAlbycsIGN0eC5jb29raWVzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZGVjIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZGVjIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb29raWVOYW1lID0gQ29uZmlnLmFjY2Vzc01hbmFnZXIua29ubmVjdF9zc29fY29va2llX25hbWUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZGVjaXBoZXIgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZW5jcnlwdGVkQ29va2llIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjdHg6ICVvJywgY3R4LmNvb2tpZXMpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgaGFzaCB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
