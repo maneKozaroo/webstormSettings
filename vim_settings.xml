@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/utils/ssoCookie/index.js" timestamp="1537936008732">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/index.ts" timestamp="1536538677230">
         <mark key="'" line="18" column="24" />
         <mark key="[" line="18" column="49" />
@@ -58,6 +62,13 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" timestamp="1537936451594">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="43" />
+        <mark key="." line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/fileUploads/index.js" timestamp="1537486895488">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="37" />
@@ -97,10 +108,10 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" timestamp="1536625358141">
+      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" timestamp="1537935203709">
         <mark key="'" line="31" column="4" />
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="23" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="21" column="2" />
         <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1537426533111">
@@ -264,6 +275,12 @@
         <mark key="." line="311" column="12" />
         <mark key="^" line="311" column="12" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/authenticator.js" timestamp="1537934389394">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/package.json" timestamp="1536815589148">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -345,7 +362,7 @@
         <mark key="." line="30" column="49" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1536821466585">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1537936931559">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -484,12 +501,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" timestamp="1537425080039">
-        <mark key="'" line="151" column="2" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="512" column="6" />
-        <mark key="^" line="32" column="22" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" timestamp="1537935477417">
+        <mark key="'" line="152" column="2" />
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
+        <mark key="^" line="33" column="29" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/_abstract.js" timestamp="1537509873420">
         <mark key="[" line="4" column="31" />
@@ -917,6 +934,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/server.js" timestamp="1537935698917">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/dictionary.js" timestamp="1536905546447">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="5" />
@@ -992,11 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
-      <jump line="12" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
-      <jump line="699" column="27" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="226" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="267" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="434" column="35" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
@@ -1092,46 +1110,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/StatisticsLambda.js" />
       <jump line="6" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/StatisticsLambda.js" />
       <jump line="10" column="17" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_5_duplicate_synonyms.csv" />
+      <jump line="33" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
+      <jump line="3" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IldPUkQxIgkiU3lub255bTEiCg==</text>
+      <register name="&quot;" type="4">
+        <text>parsedCookie</text>
       </register>
       <register name="-" type="4">
-        <text>Word1</text>
+        <text>parsedCookie</text>
       </register>
       <register name="/" type="4">
         <text>Schema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IldvcmQxIgkiU3lub255bTEiCg==</text>
+        <text encoding="base64">aW1wb3J0IGNyeXB0byBmcm9tICdjcnlwdG8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IldPUkQxIgkiU3lub255bTEiCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgY3J5cHRlZCB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IndvcmQxIgkiU3lub255bTEiCg==</text>
+        <text encoding="base64">e30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFXUy5jb25maWcudXBkYXRlKHsgcmVnaW9uOiAnYXAtbm9ydGhlYXN0LTEnIH0pCg==</text>
+        <text encoding="base64">ICAgIHsgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IHN0YXRpc3RpY3NMYW1iZGEgPSBuZXcgU3RhdGlzdGljc0xhbWJkYSgpCg==</text>
+        <text encoding="base64">ICBjb29raWVOYW1lID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFibGVOYW1lCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgYWNjZXNzTWFuYWdlciB9ID0gQ29uZmlnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjdHg6ICVvJywgY3R4LmNvb2tpZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGN0eC50aHJvdyg0MDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGR5bmFtb1RhYmVkeW5hbW8uZGVzY3JpYmVUYWJsZSh7IFRhYmxlTmFtZTogdGFibGVOYW1lIH0pLnByb21pc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGN0eC50aHJvdyg0MDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1192,6 +1215,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
