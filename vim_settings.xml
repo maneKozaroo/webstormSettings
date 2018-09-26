@@ -16,6 +16,12 @@
         <mark key="." line="98" column="5" />
         <mark key="^" line="98" column="5" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/errors/ValidationError.js" timestamp="1537918559213">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" timestamp="1537256344907">
         <mark key="[" line="187" column="0" />
         <mark key="]" line="187" column="0" />
@@ -32,6 +38,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/errors/UniqueError.js" timestamp="1537919522446">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/simulations/index.js" timestamp="1536537898821">
         <mark key="'" line="26" column="19" />
@@ -97,12 +109,12 @@
         <mark key="^" line="34" column="46" />
         <mark key="." line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/dictionaries.js" timestamp="1537858598777">
-        <mark key="'" line="76" column="14" />
-        <mark key="[" line="79" column="8" />
-        <mark key="]" line="81" column="30" />
-        <mark key="." line="81" column="30" />
-        <mark key="^" line="81" column="30" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/dictionaries.js" timestamp="1537921164744">
+        <mark key="'" line="75" column="7" />
+        <mark key="[" line="84" column="9" />
+        <mark key="]" line="84" column="9" />
+        <mark key="." line="84" column="9" />
+        <mark key="^" line="84" column="9" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" timestamp="1536623955309">
         <mark key="'" line="16" column="22" />
@@ -220,6 +232,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/errors/index.js" timestamp="1537918584400">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="/Volumes/Storage/Source/maneblog/src/containers/New.vue" timestamp="1537833554541">
         <mark key="[" line="7" column="0" />
@@ -659,6 +677,12 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/errors/UniquenessError.js" timestamp="1537918420174">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/actions.js" timestamp="1536272246098">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="24" />
@@ -676,12 +700,12 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/reducer.js" timestamp="1536628791530">
-        <mark key="'" line="70" column="19" />
-        <mark key="[" line="73" column="43" />
-        <mark key="]" line="73" column="66" />
-        <mark key="^" line="73" column="66" />
-        <mark key="." line="73" column="66" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/reducer.js" timestamp="1537920898798">
+        <mark key="'" line="72" column="19" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="51" />
+        <mark key="^" line="75" column="66" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/mutations.js" timestamp="1537506661101">
         <mark key="[" line="14" column="0" />
@@ -822,6 +846,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/Dictionary.js" timestamp="1537920139174">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/index.ts" timestamp="1536624106113">
         <mark key="'" line="17" column="48" />
         <mark key="[" line="2" column="36" />
@@ -852,11 +881,11 @@
         <mark key="." line="13" column="96" />
         <mark key="^" line="13" column="96" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/sagas.js" timestamp="1537256230282">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="136" column="17" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/sagas.js" timestamp="1537920885405">
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="31" />
+        <mark key="." line="62" column="31" />
+        <mark key="^" line="62" column="31" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/index.js" timestamp="1537491160349">
         <mark key="[" line="21" column="0" />
@@ -919,11 +948,11 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" timestamp="1536888302593">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" timestamp="1537920220984">
         <mark key="'" line="12" column="21" />
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
         <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/info.ts" timestamp="1536623751170">
@@ -946,7 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
       <jump line="436" column="18" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
       <jump line="408" column="0" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" />
       <jump line="722" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
@@ -1046,46 +1074,47 @@
       <jump line="45" column="52" filename="/Volumes/Storage/Source/maneblog/src/api/index.js" />
       <jump line="15" column="5" filename="/Volumes/Storage/Source/maneblog/src/api/index.js" />
       <jump line="74" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/dictionaries.js" />
+      <jump line="80" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/dictionaries.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>params</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAuc2V0SW4oWydmb3JtJywgJ2Vycm9ycyddLCBmcm9tSlMocGF5bG9hZCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>Schema</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgY29uc3QgdHJhbnNhY3Rpb24gPSB0aGlzLmRiLnRyYW5zYWN0aW9uKCdwb3N0cycsICdyZWFkd3JpdGUnKQogICAgICBjb25zdCBwb3N0c0NvbGxlY3Rpb24gPSB0cmFuc2FjdGlvbi5vYmplY3RTdG9yZSgncG9zdHMnKQoKICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCB0aGlzLmRiUHJvbWlzZShwb3N0c0NvbGxlY3Rpb24uZ2V0KHBvc3RJZCkpCgogICAgICBjb25zdCB7IHJlc3VsdDogcG9zdCB9ID0gcmVzcG9uc2UKCiAgICAgIHJldHVybiBwb3N0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAuc2V0SW4oWydmb3JtJywgJ2Vycm9ycyddLCBmcm9tSlMocGF5bG9hZCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGljdGlvbmFyeSA9IGF3YWl0IERhdGFiYXNlLmRpY3Rpb25hcnkuZmluZCh7CiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZTogewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBlcnJvci5lcnJvcnMgPSB7CiAgICAgICAgICBtZXNzYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdvcmQ6IAo=</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleGVzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHVuaXF1ZTogdHJ1ZSwKICAgICAgICAgICAgZmllbGRzOiBbJ3dvcmQnXSwKICAgICAgICAgIH0sCiAgICAgICAgXSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgVW5pcXVlRXJyb3IgfSBmcm9tICcuLi9tb2RlbHMvZXJyb3JzJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleGVzOiBbCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ZXhwb3J0IHsgRGljdGlvbmFyeSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5pcXVlOiB0cnVlLAogICAgICAgICAgICBmaWVsZHM6IFsnd29yZCddLAo=</text>
+        <text encoding="base64">Y2xhc3MgRGljdGlvbmFyeSB7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dW4K</text>
+        <text encoding="base64">ICBmaWVscyA9IHsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
