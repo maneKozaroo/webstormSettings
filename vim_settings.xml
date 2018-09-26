@@ -116,6 +116,12 @@
         <mark key="^" line="34" column="46" />
         <mark key="." line="34" column="46" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/dictionaries.js" timestamp="1537932229618">
+        <mark key="[" line="371" column="35" />
+        <mark key="]" line="371" column="48" />
+        <mark key="^" line="371" column="48" />
+        <mark key="." line="371" column="48" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" timestamp="1536623955309">
         <mark key="'" line="16" column="22" />
         <mark key="[" line="20" column="16" />
@@ -424,6 +430,12 @@
         <mark key="]" line="45" column="30" />
         <mark key="^" line="42" column="20" />
         <mark key="." line="42" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Mobi-Console/3_dictionary_5_duplicate_synonyms.csv" timestamp="1537932507209">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/connections.ts" timestamp="1536625159762">
         <mark key="[" line="4" column="22" />
@@ -980,7 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="1" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
       <jump line="8" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
       <jump line="10" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
       <jump line="12" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/AIError.js" />
@@ -1080,46 +1091,47 @@
       <jump line="17" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/StatisticsLambda.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/StatisticsLambda.js" />
       <jump line="6" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/StatisticsLambda.js" />
+      <jump line="10" column="17" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_5_duplicate_synonyms.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qgc3RhdGlzdGljc0xhbWJkYSA9IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IldPUkQxIgkiU3lub255bTEiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qgc3RhdGlzdGljc0xhbWJkYSA9IA==</text>
+        <text>Word1</text>
       </register>
       <register name="/" type="4">
         <text>Schema</text>
       </register>
-      <register name="0" type="4">
-        <text>dynamo.describeTable({ TableName: tableName }).promise()</text>
+      <register name="0" type="2">
+        <text encoding="base64">IldvcmQxIgkiU3lub255bTEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFXUy5jb25maWcudXBkYXRlKHsgcmVnaW9uOiAnYXAtbm9ydGhlYXN0LTEnIH0pCg==</text>
+        <text encoding="base64">IldPUkQxIgkiU3lub255bTEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IHN0YXRpc3RpY3NMYW1iZGEgPSBuZXcgU3RhdGlzdGljc0xhbWJkYSgpCg==</text>
+        <text encoding="base64">IndvcmQxIgkiU3lub255bTEiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFibGVOYW1lCg==</text>
+        <text encoding="base64">ICAgIEFXUy5jb25maWcudXBkYXRlKHsgcmVnaW9uOiAnYXAtbm9ydGhlYXN0LTEnIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">CmNvbnN0IHN0YXRpc3RpY3NMYW1iZGEgPSBuZXcgU3RhdGlzdGljc0xhbWJkYSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMudGFibGVOYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGR5bmFtb1RhYmVkeW5hbW8uZGVzY3JpYmVUYWJsZSh7IFRhYmxlTmFtZTogdGFibGVOYW1lIH0pLnByb21pc2UoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhd3MgPSBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR5bmFtb1RhYmVkeW5hbW8uZGVzY3JpYmVUYWJsZSh7IFRhYmxlTmFtZTogdGFibGVOYW1lIH0pLnByb21pc2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
