@@ -501,12 +501,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" timestamp="1537935477417">
-        <mark key="'" line="152" column="2" />
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
-        <mark key="^" line="33" column="29" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" timestamp="1537940786441">
+        <mark key="'" line="156" column="2" />
+        <mark key="[" line="33" column="382" />
+        <mark key="]" line="33" column="383" />
+        <mark key="." line="33" column="383" />
+        <mark key="^" line="33" column="384" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/_abstract.js" timestamp="1537509873420">
         <mark key="[" line="4" column="31" />
@@ -1118,10 +1118,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parsedCookie</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>parsedCookie</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>Schema</text>
