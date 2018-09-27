@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/utils/ssoCookie/index.js" timestamp="1538004846635">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="32" column="52" />
-      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/index.ts" timestamp="1536538677230">
         <mark key="'" line="18" column="24" />
         <mark key="[" line="18" column="49" />
@@ -213,6 +209,12 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/docker-compose.yml" timestamp="1538018494654">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionarydetail.js" timestamp="1537857722197">
         <mark key="[" line="62" column="8" />
         <mark key="]" line="62" column="7" />
@@ -280,6 +282,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/src/App.js" timestamp="1538018306647">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+        <mark key="." line="10" column="52" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/account/actions.js" timestamp="1537230677313">
         <mark key="[" line="13" column="98" />
@@ -382,6 +390,12 @@
         <mark key="]" line="15" column="9" />
         <mark key="." line="15" column="12" />
         <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/Dockerfile" timestamp="1538018251128">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/List/index.js" timestamp="1536903026637">
         <mark key="[" line="103" column="68" />
@@ -655,6 +669,12 @@
         <mark key="]" line="26" column="9" />
         <mark key="." line="26" column="12" />
         <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/.dockerignore" timestamp="1538017527057">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" timestamp="1537506772249">
         <mark key="'" line="14" column="30" />
@@ -963,10 +983,6 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1537924459185">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="63" />
-      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/info.ts" timestamp="1536623751170">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="20" column="16" />
@@ -988,9 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="50" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="52" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="53" column="37" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="54" column="49" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="55" column="53" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
@@ -1088,13 +1101,16 @@
       <jump line="18" column="21" filename="$USER_HOME$/src/mba/mbcsl-admin/package.json" />
       <jump line="49" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/package.json" />
       <jump line="52" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/package.json" />
+      <jump line="16" column="19" filename="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/Dockerfile" />
+      <jump line="28" column="19" filename="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/Dockerfile" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4.17.2</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>4.17.2</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>prettier</text>
@@ -1103,31 +1119,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJodXNreSI6ICIwLjE0LjMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGR1bW15IGRhdGEnKQo=</text>
+        <text encoding="base64">CkNNRCBbIm5wbSIsICJzdGFydCJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZG9tYWluSWQgfSA9IGN0eC5zc29Db29raWUK</text>
+        <text encoding="base64">CiMgc3RhcnQgYXBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3NvQ29va2llOiB7IGRvbWFpbklkIH0sCg==</text>
+        <text encoding="base64">IyBpbnN0YWxsIGFuZCBjYWNoZSBhcHAgZGVwZW5kZW5jaWVzClJVTiBucG0gaW5zdGFsbCByZWFjdC1zY3JpcHRzQDEuMS4xIC1nIC0tc2lsZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3NvQ29va2llOiB7IGRvbWFpbklkIH0sCg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC0tc2lsZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgIH0gPSBjdHgK</text>
+        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24gL3Vzci9zcmMvYXBwL3BhY2thZ2UuanNvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3NvQ29va2llOiB7IGRvbWFpbklkIH0sCg==</text>
+        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24gL3Vzci9zcmMvYXBwL3BhY2thZ2UuanNvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3NvQ29va2llOiB7IGRvbWFpbklkIH0sCg==</text>
+        <text encoding="base64">RU5WIFBBVEggL3Vzci9zcmMvYXBwL25vZGVfbW9kdWxlcy8uYmluOiRQQVRICg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
