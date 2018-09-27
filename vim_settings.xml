@@ -59,12 +59,6 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" timestamp="1538008501929">
-        <mark key="'" line="27" column="17" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/fileUploads/index.js" timestamp="1537486895488">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="37" />
@@ -103,12 +97,6 @@
         <mark key="]" line="28" column="23" />
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" timestamp="1537935203709">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1537426533111">
         <mark key="'" line="0" column="0" />
@@ -264,6 +252,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/Docker" timestamp="1538089195465">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/src/App.js" timestamp="1538019484026">
         <mark key="[" line="10" column="52" />
@@ -926,6 +920,12 @@
         <mark key="]" line="54" column="30" />
         <mark key="^" line="54" column="30" />
         <mark key="." line="54" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/.dockerignore" timestamp="1538089216412">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Transactions.vue" timestamp="1537500187085">
         <mark key="[" line="46" column="16" />
