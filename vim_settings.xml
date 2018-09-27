@@ -101,6 +101,13 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/package.json" timestamp="1538011304001">
+        <mark key="'" line="56" column="3" />
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="54" column="21" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" timestamp="1537935203709">
         <mark key="'" line="31" column="4" />
         <mark key="[" line="14" column="0" />
@@ -357,13 +364,6 @@
         <mark key="." line="30" column="49" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1537936931559">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/productionServices.js" timestamp="1538008132707">
         <mark key="'" line="634" column="15" />
         <mark key="[" line="736" column="0" />
@@ -492,10 +492,12 @@
         <mark key="." line="23" column="3976" />
         <mark key="^" line="23" column="3976" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/package.json" timestamp="1536629926010">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/package.json" timestamp="1538011632498">
+        <mark key="'" line="52" column="19" />
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" timestamp="1538008208629">
         <mark key="[" line="733" column="36" />
@@ -717,13 +719,6 @@
         <mark key="]" line="16" column="37" />
         <mark key="^" line="8" column="47" />
         <mark key="." line="16" column="37" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/reducer.js" timestamp="1537920898798">
-        <mark key="'" line="70" column="19" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="51" />
-        <mark key="^" line="73" column="66" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/mutations.js" timestamp="1537506661101">
         <mark key="[" line="14" column="0" />
@@ -993,29 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="46" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
-      <jump line="18" column="38" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
-      <jump line="98" column="27" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
-      <jump line="192" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" />
-      <jump line="108" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/simulation/index.js" />
-      <jump line="13" column="3" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/service.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/dictionary/sagas.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" />
-      <jump line="8" column="31" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/statistic.js" />
-      <jump line="44" column="37" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" />
-      <jump line="56" column="9" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" />
-      <jump line="91" column="13" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/account/Form.vue" />
-      <jump line="23" column="0" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/model.js" />
-      <jump line="13" column="6" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/ListTile.vue" />
-      <jump line="106" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
-      <jump line="111" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" />
-      <jump line="78" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/dictionary/index.js" />
-      <jump line="102" column="23" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" />
-      <jump line="110" column="29" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" />
-      <jump line="10" column="71" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Form.vue" />
-      <jump line="762" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="171" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="50" column="26" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="52" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
@@ -1093,40 +1065,63 @@
       <jump line="27" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
       <jump line="36" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
       <jump line="74" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/config/index.js" />
+      <jump line="13" column="25" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="40" column="28" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="9" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="42" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="51" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="7" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="15" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="24" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="46" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="49" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="52" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="58" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="59" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="60" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="61" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="31" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="32" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="33" column="36" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="56" column="3" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
+      <jump line="12" column="22" filename="$USER_HOME$/src/mba/mbcsl-admin/package.json" />
+      <jump line="18" column="21" filename="$USER_HOME$/src/mba/mbcsl-admin/package.json" />
+      <jump line="49" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/package.json" />
+      <jump line="52" column="19" filename="$USER_HOME$/src/mba/mbcsl-admin/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
+      <register name="&quot;" type="4">
+        <text>4.17.2</text>
       </register>
       <register name="-" type="4">
-        <text>cookie</text>
+        <text>4.17.2</text>
       </register>
       <register name="/" type="4">
-        <text>Schema</text>
+        <text>prettier</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
+        <text encoding="base64">ICAgICJodXNreSI6ICIwLjE0LjMiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGR1bW15IGRhdGEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZG9tYWluSWQgfSA9IGN0eC5zc29Db29raWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGR1bW15IGRhdGEnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3NvQ29va2llOiB7IGRvbWFpbklkIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZG9tYWluSWQgfSA9IGN0eC5zc29Db29raWUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgc3NvQ29va2llOiB7IGRvbWFpbklkIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgIH0gPSBjdHgK</text>
+        <text encoding="base64">ICAgICAgc3NvQ29va2llOiB7IGRvbWFpbklkIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3NvQ29va2llOiB7IGRvbWFpbklkIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsKICAgIH0gPSBjdHgK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgc3NvQ29va2llOiB7IGRvbWFpbklkIH0sCg==</text>
@@ -1139,23 +1134,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Schema</last-search>
+      <last-search>prettier</last-search>
       <last-offset />
-      <last-pattern>Schema</last-pattern>
+      <last-pattern>prettier</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getIn</entry>
-        <entry>connec</entry>
-        <entry>diction</entry>
-        <entry>servi</entry>
-        <entry>conn</entry>
-        <entry>REMOV</entry>
-        <entry>ssh</entry>
-        <entry>valida</entry>
-        <entry encoding="base64">XDxBcGlcPg==</entry>
         <entry>API</entry>
         <entry encoding="base64">XDxBUElcPg==</entry>
         <entry>push</entry>
@@ -1167,6 +1153,15 @@
         <entry>hide</entry>
         <entry>schema</entry>
         <entry>Schema</entry>
+        <entry>core</entry>
+        <entry>stamp</entry>
+        <entry>koa</entry>
+        <entry>seq</entry>
+        <entry>webpack</entry>
+        <entry>winso</entry>
+        <entry>winst</entry>
+        <entry>eslint</entry>
+        <entry>prettier</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
