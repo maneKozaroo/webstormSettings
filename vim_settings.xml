@@ -130,6 +130,9 @@
         <mark key="^" line="34" column="46" />
         <mark key="." line="34" column="46" />
       </file>
+      <file name="$USER_HOME$/src/experiments/postgres-rails-vue/api/config/environments/production.rb" timestamp="1538027489599">
+        <mark key="'" line="8" column="56" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" timestamp="1536623955309">
         <mark key="'" line="16" column="22" />
         <mark key="[" line="20" column="16" />
@@ -195,6 +198,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/postgres-rails-vue/api/config/environments/development.rb" timestamp="1538027481849">
+        <mark key="'" line="37" column="43" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/docker-compose.yml" timestamp="1538018494654">
         <mark key="[" line="5" column="19" />
@@ -976,8 +982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="49" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
-      <jump line="55" column="53" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="84" column="41" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="15" column="78" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
@@ -1076,6 +1080,8 @@
       <jump line="28" column="19" filename="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/Dockerfile" />
       <jump line="12" column="0" filename="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/Dockerfile" />
       <jump line="15" column="34" filename="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/Dockerfile-prod" />
+      <jump line="37" column="43" filename="$USER_HOME$/src/experiments/postgres-rails-vue/api/config/environments/development.rb" />
+      <jump line="8" column="56" filename="$USER_HOME$/src/experiments/postgres-rails-vue/api/config/environments/production.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1085,7 +1091,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>prettier</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
@@ -1122,15 +1128,14 @@
       </register>
     </registers>
     <search>
-      <last-search>prettier</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>prettier</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>API</entry>
         <entry encoding="base64">XDxBUElcPg==</entry>
         <entry>push</entry>
         <entry>seconds</entry>
@@ -1150,6 +1155,7 @@
         <entry>winst</entry>
         <entry>eslint</entry>
         <entry>prettier</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
