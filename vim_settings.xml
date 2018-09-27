@@ -104,13 +104,6 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/package.json" timestamp="1538011304001">
-        <mark key="'" line="56" column="3" />
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="18" />
-        <mark key="." line="35" column="18" />
-        <mark key="^" line="54" column="21" />
-      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" timestamp="1537935203709">
         <mark key="'" line="31" column="4" />
         <mark key="[" line="14" column="0" />
@@ -580,6 +573,12 @@
         <mark key="." line="405" column="38" />
         <mark key="^" line="405" column="38" />
       </file>
+      <file name="$USER_HOME$/src/experiments/postgres-rails-vue/api/Dockerfile" timestamp="1538028508243">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="14" column="57" />
+        <mark key="^" line="14" column="57" />
+        <mark key="." line="14" column="57" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Form.vue" timestamp="1537500655996">
         <mark key="'" line="50" column="7" />
         <mark key="[" line="90" column="0" />
@@ -929,11 +928,10 @@
         <mark key="^" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/config/index.js" timestamp="1538006216353">
-        <mark key="'" line="75" column="11" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="84" column="24" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/simulation/sagas.js" timestamp="1536910803479">
         <mark key="[" line="54" column="0" />
@@ -1084,8 +1082,8 @@
       <jump line="8" column="56" filename="$USER_HOME$/src/experiments/postgres-rails-vue/api/config/environments/production.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBDb3B5IHRoZSBtYWluIGFwcGxpY2F0aW9uLgo=</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -1097,31 +1095,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCByZWFjdC1zY3JpcHRzQDEuMS41Cg==</text>
+        <text encoding="base64">IyBDb3B5IHRoZSBtYWluIGFwcGxpY2F0aW9uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBidWlsZCBlbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9wcApXT1JLRElSIC9hcHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCByZWFjdC1zY3JpcHRzQDEuMS41Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CkNNRCBbIm5wbSIsICJzdGFydCJdCg==</text>
+        <text encoding="base64">IyBidWlsZCBlbnZpcm9ubWVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMgc3RhcnQgYXBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBpbnN0YWxsIGFuZCBjYWNoZSBhcHAgZGVwZW5kZW5jaWVzClJVTiBucG0gaW5zdGFsbCByZWFjdC1zY3JpcHRzQDEuMS4xIC1nIC0tc2lsZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC0tc2lsZW50Cg==</text>
+        <text encoding="base64">CkNNRCBbIm5wbSIsICJzdGFydCJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
