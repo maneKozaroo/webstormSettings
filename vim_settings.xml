@@ -341,6 +341,12 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/src/experiments/postgres-rails-vue/api/docker-compose.yml" timestamp="1538029444151">
+        <mark key="'" line="12" column="10" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/connections.js" timestamp="1538007372254">
         <mark key="'" line="9" column="17" />
         <mark key="[" line="109" column="36" />
@@ -980,7 +986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="41" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" />
       <jump line="15" column="78" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/statistics/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
       <jump line="25" column="701" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
@@ -1080,6 +1085,7 @@
       <jump line="15" column="34" filename="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/Dockerfile-prod" />
       <jump line="37" column="43" filename="$USER_HOME$/src/experiments/postgres-rails-vue/api/config/environments/development.rb" />
       <jump line="8" column="56" filename="$USER_HOME$/src/experiments/postgres-rails-vue/api/config/environments/production.rb" />
+      <jump line="12" column="10" filename="$USER_HOME$/src/experiments/postgres-rails-vue/api/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
