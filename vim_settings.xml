@@ -38,11 +38,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" timestamp="1538091805649">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" timestamp="1538097934333">
         <mark key="'" line="27" column="17" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/fileUploads/index.js" timestamp="1537486895488">
         <mark key="[" line="9" column="0" />
@@ -149,11 +149,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180927235358-users.js" timestamp="1538097033669">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180927235358-users.js" timestamp="1538097834287">
         <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-        <mark key="^" line="3" column="10" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/Properties/index.js" timestamp="1537253427152">
         <mark key="[" line="169" column="0" />
@@ -891,11 +891,11 @@
       <jump line="12" column="10" filename="$USER_HOME$/src/experiments/postgres-rails-vue/api/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>domainId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGN0eC51c2VyRGV0YWlscyA9IHVzZXJEZXRhaWxzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>domainId</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -904,31 +904,31 @@
         <text encoding="base64">ICAgIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCdkb21haW5zJywgewogICAgICBkb21haW5JZDogewogICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICB0eXBlOiBTZXF1ZWxpemUuU1RSSU5HLAogICAgICB9LAogICAgICBjcmVhdGVkQXQ6IHsKICAgICAgICBhbGxvd051bGw6IGZhbHNlLAogICAgICAgIGRlZmF1bHRWYWx1ZTogU2VxdWVsaXplLmxpdGVyYWwoJ0NVUlJFTlRfVElNRVNUQU1QJyksCiAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUsCiAgICAgIH0sCiAgICAgIHVwZGF0ZWRBdDogewogICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgZGVmYXVsdFZhbHVlOiBTZXF1ZWxpemUubGl0ZXJhbCgnQ1VSUkVOVF9USU1FU1RBTVAnKSwKICAgICAgICB0eXBlOiBTZXF1ZWxpemUuREFURSwKICAgICAgfSwKICAgIH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCBhbHRlcmluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoJ3VzZXJzJywgeyBpZDogU2VxdWVsaXplLklOVEVHRVIgfSk7CiAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGN0eC51c2VyRGV0YWlscyA9IHVzZXJEZXRhaWxzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCBhbHRlcmluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoJ3VzZXJzJywgeyBpZDogU2VxdWVsaXplLklOVEVHRVIgfSk7CiAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dmVyCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW5uaW5nIG1pZGRsZXdhcmUnKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmVyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW5uaW5nIG1pZGRsZXdhcmUnKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYXV0aGVudGljYXRvciA9IG5ldyBBdXRoZW50aWNhdG9yKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">Ly8gY29uc3QgYXV0aGVudGljYXRvciA9IG5ldyBBdXRoZW50aWNhdG9yKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
