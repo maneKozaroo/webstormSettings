@@ -56,6 +56,12 @@
         <mark key="^" line="21" column="3980" />
         <mark key="." line="21" column="3980" />
       </file>
+      <file name="$USER_HOME$/src/experiments/webapp/docker/docker-compose.yml" timestamp="1538093024994">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/transaction/Row.vue" timestamp="1537234109466">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="23" />
@@ -867,7 +873,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW5uaW5nIG1pZGRsZXdhcmUnKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>new</text>
@@ -879,31 +885,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW5uaW5nIG1pZGRsZXdhcmUnKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYXV0aGVudGljYXRvciA9IG5ldyBBdXRoZW50aWNhdG9yKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW5uaW5nIG1pZGRsZXdhcmUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBDb3B5IHRoZSBtYWluIGFwcGxpY2F0aW9uLgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gY29uc3QgYXV0aGVudGljYXRvciA9IG5ldyBBdXRoZW50aWNhdG9yKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9wcApXT1JLRElSIC9hcHAK</text>
+        <text encoding="base64">IyBDb3B5IHRoZSBtYWluIGFwcGxpY2F0aW9uLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCByZWFjdC1zY3JpcHRzQDEuMS41Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
