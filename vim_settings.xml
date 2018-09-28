@@ -527,11 +527,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/src/experiments/webapp/app/Dockerfile.prod" timestamp="1538093934189">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="28" />
+      <file name="$USER_HOME$/src/experiments/webapp/app/Dockerfile.prod" timestamp="1538096297240">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/src/App.js" timestamp="1538019484026">
         <mark key="[" line="10" column="52" />
