@@ -149,6 +149,12 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180927235358-users.js" timestamp="1538097033669">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/Properties/index.js" timestamp="1537253427152">
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
@@ -885,11 +891,11 @@
       <jump line="12" column="10" filename="$USER_HOME$/src/experiments/postgres-rails-vue/api/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCBhbHRlcmluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoJ3VzZXJzJywgeyBpZDogU2VxdWVsaXplLklOVEVHRVIgfSk7CiAgICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>domainId</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>domainId</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
