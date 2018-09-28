@@ -527,6 +527,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/src/experiments/webapp/app/Dockerfile.prod" timestamp="1538093934189">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/src/App.js" timestamp="1538019484026">
         <mark key="[" line="10" column="52" />
         <mark key="]" line="10" column="52" />
@@ -538,6 +544,9 @@
         <mark key="]" line="13" column="98" />
         <mark key="." line="13" column="98" />
         <mark key="^" line="13" column="75" />
+      </file>
+      <file name="$USER_HOME$/src/experiments/webapp/docker/docker-compose.prod.yml" timestamp="1538094698502">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/router/index.js" timestamp="1538005334493">
         <mark key="[" line="16" column="36" />
@@ -574,6 +583,10 @@
         <mark key="]" line="103" column="70" />
         <mark key="^" line="103" column="70" />
         <mark key="." line="103" column="70" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180405131705-create-domains.js" timestamp="1538094490805">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/dictionary/index.js" timestamp="1537486542744">
         <mark key="[" line="26" column="31" />
@@ -873,43 +886,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCBhbHRlcmluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoJ3VzZXJzJywgeyBpZDogU2VxdWVsaXplLklOVEVHRVIgfSk7CiAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzaW5nIGNvb2tpZScpCg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCdkb21haW5zJywgewogICAgICBkb21haW5JZDogewogICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgcHJpbWFyeUtleTogdHJ1ZSwKICAgICAgICB0eXBlOiBTZXF1ZWxpemUuU1RSSU5HLAogICAgICB9LAogICAgICBjcmVhdGVkQXQ6IHsKICAgICAgICBhbGxvd051bGw6IGZhbHNlLAogICAgICAgIGRlZmF1bHRWYWx1ZTogU2VxdWVsaXplLmxpdGVyYWwoJ0NVUlJFTlRfVElNRVNUQU1QJyksCiAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUsCiAgICAgIH0sCiAgICAgIHVwZGF0ZWRBdDogewogICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgZGVmYXVsdFZhbHVlOiBTZXF1ZWxpemUubGl0ZXJhbCgnQ1VSUkVOVF9USU1FU1RBTVAnKSwKICAgICAgICB0eXBlOiBTZXF1ZWxpemUuREFURSwKICAgICAgfSwKICAgIH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCBhbHRlcmluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoJ3VzZXJzJywgeyBpZDogU2VxdWVsaXplLklOVEVHRVIgfSk7CiAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW5uaW5nIG1pZGRsZXdhcmUnKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYXV0aGVudGljYXRvciA9IG5ldyBBdXRoZW50aWNhdG9yKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW5uaW5nIG1pZGRsZXdhcmUnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gY29uc3QgYXV0aGVudGljYXRvciA9IG5ldyBBdXRoZW50aWNhdG9yKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDb3B5IHRoZSBtYWluIGFwcGxpY2F0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
