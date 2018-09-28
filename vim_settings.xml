@@ -86,6 +86,13 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" timestamp="1538100019963">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/authenticator/index.ts" timestamp="1537935203709">
         <mark key="'" line="31" column="4" />
         <mark key="[" line="14" column="0" />
@@ -694,6 +701,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="1" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/botLogs/index.js" timestamp="1538099493556">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="6" column="64" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1537426533111">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="38" />
@@ -1111,10 +1124,12 @@
         <mark key="." line="13" column="96" />
         <mark key="^" line="13" column="96" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/index.js" timestamp="1538007238284">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/index.js" timestamp="1538099561840">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/faqs.ts" timestamp="1536624457567">
         <mark key="'" line="2" column="12" />
@@ -1160,9 +1175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
-      <jump line="50" column="0" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.09.34.csv" />
-      <jump line="24" column="71" filename="$USER_HOME$/Downloads/local-test-statistics-questions-2018.09.19-15.17.05.csv" />
       <jump line="10" column="45" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Card.vue" />
       <jump line="10" column="50" filename="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/getters.js" />
       <jump line="65" column="17" filename="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Form.vue" />
@@ -1260,46 +1272,49 @@
       <jump line="19" column="5" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180927235411-apiKeys.js" />
       <jump line="20" column="58" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180927235411-apiKeys.js" />
       <jump line="19" column="56" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180927235358-users.js" />
+      <jump line="2" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" />
+      <jump line="130" column="25" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>domainId</text>
+        <text>ctx.req.headers</text>
       </register>
       <register name="-" type="4">
-        <text>domainId</text>
+        <text>ctx.req.headers</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZG9tYWluSWQ6IHsKICAgICAgICB0eXBlOiBTZXF1ZWxpemUuU1RSSU5HLAogICAgICB9LAo=</text>
+        <text encoding="base64">VmVyc2lvbjEudXNlKCcvY29ubmVjdGlvbnMnLCBDb25uZWN0aW9ucy5yb3V0ZXMoKSwgQ29ubmVjdGlvbnMuYWxsb3dlZE1ldGhvZHMoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">VmVyc2lvbjEudXNlKCcvc3VnZ2VzdCcsIFN1Z2dlc3Qucm91dGVzKCksIFN1Z2dlc3QuYWxsb3dlZE1ldGhvZHMoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZG9tYWluSWQ6IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkb3duOiAocXVlcnlJbnRlcmZhY2UsIFNlcXVlbGl6ZSkgPT4gewogIH0sCg==</text>
+        <text encoding="base64">Q29ubmVjdGlvbnMuZGVsZXRlKCcvOmNvbm5lY3Rpb25JZCcsIGRlc3Ryb3kpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29ubmVjdGlvbnMucGF0Y2goJy86Y29ubmVjdGlvbklkJywgdXBkYXRlKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCByZXZlcnRpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmRyb3BUYWJsZSgndXNlcnMnKTsKICAgICovCg==</text>
+        <text encoding="base64">Q29ubmVjdGlvbnMuZ2V0KCcvOmNvbm5lY3Rpb25JZCcsIHJlYWQpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29ubmVjdGlvbnMuZ2V0KCcvJywgbGlzdCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
