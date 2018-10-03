@@ -312,7 +312,8 @@
         <mark key="." line="37" column="18" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" timestamp="1538545410276">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" timestamp="1538606594534">
+        <mark key="'" line="491" column="0" />
         <mark key="[" line="459" column="26" />
         <mark key="]" line="459" column="30" />
         <mark key="^" line="459" column="30" />
@@ -1015,12 +1016,12 @@
         <mark key="." line="39" column="40" />
         <mark key="^" line="39" column="40" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1538605625385">
-        <mark key="'" line="265" column="10" />
-        <mark key="[" line="269" column="22" />
-        <mark key="]" line="269" column="27" />
-        <mark key="." line="269" column="27" />
-        <mark key="^" line="269" column="27" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1538606820239">
+        <mark key="'" line="274" column="20" />
+        <mark key="[" line="287" column="18" />
+        <mark key="]" line="287" column="24" />
+        <mark key="." line="287" column="24" />
+        <mark key="^" line="287" column="24" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/batch/package.json" timestamp="1536641975047">
         <mark key="[" line="7" column="28" />
@@ -1183,11 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/models/StatisticsLambda.js" />
-      <jump line="10" column="17" filename="$USER_HOME$/Documents/Mobi-Console/3_dictionary_5_duplicate_synonyms.csv" />
-      <jump line="15" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
-      <jump line="3" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
       <jump line="20" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
       <jump line="33" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
       <jump line="39" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
@@ -1283,61 +1279,65 @@
       <jump line="263" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="32" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="252" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="454" column="33" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
+      <jump line="461" column="24" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
+      <jump line="462" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
+      <jump line="491" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
+      <jump line="274" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyh7IGludGVudFJlc3BvbnNlcyB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>newIntents</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>newIntents</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnRpdHlUeXBlc0NsaWVudFw+</text>
+        <text>ES</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkZWxldGUtYmVmb3JlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyh7IGludGVudFJlc3BvbnNlcyB9KQo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2cob3BlcmF0aW9uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGludGVudFJlcXVlc3RzID0gW10K</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyh7IHJlc3BvbnNlcyB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW50ZW50UmVxdWVzdHMucHVzaChyZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyByZXF1ZXN0IH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGludGVudFJlc3BvbnNlcyA9IGF3YWl0IFByb21pc2UuYWxsKGludGVudFJlcXVlc3RzKQo=</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyh7IGludGVudFJlc3BvbnNlcyB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1xcXFxcXFxcXFwvLy8vLy8vLy8vXFxcXFxcXFxcXC8vLy8vLy8vLy8gJW8nLCB7IG9wZXJhdGlvbiwgcmVzdWx0IH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGludGVudFJlcXVlc3RzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgaW50ZW50UmVxdWVzdHMucHVzaChyZXF1ZXN0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IFByb21pc2UuYWxsKGVudGl0eVJlcXVlc3RzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGludGVudFJlc3BvbnNlcyA9IGF3YWl0IFByb21pc2UuYWxsKGludGVudFJlcXVlc3RzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1xcXFxcXFxcXFwvLy8vLy8vLy8vXFxcXFxcXFxcXC8vLy8vLy8vLy8gJW8nLCB7IG9wZXJhdGlvbiwgcmVzdWx0IH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW50aXR5UmVxdWVzdHMucHVzaCgK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnRpdHlUeXBlc0NsaWVudFw+</last-search>
+      <last-search>ES</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnRpdHlUeXBlc0NsaWVudFw+</last-pattern>
+      <last-pattern>ES</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>seconds</entry>
         <entry>second</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvblw+</entry>
         <entry>delete</entry>
@@ -1357,6 +1357,7 @@
         <entry>logger</entry>
         <entry>parse</entry>
         <entry encoding="base64">XDxlbnRpdHlUeXBlc0NsaWVudFw+</entry>
+        <entry>ES</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
