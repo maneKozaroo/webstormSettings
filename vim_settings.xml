@@ -10,11 +10,11 @@
         <mark key="." line="18" column="53" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/statistics.js" timestamp="1538008300375">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="25" column="52" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/statistics.js" timestamp="1538527061207">
+        <mark key="[" line="21" column="144" />
+        <mark key="]" line="21" column="192" />
+        <mark key="." line="21" column="192" />
+        <mark key="^" line="21" column="192" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" timestamp="1537256344907">
         <mark key="[" line="187" column="0" />
@@ -83,11 +83,11 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" timestamp="1538522113578">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="24" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" timestamp="1538526250205">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/ledger/model.js" timestamp="1537397702706">
         <mark key="[" line="33" column="13" />
@@ -240,11 +240,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="16" column="12" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Settings/index.js" timestamp="1538367980987">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="." line="228" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Destroy.vue" timestamp="1537485808599">
         <mark key="'" line="37" column="19" />
@@ -452,6 +447,13 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Statistics/StatisticDetails.js" timestamp="1538527178160">
+        <mark key="'" line="246" column="10" />
+        <mark key="[" line="326" column="48" />
+        <mark key="]" line="326" column="53" />
+        <mark key="." line="326" column="53" />
+        <mark key="^" line="326" column="53" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/settings/index.ts" timestamp="1536624688272">
         <mark key="[" line="13" column="31" />
@@ -780,6 +782,12 @@
         <mark key="]" line="499" column="3" />
         <mark key="^" line="499" column="3" />
         <mark key="." line="499" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/botLog.js" timestamp="1538526679192">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/services.ts" timestamp="1536623955309">
         <mark key="'" line="16" column="22" />
@@ -1277,7 +1285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="42" filename="/Volumes/Storage/Source/maneblog/src/store/modules/posts/actions.js" />
       <jump line="45" column="52" filename="/Volumes/Storage/Source/maneblog/src/api/index.js" />
       <jump line="15" column="5" filename="/Volumes/Storage/Source/maneblog/src/api/index.js" />
       <jump line="74" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/dictionaries.js" />
@@ -1377,61 +1384,61 @@
       <jump line="22" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/index.js" />
       <jump line="57" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
       <jump line="7" column="24" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" />
+      <jump line="246" column="10" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Statistics/StatisticDetails.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHx8IFtd</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">IHx8IFtd</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>parse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VmVyc2lvbjEudXNlKCcvYXBpS2V5JywgQVBJS2V5cy5yb3V0ZXMoKSwgQVBJS2V5cy5hbGxvd2VkTWV0aG9kcygpKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZTogewogICAgICAgICAgbm90RW1wdHk6IHRydWUsCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtZXNzYWdlOiAnZGF0YS5taXNzaW5nJywKICAgICAgICAgICAgICB0YXJnZXQ6ICdoZWFkZXJzLm1iY3NsLWFwaWtleScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnOiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICAgIH0pLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgYXBpS2V5IH0pCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlcnJvcjogJ2RhdGEubWlzc2luZycsCiAgICAgICAgICAgICAgdGFyZ2V0OiAndXNlcklucHV0JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHV1aWR2NCBmcm9tICd1dWlkL3Y0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgYm90TG9nIH0pCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yOiAnZGF0YS5taXNzaW5nJywKICAgICAgICAgICAgICAgIHBhdGg6ICdoZWFkZXIubWJjc2wtYXBpa2V5JywK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbGlkYXRpb24gPSBhd2FpdCBib3RMb2cudmFsaWRhdGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICBjb25zb2xlLmxvZyhhcGlLZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5vdEVtcHR5OiB7CiAgICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>parse</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>parse</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBUElcPg==</entry>
         <entry>push</entry>
         <entry>seconds</entry>
         <entry>second</entry>
@@ -1451,6 +1458,7 @@
         <entry>eslint</entry>
         <entry>prettier</entry>
         <entry>logger</entry>
+        <entry>parse</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
