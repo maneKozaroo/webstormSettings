@@ -157,7 +157,6 @@
         <mark key="." line="32" column="13" />
         <mark key="^" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Dashboard/index.js" timestamp="1538372480501" />
       <file name="/Volumes/Storage/Source/maneblog/src/containers/New.vue" timestamp="1537833554541">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="11" column="1" />
@@ -362,6 +361,12 @@
         <mark key="]" line="4" column="36" />
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
+      </file>
+      <file name="/Volumes/Storage/Source/docker/.gitignore" timestamp="1538612130817">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/dictionaries/index.ts" timestamp="1536624273037">
         <mark key="[" line="13" column="35" />
@@ -758,6 +763,12 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
+      </file>
+      <file name="/Volumes/Storage/Source/docker/docker-compose.yml" timestamp="1538613999605">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/db/index.js" timestamp="1538354128114">
         <mark key="[" line="36" column="4" />
@@ -1296,10 +1307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd051bGw6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgIC0gUE9TVEdSRVNfVVNFUj1yYWlsc19hZG1pbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text encoding="base64">IC4vcG9zdGdyZXMtZGF0YQ==</text>
       </register>
       <register name="/" type="4">
         <text>ES</text>
@@ -1308,28 +1319,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICBpZiAoIXF1ZXN0aW9uKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoIidhbnN3ZXIucXVlc3Rpb24nIG11c3QgYmUgcHJlc2VudCIpCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd051bGw6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgIC0gUE9TVEdSRVNfVVNFUj1yYWlsc19hZG1pbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCB7IGFuc3dlciB9ID0gSlNPTi5wYXJzZSh2YWx1ZU9iamVjdCkK</text>
+        <text encoding="base64">ICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9cmFpbHNfcGFzc3dvcmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoIWNvbmZpZGVuY2UpIHsKICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcigiJ2Fuc3dlci5jb25maWRlbmNlJyBtdXN0IGJlIHByZXNlbnQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoIXF1ZXN0aW9uKSB7CiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIFBPU1RHUkVTX1VTRVI9cmFpbHNfYWRtaW4KICAgICAgLSBQT1NUR1JFU19QQVNTV09SRD1yYWlsc19wYXNzd29yZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcigiJ2Fuc3dlci5xdWVzdGlvbicgbXVzdCBiZSBwcmVzZW50IikK</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgIGV4cG9zZToKICAgICAgLSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbnN3ZXIucXVlc3Rpb24K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
