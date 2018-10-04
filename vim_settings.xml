@@ -764,11 +764,11 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="/Volumes/Storage/Source/docker/docker-compose.yml" timestamp="1538613999605">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="30" />
+      <file name="/Volumes/Storage/Source/docker/docker-compose.yml" timestamp="1538626009145">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/db/index.js" timestamp="1538354128114">
         <mark key="[" line="36" column="4" />
@@ -1307,10 +1307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>The current key will be permanently deleted and unusable! Are you sure you want to generate a new API Key?</text>
+        <text>5432</text>
       </register>
       <register name="-" type="4">
-        <text>The current key will be permanently deleted and unusable! Are you sure you want to generate a new API Key?</text>
+        <text>5432</text>
       </register>
       <register name="/" type="4">
         <text>ES</text>
