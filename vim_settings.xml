@@ -694,11 +694,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/apiKey.js" timestamp="1538376098350">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/apiKey.js" timestamp="1538616106659">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="40" />
+        <mark key="." line="9" column="40" />
+        <mark key="^" line="9" column="40" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/index.js" timestamp="1538367445919">
         <mark key="'" line="13" column="42" />
@@ -1306,11 +1306,11 @@
       <jump line="274" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gUE9TVEdSRVNfVVNFUj1yYWlsc19hZG1pbgo=</text>
+      <register name="&quot;" type="4">
+        <text>The current key will be permanently deleted and unusable! Are you sure you want to generate a new API Key?</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4vcG9zdGdyZXMtZGF0YQ==</text>
+        <text>The current key will be permanently deleted and unusable! Are you sure you want to generate a new API Key?</text>
       </register>
       <register name="/" type="4">
         <text>ES</text>
