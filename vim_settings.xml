@@ -362,11 +362,11 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="/Volumes/Storage/Source/docker/.gitignore" timestamp="1538612130817">
+      <file name="/Volumes/Storage/Source/docker/.gitignore" timestamp="1538627058168">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/dictionaries/index.ts" timestamp="1536624273037">
         <mark key="[" line="13" column="35" />
@@ -764,11 +764,11 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="/Volumes/Storage/Source/docker/docker-compose.yml" timestamp="1538626009145">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
+      <file name="/Volumes/Storage/Source/docker/docker-compose.yml" timestamp="1538626825643">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/db/index.js" timestamp="1538354128114">
         <mark key="[" line="36" column="4" />
@@ -1307,10 +1307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5432</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>5432</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>ES</text>
@@ -1319,31 +1319,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBpZiAoIXF1ZXN0aW9uKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoIidhbnN3ZXIucXVlc3Rpb24nIG11c3QgYmUgcHJlc2VudCIpCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gUE9TVEdSRVNfVVNFUj1yYWlsc19hZG1pbgo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICI1NDMzOjU0MzIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9cmFpbHNfcGFzc3dvcmQK</text>
+        <text encoding="base64">ICAgIC0gUE9TVEdSRVNfVVNFUj1yYWlsc19hZG1pbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9cmFpbHNfcGFzc3dvcmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIFBPU1RHUkVTX1VTRVI9cmFpbHNfYWRtaW4KICAgICAgLSBQT1NUR1JFU19QQVNTV09SRD1yYWlsc19wYXNzd29yZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIFBPU1RHUkVTX1VTRVI9cmFpbHNfYWRtaW4KICAgICAgLSBQT1NUR1JFU19QQVNTV09SRD1yYWlsc19wYXNzd29yZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cG9zZToKICAgICAgLSAK</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGV4cG9zZToKICAgICAgLSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
