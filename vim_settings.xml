@@ -709,10 +709,10 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="/Volumes/Storage/Source/containers/docker-compose.yml" timestamp="1538699788210">
-        <mark key="[" line="48" column="14" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="18" />
+      <file name="/Volumes/Storage/Source/containers/docker-compose.yml" timestamp="1538722288131">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
         <mark key="^" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1537489070172">
@@ -1363,8 +1363,8 @@
       <jump line="2" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/models/Service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>text</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgYXBwLXJlYWN0Ogo=</text>
       </register>
       <register name="-" type="4">
         <text>text</text>
@@ -1376,31 +1376,31 @@
         <text encoding="base64">ICAgICAgZG9tYWluSWQ6IHsKICAgICAgICBhbGxvd051bGw6IGZhbHNlLAogICAgICAgIHByaW1hcnlLZXk6IHRydWUsCiAgICAgICAgdHlwZTogRGF0YVR5cGVzLlNUUklORywKICAgICAgfSwKICAgICAgY3JlYXRlZEF0OiB7CiAgICAgICAgYWxsb3dOdWxsOiBmYWxzZSwKICAgICAgICBkZWZhdWx0VmFsdWU6IHNlcXVlbGl6ZS5saXRlcmFsKCdDVVJSRU5UX1RJTUVTVEFNUCcpLAogICAgICAgIHR5cGU6IERhdGFUeXBlcy5EQVRFLAogICAgICB9LAogICAgICB1cGRhdGVkQXQ6IHsKICAgICAgICBhbGxvd051bGw6IGZhbHNlLAogICAgICAgIGRlZmF1bHRWYWx1ZTogc2VxdWVsaXplLmxpdGVyYWwoJ0NVUlJFTlRfVElNRVNUQU1QJyksCiAgICAgICAgdHlwZTogRGF0YVR5cGVzLkRBVEUsCiAgICAgIH0s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlcmU6IGV4YW1wbGVRdWVyeSwK</text>
+        <text encoding="base64">IyAgYXBwLXJlYWN0Ogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAogICAgICAnZG9tYWluOiAlbycsCiAgICAgIGF3YWl0IGN0eC5kYi5Eb21haW4uZmluZE9uZSh7CiAgICAgICAgd2hlcmU6IHsgZG9tYWluSWQ6ICdqeicgfQogICAgICB9KQogICAgKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlcmU6IGV4YW1wbGVRdWVyeSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXV0aGVudGljYXRvciB9IGZyb20gJy4vYXV0aGVudGljYXRvcicK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAogICAgICAnZG9tYWluOiAlbycsCiAgICAgIGF3YWl0IGN0eC5kYi5Eb21haW4uZmluZE9uZSh7CiAgICAgICAgd2hlcmU6IHsgZG9tYWluSWQ6ICdqeicgfQogICAgICB9KQogICAgKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgYXV0aGVudGljYXRvciB9IGZyb20gJy4vYXV0aGVudGljYXRvcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgbW9kZWxzID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgbW9kZWxzID0gewogICAgRG9tYWluOiBEb21haW4uaW5pdChzZXF1ZWxpemUsIFNlcXVlbGl6ZSksCiAgfQo=</text>
+        <text encoding="base64">CiAgbW9kZWxzID0gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgbW9kZWxzID0gewogICAgRG9tYWluOiBEb21haW4uaW5pdChzZXF1ZWxpemUsIFNlcXVlbGl6ZSksCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXQgbW9kZWxzKCkgewogICAgcmV0dXJuIHsKICAgIH0KICB9CiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZXQgbW9kZWxzKCkgewogICAgcmV0dXJuIHsKICAgIH0KICB9CiAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
