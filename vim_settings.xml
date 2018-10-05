@@ -52,7 +52,8 @@
         <mark key="." line="21" column="32" />
         <mark key="^" line="21" column="32" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" timestamp="1538522670920">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" timestamp="1538701390486">
+        <mark key="'" line="4" column="20" />
         <mark key="[" line="53" column="24" />
         <mark key="]" line="53" column="34" />
         <mark key="." line="53" column="34" />
@@ -383,6 +384,13 @@
         <mark key="]" line="23" column="8" />
         <mark key="^" line="23" column="8" />
         <mark key="." line="23" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" timestamp="1538701754096">
+        <mark key="'" line="99" column="2" />
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin-vue/docker-compose.yml" timestamp="1538021478515">
         <mark key="[" line="13" column="12" />
@@ -879,11 +887,11 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/db/index.js" timestamp="1538354128114">
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="5" />
-        <mark key="." line="36" column="5" />
-        <mark key="^" line="36" column="53" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/db/index.js" timestamp="1538701744854">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/apiKey.js" timestamp="1538376127161">
         <mark key="[" line="2" column="51" />
@@ -1256,6 +1264,12 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/db/models/domain.js" timestamp="1538701906118">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1538008267466">
         <mark key="'" line="69" column="21" />
         <mark key="[" line="27" column="11" />
@@ -1323,11 +1337,11 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/server.js" timestamp="1538118090739">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="34" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="34" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/server.js" timestamp="1538701479245">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/config/index.js" timestamp="1538006216353">
         <mark key="[" line="81" column="0" />
@@ -1356,9 +1370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
-      <jump line="27" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
-      <jump line="36" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
       <jump line="74" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/config/index.js" />
       <jump line="13" column="25" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="40" column="28" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
@@ -1456,61 +1467,63 @@
       <jump line="15" column="4" filename="/Volumes/Storage/Source/docker/docker-compose.yml" />
       <jump line="16" column="0" filename="/Volumes/Storage/Source/containers/app-vue/Dockerfile" />
       <jump line="10" column="14" filename="/Volumes/Storage/Source/containers/app-react/Dockerfile" />
+      <jump line="4" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
+      <jump line="756" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
+      <jump line="97" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFNlcXVlbGl6ZSBmcm9tICdzZXF1ZWxpemUnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>ES</text>
+        <text>this</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBhcHAtdnVlOgogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4vYXBwLXZ1ZQogICAgY29tbWFuZDogeWFybiBzZXJ2ZSAtLXBvcnQgOTA4MAogICAgY29udGFpbmVyX25hbWU6ICJhcHAtdnVlIgogICAgcG9ydHM6CiAgICAgIC0gIjkwODA6OTA4MCIKICAgIHZvbHVtZXM6CiAgICAgIC0gIi4vYXBwLXZ1ZTovYXBwLXZ1ZSIKICAgICAgLSAiL2FwcC12dWUvbm9kZV9tb2R1bGVzIgogICAgZGVwZW5kc19vbjoKICAgICAgLSBhcGktcmFpbHM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCBAdnVlL2NsaQo=</text>
+        <text encoding="base64">aW1wb3J0IFNlcXVlbGl6ZSBmcm9tICdzZXF1ZWxpemUnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgYXBwLXZ1ZToK</text>
+        <text encoding="base64">ICAgIHJldHVybiAoKSA9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cG9zZToK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RoaXM6ICVvJywgdGhpcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q09QWSBkb2NrZXItZW50cnlwb2ludC5zaCAvdXNyL2xvY2FsL2Jpbi8KUlVOIGxuIC1zIHVzci9sb2NhbC9iaW4vZG9ja2VyLWVudHJ5cG9pbnQuc2ggLwpFTlRSWVBPSU5UIFsiZG9ja2VyLWVudHJ5cG9pbnQuc2giXQoK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN0eC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGJ1bmRsZSBpbnN0YWxsCg==</text>
+        <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCBAdnVlL2NsaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlIC1xcSAmJiBhcHQtZ2V0IGluc3RhbGwgLXkgYnVpbGQtZXNzZW50aWFsIGxpYnBxLWRldiBub2RlanMKCg==</text>
+        <text encoding="base64">IyAgYXBwLXZ1ZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ES</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>ES</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>second</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvblw+</entry>
         <entry>delete</entry>
         <entry>null</entry>
@@ -1530,6 +1543,7 @@
         <entry>parse</entry>
         <entry encoding="base64">XDxlbnRpdHlUeXBlc0NsaWVudFw+</entry>
         <entry>ES</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
