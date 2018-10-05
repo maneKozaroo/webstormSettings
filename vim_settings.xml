@@ -259,6 +259,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="27" column="1" />
       </file>
+      <file name="/Volumes/Storage/Source/containers/app-react/src/App.tsx" timestamp="1538700012505">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/server.ts" timestamp="1536625996996">
         <mark key="'" line="6" column="31" />
         <mark key="[" line="17" column="13" />
@@ -370,13 +376,6 @@
         <mark key="]" line="37" column="18" />
         <mark key="." line="37" column="18" />
         <mark key="^" line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" timestamp="1538608589605">
-        <mark key="'" line="489" column="0" />
-        <mark key="[" line="457" column="8" />
-        <mark key="]" line="458" column="5" />
-        <mark key="." line="458" column="5" />
-        <mark key="^" line="458" column="5" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/index.js" timestamp="1538367464647">
         <mark key="'" line="20" column="0" />
@@ -769,11 +768,11 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="/Volumes/Storage/Source/containers/docker-compose.yml" timestamp="1538698944435">
-        <mark key="[" line="38" column="9" />
-        <mark key="]" line="39" column="3" />
-        <mark key="." line="39" column="3" />
-        <mark key="^" line="39" column="3" />
+      <file name="/Volumes/Storage/Source/containers/docker-compose.yml" timestamp="1538699788210">
+        <mark key="[" line="48" column="14" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+        <mark key="^" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/pqpa/index.js" timestamp="1537489070172">
         <mark key="'" line="27" column="0" />
@@ -1089,6 +1088,12 @@
         <mark key="^" line="1" column="394" />
         <mark key="." line="1" column="394" />
       </file>
+      <file name="/Volumes/Storage/Source/containers/api-rails/docker-entrypoint.sh" timestamp="1538700162475">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1537318103474">
         <mark key="[" line="23" column="3976" />
         <mark key="]" line="23" column="3976" />
@@ -1175,6 +1180,13 @@
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="28" />
+      </file>
+      <file name="/Volumes/Storage/Source/containers/app-react/Dockerfile" timestamp="1538699732391">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/api/index.js" timestamp="1538361119493">
         <mark key="'" line="31" column="3" />
@@ -1329,13 +1341,6 @@
         <mark key="^" line="59" column="29" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/api/apiKey/index.js" timestamp="1538374183910">
-        <mark key="'" line="3" column="11" />
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="15" column="49" />
-        <mark key="." line="15" column="49" />
-        <mark key="^" line="12" column="53" />
-      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/info.ts" timestamp="1536623751170">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="20" column="16" />
@@ -1351,7 +1356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
       <jump line="49" column="4" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
       <jump line="27" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
       <jump line="36" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
@@ -1451,10 +1455,11 @@
       <jump line="274" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="15" column="4" filename="/Volumes/Storage/Source/docker/docker-compose.yml" />
       <jump line="16" column="0" filename="/Volumes/Storage/Source/containers/app-vue/Dockerfile" />
+      <jump line="10" column="14" filename="/Volumes/Storage/Source/containers/app-react/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgYXBwLXZ1ZToK</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -1463,34 +1468,34 @@
         <text>ES</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBwb3N0Z3JlczoKICAgIGNvbnRhaW5lcl9uYW1lOiAicG9zdGdyZXMiCiAgICBlbnZpcm9ubWVudDoKICAgIC0gUE9TVEdSRVNfVVNFUj1yYWlsc19hZG1pbgogICAgLSBQT1NUR1JFU19QQVNTV09SRD1yYWlsc19wYXNzd29yZAogICAgaW1hZ2U6IHBvc3RncmVzOjEwLjUtYWxwaW5lCiAgICB2b2x1bWVzOgogICAgICAtIHBnZGF0YTovdmFyL2xpYi9wb3N0Z3Jlc3FsL2RhdGE=</text>
+        <text encoding="base64">ICBhcHAtdnVlOgogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4vYXBwLXZ1ZQogICAgY29tbWFuZDogeWFybiBzZXJ2ZSAtLXBvcnQgOTA4MAogICAgY29udGFpbmVyX25hbWU6ICJhcHAtdnVlIgogICAgcG9ydHM6CiAgICAgIC0gIjkwODA6OTA4MCIKICAgIHZvbHVtZXM6CiAgICAgIC0gIi4vYXBwLXZ1ZTovYXBwLXZ1ZSIKICAgICAgLSAiL2FwcC12dWUvbm9kZV9tb2R1bGVzIgogICAgZGVwZW5kc19vbjoKICAgICAgLSBhcGktcmFpbHM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgYXBwLXZ1ZToK</text>
+        <text encoding="base64">UlVOIHlhcm4gZ2xvYmFsIGFkZCBAdnVlL2NsaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">IyAgYXBwLXZ1ZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cG9zZToK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09QWSBkb2NrZXItZW50cnlwb2ludC5zaCAvdXNyL2xvY2FsL2Jpbi8KUlVOIGxuIC1zIHVzci9sb2NhbC9iaW4vZG9ja2VyLWVudHJ5cG9pbnQuc2ggLwpFTlRSWVBPSU5UIFsiZG9ja2VyLWVudHJ5cG9pbnQuc2giXQoK</text>
+        <text encoding="base64">ICAgIGV4cG9zZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBkb2NrZXItZW50cnlwb2ludC5zaCAvdXNyL2xvY2FsL2Jpbi8KUlVOIGxuIC1zIHVzci9sb2NhbC9iaW4vZG9ja2VyLWVudHJ5cG9pbnQuc2ggLwpFTlRSWVBPSU5UIFsiZG9ja2VyLWVudHJ5cG9pbnQuc2giXQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGJ1bmRsZSBpbnN0YWxsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlIC1xcSAmJiBhcHQtZ2V0IGluc3RhbGwgLXkgYnVpbGQtZXNzZW50aWFsIGxpYnBxLWRldiBub2RlanMKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">UlVOIGJ1bmRsZSBpbnN0YWxsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlIC1xcSAmJiBhcHQtZ2V0IGluc3RhbGwgLXkgYnVpbGQtZXNzZW50aWFsIGxpYnBxLWRldiBub2RlanMKCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
