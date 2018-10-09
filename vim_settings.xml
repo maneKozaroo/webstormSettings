@@ -417,6 +417,13 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="32" column="23" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20181009043242-change-error-log-from-varchar-to-text.js" timestamp="1539059644230">
+        <mark key="'" line="2" column="3" />
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/_database.js" timestamp="1537512185105">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="4" column="17" />
@@ -442,9 +449,9 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180911051402-change_pqpas_from_varchar_to_text.js" timestamp="1536642921021">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="47" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20180911051402-change_pqpas_from_varchar_to_text.js" timestamp="1539059634185">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="6" />
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
@@ -1099,11 +1106,11 @@
         <mark key="." line="39" column="40" />
         <mark key="^" line="39" column="40" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1539050390854">
-        <mark key="[" line="90" column="10" />
-        <mark key="]" line="90" column="10" />
-        <mark key="." line="90" column="10" />
-        <mark key="^" line="90" column="10" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1539059888802">
+        <mark key="[" line="74" column="51" />
+        <mark key="]" line="75" column="20" />
+        <mark key="." line="75" column="20" />
+        <mark key="^" line="75" column="20" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/batch/package.json" timestamp="1536641975047">
         <mark key="[" line="7" column="28" />
@@ -1177,12 +1184,12 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539048104459">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539058906912">
         <mark key="'" line="70" column="21" />
-        <mark key="[" line="74" column="43" />
-        <mark key="]" line="74" column="43" />
-        <mark key="." line="74" column="43" />
-        <mark key="^" line="76" column="19" />
+        <mark key="[" line="81" column="7" />
+        <mark key="]" line="83" column="31" />
+        <mark key="." line="83" column="31" />
+        <mark key="^" line="83" column="31" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/rootReducer.js" timestamp="1538357436533">
         <mark key="[" line="18" column="37" />
@@ -1273,7 +1280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="51" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="7" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="15" column="23" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
@@ -1373,46 +1379,47 @@
       <jump line="51" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/models/domain.js" />
       <jump line="2" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/models/Service.js" />
       <jump line="77" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
+      <jump line="19" column="3" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20181009043242-change-error-log-from-varchar-to-text.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAudGhlbihhc3luYyByZXNwb25zZXMgPT4gewogICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>question</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtZXNzYWdlKHsgdGV4dCwgYWx0ZXJuYXRlX2ludGVudHMgPSBmYWxzZSB9KSB7CiAgICByZXR1cm4gdGhpcy5jb250YWluZXIubWVzc2FnZSh7IHRleHQsIGFsdGVybmF0ZV9pbnRlbnRzIH0pCiAgfQoK</text>
+        <text encoding="base64">ICAgIHF1ZXJ5SW50ZXJmYWNlLmNoYW5nZUNvbHVtbigncHFwYXMnLCAncXVlc3Rpb24nLCB7CiAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcsCiAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihhc3luYyByZXNwb25zZXMgPT4gewogICAgICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG1lc3NhZ2VSZXN1bHRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IGRlbGF5KDI1MCkKICAgICAgICAgIHJldHVybiByZXNwb25zZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBtZXNzYWdlUmVzdWx0cyB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdyZXN1bHRzLCAlbycsIHJlc3BvbnNlcykK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmF0Y2gubWFwKG1lc3NhZ2UgPT4KICAgICAgICBzZXNzaW9uc0NsaWVudC5kZXRlY3RJbnRlbnQoewogICAgICAgICAgc2Vzc2lvbiwKICAgICAgICAgIHF1ZXJ5SW5wdXQ6IHsKICAgICAgICAgICAgdGV4dDogewogICAgICAgICAgICAgIHRleHQ6IG1lc3NhZ2UsCiAgICAgICAgICAgICAgbGFuZ3VhZ2VDb2RlLAogICAgICAgICAgICB9LAogICAgICAgICAgfSwKICAgICAgICB9KQogICAgICApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyh7IG1lc3NhZ2VSZXN1bHRzIH0pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7fSwgMTAwMCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCByZXZlcnRpbmcgY29tbWFuZHMgaGVyZS4KICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoKICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmRyb3BUYWJsZSgndXNlcnMnKTsKICAgICovCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgpCg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCBhbHRlcmluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCgogICAgICBFeGFtcGxlOgogICAgICByZXR1cm4gcXVlcnlJbnRlcmZhY2UuY3JlYXRlVGFibGUoJ3VzZXJzJywgeyBpZDogU2VxdWVsaXplLklOVEVHRVIgfSk7CiAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
