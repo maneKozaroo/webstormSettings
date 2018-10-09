@@ -803,6 +803,12 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1539047991123">
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
+        <mark key="^" line="50" column="24" />
+      </file>
       <file name="/Volumes/Storage/Source/docker/docker-compose.yml" timestamp="1538693506210">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="10" column="38" />
@@ -1093,11 +1099,11 @@
         <mark key="." line="39" column="40" />
         <mark key="^" line="39" column="40" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1539045753867">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="62" column="3" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" timestamp="1539050390854">
+        <mark key="[" line="90" column="10" />
+        <mark key="]" line="90" column="10" />
+        <mark key="." line="90" column="10" />
+        <mark key="^" line="90" column="10" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/batch/package.json" timestamp="1536641975047">
         <mark key="[" line="7" column="28" />
@@ -1171,12 +1177,12 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539042888622">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539048104459">
         <mark key="'" line="70" column="21" />
-        <mark key="[" line="113" column="62" />
-        <mark key="]" line="114" column="28" />
-        <mark key="." line="114" column="28" />
-        <mark key="^" line="114" column="28" />
+        <mark key="[" line="74" column="43" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="76" column="19" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/rootReducer.js" timestamp="1538357436533">
         <mark key="[" line="18" column="37" />
@@ -1267,7 +1273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="7" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="42" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="51" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="7" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
@@ -1367,46 +1372,47 @@
       <jump line="16" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/index.js" />
       <jump line="51" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/models/domain.js" />
       <jump line="2" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/models/Service.js" />
+      <jump line="77" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>textArray</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlc3Npb24gPSBzZXNzaW9uc0NsaWVudC5zZXNzaW9uUGF0aCgKICAgICAgcHJvdmlkZXJSZW1vdGVJZCwKICAgICAgYCR7RGF0ZS5ub3coKX1gCiAgICApCgo=</text>
+        <text encoding="base64">ICBtZXNzYWdlKHsgdGV4dCwgYWx0ZXJuYXRlX2ludGVudHMgPSBmYWxzZSB9KSB7CiAgICByZXR1cm4gdGhpcy5jb250YWluZXIubWVzc2FnZSh7IHRleHQsIGFsdGVybmF0ZV9pbnRlbnRzIH0pCiAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG1lc3NhZ2VSZXN1bHRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHRlc3RSZXN1bHRzIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBtZXNzYWdlUmVzdWx0cyB9KQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmYXFJZHMgPSB0ZXN0UmVzdWx0cy5tYXAoaW50ZW50ID0+IGludGVudC4pCiAgICAgICAgY29uc29sZS5sb2coeyBmYXFJZHMgfSkK</text>
+        <text encoding="base64">ICAgICAgYmF0Y2gubWFwKG1lc3NhZ2UgPT4KICAgICAgICBzZXNzaW9uc0NsaWVudC5kZXRlY3RJbnRlbnQoewogICAgICAgICAgc2Vzc2lvbiwKICAgICAgICAgIHF1ZXJ5SW5wdXQ6IHsKICAgICAgICAgICAgdGV4dDogewogICAgICAgICAgICAgIHRleHQ6IG1lc3NhZ2UsCiAgICAgICAgICAgICAgbGFuZ3VhZ2VDb2RlLAogICAgICAgICAgICB9LAogICAgICAgICAgfSwKICAgICAgICB9KQogICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyh7IG1lc3NhZ2VSZXN1bHRzIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7fSwgMTAwMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGZhcUlkcyA9IHRlc3RSZXN1bHRzLm1hcChpbnRlbnQgPT4gaW50ZW50LmZhcUlkKQogICAgICAgICAgY29uc29sZS5sb2coeyBmYXFJZHMgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
