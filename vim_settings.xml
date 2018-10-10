@@ -97,6 +97,12 @@
         <mark key="^" line="34" column="46" />
         <mark key="." line="34" column="46" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/batchSimulation.js" timestamp="1539132902979">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="3" column="67" />
+        <mark key="." line="3" column="67" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/layouts/App.vue" timestamp="1537500884463">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="91" />
@@ -944,6 +950,12 @@
         <mark key="^" line="86" column="37" />
         <mark key="." line="86" column="37" />
       </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/batchSimulation.js" timestamp="1539132906557">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="1" column="2" />
+        <mark key="^" line="1" column="1" />
+      </file>
       <file name="/Volumes/Storage/Source/maneblog/src/layouts/main.js" timestamp="1537827858042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -1190,12 +1202,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539131010110">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539133017085">
         <mark key="'" line="78" column="10" />
-        <mark key="[" line="90" column="39" />
-        <mark key="]" line="90" column="44" />
-        <mark key="." line="90" column="44" />
-        <mark key="^" line="90" column="44" />
+        <mark key="[" line="90" column="17" />
+        <mark key="]" line="90" column="31" />
+        <mark key="." line="90" column="31" />
+        <mark key="^" line="90" column="31" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/rootReducer.js" timestamp="1538357436533">
         <mark key="[" line="18" column="37" />
@@ -1390,43 +1402,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text encoding="base64">ICBhaTogewogICAgbWVzc2FnZTogewogICAgICBlcnJvcjogJ1RoZXJlIHdhcyBhbiBlcnJvciBjb21tdW5pY2F0aW5nIHdpdGggdGhlIEFJIHNlcnZpY2UnLAogICAgfSwKICB9LA==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>simulations</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHF1ZXJ5SW50ZXJmYWNlLmNoYW5nZUNvbHVtbignZXJyb3JMb2dzJywgJ21lc3NhZ2UnLCB7CiAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcsCiAgICB9KQ==</text>
+        <text encoding="base64">ICBhaTogewogICAgbWVzc2FnZTogewogICAgICBlcnJvcjogJ1RoZXJlIHdhcyBhbiBlcnJvciBjb21tdW5pY2F0aW5nIHdpdGggdGhlIEFJIHNlcnZpY2UnLAogICAgfSwKICB9LA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmRyb3BUYWJsZSgndXNlcnMnKTsK</text>
+        <text encoding="base64">ICAgIC8qCiAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmRyb3BUYWJsZSgndXNlcnMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwo=</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoK</text>
+        <text encoding="base64">ICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCBhbHRlcmluZyBjb21tYW5kcyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCBhbHRlcmluZyBjb21tYW5kcyBoZXJlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
