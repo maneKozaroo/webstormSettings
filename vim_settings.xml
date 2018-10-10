@@ -417,10 +417,10 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20181009043242-change-error-log-from-varchar-to-text.js" timestamp="1539059644230">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20181009043242-change-error-log-from-varchar-to-text.js" timestamp="1539129351299">
         <mark key="'" line="2" column="3" />
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="52" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="5" />
         <mark key="." line="8" column="52" />
         <mark key="^" line="8" column="52" />
       </file>
@@ -1184,11 +1184,18 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539067343418">
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20181009235447-change-simulationBatchLog-successRate-to-decimal.js" timestamp="1539129379794">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539131010110">
         <mark key="'" line="78" column="10" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="90" column="39" />
+        <mark key="]" line="90" column="44" />
+        <mark key="." line="90" column="44" />
+        <mark key="^" line="90" column="44" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/rootReducer.js" timestamp="1538357436533">
         <mark key="[" line="18" column="37" />
@@ -1258,11 +1265,11 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/simulation/sagas.js" timestamp="1539067950158">
-        <mark key="[" line="69" column="21" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="33" />
-        <mark key="^" line="69" column="33" />
+      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/simulation/sagas.js" timestamp="1539130525397">
+        <mark key="[" line="69" column="41" />
+        <mark key="]" line="69" column="44" />
+        <mark key="." line="69" column="44" />
+        <mark key="^" line="69" column="44" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1539068377656" />
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/info.ts" timestamp="1536623751170">
@@ -1391,35 +1398,35 @@
       <register name="/" type="4">
         <text>this</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0UmVzdWx0cyA9IGF3YWl0IGFpLmJhdGNoTWVzc2FnZSh7CiAgICAgICAgICBtZXNzYWdlczogdGVzdERhdGEubWFwKHRlc3QgPT4gdGVzdC5xdWVzdGlvbiksCiAgICAgICAgICBpbnRlcnZhbDogewogICAgICAgICAgICBzaXplOiAxODAsCiAgICAgICAgICAgIHBlcjogNjAwMDAsCiAgICAgICAgICB9LAogICAgICAgIH0pCiAgICAgICAgY29uc29sZS5sb2coeyB0ZXN0UmVzdWx0cyB9KQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHF1ZXJ5SW50ZXJmYWNlLmNoYW5nZUNvbHVtbignZXJyb3JMb2dzJywgJ21lc3NhZ2UnLCB7CiAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcsCiAgICB9KQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmRyb3BUYWJsZSgndXNlcnMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbUpTKHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyByZXN1bHRzIH0pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZGVsYXkobXMpIHsKICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiB7CiAgICBzZXRUaW1lb3V0KHJlc29sdmUsIG1zKQogIH0pCn0KCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyh7IHRlc3RSZXN1bHRzIH0pCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgQWRkIHJldmVydGluZyBjb21tYW5kcyBoZXJlLgogICAgICBSZXR1cm4gYSBwcm9taXNlIHRvIGNvcnJlY3RseSBoYW5kbGUgYXN5bmNocm9uaWNpdHkuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgRXhhbXBsZToKICAgICAgcmV0dXJuIHF1ZXJ5SW50ZXJmYWNlLmNyZWF0ZVRhYmxlKCd1c2VycycsIHsgaWQ6IFNlcXVlbGl6ZS5JTlRFR0VSIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgUmV0dXJuIGEgcHJvbWlzZSB0byBjb3JyZWN0bHkgaGFuZGxlIGFzeW5jaHJvbmljaXR5LgoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vZGlhbG9nZmxvdy1lbnRlcnByaXNlL3F1b3Rhcwo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgIEFkZCBhbHRlcmluZyBjb21tYW5kcyBoZXJlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmYXFJZHMgPSB0ZXN0UmVzdWx0cy5tYXAoaW50ZW50ID0+IGludGVudC5mYXFJZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
