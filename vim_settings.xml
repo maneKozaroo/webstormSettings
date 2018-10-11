@@ -398,6 +398,12 @@
         <mark key="." line="405" column="38" />
         <mark key="^" line="405" column="38" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1539221558979">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/src/App.vue" timestamp="1538090028997">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="36" />
@@ -1307,7 +1313,6 @@
         <mark key="." line="69" column="44" />
         <mark key="^" line="69" column="44" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/lambda/persistDataForMBCSL/deploy.js" timestamp="1539068377656" />
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/controllers/info.ts" timestamp="1536623751170">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="20" column="16" />
@@ -1426,10 +1431,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>requests</text>
+        <text>Foo</text>
       </register>
       <register name="-" type="4">
-        <text>requests</text>
+        <text>Foo</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
@@ -1438,31 +1443,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlIGJhdGNoTWVzc2FnZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlIGJhdGNoTWVzc2FnZScpCg==</text>
+        <text encoding="base64">ICBGb28K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXIgYmF0Y2hNZXNzYWdlJywgdGVzdFJlc3VsdHMpCg==</text>
+        <text encoding="base64">Rm9vLmJhcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgcmVxdWVzdHMgfSkKCg==</text>
+        <text encoding="base64">Rm9vLmJhcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgcmVzdWx0cyB9KQo=</text>
+        <text encoding="base64">Y29uc3QgYmFyID0gRm9vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rm9vLmJhcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyh7IHJlcXVlc3RzIH0pCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhCdXR0b24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Y29uc3QgZm9vID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
