@@ -68,10 +68,10 @@
         <mark key="^" line="20" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1537318106502">
-        <mark key="[" line="21" column="3980" />
-        <mark key="]" line="21" column="3980" />
-        <mark key="^" line="21" column="3980" />
-        <mark key="." line="21" column="3980" />
+        <mark key="[" line="522" column="3980" />
+        <mark key="]" line="522" column="3980" />
+        <mark key="^" line="522" column="3980" />
+        <mark key="." line="522" column="3980" />
       </file>
       <file name="$USER_HOME$/src/experiments/webapp/docker/docker-compose.yml" timestamp="1538093024994">
         <mark key="[" line="9" column="10" />
@@ -521,6 +521,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1539229922027">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/errors/UniquenessError.js" timestamp="1537918420174">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="40" />
@@ -833,10 +838,11 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1539216081961">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/index.js" timestamp="1539230608598">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="33" />
+        <mark key="^" line="51" column="33" />
+        <mark key="." line="51" column="33" />
       </file>
       <file name="/Volumes/Storage/Source/docker/docker-compose.yml" timestamp="1538693506210">
         <mark key="[" line="3" column="0" />
@@ -1070,12 +1076,10 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1539222588259">
-        <mark key="'" line="45" column="33" />
-        <mark key="[" line="79" column="39" />
-        <mark key="]" line="80" column="9" />
-        <mark key="." line="80" column="9" />
-        <mark key="^" line="80" column="9" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" timestamp="1539230068999">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1537318103474">
         <mark key="[" line="23" column="3976" />
@@ -1232,12 +1236,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539219635124">
-        <mark key="'" line="78" column="10" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="27" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" timestamp="1539230346431">
+        <mark key="'" line="79" column="10" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="78" column="44" />
+        <mark key="." line="78" column="44" />
+        <mark key="^" line="78" column="44" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/rootReducer.js" timestamp="1538357436533">
         <mark key="[" line="18" column="37" />
@@ -1328,10 +1332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
-      <jump line="49" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
-      <jump line="52" column="22" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
-      <jump line="58" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="59" column="18" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="60" column="16" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
       <jump line="61" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/package.json" />
@@ -1428,46 +1428,50 @@
       <jump line="60" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="5" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
       <jump line="45" column="33" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
+      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
+      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
+      <jump line="3264" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jb250YWluZXIuYmF0Y2hNZXNzYWdlKHsKICAgICAgICBtZXNzYWdlcywKICAgICAgICBhbHRlcm5hdGVfaW50ZW50cywKICAgICAgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhd2FpdGluZyByZXN1bHRzJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb250YWluZXIgbWVzc2FnZSBzdGFydCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jb250YWluZXIuYmF0Y2hNZXNzYWdlKHsKICAgICAgICBtZXNzYWdlcywKICAgICAgICBhbHRlcm5hdGVfaW50ZW50cywKICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCByZXF1ZXN0cwogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdHMgPSBhd2FpdCBQcm9taXNlLmFsbChyZXF1ZXN0cykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgYmFyID0gbmV3IEZvbygpCg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKHsgZXJyb3IgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYmFyIGluc3RhbmNlb2YgRm9vKQo=</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobmV3IEZvbygpKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdHMgPSBhd2FpdCBQcm9taXNlLmFsbChyZXF1ZXN0cykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Rm9vLnByb3RvdHlwZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb250YWluZXIgYmF0Y2hNZXNzYWdlIHN0YXJ0JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYmFyID0gRm9vKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb250YWluZXIgYmF0Y2hNZXNzYWdlIGVuZCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
