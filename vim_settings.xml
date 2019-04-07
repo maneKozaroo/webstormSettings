@@ -515,12 +515,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="14" column="73" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/stores/form.js" timestamp="1554600245658">
-        <mark key="'" line="10" column="18" />
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/Source/react-test-task/src/stores/form.js" timestamp="1554624528475">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1537507334925">
         <mark key="[" line="32" column="0" />
@@ -574,12 +573,12 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" timestamp="1554601696770">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
+      <file name="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" timestamp="1554623797388">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="6" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" timestamp="1536885883572">
         <mark key="'" line="408" column="0" />
@@ -903,12 +902,12 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/components/EmailInput.jsx" timestamp="1554600451972">
-        <mark key="'" line="13" column="26" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="45" />
-        <mark key="." line="10" column="67" />
-        <mark key="^" line="10" column="67" />
+      <file name="$USER_HOME$/Source/react-test-task/src/components/EmailInput.jsx" timestamp="1554624442795">
+        <mark key="'" line="14" column="26" />
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+        <mark key="^" line="11" column="47" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" timestamp="1536624383663">
         <mark key="'" line="13" column="47" />
@@ -1365,11 +1364,12 @@
         <mark key="." line="311" column="12" />
         <mark key="^" line="311" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/components/SubmitButton.jsx" timestamp="1554595050332">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="50" />
-        <mark key="^" line="4" column="58" />
-        <mark key="." line="4" column="34" />
+      <file name="$USER_HOME$/Source/react-test-task/src/components/SubmitButton.jsx" timestamp="1554624062537">
+        <mark key="'" line="1" column="43" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionarydetail.js" timestamp="1537857722197">
         <mark key="[" line="62" column="8" />
@@ -1379,10 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="30" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/index.js" />
-      <jump line="31" column="25" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/apikey.js" />
-      <jump line="2" column="11" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/apikey.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/apiKeys.js" />
       <jump line="10" column="59" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/apiKeys.js" />
       <jump line="12" column="42" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/index.js" />
       <jump line="19" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/index.js" />
@@ -1479,13 +1475,17 @@
       <jump line="17" column="5" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
       <jump line="11" column="15" filename="$USER_HOME$/Source/react-test-task/src/containers/ContactsForm.jsx" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="6" column="1" filename="$USER_HOME$/Source/react-test-task/src/components/SubmitButton.jsx" />
+      <jump line="1" column="43" filename="$USER_HOME$/Source/react-test-task/src/components/SubmitButton.jsx" />
+      <jump line="3" column="2" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">eHM9ezB9IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgbmFtZSwgdmFsdWUgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eHM9ezB9IA==</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text>,\n</text>
@@ -1494,31 +1494,31 @@
         <text encoding="base64">c209ezF9IG1kPXsyfSBsZz17M30g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsaXN0OiBbCiAgICB7CiAgICAgIG5hbWU6ICdGb28gQmFyJywKICAgICAgZW1haWw6ICdudW55QGJpei5jb20nLAogICAgICBwaG9uZTogJzgwMS01NTUtMTIzNCcsCiAgICAgIGxpc3RzOiBbJ2ZyaWVuZHMnXSwKICAgICAgZmF2b3JpdGU6IGZhbHNlCiAgICB9LAogICAgewogICAgICBuYW1lOiAnQmFyIEJheicsCiAgICAgIGVtYWlsOiAnbnVueUBiaXouY29tJywKICAgICAgcGhvbmU6ICc4MDEtNTU1LTIzNDUnLAogICAgICBsaXN0czogWydmYW1pbHknXSwKICAgICAgZmF2b3JpdGU6IHRydWUKICAgIH0sCiAgICB7CiAgICAgIG5hbWU6ICdCYXogUXV4JywKICAgICAgZW1haWw6ICdudW55QGJpei5jb20nLAogICAgICBwaG9uZTogJzgwMS01NTUtMzQ1NicsCiAgICAgIGxpc3RzOiBbJ2ZyaWVuZHMnLCAnZmFtaWx5J10sCiAgICAgIGZhdm9yaXRlOiBmYWxzZQogICAgfSwKICBdCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgbmFtZSwgdmFsdWUgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGhvbmU6ICc4MDEtNTU1LTM0NTYnLAogICAgICBsaXN0czogWydmcmllbmRzJywgJ2ZhbWlseSddLAogICAgICBmYXZvcml0ZTogZmFsc2UKICAgIH0sCiAgfSwKICBsaXN0OiBbCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50LmN1cnJlbnRUYXJnZXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDE6IHsKICAgICAgIG5hbWU6ICdGb28gQmFyJywKICAgICAgIGVtYWlsOiAnbnVueUBiaXouY29tJywKICAgICAgIHBob25lOiAnODAxLTU1NS0xMjM0JywKICAgICAgIGxpc3RzOiBbJ2ZyaWVuZHMnXSwKICAgICAgIGZhdm9yaXRlOiBmYWxzZSAgICAgCiAgICAgewo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZXZlbnQgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPExpc3RJdGVtPgogICAgICAgIDxMaXN0SXRlbVRleHQ+CiAgICAgICAgICA8VHlwb2dyYXBoeSB2YXJpYW50PSJoZWFkbGluZSI+e2xpc3RbMF0ubmFtZX08L1R5cG9ncmFwaHk+CiAgICAgICAgICA8VHlwb2dyYXBoeSB2YXJpYW50PSJzdWJoZWFkaW5nIj57bGlzdFswXS5lbWFpbH08L1R5cG9ncmFwaHk+CiAgICAgICAgICA8VHlwb2dyYXBoeSB2YXJpYW50PSJzdWJoZWFkaW5nIj57bGlzdFswXS5waG9uZX08L1R5cG9ncmFwaHk+CiAgICAgICAgPC9MaXN0SXRlbVRleHQ+CiAgICAgICAgPExpc3RJdGVtU2Vjb25kYXJ5QWN0aW9uPgogICAgICAgICAgPEljb25CdXR0b24+CiAgICAgICAgICAgIDxJY29uPmZhdm9yaXRlPC9JY29uPgogICAgICAgICAgPC9JY29uQnV0dG9uPgogICAgICAgIDwvTGlzdEl0ZW1TZWNvbmRhcnlBY3Rpb24+CiAgICAgIDwvTGlzdEl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKWAgZXZlbnQgYAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0uZmllbGRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGAgaW5qZWN0LCBvYnNlcmAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGhvbmUK</text>
+        <text encoding="base64">ICBmaWVsZHM6IHsKICAgIG5hbWU6ICdKb2UgU2NobW9lJywKICAgIGVtYWlsOiAnbWVAYXdlc29tZS5jb20nLAogICAgcGhvbmU6ICc1NTUtODY3LTUzMDknLAogIH0sCiAgdXBkYXRlRmllbGQ6IGFjdGlvbihmdW5jdGlvbigpIHsKICAgIGNvbnNvbGUubG9nKGZvcm0uZmllbGRzKQogIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmFtZSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
