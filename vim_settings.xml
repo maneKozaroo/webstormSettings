@@ -91,12 +91,12 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/components/ContatsList.jsx" timestamp="1554601724406">
+      <file name="$USER_HOME$/Source/react-test-task/src/components/ContatsList.jsx" timestamp="1554637410010">
         <mark key="'" line="1" column="43" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="21" column="26" />
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/src/experiments/webapp/api/Dockerfile" timestamp="1538111990126">
         <mark key="[" line="2" column="98" />
@@ -109,6 +109,13 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/Source/react-test-task/src/stores/menu.js" timestamp="1554630391189">
+        <mark key="'" line="2" column="11" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/index.js" timestamp="1536905587655">
         <mark key="[" line="263" column="33" />
@@ -148,11 +155,18 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/components/ListMenu.jsx" timestamp="1554597911859">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
+      <file name="$USER_HOME$/Source/react-test-task/src/components/ListMenu.jsx" timestamp="1554630436942">
+        <mark key="'" line="41" column="29" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/Source/react-test-task/src/stores/groups.js" timestamp="1554636024284">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/_abstract.js" timestamp="1537509873420">
         <mark key="[" line="4" column="31" />
@@ -432,17 +446,21 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/components/PhoneInput.jsx" timestamp="1554600567853">
-        <mark key="[" line="10" column="63" />
-        <mark key="]" line="10" column="76" />
-        <mark key="." line="10" column="76" />
-        <mark key="^" line="10" column="76" />
+      <file name="$USER_HOME$/Source/react-test-task/src/components/PhoneInput.jsx" timestamp="1554627405817">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/components/NameInput.jsx" timestamp="1554600500104">
-        <mark key="[" line="12" column="55" />
-        <mark key="]" line="12" column="67" />
-        <mark key="^" line="12" column="67" />
-        <mark key="." line="12" column="67" />
+      <file name="$USER_HOME$/Source/react-test-task/src/components/NameInput.jsx" timestamp="1554627375774">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+      </file>
+      <file name="$USER_HOME$/Source/react-test-task/package.json" timestamp="1554639491259">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/APIKeys/index.js" timestamp="1538373909183">
         <mark key="[" line="66" column="40" />
@@ -515,11 +533,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="14" column="73" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/stores/form.js" timestamp="1554624528475">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-        <mark key="^" line="11" column="21" />
+      <file name="$USER_HOME$/Source/react-test-task/src/stores/form.js" timestamp="1554637903487">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/productionServices/index.js" timestamp="1537507334925">
         <mark key="[" line="32" column="0" />
@@ -573,12 +592,12 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" timestamp="1554623797388">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="22" column="6" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="8" column="11" />
+      <file name="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" timestamp="1554639328998">
+        <mark key="'" line="31" column="22" />
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="52" column="25" />
+        <mark key="^" line="52" column="25" />
+        <mark key="." line="52" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Mobi-Console/3_dictionary_50.csv" timestamp="1536885883572">
         <mark key="'" line="408" column="0" />
@@ -902,12 +921,11 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/components/EmailInput.jsx" timestamp="1554624442795">
-        <mark key="'" line="14" column="26" />
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="47" />
-        <mark key="." line="11" column="47" />
-        <mark key="^" line="11" column="47" />
+      <file name="$USER_HOME$/Source/react-test-task/src/components/EmailInput.jsx" timestamp="1554627425826">
+        <mark key="'" line="23" column="26" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" timestamp="1536624383663">
         <mark key="'" line="13" column="47" />
@@ -999,12 +1017,12 @@
         <mark key="." line="255" column="49" />
         <mark key="^" line="255" column="54" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/containers/ContactsForm.jsx" timestamp="1554601792820">
+      <file name="$USER_HOME$/Source/react-test-task/src/containers/ContactsForm.jsx" timestamp="1554634839392">
         <mark key="'" line="11" column="15" />
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="14" />
-        <mark key="^" line="30" column="23" />
-        <mark key="." line="30" column="14" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/containers/app/Accounts.vue" timestamp="1537500174104">
         <mark key="[" line="38" column="0" />
@@ -1069,6 +1087,13 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Source/react-test-task/src/stores/rootStore.js" timestamp="1554630422022">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/userInterface/mutations.js" timestamp="1537415895653">
         <mark key="[" line="17" column="40" />
         <mark key="]" line="17" column="39" />
@@ -1100,12 +1125,11 @@
         <mark key="^" line="1" column="4005" />
         <mark key="." line="1" column="4005" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/containers/App.jsx" timestamp="1554600609165">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="4" column="44" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="44" />
+      <file name="$USER_HOME$/Source/react-test-task/src/containers/App.jsx" timestamp="1554639012472">
+        <mark key="'" line="16" column="16" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Card.vue" timestamp="1537416428957">
         <mark key="'" line="10" column="45" />
@@ -1268,11 +1292,11 @@
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/index.js" timestamp="1554591661567">
-        <mark key="[" line="3" column="49" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Source/react-test-task/src/index.js" timestamp="1554639034671">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/server.js" timestamp="1538704336836">
         <mark key="[" line="10" column="8" />
@@ -1364,12 +1388,12 @@
         <mark key="." line="311" column="12" />
         <mark key="^" line="311" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/components/SubmitButton.jsx" timestamp="1554624062537">
-        <mark key="'" line="1" column="43" />
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-        <mark key="." line="13" column="23" />
+      <file name="$USER_HOME$/Source/react-test-task/src/components/SubmitButton.jsx" timestamp="1554637326171">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/dictionarydetail.js" timestamp="1537857722197">
         <mark key="[" line="62" column="8" />
@@ -1379,35 +1403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="59" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/apiKeys.js" />
-      <jump line="12" column="42" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/index.js" />
-      <jump line="20" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/apiKeys.js" />
-      <jump line="15" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" />
-      <jump line="3" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" />
-      <jump line="9" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/botLogs/index.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/index.js" />
-      <jump line="57" column="21" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
-      <jump line="7" column="24" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" />
-      <jump line="246" column="10" filename="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Statistics/StatisticDetails.js" />
-      <jump line="206" column="36" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="216" column="15" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="238" column="36" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="245" column="38" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="263" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="32" column="9" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="252" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="454" column="33" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
-      <jump line="461" column="24" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
-      <jump line="462" column="14" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
-      <jump line="491" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
-      <jump line="274" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="15" column="4" filename="/Volumes/Storage/Source/docker/docker-compose.yml" />
-      <jump line="16" column="0" filename="/Volumes/Storage/Source/containers/app-vue/Dockerfile" />
-      <jump line="10" column="14" filename="/Volumes/Storage/Source/containers/app-react/Dockerfile" />
-      <jump line="4" column="20" filename="$USER_HOME$/src/mba/mbcsl-api/src/authenticator/index.js" />
-      <jump line="756" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
-      <jump line="97" column="2" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/services.js" />
       <jump line="16" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/index.js" />
       <jump line="51" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/models/domain.js" />
       <jump line="2" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/models/Service.js" />
@@ -1462,7 +1457,6 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" />
       <jump line="38" column="19" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="4" column="12" filename="/Volumes/Storage/Source/containers/api-node/src/MobiConsole.ts" />
-      <jump line="10" column="18" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Source/react-test-task/src/containers/ContactsForm.jsx" />
       <jump line="35" column="0" filename="$USER_HOME$/Source/react-test-task/src/containers/ContactsForm.jsx" />
       <jump line="1" column="15" filename="$USER_HOME$/Source/react-test-task/src/containers/ContactsForm.jsx" />
@@ -1473,67 +1467,96 @@
       <jump line="13" column="9" filename="$USER_HOME$/Source/react-test-task/src/components/ContatsList.jsx" />
       <jump line="1" column="43" filename="$USER_HOME$/Source/react-test-task/src/components/ContatsList.jsx" />
       <jump line="17" column="5" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
       <jump line="11" column="15" filename="$USER_HOME$/Source/react-test-task/src/containers/ContactsForm.jsx" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
       <jump line="6" column="1" filename="$USER_HOME$/Source/react-test-task/src/components/SubmitButton.jsx" />
       <jump line="1" column="43" filename="$USER_HOME$/Source/react-test-task/src/components/SubmitButton.jsx" />
       <jump line="3" column="2" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="28" column="33" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="6" column="33" filename="$USER_HOME$/Source/react-test-task/src/stores/rootStore.js" />
+      <jump line="13" column="31" filename="$USER_HOME$/Source/react-test-task/src/containers/App.jsx" />
+      <jump line="14" column="2" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="2" column="9" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="13" column="27" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="40" column="31" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/Source/react-test-task/src/stores/menu.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/react-test-task/src/stores/rootStore.js" />
+      <jump line="13" column="23" filename="$USER_HOME$/Source/react-test-task/src/components/ListMenu.jsx" />
+      <jump line="1" column="43" filename="$USER_HOME$/Source/react-test-task/src/components/ListMenu.jsx" />
+      <jump line="33" column="29" filename="$USER_HOME$/Source/react-test-task/src/components/ListMenu.jsx" />
+      <jump line="2" column="11" filename="$USER_HOME$/Source/react-test-task/src/stores/menu.js" />
+      <jump line="17" column="30" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="0" column="23" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="11" column="19" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="12" column="27" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="34" column="27" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="18" column="7" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="33" column="28" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="45" column="42" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="48" column="23" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="57" column="44" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="59" column="49" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="64" column="26" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="10" column="16" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="19" column="13" filename="$USER_HOME$/Source/react-test-task/src/components/SubmitButton.jsx" />
+      <jump line="30" column="0" filename="$USER_HOME$/Source/react-test-task/src/stores/form.js" />
+      <jump line="29" column="22" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
+      <jump line="16" column="16" filename="$USER_HOME$/Source/react-test-task/src/containers/App.jsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/react-test-task/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgbmFtZSwgdmFsdWUgfSkK</text>
+        <text encoding="base64">ICAgICJtb2J4LXN5bmMiOiAiXjIuMC4wIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text encoding="base64">c3RvPWh7fSA=</text>
       </register>
       <register name="/" type="4">
-        <text>,\n</text>
+        <text>id</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c209ezF9IG1kPXsyfSBsZz17M30g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmICghbmFtZSB8fCAhZW1haWwgfHwgIXBob25lKSByZXR1cm4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgbmFtZSwgdmFsdWUgfSkK</text>
+        <text encoding="base64">ICAgICJtb2J4LXN5bmMiOiAiXjIuMC4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50LmN1cnJlbnRUYXJnZXQpCg==</text>
+        <text encoding="base64">ICAgIGlmICghbmFtZSkgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgIGlmICghbmFtZSB8fCAhZW1haWwgfHwgIXBob25lKSByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZXZlbnQgfSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKWAgZXZlbnQgYAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0uZmllbGRzKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dHJ1bmsuaW5pdCgpLnRoZW4oKCkgPT4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaWVsZHM6IHsKICAgIG5hbWU6ICdKb2UgU2NobW9lJywKICAgIGVtYWlsOiAnbWVAYXdlc29tZS5jb20nLAogICAgcGhvbmU6ICc1NTUtODY3LTUzMDknLAogIH0sCiAgdXBkYXRlRmllbGQ6IGFjdGlvbihmdW5jdGlvbigpIHsKICAgIGNvbnNvbGUubG9nKGZvcm0uZmllbGRzKQogIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQXN5bmNUcnVuayB9IGZyb20gJ21vYngtc3luYycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
+        <text encoding="base64">aW1wb3J0IHJvb3RTdG9yZSBmcm9tICcuLi9zdG9yZXMvcm9vdFN0b3JlJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,\n</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>,\n</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getIn</entry>
         <entry>connec</entry>
         <entry>diction</entry>
         <entry>servi</entry>
@@ -1553,6 +1576,7 @@
         <entry>hide</entry>
         <entry>schema</entry>
         <entry>Schema</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
