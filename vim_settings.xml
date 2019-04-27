@@ -499,8 +499,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/.gitignore" timestamp="1554590872009">
-        <mark key="[" line="7" column="7" />
+      <file name="$USER_HOME$/Source/canned-kanji/.firebaserc" timestamp="1556348196897">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="/Volumes/Storage/Source/containers/api-node/src/server.ts" timestamp="1540335033347">
         <mark key="[" line="4" column="27" />
@@ -643,9 +646,6 @@
         <mark key="." line="206" column="26" />
         <mark key="^" line="206" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554599839381">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/src/App.vue" timestamp="1538090028997">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="36" />
@@ -786,9 +786,6 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="48" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/batchSimulation.js" timestamp="1539132902979">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/ja/apiKey.js" timestamp="1538616106659">
         <mark key="[" line="8" column="9" />
@@ -987,6 +984,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
         <mark key="^" line="3" column="38" />
+      </file>
+      <file name="$USER_HOME$/Source/canned-kanji/package.json" timestamp="1556348187215">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="48" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="20" column="48" />
       </file>
       <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/.dockerignore" timestamp="1538089216412">
         <mark key="[" line="0" column="0" />
@@ -1513,10 +1516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
