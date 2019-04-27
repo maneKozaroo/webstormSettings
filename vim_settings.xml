@@ -117,7 +117,6 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/functions/src/index.ts" timestamp="1556344912673" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/index.js" timestamp="1536905587655">
         <mark key="[" line="263" column="33" />
         <mark key="]" line="263" column="38" />
@@ -499,6 +498,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/tamaru/.gitignore" timestamp="1556358567991">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/canned-kanji/.firebaserc" timestamp="1556348196897">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="15" />
@@ -812,7 +817,6 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/tamaru/functions/src/index.ts" timestamp="1556349383296" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/List/index.js" timestamp="1536903026637">
         <mark key="[" line="103" column="68" />
         <mark key="]" line="103" column="70" />
@@ -1211,6 +1215,12 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/.gitignore" timestamp="1556358506977">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/actions.js" timestamp="1537506043873">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -1420,11 +1430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/index.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/models/domain.js" />
-      <jump line="2" column="12" filename="$USER_HOME$/src/mba/mbcsl-api/src/db/models/Service.js" />
-      <jump line="77" column="6" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="19" column="3" filename="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20181009043242-change-error-log-from-varchar-to-text.js" />
       <jump line="84" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" />
       <jump line="60" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
       <jump line="5" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
@@ -1520,16 +1525,21 @@
       <jump line="29" column="22" filename="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" />
       <jump line="16" column="16" filename="$USER_HOME$/Source/react-test-task/src/containers/App.jsx" />
       <jump line="10" column="0" filename="$USER_HOME$/Source/react-test-task/src/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Source/canned-kanji/.gitignore" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/tamaru/.gitignore" />
+      <jump line="88" column="0" filename="$USER_HOME$/Source/canned-kanji/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/tamaru/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/canned-kanji/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIiOiAiIiwK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICIiOiAiIiwK</text>
@@ -1566,16 +1576,14 @@
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>connec</entry>
-        <entry>diction</entry>
         <entry>servi</entry>
         <entry>conn</entry>
         <entry>REMOV</entry>
@@ -1594,6 +1602,8 @@
         <entry>schema</entry>
         <entry>Schema</entry>
         <entry>id</entry>
+        <entry>selen</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
