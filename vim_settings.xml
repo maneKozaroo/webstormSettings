@@ -812,6 +812,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Source/tamaru/functions/src/index.ts" timestamp="1556349383296" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/List/index.js" timestamp="1536903026637">
         <mark key="[" line="103" column="68" />
         <mark key="]" line="103" column="70" />
@@ -1386,6 +1387,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/tamaru/package.json" timestamp="1556349343359">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+      </file>
       <file name="$USER_HOME$/Downloads/富士通エンティティ元ネタ.csv" timestamp="1536882920883">
         <mark key="[" line="3184" column="0" />
         <mark key="]" line="3184" column="0" />
@@ -1515,8 +1522,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/Source/react-test-task/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>default</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICIiOiAiIiwK</text>
       </register>
       <register name="-" type="4">
         <text>default</text>
@@ -1525,7 +1532,7 @@
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICghbmFtZSB8fCAhZW1haWwgfHwgIXBob25lKSByZXR1cm4K</text>
+        <text encoding="base64">ICAgICIiOiAiIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJtb2J4LXN5bmMiOiAiXjIuMC4wIiwK</text>
