@@ -117,6 +117,7 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/functions/src/index.ts" timestamp="1556344912673" />
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/Dictionary/index.js" timestamp="1536905587655">
         <mark key="[" line="263" column="33" />
         <mark key="]" line="263" column="38" />
@@ -909,6 +910,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/firebase.json" timestamp="1556345377291">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
       <file name="/Volumes/Storage/Source/containers/api-rails/config/database.yml" timestamp="1538693792934">
         <mark key="[" line="18" column="19" />
         <mark key="]" line="21" column="25" />
@@ -1505,11 +1512,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/Source/react-test-task/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJtb2J4LXN5bmMiOiAiXjIuMC4wIiwK</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RvPWh7fSA=</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
