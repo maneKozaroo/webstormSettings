@@ -498,11 +498,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tamaru/.gitignore" timestamp="1556358567991">
+      <file name="$USER_HOME$/Source/tamaru/.gitignore" timestamp="1556409971059">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="15" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/Source/canned-kanji/.firebaserc" timestamp="1556348196897">
         <mark key="[" line="2" column="5" />
