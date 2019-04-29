@@ -1216,11 +1216,12 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/.gitignore" timestamp="1556358506977">
+      <file name="$USER_HOME$/Source/canned-kanji/.gitignore" timestamp="1556499617169">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/transaction/actions.js" timestamp="1537506043873">
         <mark key="[" line="54" column="0" />
@@ -1533,8 +1534,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/canned-kanji/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LmZpcmViYXNlLyouY2FjaGUK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1546,31 +1547,31 @@
         <text encoding="base64">ICAgICIiOiAiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJtb2J4LXN5bmMiOiAiXjIuMC4wIiwK</text>
+        <text encoding="base64">LmZpcmViYXNlLyouY2FjaGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICghbmFtZSkgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICJtb2J4LXN5bmMiOiAiXjIuMC4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghbmFtZSB8fCAhZW1haWwgfHwgIXBob25lKSByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGlmICghbmFtZSkgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghbmFtZSB8fCAhZW1haWwgfHwgIXBob25lKSByZXR1cm4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJ1bmsuaW5pdCgpLnRoZW4oKCkgPT4K</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXN5bmNUcnVuayB9IGZyb20gJ21vYngtc3luYycK</text>
+        <text encoding="base64">dHJ1bmsuaW5pdCgpLnRoZW4oKCkgPT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJvb3RTdG9yZSBmcm9tICcuLi9zdG9yZXMvcm9vdFN0b3JlJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXN5bmNUcnVuayB9IGZyb20gJ21vYngtc3luYycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
