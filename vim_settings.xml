@@ -535,6 +535,12 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/public/index.html" timestamp="1556870069266">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/productionServices/index.ts" timestamp="1536624582880">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="13" column="41" />
@@ -943,6 +949,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/src/App.tsx" timestamp="1556869729756">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" timestamp="1536624383663">
         <mark key="'" line="13" column="47" />
         <mark key="[" line="5" column="19" />
@@ -1344,6 +1356,11 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="16" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/src/index.tsx" timestamp="1556869632535">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Simulation/FAQs/index.js" timestamp="1536884977467">
         <mark key="'" line="139" column="51" />
         <mark key="[" line="520" column="0" />
@@ -1541,10 +1558,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cache_yarn</text>
+        <text>React App</text>
       </register>
       <register name="-" type="4">
-        <text>cache_yarn</text>
+        <text>React App</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -1553,31 +1570,31 @@
         <text encoding="base64">ICAgICIiOiAiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYXRoczoKICAgIC0gbm9kZV9tb2R1bGVzLwo=</text>
+        <text encoding="base64">ICAgICAgICA8L2E+CiAgICAgIDwvaGVhZGVyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FjaGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICA+CiAgICAgICAgICBMZWFybiBSZWFjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmZpcmViYXNlLyouY2FjaGUK</text>
+        <text encoding="base64">ICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJtb2J4LXN5bmMiOiAiXjIuMC4wIiwK</text>
+        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICAgIDxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+CiAgICAgICAgPHA+CiAgICAgICAgICBFZGl0IDxjb2RlPnNyYy9BcHAudHN4PC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCiAgICAgICAgPC9wPgogICAgICAgIDxhCiAgICAgICAgICBjbGFzc05hbWU9IkFwcC1saW5rIgogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9yZWFjdGpzLm9yZyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghbmFtZSkgcmV0dXJuCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7CmltcG9ydCAnLi9BcHAuY3NzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghbmFtZSB8fCAhZW1haWwgfHwgIXBob25lKSByZXR1cm4K</text>
+        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXRoczoKICAgIC0gbm9kZV9tb2R1bGVzLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FjaGU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">LmZpcmViYXNlLyouY2FjaGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
