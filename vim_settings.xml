@@ -397,11 +397,11 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/.gitlab-ci.yml" timestamp="1556866488658">
-        <mark key="[" line="72" column="6" />
-        <mark key="]" line="72" column="23" />
-        <mark key="." line="72" column="23" />
-        <mark key="^" line="72" column="23" />
+      <file name="$USER_HOME$/Source/canned-kanji/.gitlab-ci.yml" timestamp="1556867998892">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/Docker" timestamp="1538089195465">
         <mark key="[" line="0" column="0" />
@@ -1541,10 +1541,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>echo &quot;deploy_prd&quot;</text>
+        <text>cache_yarn</text>
       </register>
       <register name="-" type="4">
-        <text>echo &quot;deploy_prd&quot;</text>
+        <text>cache_yarn</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -1553,31 +1553,31 @@
         <text encoding="base64">ICAgICIiOiAiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmZpcmViYXNlLyouY2FjaGUK</text>
+        <text encoding="base64">ICBwYXRoczoKICAgIC0gbm9kZV9tb2R1bGVzLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJtb2J4LXN5bmMiOiAiXjIuMC4wIiwK</text>
+        <text encoding="base64">Y2FjaGU6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghbmFtZSkgcmV0dXJuCg==</text>
+        <text encoding="base64">LmZpcmViYXNlLyouY2FjaGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghbmFtZSB8fCAhZW1haWwgfHwgIXBob25lKSByZXR1cm4K</text>
+        <text encoding="base64">ICAgICJtb2J4LXN5bmMiOiAiXjIuMC4wIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghbmFtZSkgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghbmFtZSB8fCAhZW1haWwgfHwgIXBob25lKSByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJ1bmsuaW5pdCgpLnRoZW4oKCkgPT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXN5bmNUcnVuayB9IGZyb20gJ21vYngtc3luYycK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
