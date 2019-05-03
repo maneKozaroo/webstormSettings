@@ -397,6 +397,12 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/.gitlab-ci.yml" timestamp="1556866488658">
+        <mark key="[" line="72" column="6" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="23" />
+        <mark key="^" line="72" column="23" />
+      </file>
       <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/Docker" timestamp="1538089195465">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="20" />
@@ -1534,11 +1540,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/canned-kanji/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LmZpcmViYXNlLyouY2FjaGUK</text>
+      <register name="&quot;" type="4">
+        <text>echo &quot;deploy_prd&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>echo &quot;deploy_prd&quot;</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
