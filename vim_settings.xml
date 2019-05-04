@@ -397,11 +397,11 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/.gitlab-ci.yml" timestamp="1556867998892">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
+      <file name="$USER_HOME$/Source/canned-kanji/.gitlab-ci.yml" timestamp="1557008074965">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/Docker" timestamp="1538089195465">
         <mark key="[" line="0" column="0" />
@@ -1557,8 +1557,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/canned-kanji/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>React App</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gbWVyZ2VfcmVxdWVzdHMK</text>
       </register>
       <register name="-" type="4">
         <text>React App</text>
@@ -1567,34 +1567,34 @@
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICIiOiAiIiwK</text>
+        <text encoding="base64">ICAgIC0gL15yZWxlYXNlLy4qJC9pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2E+CiAgICAgIDwvaGVhZGVyPgo=</text>
+        <text encoding="base64">ICAgIC0gbWVyZ2VfcmVxdWVzdHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA+CiAgICAgICAgICBMZWFybiBSZWFjdAo=</text>
+        <text encoding="base64">ICAgIC0gbWFzdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgo=</text>
+        <text encoding="base64">ICAgIC0gbWVyZ2VfcmVxdWVzdHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICAgIDxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+CiAgICAgICAgPHA+CiAgICAgICAgICBFZGl0IDxjb2RlPnNyYy9BcHAudHN4PC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCiAgICAgICAgPC9wPgogICAgICAgIDxhCiAgICAgICAgICBjbGFzc05hbWU9IkFwcC1saW5rIgogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9yZWFjdGpzLm9yZyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7CmltcG9ydCAnLi9BcHAuY3NzJzsK</text>
+        <text encoding="base64">ICAgIC0gbWFzdGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
+        <text encoding="base64">ICAgIC0gbWVyZ2VfcmVxdWVzdHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYXRoczoKICAgIC0gbm9kZV9tb2R1bGVzLwo=</text>
+        <text encoding="base64">ICAgIC0gbWFzdGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FjaGU6Cg==</text>
+        <text encoding="base64">ICAgIC0gZGV2ZWxvcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmZpcmViYXNlLyouY2FjaGUK</text>
+        <text encoding="base64">ICAgIC0gbWFzdGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
