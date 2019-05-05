@@ -256,6 +256,13 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
+      <file name="$USER_HOME$/Source/tamaru/src/router.ts" timestamp="1557022683981">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/connections/index.js" timestamp="1537486721820">
         <mark key="[" line="16" column="36" />
         <mark key="]" line="16" column="37" />
@@ -504,12 +511,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/tamaru/.gitignore" timestamp="1556409971059">
+      <file name="$USER_HOME$/Source/tamaru/.gitignore" timestamp="1557022361931">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="15" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/Source/canned-kanji/.firebaserc" timestamp="1556348196897">
         <mark key="[" line="2" column="5" />
@@ -592,6 +596,11 @@
         <mark key="." line="26" column="31" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/tamaru/tests/unit/example.spec.ts" timestamp="1557022739209">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/store/user/actions.js" timestamp="1536272246098">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="24" />
@@ -602,6 +611,9 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/tamaru/src/App.vue" timestamp="1557022653443">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1539236388880">
         <mark key="[" line="0" column="12" />
@@ -943,11 +955,11 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/components/EmailInput.jsx" timestamp="1554627425826">
-        <mark key="'" line="23" column="26" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Source/tamaru/.gitlab-ci.yml" timestamp="1557023206844">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="4" />
+        <mark key="." line="60" column="4" />
+        <mark key="^" line="53" column="3" />
       </file>
       <file name="$USER_HOME$/Source/canned-kanji/src/App.tsx" timestamp="1556869729756">
         <mark key="[" line="4" column="9" />
@@ -1159,12 +1171,6 @@
         <mark key="^" line="1" column="4005" />
         <mark key="." line="1" column="4005" />
       </file>
-      <file name="$USER_HOME$/Source/react-test-task/src/containers/App.jsx" timestamp="1554639012472">
-        <mark key="'" line="16" column="16" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="43" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/Volumes/Storage/Source/thrifty-ninja/src/components/ledger/Card.vue" timestamp="1537416428957">
         <mark key="'" line="10" column="45" />
         <mark key="[" line="27" column="0" />
@@ -1350,6 +1356,11 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/Source/tamaru/tests/e2e/specs/test.js" timestamp="1557023758455">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/rootSaga.js" timestamp="1538357478843">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="17" column="16" />
@@ -1455,9 +1466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="10" filename="$USER_HOME$/src/mba/mbcsl-api/src/controllers/simulations.js" />
-      <jump line="60" column="17" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/DialogFlow.js" />
-      <jump line="5" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
       <jump line="45" column="33" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
@@ -1555,46 +1563,49 @@
       <jump line="88" column="0" filename="$USER_HOME$/Source/canned-kanji/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/tamaru/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/canned-kanji/.gitignore" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/tamaru/src/App.vue" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/tamaru/src/App.vue" />
+      <jump line="2" column="0" filename="$USER_HOME$/Source/tamaru/src/router.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gbWVyZ2VfcmVxdWVzdHMK</text>
+        <text encoding="base64">ICAgICAgLndhaXRGb3JFbGVtZW50VmlzaWJsZSgiI2FwcCIsIDUwMDApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>React App</text>
+        <text>unit</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gL15yZWxlYXNlLy4qJC9pCg==</text>
+        <text encoding="base64">dnVlX3VuaXRfdGVzdDoKICBzdGFnZTogdGVzdAogIGRlcGVuZGVuY2llczoKICAgIC0gbnBtX2luc3RhbGwKICBzY3JpcHQ6CiAgICAtIG5wbSBydW4gdGVzdDp1bml0CiAgb25seToKICAgIC0gbWVyZ2VfcmVxdWVzdHMKICAgIC0gZGV2ZWxvcAogICAgLSAvXnJlbGVhc2UvLiokL2kKICAgIC0gbWFzdGVyCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gbWVyZ2VfcmVxdWVzdHMK</text>
+        <text encoding="base64">ICAgICAgLndhaXRGb3JFbGVtZW50VmlzaWJsZSgiI2FwcCIsIDUwMDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gbWFzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgLmFzc2VydC5lbGVtZW50Q291bnQoImltZyIsIDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gbWVyZ2VfcmVxdWVzdHMK</text>
+        <text encoding="base64">ICAgICAgLmFzc2VydC5jb250YWluc1RleHQoImgxIiwgIldlbGNvbWUgdG8gWW91ciBWdWUuanMgKyBUeXBlU2NyaXB0IEFwcCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmFzc2VydC5lbGVtZW50UHJlc2VudCgiLmhlbGxvIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbWFzdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbWVyZ2VfcmVxdWVzdHMK</text>
+        <text encoding="base64">aW1wb3J0IHsgZXhwZWN0IH0gZnJvbSAiY2hhaSI7CmltcG9ydCB7IHNoYWxsb3dNb3VudCB9IGZyb20gIkB2dWUvdGVzdC11dGlscyI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gbWFzdGVyCg==</text>
+        <text encoding="base64">ICBpdCgicmVuZGVycyBwcm9wcy5tc2cgd2hlbiBwYXNzZWQiLCAoKSA9PiB7CiAgICBjb25zdCBtc2cgPSAibmV3IG1lc3NhZ2UiOwogICAgY29uc3Qgd3JhcHBlciA9IHNoYWxsb3dNb3VudChIZWxsb1dvcmxkLCB7CiAgICAgIHByb3BzRGF0YTogeyBtc2cgfQogICAgfSk7CiAgICBleHBlY3Qod3JhcHBlci50ZXh0KCkpLnRvLmluY2x1ZGUobXNnKTsKICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZGV2ZWxvcAo=</text>
+        <text encoding="base64">aW1wb3J0IEhlbGxvV29ybGQgZnJvbSAiQC9jb21wb25lbnRzL0hlbGxvV29ybGQudnVlIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gbWFzdGVyCg==</text>
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAiLi92aWV3cy9Ib21lLnZ1ZSI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
