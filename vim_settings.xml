@@ -22,6 +22,12 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="40" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" timestamp="1539236970095">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/faqs/index.ts" timestamp="1536624434674">
         <mark key="'" line="11" column="47" />
         <mark key="[" line="13" column="0" />
@@ -130,6 +136,12 @@
         <mark key="." line="512" column="6" />
         <mark key="^" line="32" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1539220549561">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/FAQs/index.js" timestamp="1536560496092">
         <mark key="[" line="72" column="26" />
         <mark key="]" line="72" column="26" />
@@ -167,6 +179,12 @@
         <mark key="]" line="16" column="18" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1537318103474">
+        <mark key="[" line="23" column="3976" />
+        <mark key="]" line="23" column="3976" />
+        <mark key="." line="23" column="3976" />
+        <mark key="^" line="23" column="3976" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/models/_abstract.js" timestamp="1537509873420">
         <mark key="[" line="4" column="31" />
@@ -287,23 +305,11 @@
         <mark key="." line="42" column="31" />
         <mark key="^" line="42" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1537318103474">
-        <mark key="[" line="23" column="3976" />
-        <mark key="]" line="23" column="3976" />
-        <mark key="." line="23" column="3976" />
-        <mark key="^" line="23" column="3976" />
-      </file>
       <file name="$USER_HOME$/src/experiments/webapp/app/Dockerfile" timestamp="1538092351325">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" timestamp="1539236970095">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/migrations/20181001031743-create-api-key.js" timestamp="1538364247724">
         <mark key="[" line="27" column="23" />
@@ -494,11 +500,6 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1539229922027">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/botLogs.js" timestamp="1538526250205">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="20" />
@@ -544,6 +545,12 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1539236388880">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="4" column="51" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/services/productionServices/index.ts" timestamp="1536624582880">
         <mark key="'" line="12" column="0" />
@@ -615,16 +622,15 @@
       <file name="$USER_HOME$/Source/tamaru/src/App.vue" timestamp="1557022653443">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1539236388880">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="4" column="51" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/containers/Data/Production/Properties/index.js" timestamp="1537253427152">
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1539222158437">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Source/react-test-task/src/stores/contacts.js" timestamp="1554639328998">
         <mark key="'" line="31" column="22" />
@@ -750,18 +756,6 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1537318106502">
-        <mark key="[" line="522" column="3980" />
-        <mark key="]" line="522" column="3980" />
-        <mark key="^" line="522" column="3980" />
-        <mark key="." line="522" column="3980" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1539220549561">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="$USER_HOME$/src/experiments/webapp/app/Dockerfile.prod" timestamp="1538096297240">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="19" column="0" />
@@ -871,16 +865,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1539222158437">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1539239753631">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/layouts/Service/index.js" timestamp="1536556258623">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -929,13 +913,6 @@
         <mark key="]" line="499" column="3" />
         <mark key="^" line="499" column="3" />
         <mark key="." line="499" column="3" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1536821466585">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/canned-kanji/firebase.json" timestamp="1556345377291">
         <mark key="[" line="9" column="15" />
@@ -998,6 +975,13 @@
         <mark key="." line="13" column="98" />
         <mark key="^" line="13" column="75" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/.npmrc" timestamp="1562293330643">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/database/config/models/_database.js" timestamp="1537512185105">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="4" column="17" />
@@ -1021,11 +1005,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/package.json" timestamp="1556348187215">
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="48" />
-        <mark key="^" line="20" column="48" />
-        <mark key="." line="20" column="48" />
+      <file name="$USER_HOME$/Source/canned-kanji/package.json" timestamp="1562293084720">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/.dockerignore" timestamp="1538089216412">
         <mark key="[" line="0" column="0" />
@@ -1050,6 +1034,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1539229922027">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/controllers/statistics.js" timestamp="1538527061207">
         <mark key="[" line="21" column="144" />
@@ -1114,6 +1103,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1539239753631">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/.dockerignore" timestamp="1538017527057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -1164,6 +1158,12 @@
         <mark key="]" line="27" column="35" />
         <mark key="." line="27" column="35" />
         <mark key="^" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/Source/canned-kanji/functions/package.json" timestamp="1562294030621">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Downloads/local-test-statistics-noanswers-2018.09.19-15.19.54.csv" timestamp="1537338003563">
         <mark key="[" line="1" column="4006" />
@@ -1326,6 +1326,12 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1538369042593">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/i18n/locales/en/common.js" timestamp="1536903048480">
         <mark key="[" line="13" column="8" />
         <mark key="]" line="13" column="10" />
@@ -1350,6 +1356,12 @@
         <mark key="]" line="10" column="9" />
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1537318106502">
+        <mark key="[" line="522" column="3980" />
+        <mark key="]" line="522" column="3980" />
+        <mark key="^" line="522" column="3980" />
+        <mark key="." line="522" column="3980" />
       </file>
       <file name="$USER_HOME$/Source/react-test-task/src/containers/Contacts.jsx" timestamp="1554601812559">
         <mark key="[" line="9" column="15" />
@@ -1427,12 +1439,6 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1538369042593">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/tamaru/package.json" timestamp="1556349343359">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="47" />
@@ -1464,9 +1470,15 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1536821466585">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="33" filename="$USER_HOME$/src/mba/mbcsl-api/src/ai/Assistant.js" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
       <jump line="3264" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
@@ -1566,61 +1578,77 @@
       <jump line="9" column="0" filename="$USER_HOME$/Source/tamaru/src/App.vue" />
       <jump line="11" column="0" filename="$USER_HOME$/Source/tamaru/src/App.vue" />
       <jump line="2" column="0" filename="$USER_HOME$/Source/tamaru/src/router.ts" />
+      <jump line="0" column="11" filename="$USER_HOME$/Source/canned-kanji/.npmrc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLndhaXRGb3JFbGVtZW50VmlzaWJsZSgiI2FwcCIsIDUwMDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>^3.2.2</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>unit</text>
+        <text>^3.2.2</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text encoding="base64">XDx0cnVlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dnVlX3VuaXRfdGVzdDoKICBzdGFnZTogdGVzdAogIGRlcGVuZGVuY2llczoKICAgIC0gbnBtX2luc3RhbGwKICBzY3JpcHQ6CiAgICAtIG5wbSBydW4gdGVzdDp1bml0CiAgb25seToKICAgIC0gbWVyZ2VfcmVxdWVzdHMKICAgIC0gZGV2ZWxvcAogICAgLSAvXnJlbGVhc2UvLiokL2kKICAgIC0gbWFzdGVyCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLndhaXRGb3JFbGVtZW50VmlzaWJsZSgiI2FwcCIsIDUwMDApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmFzc2VydC5lbGVtZW50Q291bnQoImltZyIsIDEpCg==</text>
+        <text encoding="base64">ICAgICAgLndhaXRGb3JFbGVtZW50VmlzaWJsZSgiI2FwcCIsIDUwMDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmFzc2VydC5jb250YWluc1RleHQoImgxIiwgIldlbGNvbWUgdG8gWW91ciBWdWUuanMgKyBUeXBlU2NyaXB0IEFwcCIpCg==</text>
+        <text encoding="base64">ICAgICAgLmFzc2VydC5lbGVtZW50Q291bnQoImltZyIsIDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmFzc2VydC5lbGVtZW50UHJlc2VudCgiLmhlbGxvIikK</text>
+        <text encoding="base64">ICAgICAgLmFzc2VydC5jb250YWluc1RleHQoImgxIiwgIldlbGNvbWUgdG8gWW91ciBWdWUuanMgKyBUeXBlU2NyaXB0IEFwcCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmFzc2VydC5lbGVtZW50UHJlc2VudCgiLmhlbGxvIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZXhwZWN0IH0gZnJvbSAiY2hhaSI7CmltcG9ydCB7IHNoYWxsb3dNb3VudCB9IGZyb20gIkB2dWUvdGVzdC11dGlscyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpdCgicmVuZGVycyBwcm9wcy5tc2cgd2hlbiBwYXNzZWQiLCAoKSA9PiB7CiAgICBjb25zdCBtc2cgPSAibmV3IG1lc3NhZ2UiOwogICAgY29uc3Qgd3JhcHBlciA9IHNoYWxsb3dNb3VudChIZWxsb1dvcmxkLCB7CiAgICAgIHByb3BzRGF0YTogeyBtc2cgfQogICAgfSk7CiAgICBleHBlY3Qod3JhcHBlci50ZXh0KCkpLnRvLmluY2x1ZGUobXNnKTsKICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgZXhwZWN0IH0gZnJvbSAiY2hhaSI7CmltcG9ydCB7IHNoYWxsb3dNb3VudCB9IGZyb20gIkB2dWUvdGVzdC11dGlscyI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEhlbGxvV29ybGQgZnJvbSAiQC9jb21wb25lbnRzL0hlbGxvV29ybGQudnVlIjsK</text>
+        <text encoding="base64">ICBpdCgicmVuZGVycyBwcm9wcy5tc2cgd2hlbiBwYXNzZWQiLCAoKSA9PiB7CiAgICBjb25zdCBtc2cgPSAibmV3IG1lc3NhZ2UiOwogICAgY29uc3Qgd3JhcHBlciA9IHNoYWxsb3dNb3VudChIZWxsb1dvcmxkLCB7CiAgICAgIHByb3BzRGF0YTogeyBtc2cgfQogICAgfSk7CiAgICBleHBlY3Qod3JhcHBlci50ZXh0KCkpLnRvLmluY2x1ZGUobXNnKTsKICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAiLi92aWV3cy9Ib21lLnZ1ZSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEhlbGxvV29ybGQgZnJvbSAiQC9jb21wb25lbnRzL0hlbGxvV29ybGQudnVlIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search encoding="base64">XDx0cnVlXD4=</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern encoding="base64">XDx0cnVlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>servi</entry>
         <entry>conn</entry>
         <entry>REMOV</entry>
         <entry>ssh</entry>
@@ -1640,6 +1668,7 @@
         <entry>id</entry>
         <entry>selen</entry>
         <entry>test</entry>
+        <entry encoding="base64">XDx0cnVlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
