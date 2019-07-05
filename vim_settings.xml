@@ -895,11 +895,11 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/src/.rescriptsrc.js" timestamp="1562296710072">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Source/canned-kanji/src/.rescriptsrc.js" timestamp="1562297672852">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl/mbcsl-admin/Dockerfile.prod" timestamp="1538019841106">
         <mark key="[" line="14" column="0" />
@@ -950,11 +950,12 @@
         <mark key="." line="60" column="4" />
         <mark key="^" line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/src/App.tsx" timestamp="1562295686123">
+      <file name="$USER_HOME$/Source/canned-kanji/src/App.tsx" timestamp="1562298659461">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" timestamp="1536624383663">
         <mark key="'" line="13" column="47" />
@@ -1017,12 +1018,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/package.json" timestamp="1562296767860">
-        <mark key="'" line="42" column="30" />
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="34" />
-        <mark key="^" line="43" column="34" />
-        <mark key="." line="43" column="34" />
+      <file name="$USER_HOME$/Source/canned-kanji/package.json" timestamp="1562298347480">
+        <mark key="'" line="41" column="30" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/.dockerignore" timestamp="1538089216412">
         <mark key="[" line="0" column="0" />
@@ -1446,6 +1446,12 @@
         <mark key="^" line="97" column="42" />
         <mark key="." line="97" column="42" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/.rescriptsrc.js" timestamp="1562297876559">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="11" column="24" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/utils/delay/index.js" timestamp="1539216235881">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="40" />
@@ -1588,14 +1594,14 @@
       <jump line="11" column="0" filename="$USER_HOME$/Source/tamaru/src/App.vue" />
       <jump line="2" column="0" filename="$USER_HOME$/Source/tamaru/src/router.ts" />
       <jump line="0" column="11" filename="$USER_HOME$/Source/canned-kanji/.npmrc" />
-      <jump line="10" column="0" filename="$USER_HOME$/Source/canned-kanji/src/App.tsx" />
       <jump line="20" column="22" filename="$USER_HOME$/Source/canned-kanji/package.json" />
       <jump line="3" column="4" filename="$USER_HOME$/Source/canned-kanji/src/.rescriptsrc.js" />
       <jump line="43" column="30" filename="$USER_HOME$/Source/canned-kanji/package.json" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/canned-kanji/src/App.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4taW1wb3J0IjogIjEuMTIuMCIsCg==</text>
+        <text encoding="base64">ICAgICJAcmVzY3JpcHRzL3Jlc2NyaXB0LXVzZS1iYWJlbC1jb25maWciOiAiMC4wLjgiLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1614,7 +1620,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>react-scripts</text>
+        <text encoding="base64">IC8vIHRydWUgZm9yIGxlc3M=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnVlXD4=</text>
@@ -1623,31 +1629,31 @@
         <text encoding="base64">dnVlX3VuaXRfdGVzdDoKICBzdGFnZTogdGVzdAogIGRlcGVuZGVuY2llczoKICAgIC0gbnBtX2luc3RhbGwKICBzY3JpcHQ6CiAgICAtIG5wbSBydW4gdGVzdDp1bml0CiAgb25seToKICAgIC0gbWVyZ2VfcmVxdWVzdHMKICAgIC0gZGV2ZWxvcAogICAgLSAvXnJlbGVhc2UvLiokL2kKICAgIC0gbWFzdGVyCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4taW1wb3J0IjogIjEuMTIuMCIsCg==</text>
+        <text encoding="base64">ICAgICJAcmVzY3JpcHRzL3Jlc2NyaXB0LXVzZS1iYWJlbC1jb25maWciOiAiMC4wLjgiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjdXN0b21pemUtY3JhIjogIjAuMi4xNCIK</text>
+        <text encoding="base64">dwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAcmVzY3JpcHRzL3Jlc2NyaXB0LXVzZS1yZXdpcmUiOiAiMC4wLjQiLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpeEJhYmVsSW1wb3J0cygnYW50ZCcpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnYW50ZCcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPEJ1dHRvbiB0eXBlPSJwcmltYXJ5Ij5UZXN0PC9CdXR0b24+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJzdGFydCI6ICJyZXNjcmlwdHMgc3RhcnQiLAogICAgImJ1aWxkIjogInJlc2NyaXB0cyBidWlsZCIsCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogInJlc2NyaXB0cyB0ZXN0IiwKICAgICJlamVjdCI6ICJyZXNjcmlwdHMgZWplY3QiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAicmVzY3JpcHRzIjogWwogIF0K</text>
+        <text encoding="base64">ICAgIC0gICAiZWplY3QiOiAicmVhY3Qtc2NyaXB0cyBlamVjdCIsICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ1c2UtcmV3aXJlIgo=</text>
+        <text encoding="base64">ICAgIC0gICAidGVzdCI6ICJyZWFjdC1zY3JpcHRzIHRlc3QiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
