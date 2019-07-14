@@ -15,11 +15,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/src/store/rootReducer.ts" timestamp="1563092686978">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+      <file name="$USER_HOME$/Source/canned-kanji/src/store/rootReducer.ts" timestamp="1563141017682">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="4" column="59" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/faqs/index.js" timestamp="1537426533111">
         <mark key="'" line="0" column="0" />
@@ -648,6 +649,12 @@
         <mark key="." line="27" column="51" />
         <mark key="^" line="27" column="51" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/src/types/authentication.d.ts" timestamp="1563141551336">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-admin/src/store/faq/sagas.js" timestamp="1538712451006">
         <mark key="[" line="205" column="24" />
         <mark key="]" line="206" column="26" />
@@ -902,7 +909,6 @@
         <mark key="." line="60" column="4" />
         <mark key="^" line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/src/App.tsx" timestamp="1562488196904" />
       <file name="$USER_HOME$/src/experiments/mbcsl-api/src/api/v1/pqpas/index.ts" timestamp="1536624383663">
         <mark key="'" line="13" column="47" />
         <mark key="[" line="5" column="19" />
@@ -1369,11 +1375,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/canned-kanji/src/store/authentication/index.ts" timestamp="1563140724941">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="$USER_HOME$/Source/canned-kanji/src/store/authentication/index.ts" timestamp="1563141348254">
+        <mark key="'" line="6" column="62" />
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="62" />
+        <mark key="^" line="6" column="62" />
+        <mark key="." line="6" column="62" />
       </file>
       <file name="$USER_HOME$/Source/tamaru/package.json" timestamp="1556349343359">
         <mark key="[" line="12" column="19" />
@@ -1416,9 +1423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" />
-      <jump line="178" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" />
-      <jump line="179" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" />
       <jump line="180" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" />
       <jump line="182" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" />
       <jump line="186" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" />
@@ -1516,10 +1520,13 @@
       <jump line="12" column="20" filename="$USER_HOME$/Source/canned-kanji/src/components/App/index.tsx" />
       <jump line="4" column="29" filename="$USER_HOME$/Source/canned-kanji/src/store/index.ts" />
       <jump line="1" column="21" filename="$USER_HOME$/Source/canned-kanji/src/store/rootSaga.ts" />
+      <jump line="2" column="21" filename="$USER_HOME$/Source/canned-kanji/src/store/rootReducer.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/canned-kanji/src/store/rootReducer.ts" />
+      <jump line="6" column="62" filename="$USER_HOME$/Source/canned-kanji/src/store/authentication/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50ZXJmYWNlIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1538,40 +1545,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">aW50ZXJmYWNlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnVlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQm9keTxiciAvPgo=</text>
+        <text encoding="base64">ICBleHBvcnQgaW50ZXJmYWNlIGF1dGhlbnRpY2F0ZVJlcXVlc3Qge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB6Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAic2luZ2xlUXVvdGUiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAic2luZ2xlUXVvdGUiCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiZW5kT2ZMaW5lIjogImF1dG9kZGsiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvcnVsZS1uYW1lIjogImVycm9yIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZW5kT2ZMaW5lIjogImF1dG9kZGsiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZXh0ZW5kcyI6IFsK</text>
+        <text encoding="base64">ICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvcnVsZS1uYW1lIjogImVycm9yIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
