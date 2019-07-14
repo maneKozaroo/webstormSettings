@@ -1369,6 +1369,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/src/store/authentication/index.ts" timestamp="1563140724941">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/Source/tamaru/package.json" timestamp="1556349343359">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="47" />
@@ -1629,6 +1635,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
