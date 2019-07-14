@@ -1013,10 +1013,10 @@
         <mark key="^" line="3" column="38" />
       </file>
       <file name="$USER_HOME$/Source/canned-kanji/package.json" timestamp="1562304484510">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/src/experiments/postgres-rails-vue/app/.dockerignore" timestamp="1538089216412">
         <mark key="[" line="0" column="0" />
