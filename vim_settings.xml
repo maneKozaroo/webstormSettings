@@ -1410,6 +1410,12 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/Source/canned-kanji/src/store/index.ts" timestamp="1563080693085">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/src/mba/mbcsl-api/src/versions/v1/services/index.js" timestamp="1537499486609">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="42" column="76" />
@@ -1602,7 +1608,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>createStore()</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1621,7 +1627,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>createStore()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnVlXD4=</text>
